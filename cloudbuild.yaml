@@ -1,0 +1,29 @@
+steps:
+  # 1. Docker 이미지 빌드
+  - name: 'gcr.io/cloud-builders/docker'
+    args: [
+      'build',
+      '-t', 'us-central1-docker.pkg.dev/starful-258005/nomujoa-repo/app',
+      '.'
+    ]
+
+  # 2. 이미지 업로드 (Artifact Registry)
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'us-central1-docker.pkg.dev/starful-258005/nomujoa-repo/app']
+
+  # 3. Cloud Run 배포
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'nomujoa'  # 서비스 이름
+      - '--image=us-central1-docker.pkg.dev/starful-258005/nomujoa-repo/app'
+      - '--region=us-central1'
+      - '--platform=managed'
+      - '--allow-unauthenticated'
+      # [중요] API 키를 환경변수로 주입
+      - '--set-env-vars=GEMINI_API_KEY=${_GEMINI_API_KEY}'
+
+images:
+  - 'us-central1-docker.pkg.dev/starful-258005/nomujoa-repo/app'

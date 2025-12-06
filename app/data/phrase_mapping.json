@@ -1,0 +1,33 @@
+{
+  "mappings": {
+    "大好き": "LOVE_GENERAL",
+    "愛してる": "LOVE_DEEP",
+    "結婚して": "REQ_MARRY",
+    "会いたい": "MISS_YOU",
+    "ずっと一緒にいよう": "PROMISE_FOREVER",
+    "誕生日おめでとう": "CONGRAT_BDAY",
+    "応援してる": "CHEER_UP",
+    "神": "PRAISE_GOD",
+    "尊い": "PRAISE_VISUAL",
+    "顔がいい": "PRAISE_FACE",
+    "指ハートして": "REQ_HEART",
+    "美味しいもの食べてね": "HEALTH_EAT",
+    "風邪ひかないでね": "HEALTH_CARE",
+    "お疲れ様": "GREET_JOB",
+
+    "I love you": "LOVE_GENERAL",
+    "Love you so much": "LOVE_DEEP",
+    "Marry me": "REQ_MARRY",
+    "Miss you": "MISS_YOU",
+    "Forever with you": "PROMISE_FOREVER",
+    "Happy Birthday": "CONGRAT_BDAY",
+    "Cheer up": "CHEER_UP",
+    "You are God": "PRAISE_GOD",
+    "So precious": "PRAISE_VISUAL",
+    "Visual King": "PRAISE_FACE",
+    "Finger Heart": "REQ_HEART",
+    "Eat delicious food": "HEALTH_EAT",
+    "Don't get sick": "HEALTH_CARE",
+    "Good job": "GREET_JOB"
+  }
+}
