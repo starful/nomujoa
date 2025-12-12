@@ -19,10 +19,15 @@
     <meta name="keywords" content="K-POP, 推し活, 応援ボード, うちわ文字, スローガン, 韓国語, Nomujoa">
     <meta name="author" content="Nomujoa">
 
+    <!-- [변경 1] 파비콘(Favicon) 추가 -->
+    <link rel="shortcut icon" href="/static/images/favicon.ico">
+    <link rel="icon" href="/static/images/favicon.ico">
+
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://nomujoa.com/">
     <meta property="og:title" content="🇰🇷 Nomujoa - K-POP Cheering Board Maker">
     <meta property="og:description" content="AI가 당신의 마음을 '최애'가 좋아하는 한국어 밈으로 번역해드립니다.">
+    <!-- og:image는 필요하다면 나중에 로고나 전용 배너 이미지로 교체하세요 -->
     <meta property="og:image" content="https://nomujoa.com/static/images/og_image.png">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="https://nomujoa.com/static/images/og_image.png">
@@ -32,21 +37,19 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preconnect" href="https://webfontworld.github.io">
 
-    <!-- [중요] Critical CSS (인라인) - 초기 렌더링 깨짐 및 레이아웃 이동 방지 -->
+    <!-- [중요] Critical CSS (인라인) -->
     <style>
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background: #f0f2f5; text-align: center; margin: 0; padding: 20px; color: #333; -webkit-font-smoothing: antialiased; line-height: 1.5; }
         
-        /* [CLS 방지] 컨테이너 높이 및 오버플로우 설정 */
         .container { max-width: 500px; margin: 0 auto; background: white; padding: 30px 20px; border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); min-height: 600px; overflow: hidden; }
         
-        /* [CLS 방지] 헤더 높이 고정 */
         header { position: relative; margin-bottom: 30px; padding-top: 10px; min-height: 120px; }
-        h1 { margin: 0 0 5px 0; font-size: 24px; color: #333; letter-spacing: -0.5px; }
         
-        /* [CLS 방지] 메인 영역 최소 높이 고정 */
+        /* h1 스타일 유지하되, 이미지가 들어갈 공간 확보 */
+        h1 { margin: 0 0 10px 0; display: flex; justify-content: center; align-items: center; }
+        
         main { min-height: 500px; }
 
-        /* [CLS 방지] 폼 요소 높이 고정 */
         .form-group { text-align: left; margin-bottom: 20px; min-height: 80px; }
         .chip-container { display: flex; flex-wrap: wrap; gap: 8px; min-height: 160px; overflow: hidden; }
         input[type="text"], select { width: 100%; height: 50px; padding: 14px; border-radius: 12px; border: 2px solid #eee; box-sizing: border-box; }
@@ -54,22 +57,17 @@
         .primary-btn { background: linear-gradient(90deg, #ff4b8b, #ff80ab); color: white; border: none; padding: 16px; border-radius: 50px; font-size: 16px; font-weight: bold; width: 100%; cursor: pointer; }
     </style>
 
-    <!-- [성능] 폰트 비동기 로딩 (display=optional로 레이아웃 흔들림 완전 차단) -->
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=optional" rel="stylesheet" media="print" onload="this.media='all'">
-    <!-- GmarketSans는 캔버스 렌더링용이므로 display=swap 유지 -->
     <link href="https://webfontworld.github.io/gmarket/GmarketSans.css" rel="stylesheet" media="print" onload="this.media='all'">
     
-    <!-- [성능] CSS 비동기 로딩 -->
     <link rel="stylesheet" href="/static/css/style.min.css" media="print" onload="this.media='all'">
 
-    <!-- 자바스크립트 미지원 환경을 위한 폴백 -->
     <noscript>
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
         <link href="https://webfontworld.github.io/gmarket/GmarketSans.css" rel="stylesheet">
         <link rel="stylesheet" href="/static/css/style.min.css">
     </noscript>
 
-    <!-- [성능] JS 지연 로딩 -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fabric.js/5.3.1/fabric.min.js" defer></script>
 </head>
 
@@ -85,7 +83,13 @@
                 </select>
             </div>
 
-            <h1>🇰🇷 Nomujoa</h1>
+            <!-- [변경 2] 텍스트 대신 로고 이미지 사용 -->
+            <!-- logo_h.png (가로형)을 사용하여 헤더에 맞게 배치합니다. -->
+            <!-- style 속성으로 모바일 화면에서도 너무 크지 않게 max-width를 줍니다. -->
+            <h1>
+                <img src="/static/images/logo_w.png" alt="Nomujoa" style="max-width: 220px; height: auto;">
+            </h1>
+            
             <p class="desc" id="t-desc" style="color:#555;">AIが韓国語のファン用語(スラング)に翻訳します✨</p>
         </header>
 

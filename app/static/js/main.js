@@ -145,6 +145,7 @@ function updateMembers() {
     }
 }
 
+// [수정] 번역 및 UI 표시 로직 (의미 표시 추가)
 async function translateAndStart(isRefresh = false) {
     const inputField = document.getElementById('jp-input');
     const groupSelect = document.getElementById('idol-select');
@@ -181,7 +182,7 @@ async function translateAndStart(isRefresh = false) {
         });
         
         const data = await response.json();
-        currentOptions = data.result;
+        currentOptions = data.result; // 이제 객체 배열입니다: [{text: "...", meaning: "..."}, ...]
 
         document.getElementById('input-section').style.display = 'none';
         const selectSection = document.getElementById('selection-section');
@@ -192,21 +193,33 @@ async function translateAndStart(isRefresh = false) {
 
         const labels = ["Name Only", "Cute", "Emotional", "Powerful", "Wit"];
         
-        currentOptions.forEach((optText, index) => {
+        currentOptions.forEach((item, index) => {
+            // [수정] 데이터 파싱: 문자열(구조 호환) 또는 객체 처리
+            const koreanText = item.text || item; 
+            const meaningText = item.meaning || text; // 의미가 없으면 원본 텍스트 표시
+
             const card = document.createElement('div');
             card.className = 'option-card';
-            card.onclick = function() { goToEditor(optText); };
+            // 편집기로 넘어갈 때는 한국어 텍스트만 전달
+            card.onclick = function() { goToEditor(koreanText); };
             
             card.style.animation = `fadeIn 0.5s ease forwards ${index * 0.1}s`;
             card.style.opacity = '0';
 
             const label = labels[index] || "Style " + (index+1);
-            card.innerHTML = `<span class="option-tag">${label}</span><div class="option-text">${optText}</div>`;
+            
+            // [수정] 의미(.option-meaning)를 포함한 HTML 구조
+            card.innerHTML = `
+                <span class="option-tag">${label}</span>
+                <div class="option-text">${koreanText}</div>
+                <div class="option-meaning">(${meaningText})</div>
+            `;
             container.appendChild(card);
         });
 
     } catch (e) {
         alert("Error: " + e);
+        console.error(e);
     } finally {
         btn.innerText = originalText;
         btn.disabled = false;
@@ -218,6 +231,7 @@ async function translateAndStart(isRefresh = false) {
     }
 }
 
+// [수정] 에디터 이동 로직 (객체 구조 대응)
 function goToEditor(selectedText) {
     document.getElementById('selection-section').style.display = 'none';
     document.getElementById('editor-section').style.display = 'block';
@@ -242,7 +256,10 @@ function goToEditor(selectedText) {
     const switchContainer = document.getElementById('quick-switch-container');
     if(switchContainer) {
         switchContainer.innerHTML = '';
-        currentOptions.forEach((opt, idx) => {
+        currentOptions.forEach((item, idx) => {
+            // [수정] 객체에서 한국어 텍스트만 추출
+            const opt = item.text || item;
+            
             const btn = document.createElement('button');
             btn.className = 'control-btn';
             btn.style.fontSize = '12px';

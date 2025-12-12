@@ -5,7 +5,6 @@ import logging
 import google.generativeai as genai
 from dotenv import load_dotenv
 
-# [개선] 로깅 설정
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
@@ -15,9 +14,8 @@ api_key = os.getenv('GEMINI_API_KEY')
 if api_key:
     genai.configure(api_key=api_key)
 else:
-    logger.warning("Gemini API Key가 설정되지 않았습니다.")
+    logger.warning("Gemini API Key Missing")
 
-# 1. 데이터 로드
 BASE_DIR = os.path.dirname(__file__)
 DICT_DIR = os.path.join(BASE_DIR, 'data/dicts')
 MAPPING_FILE = os.path.join(BASE_DIR, 'data/phrase_mapping.json')
@@ -25,12 +23,10 @@ MAPPING_FILE = os.path.join(BASE_DIR, 'data/phrase_mapping.json')
 DICT_CACHE = {}
 PHRASE_MAPPINGS = {}
 
-# 매핑 파일 로드
 if os.path.exists(MAPPING_FILE):
     with open(MAPPING_FILE, 'r', encoding='utf-8') as f:
         PHRASE_MAPPINGS = json.load(f).get("mappings", {})
 
-# 그룹별 JSON 로드
 if os.path.exists(DICT_DIR):
     for filename in os.listdir(DICT_DIR):
         if filename.endswith(".json"):
@@ -39,11 +35,10 @@ if os.path.exists(DICT_DIR):
                 DICT_CACHE[group_name] = json.load(f)
 
 def translate_to_kpop_slang(text, group_name, member_name, source_lang='ja', force_refresh=False):
-    # 1. 인텐트(Key) 파악
-    clean_text = text.split(' (')[0] # 괄호 제거
+    clean_text = text.split(' (')[0]
     intent_key = PHRASE_MAPPINGS.get(clean_text)
 
-    # 2. JSON 데이터 검색 (새로고침 아닐 때)
+    # 1. JSON 데이터 활용 (API 비용 0)
     if not force_refresh and intent_key and group_name in DICT_CACHE:
         group_data = DICT_CACHE[group_name]
         target_list = []
@@ -54,17 +49,35 @@ def translate_to_kpop_slang(text, group_name, member_name, source_lang='ja', for
             target_list = group_data['All'][intent_key]
 
         if target_list:
-            if len(target_list) < 5:
-                return target_list * 5
-            return random.sample(target_list, 5)
+            selected = random.sample(target_list, min(len(target_list), 5))
+            if len(selected) < 5:
+                selected = selected * (5 // len(selected) + 1)
+                selected = selected[:5]
+            
+            results = []
+            for item in selected:
+                if isinstance(item, dict):
+                    # [핵심 로직] 언어에 맞는 뜻 선택
+                    slang_text = item.get('text', '')
+                    if source_lang == 'ja':
+                        # 일본어 선택 시 -> meaning_ja (없으면 text)
+                        meaning = item.get('meaning_ja', item.get('meaning', text))
+                    else:
+                        # 그 외(영어 등) -> meaning_en (없으면 text)
+                        meaning = item.get('meaning_en', item.get('meaning', text))
+                    
+                    results.append({'text': slang_text, 'meaning': meaning})
+                else:
+                    # 구버전 데이터 (문자열)
+                    results.append({'text': item, 'meaning': text})
+            
+            return results
 
-    # 3. AI 호출 (데이터 없거나 새로고침 시)
+    # 2. AI 호출 (새로운 멘트 생성 - API 비용 발생)
     return call_gemini_api(text, group_name, member_name, source_lang)
 
 def call_gemini_api(text, group_name, member_name, source_lang):
-    if not api_key: 
-        logger.error("API Key Missing")
-        return ["API Key Error"]
+    if not api_key: return [{'text': "API Key Error", 'meaning': "Error"}]
 
     try:
         model = genai.GenerativeModel('gemini-2.0-flash')
@@ -74,45 +87,43 @@ def call_gemini_api(text, group_name, member_name, source_lang):
             target_info = f"member '{member_name}' of group '{group_name}'"
 
         lang_map = {'ja': 'Japanese', 'en': 'English', 'ko': 'Korean', 'zh': 'Chinese'}
-        input_lang_name = lang_map.get(source_lang, 'Japanese')
-
-        concepts = ["Trendy Meme", "Emotional", "Powerful", "Cute", "Wit"]
-        chosen_concept = random.choice(concepts)
-
+        input_lang_name = lang_map.get(source_lang, 'English') # 기본값 영어로 변경
+        
+        # 실시간 생성 시 프롬프트
         prompt = f"""
-        ROLE: Korean K-POP fan creating a concert slogan.
+        ROLE: K-POP fan creating a slogan.
         TARGET: {target_info}
-        INPUT LANGUAGE: {input_lang_name}
-        INPUT TEXT: "{text}"
-        VIBE: {chosen_concept}
-
-        ✅ RULES:
-        1. **KOREAN ONLY**: Output MUST be in Korean (Hangul).
-        2. **FANDOM SLANG**: Use specific nicknames and memes.
-        3. **NATURAL**: Don't translate directly. Make it sound like a real fan.
-
-        📝 GENERATE 5 OPTIONS:
-        1. [Name/Nickname]
-        2. [Cute]
-        3. [Emotional]
-        4. [Powerful]
-        5. [Wit]
-
-        OUTPUT FORMAT:
-        Option1|Option2|Option3|Option4|Option5
-        (Separator '|', No numbering)
+        INPUT: "{text}" (Language: {input_lang_name})
+        
+        TASK: Generate 5 Korean slang phrases.
+        CRITICAL: Provide the meaning in {input_lang_name}.
+        
+        FORMAT: Korean Phrase | Meaning in {input_lang_name}
+        
+        OUTPUT:
+        Option1 | Meaning1
+        Option2 | Meaning2
+        ...
         """
         
-        generation_config = genai.types.GenerationConfig(temperature=0.9)
-        response = model.generate_content(prompt, generation_config=generation_config)
+        response = model.generate_content(prompt)
+        lines = [line.strip() for line in response.text.split('\n') if '|' in line]
         
-        result_text = response.text.strip()
-        variations = [v.strip() for v in result_text.split('|')]
-        while len(variations) < 5: variations.append(variations[0])
-            
-        return variations[:5]
+        results = []
+        for line in lines[:5]:
+            parts = line.split('|')
+            if len(parts) >= 2:
+                results.append({'text': parts[0].strip(), 'meaning': parts[1].strip()})
+            else:
+                results.append({'text': line, 'meaning': text})
+        
+        # 5개 채우기
+        while len(results) < 5:
+             fallback = member_name if member_name != 'All' else group_name
+             results.append({'text': fallback, 'meaning': text})
+                
+        return results[:5]
     
     except Exception as e:
-        logger.error(f"Gemini API Error: {str(e)}")
-        fallback = member_name if member_name != 'All' else group_name
-        return [fallback, f"사랑해 {fallback}", f"우리 {fallback}", f"평생 {fallback}", f"갓{fallback}"]
+        logger.error(f"API Error: {e}")
+        return [{'text': "Error", 'meaning': "Try again"}]

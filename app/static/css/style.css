@@ -1,32 +1,25 @@
 /* app/static/css/style.css */
 
 /* [폰트 설정] 레이아웃 흔들림(CLS) 방지 */
-/* 1. 시스템 폰트를 우선 사용하여 즉시 텍스트 표시 */
-/* 2. 웹 폰트 로딩 시 size-adjust로 크기 변화 최소화 */
 @font-face {
     font-family: 'Noto Sans JP';
     font-style: normal;
     font-weight: 400;
     font-display: swap;
     src: url(https://fonts.gstatic.com/s/notosansjp/v52/-F62fjtqLzI2JPCgQBnw7HFQei0q1x57UsA.woff2) format('woff2');
-    size-adjust: 100%; /* 필요시 미세 조정 가능 */
+    size-adjust: 100%;
 }
 
 /* [기본 스타일] */
 body { 
-    /* 시스템 폰트 스택 (가장 중요) */
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    /* 웹 폰트가 로드되면 교체 */
     font-family: 'Noto Sans JP', sans-serif; 
-    
     background: #f0f2f5; 
     text-align: center; 
     margin: 0; 
     padding: 20px; 
     color: #333; 
     -webkit-font-smoothing: antialiased; 
-    
-    /* 폰트 교체 시 줄 높이 변화 방지 */
     line-height: 1.5; 
 }
 
@@ -37,24 +30,12 @@ body {
     padding: 30px 20px; 
     border-radius: 20px; 
     box-shadow: 0 4px 15px rgba(0,0,0,0.08); 
-    
-    /* [CLS 방지] 컨테이너 높이가 갑자기 커지는 것 방지 (최소 높이 설정) */
     min-height: 600px; 
 }
 
 /* [헤더 & 언어 선택] */
-header { 
-    position: relative; 
-    margin-bottom: 30px; 
-    padding-top: 10px;
-}
-
-.lang-switcher {
-    position: absolute;
-    top: -10px;
-    right: 0;
-}
-
+header { position: relative; margin-bottom: 30px; padding-top: 10px; }
+.lang-switcher { position: absolute; top: -10px; right: 0; }
 #src-lang {
     padding: 5px 8px;
     font-size: 13px;
@@ -65,31 +46,12 @@ header {
     box-shadow: 0 2px 5px rgba(0,0,0,0.05);
     outline: none;
 }
-
 h1 { margin: 0 0 5px 0; font-size: 24px; color: #333; letter-spacing: -0.5px; }
-/* [수정] 색상 대비 개선: #888 -> #555 */
 p.desc { font-size: 13px; color: #555; margin: 0; }
 
-
 /* [입력 폼] */
-/* [수정] 폰트 변경 시 높이 변화 방지 */
-.form-group { 
-    text-align: left; 
-    margin-bottom: 20px; 
-    /* 레이아웃 고정 */
-    min-height: 80px; 
-}
-
-label { 
-    display: block; 
-    font-weight: bold; 
-    margin-bottom: 8px; 
-    font-size: 14px; 
-    color: #555; 
-    margin-left: 5px; 
-    /* 줄 높이 고정 */
-    line-height: 1.5; 
-}
+.form-group { text-align: left; margin-bottom: 20px; min-height: 80px; }
+label { display: block; font-weight: bold; margin-bottom: 8px; font-size: 14px; color: #555; margin-left: 5px; line-height: 1.5; }
 select, input[type="text"] { 
     width: 100%; 
     padding: 14px; 
@@ -101,7 +63,6 @@ select, input[type="text"] {
     transition: border-color 0.2s; 
     appearance: none; 
     height: 50px; 
-
 }
 select:focus, input:focus { border-color: #ff80ab; outline: none; background: white; }
 
@@ -123,14 +84,12 @@ button.primary-btn:hover { transform: translateY(-2px); box-shadow: 0 6px 16px r
 button.primary-btn:disabled { background: #ccc; cursor: wait; transform: none; box-shadow: none; }
 
 /* [추천 문구 칩] */
-/* [수정] CLS 방지: 칩 컨테이너 최소 높이 지정 */
 .chip-container { 
     display: flex; 
     flex-wrap: wrap; 
     gap: 8px; 
-    /* 중요: 칩들이 로딩되기 전에도 공간을 차지하도록 설정 */
     min-height: 120px; 
-    align-content: flex-start; /* 칩들이 위쪽부터 채워지도록 */
+    align-content: flex-start; 
 }
 .phrase-chip { 
     background-color: #f0f4f8; 
@@ -162,7 +121,6 @@ button.primary-btn:disabled { background: #ccc; cursor: wait; transform: none; b
     text-align: center; 
     position: relative; 
     transition: all 0.2s; 
-    /* [CLS 방지] 카드 높이 고정 (선택적) */
     min-height: 80px; 
 }
 .option-card:hover { 
@@ -192,6 +150,15 @@ button.primary-btn:disabled { background: #ccc; cursor: wait; transform: none; b
     line-height: 1.3; 
 }
 
+/* [추가된 스타일: 의미 표시] */
+.option-meaning {
+    font-size: 13px;
+    color: #888;
+    margin-top: 5px;
+    font-weight: normal;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
 /* [에디터 영역] */
 .canvas-area { 
     margin: 0 auto 20px auto; 
@@ -201,28 +168,11 @@ button.primary-btn:disabled { background: #ccc; cursor: wait; transform: none; b
     background-color: #fff; 
     max-width: 100%; 
     box-shadow: 0 2px 8px rgba(0,0,0,0.05); 
-    
-    /* [CLS 방지] 캔버스 영역 미리 확보 */
     min-width: 350px;
     min-height: 500px;
 }
-
-/* [컨트롤 패널] */
-.controls-group { 
-    margin-bottom: 20px; 
-    background: #f9f9f9; 
-    padding: 15px; 
-    border-radius: 15px; 
-}
-.controls-label { 
-    font-size: 13px; 
-    font-weight: bold; 
-    color: #555; 
-    margin-bottom: 10px; 
-    display: block; 
-    text-align: left; 
-}
-
+.controls-group { margin-bottom: 20px; background: #f9f9f9; padding: 15px; border-radius: 15px; }
+.controls-label { font-size: 13px; font-weight: bold; color: #555; margin-bottom: 10px; display: block; text-align: left; }
 .control-btn { 
     border: 1px solid #e0e0e0; 
     background: white; 
@@ -234,8 +184,6 @@ button.primary-btn:disabled { background: #ccc; cursor: wait; transform: none; b
     transition: all 0.2s; 
 }
 .control-btn:hover { border-color: #ff4081; background: #fff5f8; }
-
-/* [하단 버튼] */
 .save-btn { 
     background: #333; 
     color: white; 
@@ -249,80 +197,12 @@ button.primary-btn:disabled { background: #ccc; cursor: wait; transform: none; b
     box-shadow: 0 4px 10px rgba(0,0,0,0.2); 
 }
 .save-btn:hover { background: #111; }
-
-.reset-link { 
-    background: none; 
-    border: none; 
-    color: #999; 
-    font-size: 13px; 
-    margin-top: 20px; 
-    cursor: pointer; 
-    text-decoration: underline; 
-}
-
-.color-circle { 
-    width: 35px; 
-    height: 35px; 
-    border-radius: 50%; 
-    border: none; 
-    cursor: pointer; 
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2); 
-    transition: transform 0.2s; 
-}
+.reset-link { background: none; border: none; color: #999; font-size: 13px; margin-top: 20px; cursor: pointer; text-decoration: underline; }
+.color-circle { width: 35px; height: 35px; border-radius: 50%; border: none; cursor: pointer; box-shadow: 0 2px 5px rgba(0,0,0,0.2); transition: transform 0.2s; }
 .color-circle:hover { transform: scale(1.1); }
-
 @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
-
-/* [이미지 버튼] */
-.img-btn { 
-    width: 45px; 
-    height: 45px; 
-    flex: 0 0 auto; 
-    display: flex; 
-    align-items: center; 
-    justify-content: center; 
-    padding: 5px; 
-    background: #fff; 
-    border: 1px solid #ddd; 
-    border-radius: 8px; 
-    cursor: pointer; 
-    transition: all 0.2s; 
-}
-.img-btn:hover { 
-    background-color: #f0f0f0; 
-    border-color: #ff4081; 
-    transform: scale(1.1); 
-}
-.img-btn img { 
-    /* [CLS 방지] 이미지 크기 고정 */
-    max-width: 100%; 
-    max-height: 100%; 
-    object-fit: contain; 
-    width: 35px; 
-    height: 35px; 
-}
-
-/* [스티커 컨테이너 (줄바꿈)] */
-#sticker-container { 
-    display: flex; 
-    flex-wrap: wrap; 
-    gap: 8px; 
-    justify-content: center; 
-    padding-bottom: 10px; 
-    width: 100%; 
-}
-
-/* [광고] */
-.ad-placeholder { 
-    width: 100%; 
-    min-height: 100px; 
-    background: #f8f8f8; 
-    border: 1px dashed #ddd; 
-    margin: 20px 0; 
-    display: flex; 
-    align-items: center; 
-    justify-content: center; 
-    color: #aaa; 
-    font-size: 12px; 
-    border-radius: 10px; 
-}
+.img-btn { width: 45px; height: 45px; flex: 0 0 auto; display: flex; align-items: center; justify-content: center; padding: 5px; background: #fff; border: 1px solid #ddd; border-radius: 8px; cursor: pointer; transition: all 0.2s; }
+.img-btn:hover { background-color: #f0f0f0; border-color: #ff4081; transform: scale(1.1); }
+.img-btn img { max-width: 100%; max-height: 100%; object-fit: contain; width: 35px; height: 35px; }
+#sticker-container { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; padding-bottom: 10px; width: 100%; }
+.ad-placeholder { width: 100%; min-height: 100px; background: #f8f8f8; border: 1px dashed #ddd; margin: 20px 0; display: flex; align-items: center; justify-content: center; color: #aaa; font-size: 12px; border-radius: 10px; }
