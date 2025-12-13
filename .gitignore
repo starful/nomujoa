@@ -1,0 +1,24 @@
+# [보안] 환경변수 파일 절대 업로드 금지
+.env
+command.txt
+.gcloudignore
+.dockerignore
+
+# [Python] 컴파일된 파일 및 가상환경
+__pycache__/
+*.pyc
+venv/
+env/
+.pytest_cache/
+
+# [시스템] OS 관련 파일
+.DS_Store
+Thumbs.db
+
+# [데이터] 생성된 결과물
+app/data/dicts/*.json
+logs/
+
+# [IDE] 에디터 설정 파일
+.vscode/
+.idea/
