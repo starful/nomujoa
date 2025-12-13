@@ -1,602 +1,2282 @@
 {
   "All": {
     "LOVE_GENERAL": [
-      "버니즈 맘껏 사랑해",
-      "토끼들아, 뼈 묻을게!",
-      "뉴진스 없인 못 살아",
-      "사랑해, 걍!",
-      "갓깅이들, 최고야!"
+      {
+        "text": "버니즈 맘",
+        "meaning_ja": "Bunniesママ",
+        "meaning_en": "Bunnies Mom (Expressing strong affection and a nurturing feeling towards the fandom and NewJeans)"
+      },
+      {
+        "text": "뉴진스럽다",
+        "meaning_ja": "ニュージーンズっぽい",
+        "meaning_en": "NewJeans-like (Describing something as being uniquely stylish and cool in the NewJeans aesthetic)"
+      },
+      {
+        "text": "심장이 웅냥냥",
+        "meaning_ja": "心臓がドゥグンドゥグン",
+        "meaning_en": "My heart goes *oongnyangnyang* (Onomatopoeia expressing a pounding, excited heartbeat, often used when seeing NewJeans)"
+      },
+      {
+        "text": "깡총즈",
+        "meaning_ja": "ピョンピョンズ",
+        "meaning_en": "Kkangchong-z (Cute way to call NewJeans fans as bunnies that hops)"
+      },
+      {
+        "text": "덕질 풀파워",
+        "meaning_ja": "オタ活フルパワー",
+        "meaning_en": "Fandom Full Power (Expressing maximum enthusiasm and dedication in supporting NewJeans)"
+      }
     ],
     "LOVE_DEEP": [
-      "버니즈 심장에 뉴진스",
-      "깡냥이 사랑해",
-      "핑머토끼 내 전부",
-      "갓기즈 영원히",
-      "🫶토끼파워🫶"
+      {
+        "text": "버니즈 맘",
+        "meaning_ja": "Bunnies ママ (Bunnies を大切にする人)",
+        "meaning_en": "Bunnies Mom (Someone who cherishes Bunnies)"
+      },
+      {
+        "text": "뉴진스럽다",
+        "meaning_ja": "ニュージーンズっぽい (ニュージーンズらしい)",
+        "meaning_en": "NewJeans-like (Something that embodies NewJeans' style)"
+      },
+      {
+        "text": "심장이 뉴진스해",
+        "meaning_ja": "心臓がニュージーンズしてる (ドキドキする)",
+        "meaning_en": "My heart is NewJeansing (My heart is beating fast because of NewJeans)"
+      },
+      {
+        "text": "갓깅이들",
+        "meaning_ja": "神ベイビーたち (マジで最高な赤ちゃんたち)",
+        "meaning_en": "God Babies (Referring to NewJeans as incredibly talented and adorable)"
+      },
+      {
+        "text": "뉴진스 없인 못 살아",
+        "meaning_ja": "ニュージーンズなしでは生きられない (ニュージーンズがいないとダメ)",
+        "meaning_en": "I can't live without NewJeans (Expressing deep dependence and love for NewJeans)"
+      }
     ],
     "REQ_MARRY": [
-      "결혼해줘 혜린아",
-      "민지야 내게 와",
-      "하니야, 운명이다",
-      "다니엘 책임져",
-      "해린아, 찜했어"
+      {
+        "text": "버니즈 내꺼",
+        "meaning_ja": "バニーズは俺の嫁！",
+        "meaning_en": "Bunnies are mine! (Implying ownership/possession in a playful, desperate way.)"
+      },
+      {
+        "text": "민지야 책임져",
+        "meaning_ja": "ミンジ、責任取って！",
+        "meaning_en": "Minji, take responsibility! (Playfully blaming Minji for making them fall in love.)"
+      },
+      {
+        "text": "혜인아 유죄",
+        "meaning_ja": "ヘイン、有罪！",
+        "meaning_en": "Hyein, you're guilty! (Accusing Heyein of being too charming/beautiful.)"
+      },
+      {
+        "text": "다니엘 내 심장에 입주",
+        "meaning_ja": "ダニエル、私の心に引っ越してきて！",
+        "meaning_en": "Danielle, move into my heart! (A dramatic and pleading request.)"
+      },
+      {
+        "text": "하파고 결혼",
+        "meaning_ja": "ハパゴと結婚 (하니, 파니, 고백)",
+        "meaning_en": "Hapago marriage (Hanni, Phoning, Confess) (Using their nicknames to express the desire to marry all three)."
+      }
     ],
     "MISS_YOU": [
-      "토끼즈 보고파",
-      "뉴진스 내 심장",
-      "민지야, 앓아!",
-      "혜인이 보고싶엉",
-      "다니엘 컴백해"
+      {
+        "text": "뉴진스럽다 못해 보고싶다!",
+        "meaning_ja": "ニュージーンズらしくて会いたい！",
+        "meaning_en": "So NewJeans-like I miss you! (Note: \"스럽다\" is a common suffix to make something \"like [group name]\")"
+      },
+      {
+        "text": "Bunnies 보고잡다 ㅠㅠ",
+        "meaning_ja": "Bunniesに会いたいよ ㅠㅠ",
+        "meaning_en": "Bunnies, I wanna see you ㅠㅠ (Note: \"보고잡다\" is a cute way of saying \"보고싶다\" and \"ㅠㅠ\" represents crying)"
+      },
+      {
+        "text": "심장이 NewJeans 찾아 헐레벌떡!",
+        "meaning_ja": "心臓がNewJeansを探して駆け足！",
+        "meaning_en": "My heart is rushing to find NewJeans! (Note: Using a bit of exaggeration here, \"헐레벌떡\" conveys frantic excitement)"
+      },
+      {
+        "text": "덕질 풀파워! 뉴진스 보고싶어 🥺",
+        "meaning_ja": "オタ活フルパワー！NewJeansに会いたい 🥺",
+        "meaning_en": "Fandom full power! I miss seeing NewJeans 🥺 (Note: \"덕질\" -Deokjil- refers to hardcore fangirling/fanboying)"
+      },
+      {
+        "text": "내 통장 텅장 돼도 뉴진스 보고싶다!",
+        "meaning_ja": "私の銀行口座が空っぽになってもNewJeansに会いたい！",
+        "meaning_en": "Even if my bank account is empty, I want to see NewJeans! (Note: \"텅장\" is a slang term meaning \"empty bank account\", a common expression of spending money on your favorite group.)"
+      }
     ],
     "PROMISE_FOREVER": [
-      "토끼즈 영원히!",
-      "늉깅이랑 쭉!",
-      "포에버 맹세!",
-      "버니즈 곁에 뿅!",
-      "함께 늙자, 젭알!"
+      {
+        "text": "뉴진스와 댓댓 💖",
+        "meaning_ja": "NewJeansとずっと一緒💖",
+        "meaning_en": "Forever with NewJeans 💖 (Emphasizing staying together)"
+      },
+      {
+        "text": "버니즈 맘모스빵 먹으면서 평생 함께🐰",
+        "meaning_ja": "Bunnies、マンモスパン食べながら一生一緒🐰",
+        "meaning_en": "Bunnies, let's stay together forever while eating mammoth bread 🐰 (Using \"Bunnies\" their fan name and imagining a fun activity)"
+      },
+      {
+        "text": "뉴진스 없인 못 살아 😭",
+        "meaning_ja": "NewJeansなしでは生きられない😭",
+        "meaning_en": "I can't live without NewJeans 😭 (Expressing dependence and forever love)"
+      },
+      {
+        "text": "뉴진스 길만 걸어🌸",
+        "meaning_ja": "NewJeansの道だけを歩もう🌸",
+        "meaning_en": "Let's only walk the path of NewJeans🌸 (Meaning supporting them forever)"
+      },
+      {
+        "text": "영원히 5깅이 🫶",
+        "meaning_ja": "永遠に5人の赤ちゃん🫶",
+        "meaning_en": "Forever 5 babies 🫶 (Referring to the members as eternally youthful and cute, emphasizing a lasting bond)"
+      }
     ],
     "CONGRAT_BDAY": [
-      "토끼 생일 축!",
-      "민지야, 햄찌데이!",
-      "댕댕이 복덩이날!",
-      "혜인아, 냥냥탄신일!",
-      "하니, 깡총데이!"
+      {
+        "text": "뉴진스럽다",
+        "meaning_ja": "ニュージーンズっぽい",
+        "meaning_en": "NewJeans-like, embodying the NewJeans vibe (Perfect for saying someone/something is very NewJeans)"
+      },
+      {
+        "text": "Bunnies 최고!",
+        "meaning_ja": "Bunnies 最高！(さいこう！)",
+        "meaning_en": "Bunnies are the best! (A straightforward cheer for NewJeans' fandom name)"
+      },
+      {
+        "text": "OMG 레전드!",
+        "meaning_ja": "OMG レジェンド！(伝説！)",
+        "meaning_en": "OMG Legend! (Use when NewJeans does something amazing)"
+      },
+      {
+        "text": "갓 NewJeans",
+        "meaning_ja": "神 NewJeans (かみ NewJeans)",
+        "meaning_en": "God NewJeans (Expressing immense admiration and praise)"
+      },
+      {
+        "text": "심장이 뛴다 NewJeans 때문에!",
+        "meaning_ja": "心臓がドキドキする NewJeans のおかげで！(しんぞうがドキドキする NewJeans のおかげで！)",
+        "meaning_en": "My heart beats because of NewJeans! (Expressing excitement and love for the group)"
+      }
     ],
     "CHEER_UP": [
-      "토끼들 깡총!",
-      "민지야, 꽃길만!",
-      "댕댕이즈 최고!",
-      "혜인아, 언니가 쏜다!",
-      "뉴진스 사랑해!"
+      {
+        "text": "버니즈 맘",
+        "meaning_ja": "Bunniesママ (愛情深い)",
+        "meaning_en": "Bunnies Mom (Loving & Supportive)"
+      },
+      {
+        "text": "뉴진스럽다",
+        "meaning_ja": "ニュジーンズっぽい",
+        "meaning_en": "NewJeans-like (Very NewJeans)"
+      },
+      {
+        "text": "갓기깅",
+        "meaning_ja": "天使ベイビー",
+        "meaning_en": "Angel Baby"
+      },
+      {
+        "text": "심장이 뉴진스 해",
+        "meaning_ja": "心臓がニュージーンズしてる",
+        "meaning_en": "My heart is doing NewJeans (Extremely excited/heart fluttering)"
+      },
+      {
+        "text": "어쩔 뉴진스",
+        "meaning_ja": "知らんけどNewJeans",
+        "meaning_en": "Whatever, NewJeans (Said in response to a hater/critic, implying NewJeans is still successful regardless)"
+      }
     ],
     "PRAISE_GOD": [
-      "민지 is 뭔들!",
-      "갓주얼, 킹갓제너럴!",
-      "토끼신 떴다!",
-      "혜인 is 뭔들",
-      "다니엘이 곧 복음!"
+      {
+        "text": "버니즈 맘 (= 버맘)",
+        "meaning_ja": "Bunniesの母 (Bunniesの事を一番に考えてる)",
+        "meaning_en": "Bunnies Mom (Putting Bunnies first)"
+      },
+      {
+        "text": "민지 언니 is 뭔들",
+        "meaning_ja": "ミンジお姉さんは何でも良い",
+        "meaning_en": "Minji unnie is perfect no matter what"
+      },
+      {
+        "text": "뉴진스럽다",
+        "meaning_ja": "ニュージーンズっぽい",
+        "meaning_en": "NewJeans-esque (very NewJeans)"
+      },
+      {
+        "text": "혜인 막내온탑",
+        "meaning_ja": "ヘイン末っ子オントップ (最強)",
+        "meaning_en": "Hyein, the maknae on top (the strongest/best)"
+      },
+      {
+        "text": "OMG! 갓NewJeans",
+        "meaning_ja": "OMG! 神NewJeans",
+        "meaning_en": "OMG! God NewJeans!"
+      }
     ],
     "PRAISE_VISUAL": [
-      "민지 얼굴이 복지다",
-      "갓주얼 다니엘",
-      "혜인 미모에 감탄사",
-      "하니 비주얼 미쳤다",
-      "막내즈 짱예뻐!"
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉",
+        "meaning_en": "Visuals are welfare (meaning their beauty is a blessing/comfort)."
+      },
+      {
+        "text": "비주얼 미쳤다",
+        "meaning_ja": "ビジュアル狂ってる",
+        "meaning_en": "Visuals are insane (crazy good)."
+      },
+      {
+        "text": "뉴진 is 뭔들",
+        "meaning_ja": "ニュージーンズは何でも尊い",
+        "meaning_en": "NewJeans is perfect no matter what (literally \"NewJeans is what even,\" implying everything they do is good)."
+      },
+      {
+        "text": "갓기 비주얼",
+        "meaning_ja": "神ベビービジュアル",
+        "meaning_en": "God-tier baby visuals (highlighting their youthful, angelic beauty)."
+      },
+      {
+        "text": "청량 is 뭔들",
+        "meaning_ja": "清涼は何でも尊い",
+        "meaning_en": "Refreshing is always the best! (focusing on their pure & clean image)"
+      }
     ],
     "PRAISE_FACE": [
-      "민지 얼굴이 복지",
-      "토끼깅 미모 미쳤다",
-      "갓주님 비주얼 찬양",
-      "혜인 얼굴이 서사다",
-      "하니 is 뭔들, 얼굴천재"
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉",
+        "meaning_en": "Their faces are welfare (meaning their beauty is a blessing/comforting)"
+      },
+      {
+        "text": "비주얼 미쳤다",
+        "meaning_ja": "ビジュアル狂ってる",
+        "meaning_en": "Their visuals are insane/crazy good"
+      },
+      {
+        "text": "얼굴이 개연성",
+        "meaning_ja": "顔が蓋然性",
+        "meaning_en": "Their faces are the reason/justification (meaning they make anything believable because they're so pretty)"
+      },
+      {
+        "text": "인간 명품",
+        "meaning_ja": "人間名品",
+        "meaning_en": "Human Luxury Brand (meaning they are as beautiful/expensive looking as a luxury brand)"
+      },
+      {
+        "text": "뉴진스 is 뭔들",
+        "meaning_ja": "ニュージーンズ is 何でもあり",
+        "meaning_en": "NewJeans is good at anything (implying even just existing/their faces are amazing)"
+      }
     ],
     "REQ_HEART": [
-      "토끼깅 하트해줘!",
-      "민지냥냥 하트뿅!",
-      "하니 하트 앙냥냥!",
-      "다니엘 하트 줘잉!",
-      "혜인 막내 하트해!"
+      {
+        "text": "뉴진스럽게!",
+        "meaning_ja": "ニュージーンズらしく！",
+        "meaning_en": "NewJeans style! (Do it like NewJeans!)"
+      },
+      {
+        "text": "Bunnies 심쿵해!",
+        "meaning_ja": "Bunnies ドキッとしちゃう！",
+        "meaning_en": "Bunnies' hearts are fluttering! (Referring to the NewJeans fandom name)"
+      },
+      {
+        "text": "만반잘부 뉴진스!",
+        "meaning_ja": "準備万端で頑張って！NewJeans!",
+        "meaning_en": "Be fully prepared and do your best, NewJeans! (Used for encouragement, especially before a performance.)"
+      },
+      {
+        "text": "뉴진 뭔들!",
+        "meaning_ja": "ニュージーンズは何でも良い！",
+        "meaning_en": "NewJeans can do anything! (Short for \"NewJeans does anything well,\" meaning they are good at everything)"
+      },
+      {
+        "text": "어쩔 뉴진? 흥!",
+        "meaning_ja": "どうしたの？ニュージーンズ？フン！",
+        "meaning_en": "What's up? NewJeans? Hmph! (Playful way of saying NewJeans is so good that other groups should be jealous; using the slang \"어쩔티비\")"
+      }
     ],
     "HEALTH_EAT": [
-      "뉴진스 맘마!",
-      "토끼들 냠냠!",
-      "맛점해야햄찌!",
-      "민지야 밥심!",
-      "해린아 꼭꼭!"
+      {
+        "text": "뉴진스 맘마미아!",
+        "meaning_ja": "ニュージーンズ、マンマミーア！(美味しいものたくさん食べてね！)",
+        "meaning_en": "NewJeans, Mamma Mia! (Eat lots of delicious food!)"
+      },
+      {
+        "text": "밥 잘 챙겨 먹어, 토끼들아!",
+        "meaning_ja": "ご飯ちゃんと食べてね、ウサギちゃんたち！",
+        "meaning_en": "Eat well, bunnies! (Referring to their fandom name)"
+      },
+      {
+        "text": "뉴진스, 위장 풀파워!",
+        "meaning_ja": "ニュージーンズ、胃袋フルパワー！(たくさん食べて元気出して！)",
+        "meaning_en": "NewJeans, Stomach full power! (Eat a lot and be energetic!)"
+      },
+      {
+        "text": "맛잘알 뉴진스!",
+        "meaning_ja": "美味しいものよく知ってるNewJeans！(美味しいものいっぱい食べてね！)",
+        "meaning_en": "Foodie NewJeans! (Eat lots of good food!)"
+      },
+      {
+        "text": "뉴진스, 쩝쩝박사!",
+        "meaning_ja": "ニュージーンズ、モグモグ博士！(美味しいものたくさん食べて幸せになってね！)",
+        "meaning_en": "NewJeans, Munching Master! (Eat lots of delicious food and be happy!)"
+      }
     ],
     "HEALTH_CARE": [
-      "아프지 마 토끼들!",
-      "뉴진스 건강해야 돼!",
-      "감기 훠이훠이!",
-      "아프면 앙대앵대!",
-      "버니즈가 지켜줄게!"
+      {
+        "text": "몸조심해야쥐~",
+        "meaning_ja": "体に気を付けてね~",
+        "meaning_en": "Take care of yourself! (Ending with ~쥐 is cute and NewJeans-like)"
+      },
+      {
+        "text": "뉴진스가 짱이지, 감기 뚝!",
+        "meaning_ja": "NewJeansが最高だから、風邪なんか吹き飛ばせ！",
+        "meaning_en": "NewJeans is the best, so kick that cold away!"
+      },
+      {
+        "text": "아프지마 도토 도토 잠보!",
+        "meaning_ja": "痛いの痛いの飛んでけ！(元気になーれ！)",
+        "meaning_en": "Feel better soon! (Basically saying \"Boo-boo be gone!\")"
+      },
+      {
+        "text": "힘뉴진스! 아프면 안돼잉!",
+        "meaning_ja": "元気ニュー진스！体調崩しちゃだめだよ！",
+        "meaning_en": "Power Up NewJeans! Don't get sick!"
+      },
+      {
+        "text": "건강해야 토끼겅듀지!",
+        "meaning_ja": "元気じゃないとウサギ姫じゃないよ！",
+        "meaning_en": "You need to be healthy to be bunny princesses! (토끼겅듀 refers to NewJeans' cute, bunny-like image)"
+      }
     ],
     "GREET_JOB": [
-      "고생했어, 토끼들!",
-      "번즈 수고했어!",
-      "고생했다, 댕댕이들!",
-      "뉴진스, 오늘도 짱!",
-      "번냥이들 쓰담쓰담!"
+      {
+        "text": "버니즈 맘",
+        "meaning_ja": "Bunniesのママ",
+        "meaning_en": "Bunnies' Mom (Expressing strong affection for the fans like a mother)"
+      },
+      {
+        "text": "뉴진스럽다",
+        "meaning_ja": "NewJeansっぽい",
+        "meaning_en": "NewJeans-like (Referring to something that embodies NewJeans' unique style)"
+      },
+      {
+        "text": "심장이 웅",
+        "meaning_ja": "心臓がドゥクンドゥクン",
+        "meaning_en": "My heart goes \"Woong\" (Sound of a heartbeat - expressing excitement)"
+      },
+      {
+        "text": "갓기",
+        "meaning_ja": "天使",
+        "meaning_en": "Baby (Used to describe someone incredibly cute and precious, often younger idols)"
+      },
+      {
+        "text": "입덕 부정기",
+        "meaning_ja": "オタクになるのを否定する時期",
+        "meaning_en": "Denial phase of becoming a fan (The period where you resist becoming a fan)"
+      }
     ]
   },
   "Minji": {
     "LOVE_GENERAL": [
-      "민지 is 뭔들!",
-      "갓민지 사랑해!",
-      "민지 없인 못 살아!",
-      "토끼민지 최고!",
-      "민지 맘속에 저장!"
+      {
+        "text": "민지 is 뭔들",
+        "meaning_ja": "ミンジはマジで何でも最高",
+        "meaning_en": "Minji can do no wrong! (Everything Minji does is great)"
+      },
+      {
+        "text": "민지 공주님 깅",
+        "meaning_ja": "ミンジ姫かわちい",
+        "meaning_en": "Minji princess is so cute (kawaii)!"
+      },
+      {
+        "text": "민지 없인 못 살아",
+        "meaning_ja": "ミンジなしじゃ生きられない",
+        "meaning_en": "I can't live without Minji."
+      },
+      {
+        "text": "만찢민지",
+        "meaning_ja": "漫画から飛び出たようなミンジ",
+        "meaning_en": "Minji looks like she came straight out of a manga (Man-earing Minji - unbelievably beautiful)!"
+      },
+      {
+        "text": "뉴진스의 비주얼은 민지다",
+        "meaning_ja": "ニュージーンズのビジュアルはミンジだ",
+        "meaning_en": "Minji is the visual of NewJeans."
+      }
     ],
     "LOVE_DEEP": [
-      "민지 is 뭔들",
-      "민지 없인 못 살아",
-      "토끼민지, 내 사랑",
-      "갓민지, 영원히!",
-      "민지, 사랑해 죽어!"
+      {
+        "text": "민지 is 뭔들",
+        "meaning_ja": "ミンジ is 何でも (なんでも)",
+        "meaning_en": "Minji is good at everything (Minji can do no wrong)"
+      },
+      {
+        "text": "민지 공주 짱",
+        "meaning_ja": "ミンジ姫 (ひめ) 最高 (さいこう)",
+        "meaning_en": "Princess Minji is the best"
+      },
+      {
+        "text": "민지 때문에 산다",
+        "meaning_ja": "ミンジのおかげで生きてる",
+        "meaning_en": "I live because of Minji"
+      },
+      {
+        "text": "민며들다 (민지 + 스며들다)",
+        "meaning_ja": "ミンジに染 (そ)まる",
+        "meaning_en": "To be permeated with Minji (To fall deeply for Minji)"
+      },
+      {
+        "text": "갓민지",
+        "meaning_ja": "ゴッドミンジ",
+        "meaning_en": "God Minji (Referring to Minji being perfect and amazing)"
+      }
     ],
     "REQ_MARRY": [
-      "민지야, 나랑 겷혼!",
-      "민지 없이 못 살아!",
-      "김민지 내 아내!",
-      "민지, 햄찌결혼!",
-      "결혼해줘, 밍!"
+      {
+        "text": "민지 is 뭔들",
+        "meaning_ja": "ミンジは何でも最高 (Minji wa nandemo saikou)",
+        "meaning_en": "Minji is perfect no matter what (She can do anything)"
+      },
+      {
+        "text": "민지야, 내 심장 쏘아줘",
+        "meaning_ja": "ミンジ、僕の心を射抜いて (Minji, boku no kokoro o inuite)",
+        "meaning_en": "Minji, shoot through my heart (with your charm)"
+      },
+      {
+        "text": "민며들다 -> 민지며들다",
+        "meaning_ja": "ミンジにハマる (Minji ni hamaru)",
+        "meaning_en": "To be absorbed by Minji (to fall deeply in love with her)"
+      },
+      {
+        "text": "얼굴이 복지다 -> 민지 얼굴이 복지다",
+        "meaning_ja": "顔が福祉だ -> ミンジの顔は福祉だ (Kao ga fukushi da -> Minji no kao wa fukushi da)",
+        "meaning_en": "Face is welfare -> Minji's face is welfare (Her beauty heals and provides happiness)"
+      },
+      {
+        "text": "입덕 부정기는 끝났다 -> 민지 입덕 부정기는 끝났다",
+        "meaning_ja": "ファンになるのを否定するのは終わりだ -> ミンジのファンになるのを否定するのは終わりだ (Fan ni naru no o hitei suru no wa owari da -> Minji no fan ni naru no o hitei suru no wa owari da)",
+        "meaning_en": "The denial stage of becoming a fan is over -> The denial stage of becoming a Minji fan is over (I have accepted my love for Minji)"
+      }
     ],
     "MISS_YOU": [
-      "민지 보고파ㅠ",
-      "민지 앓이중🥺",
-      "토끼민지 보구싶다!",
-      "민지 없인 못 살아!",
-      "민지 보고 싶어 엉엉😭"
+      {
+        "text": "민지 보고잡다 🥹",
+        "meaning_ja": "ミンジに会いたくてたまらない 🥹",
+        "meaning_en": "I miss Minji so much 🥹 (Uses an emoji to enhance the feeling)"
+      },
+      {
+        "text": "민지 없인 못 살아 🥺",
+        "meaning_ja": "ミンジがいないと生きていけない 🥺",
+        "meaning_en": "I can't live without Minji 🥺"
+      },
+      {
+        "text": "민지 홀릭 ❤️‍🔥",
+        "meaning_ja": "ミンジ中毒 ❤️‍🔥",
+        "meaning_en": "Minji Addict ❤️‍🔥 (Expresses intense love and obsession)"
+      },
+      {
+        "text": "내 마음 속에 민지 저장💾",
+        "meaning_ja": "私の心の中にミンジを保存💾",
+        "meaning_en": "Saving Minji in my heart 💾"
+      },
+      {
+        "text": "민지 is 뭔들 🫶",
+        "meaning_ja": "ミンジは何でも最高 🫶",
+        "meaning_en": "Minji is perfect no matter what 🫶"
+      }
     ],
     "PROMISE_FOREVER": [
-      "민지, 평생 슈스길!",
-      "토끼민지 뽀에버!",
-      "밍지랑 쭉 가자!",
-      "함께라서 행복해♥",
-      "민지야, 끝까지 함께!"
+      {
+        "text": "민지 is 뭔들",
+        "meaning_ja": "ミンジは何でも最高",
+        "meaning_en": "Minji does everything flawlessly (lit. \"Minji is whatever, it's all good\")"
+      },
+      {
+        "text": "민지 없인 못 살아",
+        "meaning_ja": "ミンジなしでは生きられない",
+        "meaning_en": "I can't live without Minji!"
+      },
+      {
+        "text": "뉴진스와 민지는 ❤️",
+        "meaning_ja": "ニュージーンズとミンジは永遠に❤️",
+        "meaning_en": "NewJeans and Minji forever ❤️"
+      },
+      {
+        "text": "민지 공주님 👑",
+        "meaning_ja": "ミンジ姫👑",
+        "meaning_en": "Princess Minji 👑"
+      },
+      {
+        "text": "민지 is 뭔데요? 내 전부인데요",
+        "meaning_ja": "ミンジって何？私の全部だけど",
+        "meaning_en": "What is Minji? She's my everything!"
+      }
     ],
     "CONGRAT_BDAY": [
-      "민지 생일 ㅊㅋ!",
-      "갓냥이 탄신일!",
-      "밍지야, 꽃길만!",
-      "햄찌밍, 생일 축하!",
-      "천사 민지, 생일 킹정!"
+      {
+        "text": "민지 is 뭔들",
+        "meaning_ja": "ミンジは何でも良い (かわいすぎるから)",
+        "meaning_en": "Minji is good no matter what (because she's too cute!)"
+      },
+      {
+        "text": "민지 복숭아",
+        "meaning_ja": "ミンジ、桃みたい (可愛くて甘い)",
+        "meaning_en": "Minji, like a peach (cute and sweet!)"
+      },
+      {
+        "text": "민지 공주",
+        "meaning_ja": "ミンジ姫",
+        "meaning_en": "Minji, our princess!"
+      },
+      {
+        "text": "민지 때문에 산다",
+        "meaning_ja": "ミンジのおかげで生きてる",
+        "meaning_en": "I live because of Minji!"
+      },
+      {
+        "text": "만찢민지",
+        "meaning_ja": "漫画から飛び出たミンジ",
+        "meaning_en": "Minji who jumped out of a manga (perfect beauty!)"
+      }
     ],
     "CHEER_UP": [
-      "민지 깅 화이팅!",
-      "토끼민지 최고!",
-      "갓민지 사랑해!",
-      "민지야, 힘내!",
-      "민지 덕분에 산다!"
+      {
+        "text": "민지 is 뭔들",
+        "meaning_ja": "ミンジは何でも (最高)",
+        "meaning_en": "Minji could do anything (and it'd be amazing) (Implies she's great no matter what she does)"
+      },
+      {
+        "text": "민지 없인 못 살아",
+        "meaning_ja": "ミンジなしでは生きられない",
+        "meaning_en": "I can't live without Minji"
+      },
+      {
+        "text": "넘예민지",
+        "meaning_ja": "超絶可愛いミンジ",
+        "meaning_en": "Supremely pretty Minji (Combination of \"너무 예쁘다\" - so pretty - and Minji's name)"
+      },
+      {
+        "text": "민지 공주님",
+        "meaning_ja": "ミンジ姫",
+        "meaning_en": "Princess Minji"
+      },
+      {
+        "text": "민며들다 (민지+스며들다)",
+        "meaning_ja": "ミンジに染み込む",
+        "meaning_en": "To be permeated/infused with Minji (Implies becoming deeply captivated/influenced by Minji)"
+      }
     ],
     "PRAISE_GOD": [
-      "민지 is 뭔들",
-      "갓민지 등장",
-      "민지 여신님",
-      "민지렐루야",
-      "미모가 신이 주신 선물"
+      {
+        "text": "민지 is 뭔들",
+        "meaning_ja": "ミンジイズ何でも(最高)",
+        "meaning_en": "Minji is good at everything (She's amazing at everything she does)"
+      },
+      {
+        "text": "갓민지",
+        "meaning_ja": "ゴッドミンジ(神ミンジ)",
+        "meaning_en": "God Minji (Referring to Minji as a God-tier talent)"
+      },
+      {
+        "text": "민지 언니, 내 심장 훔쳐 갔어!",
+        "meaning_ja": "ミンジお姉さん、私の心盗んでいった！",
+        "meaning_en": "Minji unnie, you stole my heart!"
+      },
+      {
+        "text": "민지 때문에 산다",
+        "meaning_ja": "ミンジのおかげで生きている",
+        "meaning_en": "I live because of Minji (Minji is my reason for living)"
+      },
+      {
+        "text": "민지 is 뭔들 is 뭔들 is 뭔들",
+        "meaning_ja": "ミンジイズ何でもイズ何でもイズ何でも(全部最高)",
+        "meaning_en": "Minji is good at everything is good at everything is good at everything (Everything about Minji is perfect)"
+      }
     ],
     "PRAISE_VISUAL": [
-      "민지 is 뭔들",
-      "갓미모 김민지",
-      "토끼민지 짱!",
-      "민지 얼굴이 복지",
-      "민지야, 킹갓제너럴!"
+      {
+        "text": "민지 is 뭔들",
+        "meaning_ja": "ミンジは何でもあり！",
+        "meaning_en": "Minji can pull off anything! (Meaning whatever Minji does is amazing/perfect)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔が福祉だ",
+        "meaning_en": "Your face is welfare/a blessing. (Meaning Minji's beauty is a comfort and makes people happy)"
+      },
+      {
+        "text": "갓 Minji",
+        "meaning_ja": "神 Minji (かみMinji)",
+        "meaning_en": "God Minji (Meaning Minji is incredibly talented/beautiful, like a god)"
+      },
+      {
+        "text": "민지 사랑해 외쳐!",
+        "meaning_ja": "ミンジ愛してるって叫べ！",
+        "meaning_en": "Shout out 'I love Minji!' (An energetic call to show love for Minji)"
+      },
+      {
+        "text": "민지 비주얼 미쳤다리",
+        "meaning_ja": "ミンジのビジュアルマジヤバい！",
+        "meaning_en": "Minji's visuals are absolutely insane! (Expressing extreme awe at her beauty)"
+      }
     ],
     "PRAISE_FACE": [
-      "민지 is 뭔들!",
-      "갓굴이즈 뭔들…",
-      "민지 얼굴 복지다!",
-      "얼굴이 서사다…",
-      "민지 미모에 치얼스!"
+      {
+        "text": "민지 is 뭔들",
+        "meaning_ja": "ミンジは何でも似合う",
+        "meaning_en": "Minji looks good in everything."
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔が福祉だ",
+        "meaning_en": "Your face is a welfare program (meaning it heals and makes us happy)."
+      },
+      {
+        "text": "민지 미모가 국보급",
+        "meaning_ja": "ミンジの美貌は国宝級",
+        "meaning_en": "Minji's beauty is national treasure level."
+      },
+      {
+        "text": "민지 얼굴이 서사다",
+        "meaning_ja": "ミンジの顔が叙事詩だ",
+        "meaning_en": "Minji's face is an epic story."
+      },
+      {
+        "text": "민지 is 뭔들 is 뭔들",
+        "meaning_ja": "ミンジは何でも似合うことは間違いない",
+        "meaning_en": "There's no doubt that Minji looks good in everything."
+      }
     ],
     "REQ_HEART": [
-      "민지 핑거하트!",
-      "밍지야, 하트 줘!",
-      "토끼민지, 뿅!",
-      "김민지, 🫶날려!",
-      "민지 is 뭔들!"
+      {
+        "text": "민지 is 뭔들!",
+        "meaning_ja": "ミンジは何でも最高！(指ハート飛ばすね)",
+        "meaning_en": "Minji is amazing no matter what! (Sending finger hearts your way)"
+      },
+      {
+        "text": "민지 맘 접어! (내 맘 속에)",
+        "meaning_ja": "ミンジ、私の心を畳んで！(私の心の中に) (指ハート)",
+        "meaning_en": "Minji, fold my heart away! (Into my heart) (finger heart)"
+      },
+      {
+        "text": "심장이 민지 민지해!",
+        "meaning_ja": "心臓がミンジミンジしてる！(指ハートビート)",
+        "meaning_en": "My heart is Minji Minji-ing! (Finger heartbeat)"
+      },
+      {
+        "text": "민지 없인 못 살아, 앙대!",
+        "meaning_ja": "ミンジなしでは生きられない、ダメ！(指ハート切実)",
+        "meaning_en": "I can't live without Minji, no way! (finger heart desperately)"
+      },
+      {
+        "text": "민지 is 뭔들, 내 마음 스크린!",
+        "meaning_ja": "ミンジは何でも最高、私の心はスクリーン！(指ハート映写)",
+        "meaning_en": "Minji is amazing no matter what, my heart is a screen! (Finger heart projection)"
+      }
     ],
     "HEALTH_EAT": [
-      "민지, 맘마 먹어!",
-      "토끼민지, 냠냠!",
-      "민지야, 밥심!",
-      "천사 민지, 꿀꺽!",
-      "강냥이, 맛저!"
+      {
+        "text": "민지 밥길만 걸어!",
+        "meaning_ja": "ミンジ、美味しいものだけ食べてね！",
+        "meaning_en": "Minji, only walk the path where delicious food awaits you! (May you only have good things in life)"
+      },
+      {
+        "text": "민지 맛잘알 인정!",
+        "meaning_ja": "ミンジ、美味しいもの知ってるの認める！",
+        "meaning_en": "Minji, I acknowledge your great taste in food!"
+      },
+      {
+        "text": "오구오구 잘 먹는다! 민지 최고!",
+        "meaning_ja": "よしよし、よく食べるね！ミンジ最高！",
+        "meaning_en": "Aww, you eat so well! Minji is the best! (Expressing endearment)"
+      },
+      {
+        "text": "민지 행복밥길 예약!",
+        "meaning_ja": "ミンジ、幸せなご飯の道が予約されてるね！",
+        "meaning_en": "Minji, your path to happy meals is already reserved! (Wishing her a future filled with good food and happiness)"
+      },
+      {
+        "text": "민지 먹방 기대만땅!",
+        "meaning_ja": "ミンジのモッパン、期待でいっぱい！",
+        "meaning_en": "I'm full of anticipation for Minji's Mukbang! (Expressing excitement for her eating content)"
+      }
     ],
     "HEALTH_CARE": [
-      "민지 감기 앙대!",
-      "밍지 아프면 맴찢 ㅠ",
-      "토끼밍 건강 제일!",
-      "감기 꺼져! 민지꽃길!",
-      "민지야, 아프지망고!"
+      {
+        "text": "민지 감기요정 훠이훠이!",
+        "meaning_ja": "ミンジに風邪の妖精、あっち行けー！",
+        "meaning_en": "Minji, shoo away the cold fairy! (Wishing away the cold)"
+      },
+      {
+        "text": "우리 밍디 아프면 앙대!",
+        "meaning_ja": "うちのミンジが病気になったらダメ！",
+        "meaning_en": "Our Minji can't be sick! (Emphasizing concern in a cute way)"
+      },
+      {
+        "text": "민지, 건강길만 걸어! 꽃길은 기본이고!",
+        "meaning_ja": "ミンジ、健康な道だけを歩んで！花道は基本でしょ！",
+        "meaning_en": "Minji, walk only on the path of health! The flower path is a given! (Wishing for health and success)"
+      },
+      {
+        "text": "밍디, 아프지망고!",
+        "meaning_ja": "ミンジ、病気にならないでマンゴー！",
+        "meaning_en": "Minji, don't be sick, mango! (Playful pun using \"망고\" (mango) which sounds like \"말고\" (don't))"
+      },
+      {
+        "text": "민지 is 뭔들! 아프지만 않으면 뭔들 is 뭔들!",
+        "meaning_ja": "ミンジは何でも最高！体調が悪くなければ何でも最高！",
+        "meaning_en": "Minji is perfect no matter what! As long as you're not sick, everything is perfect! (Highlighting Minji's perfection while wishing for her health)"
+      }
     ],
     "GREET_JOB": [
-      "민지 수고했어!",
-      "냥냥 오늘도 최고!",
-      "토닥토닥 민지야!",
-      "민지 덕분에 힘!",
-      "갓민지 고생했어!"
+      {
+        "text": "민지 is 뭔들",
+        "meaning_ja": "ミンジは何でもあり！",
+        "meaning_en": "Minji can do no wrong! (Whatever Minji does is amazing)"
+      },
+      {
+        "text": "갓Minji",
+        "meaning_ja": "神ミンジ",
+        "meaning_en": "God Minji (Minji is amazing/divine)"
+      },
+      {
+        "text": "민지, 덕분에 행복해",
+        "meaning_ja": "ミンジのおかげで幸せ！",
+        "meaning_en": "Minji, thanks to you, I'm happy!"
+      },
+      {
+        "text": "민지 is 뭔데요? 천사인데요",
+        "meaning_ja": "ミンジって何？天使だよ！",
+        "meaning_en": "What is Minji? She's an angel!"
+      },
+      {
+        "text": "민지, 오늘도 레전드 갱신",
+        "meaning_ja": "ミンジ、今日もレジェンド更新！",
+        "meaning_en": "Minji, setting a new legend today too!"
+      }
     ]
   },
   "Hanni": {
     "LOVE_GENERAL": [
-      "하니 맘 = 내 맘!",
-      "강냥이, 사랑해!",
-      "복덩어리 하니!",
-      "내 별, 하니!",
-      "사랑해, 햄찌!"
+      {
+        "text": "하니 없인 못 살아",
+        "meaning_ja": "ハニなしでは生きられない",
+        "meaning_en": "I can't live without Hanni"
+      },
+      {
+        "text": "Hanni 공주님",
+        "meaning_ja": "Hanni姫",
+        "meaning_en": "Princess Hanni"
+      },
+      {
+        "text": "Hanni 사랑둥이",
+        "meaning_ja": "Hanni愛されっ子",
+        "meaning_en": "Hanni, you're so lovable"
+      },
+      {
+        "text": "Hanni 때문에 행복해",
+        "meaning_ja": "Hanniのおかげで幸せ",
+        "meaning_en": "Hanni makes me happy"
+      },
+      {
+        "text": "Hanni is 뭔들",
+        "meaning_ja": "Hanniは何でも最高",
+        "meaning_en": "Hanni can do no wrong/Everything looks good on Hanni"
+      }
     ],
     "LOVE_DEEP": [
-      "하니 없인 못 살아!",
-      "토끼 사랑해 죽어!",
-      "깐프 사랑 영원히!",
-      "하니맘 내 심장❤️",
-      "강아지, 내 전부!"
+      {
+        "text": "하니깅해",
+        "meaning_ja": "ハニちゃん愛してる",
+        "meaning_en": "I Hanni-love you (Like saying I \"Hanni-care\" for you, emphasizing cuteness)"
+      },
+      {
+        "text": "Hanni 내꼬얌",
+        "meaning_ja": "Hanniは私のもの",
+        "meaning_en": "Hanni is Mine"
+      },
+      {
+        "text": "Hanni 짱",
+        "meaning_ja": "Hanni 最高",
+        "meaning_en": "Hanni is the Best"
+      },
+      {
+        "text": "Hanni 폼 미쳤다",
+        "meaning_ja": "Hanniマジ最高",
+        "meaning_en": "Hanni is Absolutely Amazing (Level: INSANE)"
+      },
+      {
+        "text": "Hanni 공주",
+        "meaning_ja": "Hanni お姫様",
+        "meaning_en": "Hanni is a Princess"
+      }
     ],
     "REQ_MARRY": [
-      "하니 결혼해줘!",
-      "햄찌, 나 주거ㅠㅠ",
-      "강냥이 내 신부!",
-      "민지 말고 나랑!",
-      "결혼각, 떴다!"
+      {
+        "text": "하니 책임져!",
+        "meaning_ja": "ハニ、責任取って！",
+        "meaning_en": "Hanni, take responsibility (for stealing my heart)!"
+      },
+      {
+        "text": "결혼하자 🐰야!",
+        "meaning_ja": "結婚しよう、うさぎちゃん！",
+        "meaning_en": "Let's get married, Bunny (Hanni)!"
+      },
+      {
+        "text": "내 통장 전부 하니꺼!",
+        "meaning_ja": "私の銀行口座全部ハニのもの！",
+        "meaning_en": "My entire bank account is Hanni's!"
+      },
+      {
+        "text": "하니 없인 못 살아 ㅠㅠ",
+        "meaning_ja": "ハニなしでは生きられない ㅠㅠ",
+        "meaning_en": "I can't live without Hanni ㅠㅠ"
+      },
+      {
+        "text": "하니 is 뭔들",
+        "meaning_ja": "ハニは何でも最高！",
+        "meaning_en": "Hanni is perfect no matter what!"
+      }
     ],
     "MISS_YOU": [
-      "하니 없인 못 살아!",
-      "토끼하니 보고 싶어ㅠ",
-      "깐하니 내 심장 책임져!",
-      "댕댕하니, 얼른 와!",
-      "내 삶의 이유, 하니야!"
+      {
+        "text": "*   보고파 쥬금",
+        "meaning_ja": "会いたくて死ぬ",
+        "meaning_en": "Dying to see you"
+      },
+      {
+        "text": "*   하니 앓이 중",
+        "meaning_ja": "ハニのことで頭がいっぱい",
+        "meaning_en": "Obsessed with Hanni"
+      },
+      {
+        "text": "*   심장아 나대지마, 하니 보러가야 돼!",
+        "meaning_ja": "心臓よ、騒ぐな。ハニに会いに行かなきゃ！",
+        "meaning_en": "Heart, calm down, we're going to see Hanni!"
+      },
+      {
+        "text": "*   내 통장 하니꺼",
+        "meaning_ja": "私の全財産はハニのもの",
+        "meaning_en": "My entire bank account belongs to Hanni"
+      },
+      {
+        "text": "*   하니 없인 못 살아 진짜",
+        "meaning_ja": "ハニなしでは生きられない、マジで",
+        "meaning_en": "I seriously can't live without Hanni"
+      }
     ],
     "PROMISE_FOREVER": [
-      "토끼, 영원히!",
-      "하니 없인 못 살아!",
-      "평생 하니만 봐!",
-      "깐따삐아 함께 가!",
-      "버니즈랑 쭉!"
+      {
+        "text": "뉴진스럽게 영원히!",
+        "meaning_ja": "ニュージーンズらしく永遠に！",
+        "meaning_en": "NewJeans-style forever! (Implies staying true to their unique vibe always.)"
+      },
+      {
+        "text": "버니즈랑 쭈욱 가자!",
+        "meaning_ja": "Bunnies(ファンダム名)と一緒にずっと行こう！",
+        "meaning_en": "Let's go together with Bunnies forever! (Emphasizes staying with the fandom.)"
+      },
+      {
+        "text": "하니토끼 최고다!",
+        "meaning_ja": "ハニウサギ最高！",
+        "meaning_en": "Hanni-bunny is the best! (A cute and endearing phrase using Hanni's nickname.)"
+      },
+      {
+        "text": "언제나 하니 편!",
+        "meaning_ja": "いつもハニの味方！",
+        "meaning_en": "Always on Hanni's side! (Expresses unwavering support.)"
+      },
+      {
+        "text": "덕질은 나의 힘! (하니 덕질!)",
+        "meaning_ja": "オタ活は私の力！(ハニのオタ活！)",
+        "meaning_en": "Fandom activities are my strength! (Hanni's fandom!) (Highlights the empowering feeling of being a fan.)"
+      }
     ],
     "CONGRAT_BDAY": [
-      "하니 공주님, 생일 축하!",
-      "혅이, 생일 짱!",
-      "깐부, 생일 너무 츄카!",
-      "하니언니, 영원히 사랑해!",
-      "하니토끼, 탄신일!"
+      {
+        "text": "Bunnies 단체로 헐레벌떡",
+        "meaning_ja": "Bunniesみんなでハニちゃんのために大慌て！",
+        "meaning_en": "Bunnies rushing around frantically for Hanni!"
+      },
+      {
+        "text": "깐-지 토끼 Hanni",
+        "meaning_ja": "スタイリッシュうさぎ Hanni",
+        "meaning_en": "Swaggy Bunny Hanni"
+      },
+      {
+        "text": "Hanni 공주님 폼 미쳤다!",
+        "meaning_ja": "Hanni姫、マジ最高！",
+        "meaning_en": "Hanni princess is absolutely killing it! (lit. \"form is crazy\")"
+      },
+      {
+        "text": "Hanni 때문에 내 심장이 웅냥냥",
+        "meaning_ja": "Hanniのせいで私の心臓がキュンキュン",
+        "meaning_en": "Hanni makes my heart go *woongnyangnyang* (onomatopoeia for a heart fluttering/being squished)"
+      },
+      {
+        "text": "Hanni is 뭔들",
+        "meaning_ja": "Hanniは何でも似合う！",
+        "meaning_en": "Hanni looks good in anything! (lit. \"Hanni is whatever-deul\")"
+      }
     ],
     "CHEER_UP": [
-      "하니 맘 응원!",
-      "강냥이 파워!",
-      "깐프 응원해!",
-      "토끼야 날아!",
-      "버니즈는 하니편!"
+      {
+        "text": "Hanni 맘찍!",
+        "meaning_ja": "Hanniにいいね！",
+        "meaning_en": "Hanni, I'm hitting that Like button! (Expressing love and support)"
+      },
+      {
+        "text": "Hanni 덕질 풀파워!",
+        "meaning_ja": "Hanniオタ活フルパワー！",
+        "meaning_en": "Hanni, fandom mode: full power! (Saying you're fully dedicated to supporting her)"
+      },
+      {
+        "text": "Hanni 버억!",
+        "meaning_ja": "Hanni もぐもぐ！（美味しそう！）",
+        "meaning_en": "Hanni, eat up! (Implying she looks great and encouraging her to stay healthy and happy; playful)"
+      },
+      {
+        "text": "Hanni 폼 미쳤다!",
+        "meaning_ja": "Hanni、マジでヤバい！",
+        "meaning_en": "Hanni, you're going crazy good! (Complimenting on her amazing performance/visuals)"
+      },
+      {
+        "text": "Hanni 꽃길만 걸어!",
+        "meaning_ja": "Hanni、花の道だけを歩んで！",
+        "meaning_en": "Hanni, only walk the flower path! (Wishing her only the best and success)"
+      }
     ],
     "PRAISE_GOD": [
-      "갓하니!",
-      "토끼신 강림!",
-      "쩐다 하니님!",
-      "하니는 천사야",
-      "우리 하니 신!"
+      {
+        "text": "갓냥이",
+        "meaning_ja": "神猫ちゃん (かみねこちゃん)",
+        "meaning_en": "God-like Kitty (Referring to Hanni as a goddess and also referencing her animal association)"
+      },
+      {
+        "text": "Hanni 언니 is 뭔들",
+        "meaning_ja": "Hanniお姉さんは何でもアリ",
+        "meaning_en": "Whatever Hanni unnie does, it's perfect/Hanni unnie can do no wrong!"
+      },
+      {
+        "text": "Hanni 공주님 짱!",
+        "meaning_ja": "Hanni姫様、最高！(Hanni hime-sama, saikou!)",
+        "meaning_en": "Hanni Princess, the best!"
+      },
+      {
+        "text": "Hanni 때문에 산다",
+        "meaning_ja": "Hanniのおかげで生きている (Hanni no okage de ikiteiru)",
+        "meaning_en": "I live because of Hanni"
+      },
+      {
+        "text": "Hanni is 뭔들 is 과학",
+        "meaning_ja": "Hanniは何でも科学だ (Hanni wa nandemo kagaku da)",
+        "meaning_en": "Everything Hanni does is science (so undeniably perfect/logical)"
+      }
     ],
     "PRAISE_VISUAL": [
-      "하니 미모가 국보다!",
-      "갓기토끼 눈부셔!",
-      "존예 한천사 강림!",
-      "복숭아하니 숭배해!",
-      "쩐다, 깐하니!"
+      {
+        "text": "‎갓기폭주",
+        "meaning_ja": "天使が暴走中",
+        "meaning_en": "Angelic baby on a rampage (referring to Hanni's overwhelming cuteness)"
+      },
+      {
+        "text": "‎끼절",
+        "meaning_ja": "キュン死",
+        "meaning_en": "Dying from charm/cuteness overload"
+      },
+      {
+        "text": "‎존예보스",
+        "meaning_ja": "超絶可愛いボス",
+        "meaning_en": "Ultimate beautiful boss (emphasizing Hanni's beauty and stage presence)"
+      },
+      {
+        "text": "‎댕댕하니",
+        "meaning_ja": "わんこみたいなハニ",
+        "meaning_en": "Hanni, like a puppy (referring to her adorable and playful personality)"
+      },
+      {
+        "text": "‎무대찢었니",
+        "meaning_ja": "ステージ破ったの？",
+        "meaning_en": "Did you tear up the stage? (Complimenting Hanni's powerful performance)"
+      }
     ],
     "PRAISE_FACE": [
-      "하니 얼굴이 복지다",
-      "갓굴이 떴다!",
-      "민지맘도 인정한 미모",
-      "본투비 아이도루상",
-      "인간 샤넬 한니"
+      {
+        "text": "갓기 비주얼",
+        "meaning_ja": "天使のようなビジュアル",
+        "meaning_en": "Angelic visuals, truly a god-tier baby! (Emphasizes her youthful beauty)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉",
+        "meaning_en": "Her face is a welfare system! (Meaning it's a blessing and makes everyone happy)"
+      },
+      {
+        "text": "청순 과즙상",
+        "meaning_ja": "清純なフルーツ顔",
+        "meaning_en": "A pure, innocent face like fresh fruit! (Describes her refreshing beauty)"
+      },
+      {
+        "text": "인간 디올",
+        "meaning_ja": "人間ディオール",
+        "meaning_en": "Human Dior! (Referring to her elegance and how she embodies the Dior brand image)"
+      },
+      {
+        "text": "얼굴 천재 만재 억재",
+        "meaning_ja": "顔面天才、満載、億載",
+        "meaning_en": "Face genius, full, overflowing! (Exaggerated praise for her stunning face)"
+      }
     ],
     "REQ_HEART": [
-      "토끼 하트 줘!",
-      "하니 하트 내놔!",
-      "강냥이 🫶 날려!",
-      "혅이 공주 하트!",
-      "우리 댕댕 하트!"
+      {
+        "text": "하니깅, 냅다 귀여워!",
+        "meaning_ja": "ハニたん、めっちゃ可愛い！",
+        "meaning_en": "Hanni-gyang, so freaking cute! (냅다 - suddenly/violently, emphasizes extreme cuteness; 깅 is a cute suffix)"
+      },
+      {
+        "text": "쿼카하니, 심장 꽉 잡아!",
+        "meaning_ja": "クォッカハニ、心臓をしっかり掴んで！",
+        "meaning_en": "Quokka Hanni, hold onto your heart tight! (referencing Hanni's resemblance to a quokka, known for their adorable smiles)"
+      },
+      {
+        "text": "토끼하니, 무대 찢었다!",
+        "meaning_ja": "ウサギハニ、ステージをブチ破った！",
+        "meaning_en": "Rabbit Hanni, you tore up the stage! (토끼 - rabbit/bunny is a common nickname; \"찢었다\" means \"tore\" but is used to mean they killed it/did an amazing job.)"
+      },
+      {
+        "text": "하니 is 뭔들!",
+        "meaning_ja": "ハニは何でも正義！",
+        "meaning_en": "Hanni is 뭔들! (Hanni is good/right no matter what. \"뭔들\" is short for \"무엇이든지\" - anything)"
+      },
+      {
+        "text": "Hanni makes me 행복해!",
+        "meaning_ja": "Hanniは私を幸せにする！",
+        "meaning_en": "Hanni makes me happy! (This mixes Konglish with Korean and is very common in fandom culture.)"
+      }
     ],
     "HEALTH_EAT": [
-      "하니, 맘마 먹어!",
-      "밥 잘 챙겨, 토끼야!",
-      "햄찌 하니, 냠냠!",
-      "아프지 말고 밥심!",
-      "밥 먹고 힘내, 퀸!"
+      {
+        "text": "먹잘알 한니",
+        "meaning_ja": "美味しいもの知ってるハニ",
+        "meaning_en": "Hanni knows all the best eats! (먹잘알 - *meokjalal* - \"knows food well\")"
+      },
+      {
+        "text": "밥길만 걸어, 한니!",
+        "meaning_ja": "美味しいものだけ食べて生きて！ハニ！",
+        "meaning_en": "Only walk the path of good food, Hanni! (Meaning: Only good things should happen to you, Hanni!)"
+      },
+      {
+        "text": "뇸뇸 한니",
+        "meaning_ja": "もぐもぐハニ",
+        "meaning_en": "Nom nom Hanni (Referring to Hanni eating cutely/happily)"
+      },
+      {
+        "text": "위장 풀파워, 한니!",
+        "meaning_ja": "胃袋フルパワー、ハニ！",
+        "meaning_en": "Stomach full power, Hanni! (Encouraging Hanni to eat well and have a lot of energy)"
+      },
+      {
+        "text": "입덕 한니",
+        "meaning_ja": "ハニ沼にハマる",
+        "meaning_en": "Getting into the Hanni \"stan zone\" (입덕 - *ipdeok* - entering the fandom, used playfully here)"
+      }
     ],
     "HEALTH_CARE": [
-      "하니, 아프면 앙대!",
-      "토끼야, 건강 제일!",
-      "깐부 하니, 감기 조심!",
-      "햄찌, 아프지마!",
-      "하니 없인 못 살아!"
+      {
+        "text": "감기 조심 🥹",
+        "meaning_ja": "風邪に気をつけてね、ハニちゃん🥹",
+        "meaning_en": "Be careful not to catch a cold, Hanni 🥹 (Emphasizing care and concern)"
+      },
+      {
+        "text": "아프지망고🥭",
+        "meaning_ja": "痛くならないで、ハニちゃん🥭",
+        "meaning_en": "Don't get sick, Hanni 🥭 (Using a pun - '망고' sounds like 'malgo' which means 'don't' and adds a cute touch with the mango emoji)"
+      },
+      {
+        "text": "언제나 하니 편🫶",
+        "meaning_ja": "いつもハニちゃんの味方だよ🫶",
+        "meaning_en": "Always on Hanni's side 🫶 (Showing support and wishing her well)"
+      },
+      {
+        "text": "꿀피부 유지🍯",
+        "meaning_ja": "つやつやのお肌をキープしてね🍯",
+        "meaning_en": "Keep that amazing skin 🍯 (Complimenting and indirectly wishing her good health since healthy skin often reflects good health)"
+      },
+      {
+        "text": "따숩게 입어🧤🧣",
+        "meaning_ja": "あたたかくしてね🧤🧣",
+        "meaning_en": "Bundle up warm 🧤🧣 (Directly related to staying healthy and avoiding colds by staying warm)"
+      }
     ],
     "GREET_JOB": [
-      "하니 수고했어!",
-      "깡총하니, 쓰담쓰담!",
-      "토끼하니 고생했어!",
-      "갓냥이 하니, 최고!",
-      "하니덕에 힘난다!"
+      {
+        "text": "햊냥이 최고다!",
+        "meaning_ja": "ハニたんマジ最高！",
+        "meaning_en": "Hanni-chan is the best! (Expressing strong support and admiration. \"햊냥이\" is a cute nickname for Hanni using her family name 'Pham'.)"
+      },
+      {
+        "text": "Hanni, 폼 미쳤다!",
+        "meaning_ja": "Hanni, マジでイケてる！",
+        "meaning_en": "Hanni, you're killing it! (Praising her amazing performance or visuals. \"폼 미쳤다\" is slang for being incredibly cool/stylish/talented.)"
+      },
+      {
+        "text": "Hanni, 덕분에 행복해!",
+        "meaning_ja": "Hanni, おかげで幸せ！",
+        "meaning_en": "Hanni, thanks to you, I'm happy! (Expressing gratitude for the joy she brings to fans.)"
+      },
+      {
+        "text": "Hanni, 떡상 가즈아!",
+        "meaning_ja": "Hanni, 大ブレイクしよう！",
+        "meaning_en": "Hanni, let's go for a big hit! (Encouraging her success and growth. \"떡상 가즈아\" is slang for \"let's go for a rise in popularity/value\".)"
+      },
+      {
+        "text": "Hanni, 내 삶의 이유!",
+        "meaning_ja": "Hanni, 私の人生の理由！",
+        "meaning_en": "Hanni, the reason for my life! (A strong expression of love and dedication, implying she brings immense joy.)"
+      }
     ]
   },
   "Danielle": {
     "LOVE_GENERAL": [
-      "다니엘 사랑해!",
-      "갓냥이 최고!",
-      "녤이 is 뭔들",
-      "내 별, 다니엘",
-      "다니엘 짱!"
+      {
+        "text": "다니엘 맘찍완.",
+        "meaning_ja": "ダニエルにいいね完了！(大好きだよ！)",
+        "meaning_en": "Danielle, I've liked it all! (Love you!)"
+      },
+      {
+        "text": "다니엘 is 뭔들.",
+        "meaning_ja": "ダニエルは何でも最高！(愛してる！)",
+        "meaning_en": "Danielle is good no matter what! (Love you!)"
+      },
+      {
+        "text": "다니엘 때문에 내 심장 헐랭구.",
+        "meaning_ja": "ダニエルのおかげで私の心臓はスカスカ。(それだけ愛してる！)",
+        "meaning_en": "Danielle makes my heart feel empty/weak. (That's how much I love you!)"
+      },
+      {
+        "text": "다니엘 없인 못 살아, 증말!",
+        "meaning_ja": "ダニエルなしでは生きられない、マジで！(大好き！)",
+        "meaning_en": "I can't live without Danielle, really! (Love you!)"
+      },
+      {
+        "text": "다니엘, 내 웃음 버튼.",
+        "meaning_ja": "ダニエルは私の笑顔ボタン。(大好きだから！)",
+        "meaning_en": "Danielle is my smile button. (Because I love you!)"
+      }
     ],
     "LOVE_DEEP": [
-      "다니엘 맘찍!",
-      "햇살녤 사랑해",
-      "갓냥이 녤 is 뭔들",
-      "다니엘 꽃길만!",
-      "내 심장 녤꺼♥"
+      {
+        "text": "다니엘깅",
+        "meaning_ja": "ダニエルきゅん (Danieru kyun)",
+        "meaning_en": "Danielle, you're adorable/precious! (Adding \"깅\" (ging) to her name makes it sound cuter.)"
+      },
+      {
+        "text": "다니엘 is 뭔들",
+        "meaning_ja": "ダニエル is 何でも (Danieru is nandemo)",
+        "meaning_en": "Danielle is good at everything/can do anything! (Direct translation is \"Danielle is whatever,\" but it implies perfection.)"
+      },
+      {
+        "text": "다니엘 때문에 산다",
+        "meaning_ja": "ダニエルのために生きる (Danieru no tame ni ikiru)",
+        "meaning_en": "I live for Danielle!"
+      },
+      {
+        "text": "다니엘 꽃길만 걸어",
+        "meaning_ja": "ダニエル、花の道だけを歩んで (Danieru, hana no michi dake wo ayunde)",
+        "meaning_en": "Danielle, only walk on flower paths! (Meaning: \"May only good things happen to you.\")"
+      },
+      {
+        "text": "다니엘 맘찍튀 금지",
+        "meaning_ja": "ダニエルにいいね逃げ禁止 (Danieru ni iine nige kinshi)",
+        "meaning_en": "Don't like and run on Danielle's posts! (Meaning: Always support Danielle!)"
+      }
     ],
     "REQ_MARRY": [
-      "다니엘, 나랑결혼해",
-      "갓냥이랑 결혼각",
-      "결혼해줘 다니엘!",
-      "다니엘 내꺼찜!",
-      "결혼만이 답이다!"
+      {
+        "text": "다니엘 책임져!",
+        "meaning_ja": "ダニエル責任取って！",
+        "meaning_en": "Danielle, take responsibility (for my feelings)! (Implies you've stolen their heart)"
+      },
+      {
+        "text": "결혼 각? 다니엘!",
+        "meaning_ja": "結婚フラグ？ダニエル！",
+        "meaning_en": "Marriage flag? Danielle! (Asking if marriage is a possibility)"
+      },
+      {
+        "text": "내 심장 다니엘 픽!",
+        "meaning_ja": "私の心臓、ダニエルピック！",
+        "meaning_en": "My heart, Danielle pick! (You've been chosen, so... marry me!)"
+      },
+      {
+        "text": "다니엘 없인 못 살아 ㅠㅠ",
+        "meaning_ja": "ダニエルなしでは生きられないよㅠㅠ",
+        "meaning_en": "I can't live without Danielle ㅠㅠ (Dramatically expressing love)"
+      },
+      {
+        "text": "다니엘 내꺼찜!",
+        "meaning_ja": "ダニエル、私のもの！",
+        "meaning_en": "Danielle, mine! (Claiming Danielle playfully)"
+      }
     ],
     "MISS_YOU": [
-      "다니엘 보고파ㅠ",
-      "갓냥이 보고싶다!",
-      "다니엘 내 심장에 불 질렀다🔥",
-      "혅 보고 시퍼🥺",
-      "다니엘 없는 삶 = 앙꼬 없는 찐빵"
+      {
+        "text": "*   다니엘 보고잡다!",
+        "meaning_ja": "ダニエルに会いたくてたまらない！",
+        "meaning_en": "I miss Danielle so much!"
+      },
+      {
+        "text": "*   다니엘 없인 못 살아 ㅠㅠ",
+        "meaning_ja": "ダニエルなしでは生きられないよㅠㅠ",
+        "meaning_en": "I can't live without Danielle ㅠㅠ (crying face)"
+      },
+      {
+        "text": "*   심장이 다니엘 향해 뛴다",
+        "meaning_ja": "心臓がダニエルに向かって走る",
+        "meaning_en": "My heart runs towards Danielle"
+      },
+      {
+        "text": "*   다니엘 스밍만이 살길",
+        "meaning_ja": "ダニエルのストリーミングだけが生きる道",
+        "meaning_en": "Streaming Danielle is the only way to live"
+      },
+      {
+        "text": "*   뉴진스럽게 다니엘 보고파",
+        "meaning_ja": "ニュージーンズらしくダニエルに会いたい",
+        "meaning_en": "I miss Danielle in a NewJeans-like way"
+      }
     ],
     "PROMISE_FOREVER": [
-      "다니엘, 영원히!",
-      "갓냥이, 쭈욱!",
-      "다니엘 사랑해!",
-      "평생 함께해!",
-      "햇살냥, 영원히!"
+      {
+        "text": "녤랑해! (Danielle-rang-hae!)",
+        "meaning_ja": "ダニエル愛してる！(ずっと)",
+        "meaning_en": "I love Danielle! (Forever) - Combines Danielle's name with \"saranghae\" (I love you) for a cute, personalized declaration."
+      },
+      {
+        "text": "Bunnies랑 녤깅 영원히! (Bunnies-rang Nyel-ging yeongwonhi!)",
+        "meaning_ja": "Bunniesとダニエル赤ちゃん永遠に！",
+        "meaning_en": "Bunnies & Danielle Baby, forever! - Uses the NewJeans fandom name and \"aegyo\" (baby) nickname."
+      },
+      {
+        "text": "다니엘 is 뭔들! (Danielle is mwondeul!)",
+        "meaning_ja": "ダニエルは何でも最高！(ずっと応援する)",
+        "meaning_en": "Danielle is perfect no matter what! (Always supporting you) - \"Mwondeul\" implies unconditional love and support."
+      },
+      {
+        "text": "뉴진스 곁에 녤! (NewJeans gyeote Nyel!)",
+        "meaning_ja": "NewJeansのそばにダニエル！(いつも一緒に)",
+        "meaning_en": "Danielle by NewJeans' side! (Always together) - Emphasizes Danielle's place within the group."
+      },
+      {
+        "text": "단 스밍해! (Dan Seuming-hae!)",
+        "meaning_ja": "ダンスミングするよ！(ずっと聴く)",
+        "meaning_en": "I'll stream Danielle! (Forever listening) - Combines \"Dan\" (from Danielle) with \"seuminghae\" (I will stream), implying continuous support through streaming her music."
+      }
     ],
     "CONGRAT_BDAY": [
-      "다니엘, 햄찌탄신일!",
-      "갓기 공주님, 생탄!",
-      "다니엘, 덕분에 행복해!",
-      "다니엘, 녜프리티 생일!",
-      "햇살아, 생일 축하해!"
+      {
+        "text": "다니엘 케이크길만 걸어!",
+        "meaning_ja": "ダニエル、ケーキの道だけを歩んで！",
+        "meaning_en": "Danielle, walk only on the cake path! (May you only walk a path of happiness and success)"
+      },
+      {
+        "text": "다니엘 is 뭔들!",
+        "meaning_ja": "ダニエルは何でも最高！",
+        "meaning_en": "Danielle is great no matter what! (Danielle can do anything and make it great!)"
+      },
+      {
+        "text": "다니엘 복숭아깅!",
+        "meaning_ja": "ダニエル、桃の赤ちゃん！",
+        "meaning_en": "Danielle, peach baby! (Describing Danielle's cuteness and youthful appearance)"
+      },
+      {
+        "text": "다니엘, 내 심장 훔쳐 감!",
+        "meaning_ja": "ダニエル、私の心臓を盗んで行った！",
+        "meaning_en": "Danielle, you stole my heart! (Expressing strong affection for Danielle)"
+      },
+      {
+        "text": "다니엘, 폼 미쳤다!",
+        "meaning_ja": "ダニエル、マジでイケてる！",
+        "meaning_en": "Danielle, you're absolutely killing it! (Expressing that Danielle is looking incredibly cool or performing amazingly)"
+      }
     ],
     "CHEER_UP": [
-      "다니엘 맘껏 빛나!",
-      "갓냥이 최고다!",
-      "다니엘 꽃길만!",
-      "햇살깅 응원해!",
-      "밍지야 사랑해!"
+      {
+        "text": "다니엘 복숭아깅",
+        "meaning_ja": "ダニエル、桃みたいに可愛い！",
+        "meaning_en": "Danielle, you're a peach! (Cute & Sweet)"
+      },
+      {
+        "text": "갓기 다니엘",
+        "meaning_ja": "天使みたいなダニエル",
+        "meaning_en": "Angel Baby Danielle! (Referring to her youthful beauty and talent)"
+      },
+      {
+        "text": "다니엘 때문에 내 심장이 웅냥냥",
+        "meaning_ja": "ダニエルのせいで私の心臓がドキドキ！",
+        "meaning_en": "Danielle makes my heart go doki doki! (Expressing excitement and love)"
+      },
+      {
+        "text": "다니엘 얼빡최고",
+        "meaning_ja": "ダニエルのアップ、最高！",
+        "meaning_en": "Danielle's close-up is the best! (Expressing admiration for her visuals)"
+      },
+      {
+        "text": "다니엘 무대찢었다",
+        "meaning_ja": "ダニエル、ステージをぶち壊した！(最高だった！)",
+        "meaning_en": "Danielle, you slayed the stage! (Expressing admiration for her performance)"
+      }
     ],
     "PRAISE_GOD": [
-      "다니엘 is 뭔들",
-      "갓냥이 강림",
-      "댕댕신 미모!",
-      "다니엘 복음",
-      "녜리 is LOVE"
+      {
+        "text": "갓기 Danielle",
+        "meaning_ja": "神ベイビー Danielle (Kami Beibii Danielle)",
+        "meaning_en": "God-tier baby Danielle (Referring to her youthful charm and talent)"
+      },
+      {
+        "text": "Danielle, 폼 미쳤다!",
+        "meaning_ja": "Danielle, フォームがヤバい！ (Danielle, Fōmu ga Yabai!)",
+        "meaning_en": "Danielle, your stage presence is insane! (Expressing amazement at her performance)"
+      },
+      {
+        "text": "Danielle is 뭔들",
+        "meaning_ja": "Danielleは、何でも似合う (Danielle wa, nandemo niau)",
+        "meaning_en": "Danielle looks good in anything (meaning she rocks every concept)"
+      },
+      {
+        "text": "Danielle, 행복회로 풀가동",
+        "meaning_ja": "Danielle, 幸せ回路フル稼働 (Danielle, Shiawase Kairo Furu Kadō)",
+        "meaning_en": "Danielle, my happiness meter is going off the charts (Expressing extreme joy seeing her)"
+      },
+      {
+        "text": "Danielle, 덕분에 살아요",
+        "meaning_ja": "Danielleのおかげで生きてます (Danielle no okage de ikitemasu)",
+        "meaning_en": "Danielle, I live because of you (A dramatic way of saying she brings so much joy to your life)"
+      }
     ],
     "PRAISE_VISUAL": [
-      "갓냥이 다니엘!",
-      "댕댕아, 걍 여신!",
-      "다니엘 얼굴이 복지다",
-      "어메이징 다니엘 폼 미쳤다!",
-      "토끼녤 비주얼 미쳤다!"
+      {
+        "text": "갓기 비주얼",
+        "meaning_ja": "神(かみ)レベルのビジュアル",
+        "meaning_en": "God-tier Visuals (meaning exceptionally beautiful)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉(ふくし)だ",
+        "meaning_en": "Her face is welfare (meaning her beauty is a blessing to everyone)"
+      },
+      {
+        "text": "인간 디올",
+        "meaning_ja": "人間(にんげん)ディオール",
+        "meaning_en": "Human Dior (meaning she embodies the elegance and beauty of Dior)"
+      },
+      {
+        "text": "청순 과즙상",
+        "meaning_ja": "清純(せいじゅん)な果汁(かじゅう)顔",
+        "meaning_en": "Pure & Fruity Face (describing a fresh and innocent beauty)"
+      },
+      {
+        "text": "요정 미모 폼 미쳤다",
+        "meaning_ja": "妖精(ようせい)のような美貌(びぼう)、マジヤバい",
+        "meaning_en": "Fairy-like beauty, seriously insane/amazing!"
+      }
     ],
     "PRAISE_FACE": [
-      "다니엘 얼굴이 복지다",
-      "갓지컬 다니엘!",
-      "댕댕 미모 미쳤다!",
-      "다니엘 is 뭔들",
-      "얼굴이 개연성"
+      {
+        "text": "얼굴이 복지다!",
+        "meaning_ja": "顔が福祉だ！(顔面国宝！)",
+        "meaning_en": "Her face is welfare! (She's a visual treasure/national treasure!)"
+      },
+      {
+        "text": "얼굴이 개연성!",
+        "meaning_ja": "顔が蓋然性！(顔が全てを納得させる！)",
+        "meaning_en": "Her face is the plot! (Her beauty makes everything believable/understandable!)"
+      },
+      {
+        "text": "다니엘 is 뭔들!",
+        "meaning_ja": "ダニエル is 何でも似合う！(何をやっても可愛い！)",
+        "meaning_en": "Danielle is good at everything! (No matter what she does, she's beautiful/charming!)"
+      },
+      {
+        "text": "청순 is 다니엘, 다니엘 is 청순",
+        "meaning_ja": "清純 is ダニエル、ダニエル is 清純",
+        "meaning_en": "Pure is Danielle, Danielle is pure"
+      },
+      {
+        "text": "인생 자체가 르세라핌",
+        "meaning_ja": "人生自体がルセラフィム(女神)",
+        "meaning_en": "Her life itself is Le Sserafim (Goddess)"
+      }
     ],
     "REQ_HEART": [
-      "다니엘, 손하트 뿅!",
-      "갓냥이, 하트 날려줘!",
-      "햇살아, 손하트 줘!",
-      "다니엘, 심쿵 하트해!",
-      "뉴진스의 하트 요정!"
+      {
+        "text": "다니엘 핑거하트 폼 미쳤다!",
+        "meaning_ja": "ダニエル、指ハート最高すぎ！(やばい！)",
+        "meaning_en": "Danielle's finger heart is absolutely insane/crazy awesome!"
+      },
+      {
+        "text": "심장아 나대지마... 다니엘이 하트 뿅!",
+        "meaning_ja": "心臓よ、騒ぐな…ダニエルがハートピョン！",
+        "meaning_en": "My heart, calm down... Danielle's doing a heart *pyong*! (onomatopoeia for the heart flutter)"
+      },
+      {
+        "text": "다니엘 is 뭔들 핑거하트 존예!",
+        "meaning_ja": "ダニエルは何をしても指ハート激カワ！",
+        "meaning_en": "Danielle can do anything; her finger heart is super pretty! (\"존예\" - super pretty)"
+      },
+      {
+        "text": "핑거하트 장인 다니엘, 내 심장 조준 완료!",
+        "meaning_ja": "指ハート職人ダニエル、私の心臓を狙い撃ち完了！",
+        "meaning_en": "Finger heart master Danielle, she's locked onto my heart! (meaning she's stolen their heart with the gesture)"
+      },
+      {
+        "text": "다니엘 핑거하트에 내 통장 텅장! 후회는 없다!",
+        "meaning_ja": "ダニエルの指ハートに私のお財布は空っぽ！後悔はない！",
+        "meaning_en": "Danielle's finger heart emptied my wallet! No regrets! (exaggerating that seeing her finger heart makes them want to buy all her merch)"
+      }
     ],
     "HEALTH_EAT": [
-      "다니엘, 맛점!",
-      "갓냥이, 맘마먹어!",
-      "햇살아, 밥 잘 챙겨!",
-      "다니엘, 끼니 거르지마!",
-      "우리 애기, 꼭꼭 씹어!"
+      {
+        "text": "먹잘알 다니엘",
+        "meaning_ja": "美味しいもの知ってるダニエルちゃん",
+        "meaning_en": "Danielle knows her good food! (Implying she enjoys good food and/or knows what's tasty)"
+      },
+      {
+        "text": "녤깅이 맛잘알!",
+        "meaning_ja": "녤깅は美味しいものに詳しいね！",
+        "meaning_en": "Our Niel-Gingi is a foodie! (Using \"Niel-Gingi\" as a cute nickname for Danielle)"
+      },
+      {
+        "text": "밥길만 걸어 녤!",
+        "meaning_ja": "ご飯の花道だけを歩こう、녤！",
+        "meaning_en": "Let's walk only the path of delicious food, Niel! (Referring to wishing her a path filled with happiness and good food.)"
+      },
+      {
+        "text": "단며들다: 냠냠길만 걸어",
+        "meaning_ja": "ダニエルに染まる: もぐもぐ道だけを歩もう",
+        "meaning_en": "To get 'Dan-permeated': Let's walk only the munching path! (A playful combination of \"Danielle\" and the verb for permeating, implying becoming obsessed with her, and wishing her only to walk the path of enjoyable eating.)"
+      },
+      {
+        "text": "녤이 맛도리 챌린지 가보자고",
+        "meaning_ja": "ダニエル、美味しいものチャレンジ行ってみよう！",
+        "meaning_en": "Let's go, Danielle, to the delicious food challenge! (Encouraging her to try and share delicious food on social media)"
+      }
     ],
     "HEALTH_CARE": [
-      "다니엘, 아프지망!",
-      "햇살녤, 건강해!",
-      "녤깅이, 감기 훠이!",
-      "다니엘은 소중해, 아프면 안돼!",
-      "토끼녤, 맘찢 감기 NO!"
+      {
+        "text": "다니엘 감기 OUT!",
+        "meaning_ja": "ダニエル、風邪なんかどっか行け！",
+        "meaning_en": "Danielle, kick that cold to the curb! (Get rid of the cold!)"
+      },
+      {
+        "text": "다니엘 아프지망고!",
+        "meaning_ja": "ダニエル、マジで体調崩さないでマンゴー！",
+        "meaning_en": "Danielle, please don't get sick, mango! (Mango is used for emphasis, like \"really\" or \"seriously\")"
+      },
+      {
+        "text": "다니엘 꽃길만 걸어! (건강하게!)",
+        "meaning_ja": "ダニエル、健康に花道だけを歩んで！",
+        "meaning_en": "Danielle, only walk the flower path (healthily)! (Wishing her only good things, especially health.)"
+      },
+      {
+        "text": "다니엘 짱! 건강 챙겨 짱!",
+        "meaning_ja": "ダニエル最高！健康も챙겨最高！",
+        "meaning_en": "Danielle is the best! Taking care of your health is the best!"
+      },
+      {
+        "text": "다니엘, 무지개 건강길만 걷자!",
+        "meaning_ja": "ダニエル、虹色の健康の道だけを歩こう！",
+        "meaning_en": "Danielle, let's only walk the rainbow path of health! (Rainbow path = good things, with a health focus)"
+      }
     ],
     "GREET_JOB": [
-      "다니엘 수고했어!",
-      "갓냥이 오늘도 열일!",
-      "다니엘 최고다냥!",
-      "다니엘 푹 쉬어!",
-      "녜리 덕분에 힘!"
+      {
+        "text": "댕댕수고!",
+        "meaning_ja": "わんわんお疲れ様！",
+        "meaning_en": "Doggone good job! (Playful, using \"댕댕\" - dog/puppy - as a cute modifier, reflecting Danielle's sweet image)"
+      },
+      {
+        "text": "갓다니엘 수고링!",
+        "meaning_ja": "ゴッドダニエル、お疲れ様りん！",
+        "meaning_en": "God Danielle, you worked hard-ring! (Using \"갓\" - God - to praise her and \"수고링\" a cute variation of \"수고\" - hard work.)"
+      },
+      {
+        "text": "다니엘 최고심! 수고했심!",
+        "meaning_ja": "ダニエル最高心！お疲れ様心！",
+        "meaning_en": "Danielle's the best! Great job-shim! (Adding \"심\" at the end is a cute way to emphasize the feeling.)"
+      },
+      {
+        "text": "다니엘 오늘도 열일했넹! 수고했넹!",
+        "meaning_ja": "ダニエル今日も頑張ったね！お疲れ様だね！",
+        "meaning_en": "Danielle, you worked hard again today! Good job, huh! (A casual and friendly way to say \"you've worked hard.\")"
+      },
+      {
+        "text": "뉴진스의 자랑, 다니엘! 오늘도 수고했어용!",
+        "meaning_ja": "ニュージーンズの誇り、ダニエル！今日も頑張ったねー！",
+        "meaning_en": "NewJeans' pride, Danielle! You worked hard again today! (Using \"자랑\" - pride - and adding \"용\" at the end to make it cute)"
+      }
     ]
   },
   "Haerin": {
     "LOVE_GENERAL": [
-      "해린냥 쵝오!",
-      "냥이, 내 사랑!",
-      "강해린 짱!",
-      "해린 없인 못 살아",
-      "해린아, 꽃길만!"
+      {
+        "text": "해린 is 뭔들",
+        "meaning_ja": "ヘリンは何でも(最高)",
+        "meaning_en": "Haerin is perfect no matter what!"
+      },
+      {
+        "text": "Haerin 공주님 웅냥냥",
+        "meaning_ja": "Haerin姫様 うにゃにゃん",
+        "meaning_en": "Princess Haerin, unyannyan (cute onomatopoeia)"
+      },
+      {
+        "text": "Haerin 덕분에 삶이 힙해졌어",
+        "meaning_ja": "Haerinのおかげで人生がヒップになった",
+        "meaning_en": "Thanks to Haerin, my life has become hip."
+      },
+      {
+        "text": "Haerin is 뭔데요? 내 비타민인데요!",
+        "meaning_ja": "Haerinって何？私のビタミン剤だけど！",
+        "meaning_en": "What is Haerin? She's my vitamin!"
+      },
+      {
+        "text": "Haerin 사랑하면 무조건 해피엔딩",
+        "meaning_ja": "Haerinを愛すれば無条件ハッピーエンド",
+        "meaning_en": "If you love Haerin, it's always a happy ending."
+      }
     ],
     "LOVE_DEEP": [
-      "해린아, 격하게 아낀다!",
-      "고양이 공주, 찐사!",
-      "강해린, 내 심장 깡총!",
-      "해린 없인 못 살아!",
-      "사랑해, 냥냥!"
+      {
+        "text": "해린 is 뭔들",
+        "meaning_ja": "ヘリンは何でも (素晴らしい)",
+        "meaning_en": "Haerin is amazing no matter what (lit. Haerin is \"whatever\" as in everything is good)"
+      },
+      {
+        "text": "해린 없인 못 살아",
+        "meaning_ja": "ヘリンなしでは生きられない",
+        "meaning_en": "I can't live without Haerin"
+      },
+      {
+        "text": "해린 is 내 전부",
+        "meaning_ja": "ヘリンは私のすべて",
+        "meaning_en": "Haerin is my everything"
+      },
+      {
+        "text": "해린 공주님",
+        "meaning_ja": "ヘリン姫",
+        "meaning_en": "Princess Haerin"
+      },
+      {
+        "text": "해린 is 뭔데 왤케 좋아?",
+        "meaning_ja": "ヘリンって何なの？どうしてこんなに好きなの？",
+        "meaning_en": "What is it about Haerin? Why do I like her so much?"
+      }
     ],
     "REQ_MARRY": [
-      "해린아, 나랑 결혼해!",
-      "고양이 신부 냥냥!",
-      "강해린 내 아내 쾅쾅!",
-      "결혼 각이다, ㄹㅇ!",
-      "내 심장 책임져, 결혼!"
+      {
+        "text": "결혼해줘잉!",
+        "meaning_ja": "結婚してほしいの！(可愛くお願い)",
+        "meaning_en": "Marry me, please! (In a cute/whiny way)"
+      },
+      {
+        "text": "내 고양이상 신부!",
+        "meaning_ja": "私の猫顔の花嫁！",
+        "meaning_en": "My cat-like bride!"
+      },
+      {
+        "text": "Haerin 책임져!",
+        "meaning_ja": "Haerin責任とって！",
+        "meaning_en": "Haerin, take responsibility (for my feelings)!"
+      },
+      {
+        "text": "Haerin 없인 못 살아 ㅠㅠ",
+        "meaning_ja": "Haerinなしでは生きられない ㅠㅠ",
+        "meaning_en": "I can't live without Haerin ㅠㅠ (crying face)"
+      },
+      {
+        "text": "Haerin, 내 심장에 입주신고!",
+        "meaning_ja": "Haerin、私の心に入居申告！",
+        "meaning_en": "Haerin, register your residency in my heart!"
+      }
     ],
     "MISS_YOU": [
-      "해린아 보고싶어!",
-      "냥냥펀치 맞아도 좋아, 보고싶다!",
-      "강해린 얼른 와!",
-      "해린 없인 못 살아ㅠㅠ",
-      "고양이 보고싶다!"
+      {
+        "text": "해린 is 뭔들",
+        "meaning_ja": "ヘリンは何でも(最高)！",
+        "meaning_en": "Haerin is perfect no matter what! (Implying they are missed because they are so good)"
+      },
+      {
+        "text": "보고잡다 냥",
+        "meaning_ja": "会いたいニャン！",
+        "meaning_en": "I miss you, meow! (Haerin is associated with cats!)"
+      },
+      {
+        "text": "Haerin 없인 못 살아 ㅠㅠ",
+        "meaning_ja": "Haerinなしじゃ生きられないよㅠㅠ",
+        "meaning_en": "I can't live without Haerin ㅠㅠ"
+      },
+      {
+        "text": "내 심장 Haerin 땜에 뛴다",
+        "meaning_ja": "私の心臓はHaerinのせいで動く",
+        "meaning_en": "My heart beats because of Haerin. (Implying they are missed because they are so essential)"
+      },
+      {
+        "text": "Haerin 보고 힐링",
+        "meaning_ja": "Haerin見て癒やされる",
+        "meaning_en": "Healing by watching Haerin. (Implying they are missed because they bring joy)"
+      }
     ],
     "PROMISE_FOREVER": [
-      "고양이랑 영원히",
-      "해린냥 뽀에버",
-      "토끼즈 뽀렙",
-      "햄찌해린 사랑해",
-      "평생 해린 편"
+      {
+        "text": "뉴진스럽게 영원히!",
+        "meaning_ja": "ニュージーンズらしく永遠に！",
+        "meaning_en": "NewJeans-style forever! (This implies a wish for Haerin and NewJeans to stay together and true to their unique style forever)"
+      },
+      {
+        "text": "Bunnies랑 뼈를 묻자!",
+        "meaning_ja": "Bunniesと骨を埋めよう！",
+        "meaning_en": "Let's be buried with Bunnies! (A very intense way of saying \"Let's stay together forever\" - implying lifelong dedication to NewJeans fandom.)"
+      },
+      {
+        "text": "혜린 is 뭔들! 영원히 덕질!",
+        "meaning_ja": "ヘリン is 何でも！永遠にオタ活！",
+        "meaning_en": "Haerin is everything! Fandom life forever! (Expresses that Haerin is perfect, and promises to be a dedicated fan forever.)"
+      },
+      {
+        "text": "오구오구 우리 혜린, 평생 쭈욱!",
+        "meaning_ja": "いい子いい子 うちのヘリン、一生ずーっと！",
+        "meaning_en": "Good girl, good girl, our Haerin, forever and ever! (A cute and affectionate way to say Haerin is precious and they'll support her always.)"
+      },
+      {
+        "text": "혜린 is 내 별, 영원히 빛나줘!",
+        "meaning_ja": "ヘリン is 私の星、永遠に輝いて！",
+        "meaning_en": "Haerin is my star, shine forever! (Expresses Haerin's importance to the fan and a wish for her continued success.)"
+      }
     ],
     "CONGRAT_BDAY": [
-      "해린아, 생일 축하해!",
-      "고양이 공주님 탄신일!",
-      "탱냥이 햅삐 버쓰데이!",
-      "강냥이, 태어나줘서 고마워!",
-      "해린 is 뭔들! 햅삐절!"
+      {
+        "text": "해린 is 뭔들",
+        "meaning_ja": "ヘリンは何でも最高！",
+        "meaning_en": "Haerin is good at everything! (lit. 'Haerin is whatever, it's all good!')"
+      },
+      {
+        "text": "냥냥펀치! 심장어택!",
+        "meaning_ja": "ニャンニャンパンチ！心臓アタック！",
+        "meaning_en": "Nyan Nyan Punch! Heart Attack! (referring to Haerin's cat-like resemblance & charming nature)"
+      },
+      {
+        "text": "해린 공주님 만세!",
+        "meaning_ja": "ヘリン姫万歳！",
+        "meaning_en": "Hail Haerin Princess!"
+      },
+      {
+        "text": "Haerin 때문에 내 광대가 승천한다",
+        "meaning_ja": "Haerinのせいで私の頬が上がっちゃう",
+        "meaning_en": "Haerin makes my cheeks rise up (from smiling so much)!"
+      },
+      {
+        "text": "Haerin, 이 미모 실화냐?",
+        "meaning_ja": "Haerin、この美貌はマジ？",
+        "meaning_en": "Haerin, is this beauty for real? (lit. Is this beauty a true story?)"
+      }
     ],
     "CHEER_UP": [
-      "해린아, 쨔냥해!",
-      "고양이 파워!",
-      "냥냥펀치!",
-      "강해린 최고!",
-      "토끼즈 응원!"
+      {
+        "text": "Haerin is 뭔들",
+        "meaning_ja": "Haerinは何でも最高！",
+        "meaning_en": "Everything Haerin does is amazing! (Lit: \"Haerin is whatever, it's all good!\")"
+      },
+      {
+        "text": "Haerin 보고 텐션 UP!",
+        "meaning_ja": "Haerinを見たらテンション爆上がり！",
+        "meaning_en": "Seeing Haerin instantly lifts my spirits! (Tension UP = Energy Up)"
+      },
+      {
+        "text": "Haerin 덕분에 행복회로 풀가동",
+        "meaning_ja": "Haerinのおかげで幸せ回路フル稼働！",
+        "meaning_en": "Haerin makes my happy circuits run at full speed! (Happiness Circuit at full operation)"
+      },
+      {
+        "text": "Haerin이즈 뭔들, 무야호!",
+        "meaning_ja": "Haerinは最高、ムヤホ！(やったー！)",
+        "meaning_en": "Haerin is the best, Muyeo-ho! (Woohoo!) (Muyeo-ho is from an old Korean comedy show and expresses excitement)"
+      },
+      {
+        "text": "Haerin, 내 심장에 과몰입 완.",
+        "meaning_ja": "Haerin、私の心臓に過度没入完了。",
+        "meaning_en": "Haerin, I'm completely obsessed with you! (Lit: Haerin, over-immersion complete in my heart)"
+      }
     ],
     "PRAISE_GOD": [
-      "해린 신이다",
-      "갓냥이 강림",
-      "해린이 곧 법",
-      "냥신 Haerin",
-      "천상 해린님"
+      {
+        "text": "갓해린",
+        "meaning_ja": "神ヘリン様",
+        "meaning_en": "God Haerin"
+      },
+      {
+        "text": "해린냥이 미쳤다!",
+        "meaning_ja": "ヘリンニャンコ、マジヤバい！",
+        "meaning_en": "Haerin Nyan-i is insane/crazy good! (냥이 emphasizes cuteness)"
+      },
+      {
+        "text": "해린 is 뭔들",
+        "meaning_ja": "ヘリンは何でもアリ！",
+        "meaning_en": "Haerin is good at anything! (뭔들 = \"anything/everything\")"
+      },
+      {
+        "text": "해린 공주님 만세!",
+        "meaning_ja": "ヘリン姫、万歳！",
+        "meaning_en": "Hail Haerin Princess!"
+      },
+      {
+        "text": "얼굴이 복지다, 해린!",
+        "meaning_ja": "顔面が福祉だ、ヘリン！",
+        "meaning_en": "Your face is welfare, Haerin! (Meaning: Your visuals are a blessing.)"
+      }
     ],
     "PRAISE_VISUAL": [
-      "갓냥이 미모 미쳤다!",
-      "해린 is 뭔들!",
-      "강해린 얼굴이 복지다",
-      "냥냥펀치! 尊い!",
-      "해린아, 존재가 예술"
+      {
+        "text": "갓기 고양이",
+        "meaning_ja": "神の子猫ちゃん",
+        "meaning_en": "God-tier Kitten (Emphasizing her baby-like features and cat-like visuals)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉だ",
+        "meaning_en": "Your face is welfare (Meaning her beauty is a blessing to behold)"
+      },
+      {
+        "text": "비주얼 미쳤다",
+        "meaning_ja": "ビジュアル狂ってる",
+        "meaning_en": "Her visuals are insane!"
+      },
+      {
+        "text": "인간 명품",
+        "meaning_ja": "人間名品",
+        "meaning_en": "Human luxury brand (Meaning her visuals are as exquisite as a luxury item)"
+      },
+      {
+        "text": "천상 아이돌",
+        "meaning_ja": "天上アイドル",
+        "meaning_en": "Heaven-sent idol (Meaning she is naturally made to be an idol)"
+      }
     ],
     "PRAISE_FACE": [
-      "갓냥이 얼굴 복지!",
-      "해린 얼굴이 곧 법!",
-      "얼굴 천재 강해린!",
-      "해린 미모에 치얼스",
-      "냥냥이 얼굴 만세!"
+      {
+        "text": "갓기 고양이",
+        "meaning_ja": "神の子猫ちゃん (顔が神がかってる子猫ちゃん)",
+        "meaning_en": "God-tier Kitten (A baby kitten whose looks are godly)"
+      },
+      {
+        "text": "천상계 미모",
+        "meaning_ja": "天上界の美貌 (次元が違う美貌)",
+        "meaning_en": "Ethereal Beauty (Beauty from another dimension)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉 (顔を見るだけで癒される)",
+        "meaning_en": "Her face is welfare (Her face is healing)"
+      },
+      {
+        "text": "인간 명품",
+        "meaning_ja": "人間名品 (生まれつきの美しさ)",
+        "meaning_en": "Human Luxury Brand (Born with luxury visuals)"
+      },
+      {
+        "text": "비주얼 쇼크",
+        "meaning_ja": "ビジュアルショック (美しすぎて衝撃)",
+        "meaning_en": "Visual Shock (Shockingly beautiful)"
+      }
     ],
     "REQ_HEART": [
-      "해린아, 🫶 줘!",
-      "고양이 🫶 발사!",
-      "강냥이 🫶 해줘!",
-      "해린 🫶 필살기!",
-      "내 심장에 🫶!"
+      {
+        "text": "해린 is 뭔들!",
+        "meaning_ja": "ヘリンは何でも最高！",
+        "meaning_en": "Haerin is good no matter what! (Expressing that Haerin is amazing in any situation.)"
+      },
+      {
+        "text": "냥냥 is 뭔들!",
+        "meaning_ja": "ニャンニャンは何でも最高！",
+        "meaning_en": "Haerin's meow is amazing no matter what! (Referring to Haerin's cat-like resemblance)"
+      },
+      {
+        "text": "심멎! 해린 핑거하트 직캠 시급!",
+        "meaning_ja": "心停止！ヘリンのフィンガーハートのチッケム至急！",
+        "meaning_en": "Heart attack! We need Haerin's finger heart fancam ASAP! (Urgency/Excitement)"
+      },
+      {
+        "text": "해린 공주 냅다 키링 각!",
+        "meaning_ja": "ヘリン姫、迷わずキーホルダーにする勢い！",
+        "meaning_en": "Haerin princess, I'd make her a keyring without hesitation! (Showing extreme love and adoration, jokingly wanting to keep her close.)"
+      },
+      {
+        "text": "해린 is 뭔들 뭔들 뭔들 is 뭔들!",
+        "meaning_ja": "ヘリンは何でも最高、何でも最高、何でも最高！",
+        "meaning_en": "Haerin is amazing no matter what, no matter what, no matter what! (Emphasizing that Haerin is good in all situations.)"
+      }
     ],
     "HEALTH_EAT": [
-      "해린, 맛잘알!",
-      "고양이 냥냥 맛밥!",
-      "밥심으로 찢어!",
-      "해린 공주님 만수무강!",
-      "황금 막내 잘 먹어!"
+      {
+        "text": "혅냥이 맛잘알 인정!",
+        "meaning_ja": "ヘリン、美味しいもの知ってるの認める！",
+        "meaning_en": "Haerin knows good food, 인정! ( 인정 = I acknowledge/approve)"
+      },
+      {
+        "text": "냥냥이 먹방 기대된다!",
+        "meaning_ja": "ヘリンのモッパン楽しみ！",
+        "meaning_en": "Can't wait for Haerin's mukbang! (먹방 = Eating broadcast/show)"
+      },
+      {
+        "text": "입짧냥 맛도리만 먹어!",
+        "meaning_ja": "ヘリンは少食だけど美味しいものだけ食べる！",
+        "meaning_en": "Even though Haerin doesn't eat much, she only eats the best (맛도리= very delicious things)!"
+      },
+      {
+        "text": "오늘도 냥냥이 덕분에 힐링푸드!",
+        "meaning_ja": "今日もヘリンのおかげで癒やしフード！",
+        "meaning_en": "Thanks to Haerin, today is another day with healing food!"
+      },
+      {
+        "text": "냥멘! 맛있는거 많이 먹고 힘내!",
+        "meaning_ja": "ヘリンアーメン！美味しいものたくさん食べて頑張って！",
+        "meaning_en": "Nyamen! (Haerin Amen!) Eat lots of delicious things and 힘내! (cheer up/stay strong!)"
+      }
     ],
     "HEALTH_CARE": [
-      "해린냥 감기 훠이!",
-      "강냥이 아프면 안돼!",
-      "해린아, 건강 제일!",
-      "감기 꺼져! 냥펀치!",
-      "해린 is 뭔들, 건강필수!"
+      {
+        "text": "햬린 감기 뚝!",
+        "meaning_ja": "ヘリン、風邪なんか吹っ飛ばせ！",
+        "meaning_en": "Haerin, kick that cold's butt! (Emphasizing getting rid of a cold)"
+      },
+      {
+        "text": "냥냥펀치 감기 훠이훠이!",
+        "meaning_ja": "ニャンニャンパンチで風邪を追い払え！",
+        "meaning_en": "Nyan Nyan Punch that cold away! (Using Haerin's cat-like image with a cute/playful way to get rid of cold.)"
+      },
+      {
+        "text": "토끼파워 충전 완료! 감기 조심해!",
+        "meaning_ja": "ウサギパワー充電完了！風邪に気をつけて！",
+        "meaning_en": "Rabbit power fully charged! Be careful not to catch a cold! (Referencing Bunnies - NewJeans Fandom Name)"
+      },
+      {
+        "text": "아프지망고, 햬린!",
+        "meaning_ja": "辛いマンゴーにならないで、ヘリン！",
+        "meaning_en": "Don't be a hurting mango, Haerin! (Playful way of saying \"Don't be sick\" using \"아프지마\" sounds similar to \"아프지망고\". 망고 (Mango) is used as an icon of sweetness.)"
+      },
+      {
+        "text": "건강길만 걸어, 햬린아!",
+        "meaning_ja": "健康な道だけを歩んでね、ヘリン！",
+        "meaning_en": "Only walk the path of health, Haerin! (Wishing Haerin good health and well-being)"
+      }
     ],
     "GREET_JOB": [
-      "냥냥이 수고했어!",
-      "강냥이 푹 쉬어!",
-      "해린 최고였어!",
-      "고생했냥!",
-      "해린아, 덕분에 힐링!"
+      {
+        "text": "고생했Haerin (고생했어 + Haerin)",
+        "meaning_ja": "ハリンちゃん、お疲れ様！(本当によく頑張ったね)",
+        "meaning_en": "Haerin, you worked hard! (You really did a great job!)"
+      },
+      {
+        "text": "냥냥펀치 날려줘! (힘내라는 의미)",
+        "meaning_ja": "ニャンニャンパンチで魅せて！(頑張って！)",
+        "meaning_en": "Show us your 'nyangnyang punch'! (Hang in there/Do your best!) - *Referring to Haerin's cat-like features and encouraging energy.*"
+      },
+      {
+        "text": "Haerin is 뭔들 (Haerin is 뭔들 is 뭔들 안 예쁘겠어)",
+        "meaning_ja": "ハリンちゃんは何でも可愛い！(全部が最高！)",
+        "meaning_en": "Haerin is 'anything'! (Everything about her is amazing!) - *Expressing she looks good doing anything.*"
+      },
+      {
+        "text": "Haerin 덕분에 내 심장이 콩닥콩닥",
+        "meaning_ja": "ハリンちゃんのおかげで私の心臓はドキドキ",
+        "meaning_en": "Haerin, you make my heart go 'kongdak kongdak'! - *Expressing excitement and admiration.*"
+      },
+      {
+        "text": "Haerin 길만 걸어! (꽃길만 걸으라는 의미)",
+        "meaning_ja": "ハリンちゃん、花の道だけを歩んで！",
+        "meaning_en": "Haerin, only walk the flower path! - *Wishing her only success and happiness.*"
+      }
     ]
   },
   "Hyein": {
     "LOVE_GENERAL": [
-      "막내온탑 혜인 사랑해!",
-      "강아지 혜인, 짱!",
-      "혝냥이 최고존엄!",
-      "혜인 없인 못 살아",
-      "내 별 혜인아!"
+      {
+        "text": "혬깅이 짱!",
+        "meaning_ja": "ヘインちゃんマジ最高！",
+        "meaning_en": "Hyein is the best! (Literally, \"Hyein-baby is the best!\")"
+      },
+      {
+        "text": "막내온탑 혬!",
+        "meaning_ja": "末っ子オンタプ ヘイン！",
+        "meaning_en": "Maknae on top Hyein! (Maknae = youngest member. On top = ruling/best)"
+      },
+      {
+        "text": "갓기혬 사랑해!",
+        "meaning_ja": "天使へイン、愛してる！",
+        "meaning_en": "I love you, baby goddess Hyein! (갓기/Gatgi is a term for someone angelic and young)"
+      },
+      {
+        "text": "혬냥이 귀여워!",
+        "meaning_ja": "ヘインにゃん、可愛い！",
+        "meaning_en": "Hyein-nyang (like meow) is so cute! (Adding \"냥이\" to someone's name makes them sound like a cute kitty)"
+      },
+      {
+        "text": "이heyn모heyn (이혜인모혜인)",
+        "meaning_ja": "イヘインは、すべてがイヘイン",
+        "meaning_en": "Lee Hyein is all there is! (Playing on her name, expressing that all is Hyein and nothing else matters)"
+      }
     ],
     "LOVE_DEEP": [
-      "토끼깅, 격하게 아낀다!",
-      "막내온탑 혜인, 찐사랑!",
-      "ㅔ이니, 우주최강 귀요미!",
-      "혜인아, 벅차오른다…",
-      "강아지상 막내, 뼈를 묻을게!"
+      {
+        "text": "혱랑둥이",
+        "meaning_ja": "ヘリンかわいい子 (ヘリン可愛い子)",
+        "meaning_en": "Hyein, you cute dumpling! (Referring to Hyein as a beloved, adorable person)"
+      },
+      {
+        "text": "막내온탑",
+        "meaning_ja": "末っ子が最強 (末っ子が最強)",
+        "meaning_en": "The maknae is on top! (Highlighting Hyein's power and presence as the youngest)"
+      },
+      {
+        "text": "갓기혜인",
+        "meaning_ja": "神ベイビーヘイン (神ベイビーヘイン)",
+        "meaning_en": "God Baby Hyein! (Emphasizing Hyein's angelic and incredibly talented nature)"
+      },
+      {
+        "text": "혱프리티",
+        "meaning_ja": "ヘインプリティー (ヘインプリティー)",
+        "meaning_en": "Hyein Pretty! (A simple, direct, and catchy way to say Hyein is pretty)"
+      },
+      {
+        "text": "사랑둥혜인",
+        "meaning_ja": "愛され子のヘイン (愛され子のヘイン)",
+        "meaning_en": "Lovable Hyein! (Expressing deep affection and the idea that Hyein is loved by everyone.)"
+      }
     ],
     "REQ_MARRY": [
-      "혜인아, 나 주거!",
-      "애기야, 혼인신고♥",
-      "막냉이랑 살자!",
-      "혜인아, 내 심장 가져",
-      "이혜인, 내 운명💍"
+      {
+        "text": "혜인아 내 심장 훔쳐 갔어!",
+        "meaning_ja": "恵仁ちゃん、私の心を盗んで行った！",
+        "meaning_en": "Hyein, you stole my heart! (Implies: marry me so you can keep it)"
+      },
+      {
+        "text": "혜며들다…결혼…해야겠다…",
+        "meaning_ja": "恵仁にハマる…結婚…しないと…",
+        "meaning_en": "Falling for Hyein… I have to…marry her… (Self-explanatory)"
+      },
+      {
+        "text": "혜인 없인 못 살아! 책임져!",
+        "meaning_ja": "恵仁なしでは生きられない！責任取って！",
+        "meaning_en": "I can't live without Hyein! Take responsibility! (Indirectly asks for marriage)"
+      },
+      {
+        "text": "나 혜인이랑 운명이야! 빼박캔트!",
+        "meaning_ja": "私、恵仁ちゃんと運命だ！絶対無理！",
+        "meaning_en": "Hyein and I are destined! No way out! (Implies: destined to marry)"
+      },
+      {
+        "text": "혜인 is 뭔들… 내 신부…",
+        "meaning_ja": "恵仁はなんでも好き… 私の花嫁…",
+        "meaning_en": "Hyein is perfect no matter what… My bride… (Directly expresses desire for Hyein to be their bride)"
+      }
     ],
     "MISS_YOU": [
-      "햇살 혜인 보고파!",
-      "막내 토끼, 보고 싶엉!",
-      "강아지 혜인…내 심장ㅠㅠ",
-      "혜인 없인 못 살아!",
-      "보고 싶다, 혦!"
+      {
+        "text": "혅깅 보고 싶다 ㅠ",
+        "meaning_ja": "ヘインちゃんに会いたいよ 泣",
+        "meaning_en": "Hyein-ie, I miss you ㅠ (crying emoji)!"
+      },
+      {
+        "text": "혅냥이 보러 광야 갈게!",
+        "meaning_ja": "ヘインニャンコに会いに荒野に行くね！",
+        "meaning_en": "I'm going to Kwangya to see Hyein-nyang (Hyein kitty)!"
+      },
+      {
+        "text": "혜인 없인 못 살아 엉엉",
+        "meaning_ja": "ヘインなしでは生きていけないよ 泣泣",
+        "meaning_en": "I can't live without Hyein, waaaah!"
+      },
+      {
+        "text": "혜며들다 보니 혅며들었네...",
+        "meaning_ja": "ヘインに染み込んでたら、いつの間にかヘインに夢中になってた…！",
+        "meaning_en": "I started being influenced by Hyein, and now I'm completely Hyein-ed (obsessed)!"
+      },
+      {
+        "text": "혜인이 내 비타민 ㅠㅠ",
+        "meaning_ja": "ヘインは私のビタミン 泣泣",
+        "meaning_en": "Hyein is my vitamin ㅠㅠ!"
+      }
     ],
     "PROMISE_FOREVER": [
-      "혡아 쭈욱!",
-      "막내온탑 영원히!",
-      "혜인아 꽃길만!",
-      "토끼혜인 뽀에버",
-      "평생 혡랑해!"
+      {
+        "text": "혘프듀",
+        "meaning_ja": "ヘインプロデュース (ずっとヘインを応援する)",
+        "meaning_en": "Hyein Produce (Always supporting Hyein)"
+      },
+      {
+        "text": "Hyein 맘찍",
+        "meaning_ja": "ヘインにいいね連打 (ヘインにいつも'いいね'するよ!)",
+        "meaning_en": "Hyein Like Spam (Always 'liking' Hyein!)"
+      },
+      {
+        "text": "Hyein 꽃길만 걸어",
+        "meaning_ja": "ヘイン、いつも幸せな道だけを歩んで (ヘインがいつも幸せでありますように)",
+        "meaning_en": "Hyein, walk only on flower paths (May Hyein always walk a happy path)"
+      },
+      {
+        "text": "Hyein 없인 못 살아",
+        "meaning_ja": "ヘインなしでは生きられない (ヘインがいないと生きていけない)",
+        "meaning_en": "Can't live without Hyein (I can't live without Hyein)"
+      },
+      {
+        "text": "Hyein 내꺼",
+        "meaning_ja": "ヘインは私のもの (ヘインは私だけのもの)",
+        "meaning_en": "Hyein is mine (Hyein is only mine)"
+      }
     ],
     "CONGRAT_BDAY": [
-      "아기토끼 생일축!",
-      "혱탄절 경축🎉",
-      "막냉이 혱랑해🎂",
-      "혜인아, 태어나줘서💖",
-      "기적의 갓기 혱탄신일!"
+      {
+        "text": "혙냥이 탄신일!",
+        "meaning_ja": "ヘリン赤ちゃん誕生日！",
+        "meaning_en": "Hyein baby's birthday! (Emphasizes her youthful energy and cuteness)"
+      },
+      {
+        "text": "막내온탑 혙!",
+        "meaning_ja": "末っ子が一番！ヘイン！",
+        "meaning_en": "Maknae on top, Hyein! (Referring to Hyein being the youngest but still extremely talented)"
+      },
+      {
+        "text": "혙토끼 생일 츄카해!",
+        "meaning_ja": "ヘリンウサギ 誕生日おめでとう！",
+        "meaning_en": "Happy birthday, Hyein-rabbit! (Playful use of her animal emoji)"
+      },
+      {
+        "text": "혙프냥이 생일 케이크 먹방 가즈아!",
+        "meaning_ja": "ヘリン猫ちゃん 誕生日ケーキ モッパン 行こう！",
+        "meaning_en": "Hyein-cat, let's go for birthday cake mukbang! (Blending cat and baby imagery for her, and suggesting celebratory eating)"
+      },
+      {
+        "text": "갓기혙 생일 축복해!",
+        "meaning_ja": "天使ヘイン 誕生日おめでとう！",
+        "meaning_en": "Bless you, baby Hyein on your birthday! (Expressing adoration and blessing on her birthday)"
+      }
     ],
     "CHEER_UP": [
-      "current)토끼, 힘내!",
-      "막내온탑!",
-      "혜인아, 최고다!",
-      "사랑해, 혜인아!",
-      "갓기, 응원해!"
+      {
+        "text": "막내온탑 혜인",
+        "meaning_ja": "末っ子最強ヘイン！",
+        "meaning_en": "Hyein, the youngest, yet on top! (Implies she's killing it despite being the youngest)"
+      },
+      {
+        "text": "혜인 is 뭔들",
+        "meaning_ja": "ヘインは何でも最高！",
+        "meaning_en": "Hyein makes everything look good! (lit. \"Hyein is whatever-dle\" - 뭔들 means anything, implying she can pull anything off)"
+      },
+      {
+        "text": "혜인 폼 미쳤다",
+        "meaning_ja": "ヘイン、マジでイケてる！",
+        "meaning_en": "Hyein, she's killing it! (lit. \"Hyein's form is crazy\" - 폼 미쳤다 is trendy slang for looking amazing)"
+      },
+      {
+        "text": "갓기 혜인",
+        "meaning_ja": "天使ベイビー、ヘイン",
+        "meaning_en": "Angel baby, Hyein! (갓기 is slang for a baby who is extremely adorable/god-like)"
+      },
+      {
+        "text": "혜며들다",
+        "meaning_ja": "ヘインにハマっちゃった",
+        "meaning_en": "I'm falling for Hyein! (혜며들다 is a play on words of 스며들다, meaning to seep in, but with 혜인)"
+      }
     ],
     "PRAISE_GOD": [
-      "갓 막내 혜인!",
-      "혬신강림!",
-      "혜인아, 신이야!",
-      "울 혬 최고존엄!",
-      "혜인, 존재가 신!"
+      {
+        "text": "막내온탑 혜인",
+        "meaning_ja": "末っ子が最強 恵仁",
+        "meaning_en": "Hyein, the youngest is at the top! (Meaning she's the best despite being the youngest)"
+      },
+      {
+        "text": "혅깅이 멈뭄미",
+        "meaning_ja": "ヘインちゃんわんこみたい",
+        "meaning_en": "Hyein is like a puppy! (Cute and endearing)"
+      },
+      {
+        "text": "혜인 is 뭔들",
+        "meaning_ja": "恵仁は何でも最高",
+        "meaning_en": "Hyein is amazing no matter what she does! (\"Whatever Hyein does is good/awesome\")"
+      },
+      {
+        "text": "갓기혜인",
+        "meaning_ja": "神の子恵仁",
+        "meaning_en": "God Baby Hyein"
+      },
+      {
+        "text": "혜인아 데뷔해줘서 코맙습니다",
+        "meaning_ja": "恵仁、デビューしてくれてありがとうございます",
+        "meaning_en": "Hyein, thank you for debuting!"
+      }
     ],
     "PRAISE_VISUAL": [
-      "갓기혜인 존예!",
-      "막내온탑 비주얼 미쳤다!",
-      "혜인 얼굴이 복지다",
-      "이혜인 미모 실화냐?",
-      "ㅔ인아, 누나가 뼈를 묻을게!"
+      {
+        "text": "혅깅아 내 심장 책임져",
+        "meaning_ja": "ヘインちゃん、私の心臓を責任取って！",
+        "meaning_en": "Hyein, take responsibility for my heart! (You stole it!)"
+      },
+      {
+        "text": "혅며들다",
+        "meaning_ja": "ヘインに染まる",
+        "meaning_en": "Hyein is permeating my life (I'm falling for Hyein)"
+      },
+      {
+        "text": "갓기혜인",
+        "meaning_ja": "天使のようなヘインちゃん",
+        "meaning_en": "God-Baby Hyein (Hyein is like a baby goddess)"
+      },
+      {
+        "text": "혅깅 뭔들",
+        "meaning_ja": "ヘインちゃんは何でも最高",
+        "meaning_en": "Hyein is perfect no matter what she does."
+      },
+      {
+        "text": "혜인 is 뭔들",
+        "meaning_ja": "ヘインは何でも尊い",
+        "meaning_en": "Hyein is precious no matter what."
+      }
     ],
     "PRAISE_FACE": [
-      "혜인 얼굴이 복지다",
-      "갓기 미모 미쳤다",
-      "막내 얼굴이 국보",
-      "얼굴 천재 강해린",
-      "혜인 is 뭔들"
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉だ",
+        "meaning_en": "Her face is welfare (meaning it's so good, it's a public good)"
+      },
+      {
+        "text": "갓기 비주얼",
+        "meaning_ja": "神童ビジュアル",
+        "meaning_en": "God baby visual (refers to Hyein's youthful and stunning looks)"
+      },
+      {
+        "text": "혜인이즈뭔들",
+        "meaning_ja": "ヘインイズ何でも良い",
+        "meaning_en": "Hyein is good at everything (meaning she slays no matter what)"
+      },
+      {
+        "text": "천상계 미모",
+        "meaning_ja": "天上界の美貌",
+        "meaning_en": "Ethereal beauty (her beauty is from the heavens)"
+      },
+      {
+        "text": "얼굴천재 만재 킹왕짱",
+        "meaning_ja": "顔面天才満載キング王様最高",
+        "meaning_en": "Face genius, fully loaded, king, ruler, the best"
+      }
     ],
     "REQ_HEART": [
-      "아기토끼 햿! 하트 뿅뿅!",
-      "막내온탑 햿! 하트 날려줘!",
-      "혜인아! 손하트 🫶 해줘!",
-      "우리 햿깅이 하트 발사!",
-      "혧냥아! 심장에 하트 박아줘!"
+      {
+        "text": "혤깅 손민수템 🥰",
+        "meaning_ja": "ヘリンちゃんの真似っこアイテム、ゲット！",
+        "meaning_en": "Hyein unnie's coveted item, I got it! (Expressing wanting to own/copy Hyein's style and showing love with emojis.)"
+      },
+      {
+        "text": "혤깅이 is 뭔들 🫶",
+        "meaning_ja": "ヘリンちゃんは何でも最高！",
+        "meaning_en": "Hyein, anything she does is amazing! (Emphasis on adoration and sending a heart gesture.)"
+      },
+      {
+        "text": "혤깅 보고 심쿵사 💘",
+        "meaning_ja": "ヘリンを見てキュン死！",
+        "meaning_en": "Heart attack from seeing Hyein! (Exaggerated expression of being overwhelmed by Hyein's cuteness/beauty, combined with heart.)"
+      },
+      {
+        "text": "막내온탑 혤깅 💖",
+        "meaning_ja": "末っ子最強ヘリン！",
+        "meaning_en": "Hyein, the youngest is the best! (Highlighting Hyein being the youngest member and showing her dominance with a heart.)"
+      },
+      {
+        "text": "혤깅아 내 별다줄 ✨",
+        "meaning_ja": "ヘリン、私の全部あげる！",
+        "meaning_en": "Hyein, I give you everything! (Expressing intense devotion and willingness to give anything to Hyein, symbolized by the 별다줄/byeoldajul trend.)"
+      }
     ],
     "HEALTH_EAT": [
-      "아기토끼 맘마!",
-      "formatted인아 밥길만!",
-      "막내온탑 맛저!",
-      "밥혜인 파워혜인!",
-      "토끼 공주 냠냠!"
+      {
+        "text": "혙깅 맛잘알!",
+        "meaning_ja": "ヘインちゃん、美味しいものいっぱい知ってるね！",
+        "meaning_en": "Hyein knows all the best places to eat! (Implying she has great taste and should eat well)."
+      },
+      {
+        "text": "혙냥 밥길만 걸어!",
+        "meaning_ja": "ヘイン、美味しいご飯だけ食べて幸せになってね！",
+        "meaning_en": "Hyein, only walk the path of delicious food! (Meaning, only experience happiness and good things)."
+      },
+      {
+        "text": "혙또먹!",
+        "meaning_ja": "ヘイン、また食べよう！(オススメだよ！)",
+        "meaning_en": "Hyein, eat it again! (It's good for you! Recommendation vibes.)"
+      },
+      {
+        "text": "혙복하세요! (맛있는거 먹고)",
+        "meaning_ja": "ヘイン、美味しいもの食べて幸せになってね！",
+        "meaning_en": "Be Hyein-py! (Get Hyein-happy eating delicious things!) (Short for \"Hyein-style Happiness,\" implying joy comes from good food)"
+      },
+      {
+        "text": "혙며들다 (맛있는 거에)",
+        "meaning_ja": "ヘインにハマる(美味しいものみたいに)",
+        "meaning_en": "Falling for Hyein (like falling for delicious food!) (Meaning she's irresistible and delightful like good food)."
+      }
     ],
     "HEALTH_CARE": [
-      "아기토끼 아프지마!",
-      "막내온탑 감기 뚝!",
-      "PropertyInfo, 혜인 꽃길만 걸어!",
-      "햇살 혜인 건강 제일!",
-      "우리 막내 토끼 건강해!"
+      {
+        "text": "혘냥이 감기 조심해!",
+        "meaning_ja": "ヘインニャンコ、風邪に気をつけてね！",
+        "meaning_en": "Hyein-nyang, be careful not to catch a cold! (Adding a cute \"nyang\" sound for Hyein)"
+      },
+      {
+        "text": "혬깅이 아프지망고!",
+        "meaning_ja": "ヘムギ、痛いのはマンゴーみたいにバイバイ！",
+        "meaning_en": "Hemgi, don't be sick, bye-bye like a mango! (Hyein + 아프지마 (don't be sick) + 망고 (mango))"
+      },
+      {
+        "text": "막냉이 꽃길만 걸어!",
+        "meaning_ja": "末っ子ちゃん、お花道だけを歩んでね！",
+        "meaning_en": "Our maknae, walk only on flower paths! (Focus on her future health and happiness)"
+      },
+      {
+        "text": "혬! 건강 제일 챙겨!",
+        "meaning_ja": "ヘイン！健康が一番大事だよ！",
+        "meaning_en": "Hyein! Take care of your health the most! (Direct and supportive.)"
+      },
+      {
+        "text": "우래기 아프면 안돼잉!",
+        "meaning_ja": "うちのベイビー、具合が悪くなっちゃダメだよ！",
+        "meaning_en": "Our baby, you can't be sick! (A very affectionate and concerned phrase.)"
+      }
     ],
     "GREET_JOB": [
-      "막내온탑 수고했어!",
-      "아기토끼 고생했어!",
-      "threshold린이 최고다!",
-      "threshold린 덕분이야!",
-      "강아지 수고했어!"
+      {
+        "text": "막내온탑 혜인",
+        "meaning_ja": "末っ子最強へイン",
+        "meaning_en": "Hyein the maknae on top! (Youngest is the best!)"
+      },
+      {
+        "text": "혤깅이 최고존엄",
+        "meaning_ja": "ヘリン様マジ尊い",
+        "meaning_en": "Hyelin-ie is the ultimate supreme being!"
+      },
+      {
+        "text": "혜인 is 뭔들",
+        "meaning_ja": "ヘインは何でも最高",
+        "meaning_en": "Hyein is good at everything! / Hyein can do anything!"
+      },
+      {
+        "text": "갓기혜인",
+        "meaning_ja": "天使へイン",
+        "meaning_en": "Baby Hyein is a god! (Innocent & adorable Hyein)"
+      },
+      {
+        "text": "혜인 사랑하면 깅생역전",
+        "meaning_ja": "ヘインを愛せば人生大逆転",
+        "meaning_en": "Loving Hyein is a life changer! (Love Hyein and your life will turn around!)"
+      }
     ]
   }
 }

@@ -19,7 +19,6 @@
     <meta name="keywords" content="K-POP, 推し活, 応援ボード, うちわ文字, スローガン, 韓国語, Nomujoa">
     <meta name="author" content="Nomujoa">
 
-    <!-- [변경 1] 파비콘(Favicon) 추가 -->
     <link rel="shortcut icon" href="/static/images/favicon.ico">
     <link rel="icon" href="/static/images/favicon.ico">
 
@@ -27,7 +26,6 @@
     <meta property="og:url" content="https://nomujoa.com/">
     <meta property="og:title" content="🇰🇷 Nomujoa - K-POP Cheering Board Maker">
     <meta property="og:description" content="AI가 당신의 마음을 '최애'가 좋아하는 한국어 밈으로 번역해드립니다.">
-    <!-- og:image는 필요하다면 나중에 로고나 전용 배너 이미지로 교체하세요 -->
     <meta property="og:image" content="https://nomujoa.com/static/images/og_image.png">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="https://nomujoa.com/static/images/og_image.png">
@@ -45,7 +43,6 @@
         
         header { position: relative; margin-bottom: 30px; padding-top: 10px; min-height: 120px; }
         
-        /* h1 스타일 유지하되, 이미지가 들어갈 공간 확보 */
         h1 { margin: 0 0 10px 0; display: flex; justify-content: center; align-items: center; }
         
         main { min-height: 500px; }
@@ -68,7 +65,17 @@
         <link rel="stylesheet" href="/static/css/style.min.css">
     </noscript>
 
+    <!-- [핵심] Flask에서 넘겨준 그룹 데이터를 JS 변수로 선언 -->
+    <script>
+        window.GROUP_DATA = {{ group_data | tojson | safe }};
+        window.kpopData = window.GROUP_DATA;
+    </script>
+
+    <!-- JS 지연 로딩 -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fabric.js/5.3.1/fabric.min.js" defer></script>
+    <script src="/static/js/data.js" defer></script>
+    <script src="/static/js/canvas.js" defer></script>
+    <script src="/static/js/main.js" defer></script>
 </head>
 
 <body>
@@ -83,11 +90,8 @@
                 </select>
             </div>
 
-            <!-- [변경 2] 텍스트 대신 로고 이미지 사용 -->
-            <!-- logo_h.png (가로형)을 사용하여 헤더에 맞게 배치합니다. -->
-            <!-- style 속성으로 모바일 화면에서도 너무 크지 않게 max-width를 줍니다. -->
             <h1>
-                <img src="/static/images/logo_w.png" alt="Nomujoa" style="max-width: 220px; height: auto;">
+                <img src="/static/images/logo_h.png" alt="Nomujoa" style="max-width: 220px; height: auto;">
             </h1>
             
             <p class="desc" id="t-desc" style="color:#555;">AIが韓国語のファン用語(スラング)に翻訳します✨</p>
@@ -101,12 +105,12 @@
                     <label for="idol-select" id="t-label-group">1. Group & Member</label>
                     <select id="idol-select" onchange="updateMembers()">
                         <option value="">Select Group</option>
-                        <option value="BTS">BTS (防弾少年団)</option>
-                        <option value="IVE">IVE</option>
-                        <option value="NewJeans">NewJeans</option>
-                        <option value="SEVENTEEN">SEVENTEEN</option>
-                        <option value="Stray Kids">Stray Kids</option>
-                        <option value="TWICE">TWICE</option>
+                        <!-- [핵심] Jinja2 템플릿으로 옵션 자동 생성 -->
+                        {% for group_name in group_data %}
+                            {% if group_name != 'General' %}
+                            <option value="{{ group_name }}">{{ group_name }}</option>
+                            {% endif %}
+                        {% endfor %}
                     </select>
                 </div>
 
@@ -211,6 +215,11 @@
                 </div>
 
                 <button class="save-btn" id="t-btn-save" onclick="downloadImage()">💾 画像を保存 (Save Image)</button>
+
+                <button class="secondary-btn" onclick="goBackToSelection()" id="t-btn-back-list" style="margin-top: 10px;">
+                    ↩ Back to List
+                </button>
+
                 <p id="t-txt-save-desc" style="font-size:11px; color:#666; margin-top:10px;">
                     保存した画像はコンビニプリントで印刷できます。<br>(A4サイズ推奨)
                 </p>
@@ -219,30 +228,21 @@
             </section>
         </main>
 
-        <!-- SEO 및 가이드 -->
-        <section style="max-width: 600px; margin: 50px auto 20px auto; padding: 20px; text-align: left; color: #555; background: #fff; border-radius: 15px; font-size: 14px; line-height: 1.6; border: 1px solid #f0f0f0;">
-            <h2 id="t-guide-title" style="color: #333; border-bottom: 2px solid #ff4081; padding-bottom: 10px; margin-bottom: 15px; font-size: 1.17em; font-weight: bold;">
-                🎤 How to use Nomujoa
-            </h2>
-            
-            <p id="t-guide-intro">Nomujoa creates professional K-POP concert slogans...</p>
+        <!-- Footer 영역 -->
+        <footer class="site-footer">
+            <div class="footer-links">
+                <!-- [추가] How to Use 링크 -->
+                <a href="/guide">How to Use</a>
+                <span class="separator">|</span>
+                
+                <a href="/privacy">Privacy Policy</a>
+                <span class="separator">|</span>
+                
+                <a href="https://script.google.com/macros/s/AKfycbw-83hj0ZZiWQqWClJrKpqYmO7CGo60Rm4MjmHia3Ds2oLTroizwXqTkOfXyaf1T3Gy1A/exec" target="_blank" rel="noopener noreferrer">Contact</a>
+            </div>
+            <p class="copyright">&copy; 2024 Nomujoa. All rights reserved.</p>
+        </footer>
 
-            <p><strong id="t-guide-feat-title">✨ Key Features</strong></p>
-            <ul>
-                <li id="t-guide-f1"><strong>AI Translation:</strong> Translates...</li>
-                <li id="t-guide-f2"><strong>Member Specific:</strong> Supports...</li>
-                <li id="t-guide-f3"><strong>Design Editor:</strong> Add cute stickers...</li>
-            </ul>
-
-            <p id="t-guide-keys" style="font-size: 12px; color: #666; margin-top: 20px;">
-                Keywords: ...
-            </p>
-        </section>
     </div>
-
-    <!-- [성능] 자바스크립트 지연 로딩 (defer) -->
-    <script src="/static/js/data.js" defer></script>
-    <script src="/static/js/canvas.js" defer></script>
-    <script src="/static/js/main.js" defer></script>
 </body>
 </html>

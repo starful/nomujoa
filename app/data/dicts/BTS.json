@@ -1,0 +1,3042 @@
+{
+  "All": {
+    "LOVE_GENERAL": [
+      {
+        "text": "덕질",
+        "meaning_ja": "推し活 (おしが)",
+        "meaning_en": "Stan / Fangirling/fanboying"
+      },
+      {
+        "text": "입덕",
+        "meaning_ja": "ファンになること (ふぁんになること)",
+        "meaning_en": "To become a fan / to enter the fandom"
+      },
+      {
+        "text": "최애",
+        "meaning_ja": "一番好きな人 (いちばんすきなひと)",
+        "meaning_en": "Bias / Favorite member"
+      },
+      {
+        "text": "영원히 방탄",
+        "meaning_ja": "永遠にバンタン (えいえんにバンタン)",
+        "meaning_en": "Forever BTS"
+      },
+      {
+        "text": "심멎",
+        "meaning_ja": "心臓が止まる (しんぞうがとまる)",
+        "meaning_en": "Heart Attack (due to being overwhelmed by love or excitement)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "오다주웠다",
+        "meaning_ja": "落ちてた(嘘、あなたのため)",
+        "meaning_en": "Found it on the street (lies, it's for you)"
+      },
+      {
+        "text": "방탄없이는못살아",
+        "meaning_ja": "バンタンなしでは生きられない",
+        "meaning_en": "I can't live without BTS"
+      },
+      {
+        "text": "심장이BTS해",
+        "meaning_ja": "心臓がBTSしてる",
+        "meaning_en": "My heart is BTS-ing (beating fast because of BTS)"
+      },
+      {
+        "text": "입덕부정기는끝났다",
+        "meaning_ja": "入徳否定期は終わった",
+        "meaning_en": "My denial of joining the fandom is over"
+      },
+      {
+        "text": "내통장은 텅장 but 행복해",
+        "meaning_ja": "私の口座は空っぽだけど幸せ",
+        "meaning_en": "My bank account is empty but I'm happy"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "오빠 나 죽어",
+        "meaning_ja": "オッパ、マジ尊い！",
+        "meaning_en": "Oppa, I'm dead (from your amazingness)!"
+      },
+      {
+        "text": "방탄없인 못 살아",
+        "meaning_ja": "防弾少年団なしでは生きられない",
+        "meaning_en": "I can't live without BTS!"
+      },
+      {
+        "text": "내 심장 훔쳐갔어",
+        "meaning_ja": "私の心、盗んでいった",
+        "meaning_en": "You stole my heart!"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉",
+        "meaning_en": "Your face is welfare/a blessing."
+      },
+      {
+        "text": "내 통장 가져요",
+        "meaning_ja": "私の貯金全部あげる！",
+        "meaning_en": "Take all my money!"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "방탄 보고 싶다… 앓다 앓아!",
+        "meaning_ja": "バンタンに会いたい… 病むくらい会いたい！",
+        "meaning_en": "I miss BTS so much… I'm sick with missing them!"
+      },
+      {
+        "text": "탄이들… 내 심장 과부하 ㅠㅠ 보고파!",
+        "meaning_ja": "バンタン… 私の心臓オーバーヒートㅠㅠ 会いたい！",
+        "meaning_en": "BTS… My heart is overloading ㅠㅠ I miss you!"
+      },
+      {
+        "text": "매일매일 떡밥 복습… 그래도 보고 싶어!",
+        "meaning_ja": "毎日毎日供給されるコンテンツを復習… それでも会いたい！",
+        "meaning_en": "I rewatch all the content every single day… but I still miss you!"
+      },
+      {
+        "text": "현망진창… 방탄 보고 싶어서 그래 엉엉",
+        "meaning_ja": "現実世界がめちゃくちゃ… バンタンに会いたいからだよ、しくしく。",
+        "meaning_en": "My real life is a mess… It's because I miss BTS, sob sob."
+      },
+      {
+        "text": "내 통장… 방탄 보러 갈 준비 완료! 빨리 보고 싶어!",
+        "meaning_ja": "私の銀行口座… バンタンに会いに行く準備完了！ 早く会いたい！",
+        "meaning_en": "My bank account… It's ready to go see BTS! I want to see you soon!"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "방탄 맘",
+        "meaning_ja": "防弾の母心",
+        "meaning_en": "BTS Mom (Someone who is extremely protective and supportive of BTS)"
+      },
+      {
+        "text": "텽 (태형) 스럽다",
+        "meaning_ja": "テテっぽい",
+        "meaning_en": "Taehyung-like (Describing something as being characteristic of Taehyung/V of BTS – often meaning stylish, unique, or whimsical)"
+      },
+      {
+        "text": "입덕 부정기",
+        "meaning_ja": "ファンになるのを否定する時期",
+        "meaning_en": "Denial Stage of Becoming a Fan (The initial period where someone refuses to admit they're becoming a fan of BTS)"
+      },
+      {
+        "text": "내 월급 방탄 통장",
+        "meaning_ja": "私の給料は防弾の貯金通帳",
+        "meaning_en": "My paycheck goes straight to BTS (Meaning all your money is spent on BTS related things)"
+      },
+      {
+        "text": "BTS 보고 천국 가세요",
+        "meaning_ja": "BTS見て天国へ行ってください",
+        "meaning_en": "May you go to heaven after seeing BTS (A blessing/well-wishing for extreme happiness and good fortune)"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "오빠, 꽃길만 걸어!",
+        "meaning_ja": "お兄さん、花道だけを歩んで！",
+        "meaning_en": "Oppa, only walk the flower path! (meaning: Wishing you only good things)"
+      },
+      {
+        "text": "탄생 축하 뿅!",
+        "meaning_ja": "誕生おめでとう、ピョン！",
+        "meaning_en": "Happy birthday, pyong! (Pyong is a cute sound effect, like \"boing!\")"
+      },
+      {
+        "text": "덕분에 행복해!",
+        "meaning_ja": "あなたのおかげで幸せ！",
+        "meaning_en": "Thanks to you, I'm happy!"
+      },
+      {
+        "text": "넘넘 축하해!",
+        "meaning_ja": "めっちゃおめでとう！",
+        "meaning_en": "Soooo many congratulations!"
+      },
+      {
+        "text": "우주 뿌셔!",
+        "meaning_ja": "宇宙を壊すほど最高！",
+        "meaning_en": "So good it's like destroying the universe! (Expressing extreme enthusiasm)"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "방탄 사랑둥이",
+        "meaning_ja": "防弾の愛しい子たち",
+        "meaning_en": "BTS, you sweethearts! (lit. BTS's lovable ones)"
+      },
+      {
+        "text": "오빠미 뿜뿜",
+        "meaning_ja": "オッパオーラ全開！",
+        "meaning_en": "Oopa vibe/charm overflowing! (Expressing admiration for their masculine appeal)"
+      },
+      {
+        "text": "덕분에 행복해",
+        "meaning_ja": "あなたたちのおかげで幸せ",
+        "meaning_en": "Thanks to you, I'm happy."
+      },
+      {
+        "text": "입덕 부정은 시간문제",
+        "meaning_ja": "ファンになるのを否定しても時間の問題",
+        "meaning_en": "Denial of becoming a fan is only a matter of time (Implying that anyone who encounters BTS will inevitably become a fan)."
+      },
+      {
+        "text": "내 통장 가져가!",
+        "meaning_ja": "私の貯金箱を持って行って！",
+        "meaning_en": "Take my money! (Expressing willingness to spend money on BTS)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "방탄최고존엄",
+        "meaning_ja": "防弾最高尊厳 (ぼうだんさいこうそんげん)",
+        "meaning_en": "BTS, the ultimate supreme! (Expressing utmost respect and praise)"
+      },
+      {
+        "text": "얼쑤! 지화자!",
+        "meaning_ja": "よっ！めでたい！ (よっ！めでたい！)",
+        "meaning_en": "Hooray! Congratulations! (Celebratory cheer - think of traditional Korean music festivals)"
+      },
+      {
+        "text": "넘사벽 방탄",
+        "meaning_ja": "越えられない壁、防弾 (こえられないかべ、ぼうだん)",
+        "meaning_en": "BTS, the insurmountable wall! (Meaning they are untouchable and legendary)"
+      },
+      {
+        "text": "방탄 is 뭔들",
+        "meaning_ja": "防弾は何でも最高 (ぼうだんはなんでもさいこう)",
+        "meaning_en": "Everything BTS does is amazing! (Expressing unconditional love and support)"
+      },
+      {
+        "text": "국보급 방탄",
+        "meaning_ja": "国宝級 防弾 (こくほうきゅう ぼうだん)",
+        "meaning_en": "BTS, National Treasure level! (Highlighting their importance and value)"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "심장이 웅",
+        "meaning_ja": "心臓がドキドキする！",
+        "meaning_en": "My heart is pounding! (Used when excited by visuals)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉だ！",
+        "meaning_en": "Their face is welfare! (Meaning their beauty is a blessing)"
+      },
+      {
+        "text": "미모 미쳤다",
+        "meaning_ja": "美貌が狂ってる！",
+        "meaning_en": "Their beauty is insane!"
+      },
+      {
+        "text": "비주얼 쇼크",
+        "meaning_ja": "ビジュアルショック！",
+        "meaning_en": "Visual Shock!"
+      },
+      {
+        "text": "존잘탱",
+        "meaning_ja": "超イケメン",
+        "meaning_en": "Super Handsome"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴천재",
+        "meaning_ja": "顔面天才",
+        "meaning_en": "Face Genius (someone with unbelievably gorgeous looks)"
+      },
+      {
+        "text": "비주얼 폭발",
+        "meaning_ja": "ビジュアル爆発",
+        "meaning_en": "Visual Explosion (overwhelming beauty/visuals)"
+      },
+      {
+        "text": "조각미남",
+        "meaning_ja": "彫刻美男",
+        "meaning_en": "Sculpted Beauty (literally, a man who looks like he was sculpted)"
+      },
+      {
+        "text": "넘사벽 비주얼",
+        "meaning_ja": "越えられない壁のビジュアル",
+        "meaning_en": "Impossibly high wall visuals (visuals so good they are unattainable, a level above everyone else)"
+      },
+      {
+        "text": "심장폭행",
+        "meaning_ja": "心臓暴行",
+        "meaning_en": "Heart Attack (so good looking it attacks your heart)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "댓댓댓",
+        "meaning_ja": "それそれそれ！",
+        "meaning_en": "That that that! (Expressing agreement or excitement)"
+      },
+      {
+        "text": "ㅇㄱㄹㅇ (이거 레알)",
+        "meaning_ja": "マジそれな (マジリアル)",
+        "meaning_en": "This is so real (For real)!"
+      },
+      {
+        "text": "방탄 덕분에 내 삶은 르네상스",
+        "meaning_ja": "防弾のおかげで私の人生はルネサンス",
+        "meaning_en": "Thanks to BTS, my life is a renaissance."
+      },
+      {
+        "text": "오빠미 뿜뿜",
+        "meaning_ja": "オッパみダダ漏れ",
+        "meaning_en": "Oozing with oppa charm"
+      },
+      {
+        "text": "입덕 부정기",
+        "meaning_ja": "入徳否定期",
+        "meaning_en": "Period of denial of entering the fandom"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "밥 잘 챙겨 💜",
+        "meaning_ja": "ご飯ちゃんと食べてね💜",
+        "meaning_en": "Make sure to eat well 💜 (This includes the classic purple heart!)"
+      },
+      {
+        "text": "아프지 말고 밥 묵자!",
+        "meaning_ja": "辛い思いせずにご飯食べよう！",
+        "meaning_en": "Let's eat without being sick/sad!"
+      },
+      {
+        "text": "배부르길 바라 🍚",
+        "meaning_ja": "お腹いっぱいになりますように 🍚",
+        "meaning_en": "I hope you get full! (Added rice bowl emoji)"
+      },
+      {
+        "text": "꽃길만 걷고 맛난 거 많이 먹어!",
+        "meaning_ja": "花道だけを歩いて美味しいものいっぱい食べて！",
+        "meaning_en": "Walk only on flower paths and eat lots of delicious things!"
+      },
+      {
+        "text": "건강하게 맛점!",
+        "meaning_ja": "健康に美味しいランチを！",
+        "meaning_en": "Have a healthy and delicious lunch!"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "방탄 건강길만 걷자",
+        "meaning_ja": "バンタン、健康な道だけを歩もう",
+        "meaning_en": "Let's only walk the healthy path, Bangtan! (Wishing them to stay healthy and happy)"
+      },
+      {
+        "text": "아미는 감기 몬한다!",
+        "meaning_ja": "ARMYは風邪ひかない！",
+        "meaning_en": "ARMYs don't get colds! (Cheering for ARMY to stay healthy and support BTS)"
+      },
+      {
+        "text": "오빠들 아프면 맴찢 ㅠㅠ",
+        "meaning_ja": "オッパたちが痛いと胸が痛い ㅠㅠ",
+        "meaning_en": "My heart aches when oppas are sick ㅠㅠ (Expressing concern when BTS members aren't well)"
+      },
+      {
+        "text": "건강 챙겨, 내 가수!",
+        "meaning_ja": "健康に気を付けて、私の歌手！",
+        "meaning_en": "Take care of your health, my artist! (Directly telling them to prioritize their health)"
+      },
+      {
+        "text": "꽃길만 걷고 아프지 마요!",
+        "meaning_ja": "花道だけを歩んで、病気しないでね！",
+        "meaning_en": "Walk only flower paths and don't get sick! (Wishing them happiness and good health)"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "진! 짜! 방! 탄!",
+        "meaning_ja": "マジ！バンタン！",
+        "meaning_en": "Seriously! BTS! (Emphasizes enthusiasm and genuine support)"
+      },
+      {
+        "text": "오빠차 뽑았다 널 데리러 가",
+        "meaning_ja": "(意訳)新しい車買ったから迎えに行くよ！",
+        "meaning_en": "I bought a new car, I'm coming to pick you up! (A playful reference to a popular song, expressing excitement to support BTS)"
+      },
+      {
+        "text": "BTS 맘",
+        "meaning_ja": "バンタンのママ",
+        "meaning_en": "BTS' Mom (Refers to a fan who is very protective and caring of BTS)"
+      },
+      {
+        "text": "입덕 부정기는 끝났다",
+        "meaning_ja": "ファンになるのを認めるしかない！",
+        "meaning_en": "My denial phase of becoming a fan is over! (Humorous way of admitting to being completely drawn into the fandom)"
+      },
+      {
+        "text": "국뽕에 취한다",
+        "meaning_ja": "(意訳)マジで国を誇りに思う！",
+        "meaning_en": "I'm drunk on national pride! (Expresses extreme pride in BTS and their global achievements, using the term \"국뽕\" which refers to excessive national pride)"
+      }
+    ]
+  },
+  "RM": {
+    "LOVE_GENERAL": [
+      {
+        "text": "뇌섹남 (Noe-sek-nam)",
+        "meaning_ja": "脳セクシーな男",
+        "meaning_en": "Brainy and Sexy Man (Compliment for his intelligence and charm)"
+      },
+      {
+        "text": "남준 is 뭔들 (Namjoon is Mwondeul)",
+        "meaning_ja": "ナムジュンは何をしても良い",
+        "meaning_en": "Namjoon can do no wrong / Namjoon is perfect no matter what he does"
+      },
+      {
+        "text": "랩신랩왕 (Raep-sin Raep-wang)",
+        "meaning_ja": "ラップ神ラップ王",
+        "meaning_en": "Rap God, Rap King (Praising his rap skills)"
+      },
+      {
+        "text": "김리더 (Kim-ri-deo)",
+        "meaning_ja": "キムリーダー",
+        "meaning_en": "Kim Leader (Simple appreciation for his leadership)"
+      },
+      {
+        "text": "얼굴천재 (Eol-gul Cheon-jae)",
+        "meaning_ja": "顔面天才",
+        "meaning_en": "Face Genius (Compliment for his handsome face)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "남준 is 뭔들",
+        "meaning_ja": "ナムジュンは何でも良い (愛してる)",
+        "meaning_en": "Namjoon is good no matter what (I love him)"
+      },
+      {
+        "text": "뇌섹남 김남준",
+        "meaning_ja": "脳セクシーな男、キム・ナムジュン (尊敬してる)",
+        "meaning_en": "Brainy and sexy man, Kim Namjoon (I respect him)"
+      },
+      {
+        "text": "랩모나 사랑해",
+        "meaning_ja": "ラップモンスタ、愛してる",
+        "meaning_en": "Rap Mon(ster), I love you"
+      },
+      {
+        "text": "얼굴천재 김남준",
+        "meaning_ja": "顔天才キム・ナムジュン (かっこよすぎ)",
+        "meaning_en": "Face genius Kim Namjoon (too handsome)"
+      },
+      {
+        "text": "남준 매직",
+        "meaning_ja": "ナムジュンマジック (とりこ)",
+        "meaning_en": "Namjoon Magic (Captivated)"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "남준아 내 심장에 입주신고 완료",
+        "meaning_ja": "ナムジュン、私の心に移住完了",
+        "meaning_en": "Namjoon, you've officially moved into my heart (officially registering as a resident)."
+      },
+      {
+        "text": "랩신랩왕 결혼해주세요!",
+        "meaning_ja": "ラップの神、ラップの王、結婚してください！",
+        "meaning_en": "Rap God, Rap King, please marry me!"
+      },
+      {
+        "text": "김남준 유죄! 내 마음 훔친 죄! 결혼으로 탕탕탕!",
+        "meaning_ja": "キム・ナムジュン有罪！私の心を盗んだ罪！結婚で懲役！",
+        "meaning_en": "Kim Namjoon, guilty! Guilty of stealing my heart! Sentenced to marriage!"
+      },
+      {
+        "text": "내 통장 김남준꺼 (결혼하면 공동명의)",
+        "meaning_ja": "私の銀行口座はキム・ナムジュンのもの（結婚したら共同名義）",
+        "meaning_en": "My bank account is Kim Namjoon's (if we get married, it'll be a joint account)."
+      },
+      {
+        "text": "남준 is 뭔들… 결혼 is 뭔들",
+        "meaning_ja": "ナムジュンは何でも…結婚は何でも良い",
+        "meaning_en": "Namjoon is good no matter what... Marriage is good no matter what."
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "남준 is 뭔들",
+        "meaning_ja": "ナムジュンは何でも最高",
+        "meaning_en": "Namjoon is perfect no matter what (anything he does)"
+      },
+      {
+        "text": "줁!",
+        "meaning_ja": "ジュン！（会いたい気持ち）",
+        "meaning_en": "Joon! (Expressing missing him intensely)"
+      },
+      {
+        "text": "김남준 보고잡다",
+        "meaning_ja": "キム・ナムジュンに会いたい",
+        "meaning_en": "I want to see Kim Namjoon"
+      },
+      {
+        "text": "남준 매직!",
+        "meaning_ja": "ナムジュンマジック！（恋しい）",
+        "meaning_en": "Namjoon magic! (Missing his captivating charm)"
+      },
+      {
+        "text": "🐨앓이 중",
+        "meaning_ja": "🐨앓い中 (恋わずらい中)",
+        "meaning_en": "Currently앓이 (suffering) over RM (missing him a lot)"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "남준이랑 뼈 묻자",
+        "meaning_ja": "ナムジュンと骨を埋めよう",
+        "meaning_en": "Let's be buried with Namjoon (Let's support Namjoon forever)"
+      },
+      {
+        "text": "롬주니 영사해!",
+        "meaning_ja": "RM(ロム)ジュニ、ヨンサへ(永遠に愛してる)!",
+        "meaning_en": "RM-jooni, yeongsa-hae! (I love you forever!)"
+      },
+      {
+        "text": "오빠미 칠렐레 팔렐레",
+        "meaning_ja": "オッパの魅力にメロメロ",
+        "meaning_en": "Oppa's charm is driving me crazy (forever)"
+      },
+      {
+        "text": "남준 매직! 영원히 팝핀!",
+        "meaning_ja": "ナムジュンのマジック！永遠にポッピン！",
+        "meaning_en": "Namjoon Magic! Poppin' forever! (referring to his impact and style)"
+      },
+      {
+        "text": "알엠 is 뭔들! 평생 사랑해!",
+        "meaning_ja": "RMは何でも最高！一生愛してる！",
+        "meaning_en": "RM is anything and everything! I love you forever!"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "남준 is 뭔들",
+        "meaning_ja": "ナムジュンは何でもアリ",
+        "meaning_en": "Namjoon can do no wrong."
+      },
+      {
+        "text": "얼굴천재 김남준",
+        "meaning_ja": "顔面天才キム・ナムジュン",
+        "meaning_en": "Face genius Kim Namjoon (meaning incredibly handsome)."
+      },
+      {
+        "text": "랩신랩왕 김남준",
+        "meaning_ja": "ラップ神ラップ王キム・ナムジュン",
+        "meaning_en": "Rap God, Rap King Kim Namjoon."
+      },
+      {
+        "text": "뇌섹남 김남준",
+        "meaning_ja": "脳セクナム キム・ナムジュン",
+        "meaning_en": "Brainy and sexy man Kim Namjoon."
+      },
+      {
+        "text": "김남준! 킹갓제너럴엠퍼러마제스티충무공",
+        "meaning_ja": "キム・ナムジュン！キングゴッドジェネラルエンペラーマジェスティ忠武公",
+        "meaning_en": "Kim Namjoon! King God General Emperor Majesty Chungmugong (An exaggerated way of praising someone, like saying he's the best)."
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "뇌섹남 (뇌가 섹시한 남자)",
+        "meaning_ja": "知的なセクシーガイ",
+        "meaning_en": "Brainy Sexy Guy (Man with a sexy brain)"
+      },
+      {
+        "text": "남준 매직!",
+        "meaning_ja": "ナムジュンマジック！",
+        "meaning_en": "Namjoon Magic! (Referring to RM's tendency to break things or create funny situations)"
+      },
+      {
+        "text": "킹갓제너럴충무공엠페러마제스티알엠",
+        "meaning_ja": "キングゴッドジェネラル忠武公エンペラーマジェスティRM",
+        "meaning_en": "King God General Chungmu Emperor Majesty RM (Over-the-top praise, emphasizing RM's greatness)"
+      },
+      {
+        "text": "알엠 쏘 큐트!",
+        "meaning_ja": "RM超可愛い！",
+        "meaning_en": "RM So Cute! (Direct expression of adoration)"
+      },
+      {
+        "text": "믿고 듣는 알엠 (믿듣알)",
+        "meaning_ja": "信頼して聴くRM (信頼できるRM)",
+        "meaning_en": "Trust and listen RM (Trustworthy RM - meaning his music is always good)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "남준 is 뭔들",
+        "meaning_ja": "ナムジュンは何でも最高",
+        "meaning_en": "Anything Namjoon does is amazing (he's perfect no matter what)"
+      },
+      {
+        "text": "얼굴천재 김남준",
+        "meaning_ja": "顔面天才 キム・ナムジュン",
+        "meaning_en": "Face Genius Kim Namjoon (Namjoon is a visual genius)"
+      },
+      {
+        "text": "갓지컬 남준",
+        "meaning_ja": "ゴッドフィジカル ナムジュン",
+        "meaning_en": "God-Tier Physical Namjoon (Namjoon's physique is godly)"
+      },
+      {
+        "text": "뇌섹남 김남준",
+        "meaning_ja": "脳セクシー男 キム・ナムジュン",
+        "meaning_en": "Brain Sexy Man Kim Namjoon (Kim Namjoon is intellectually attractive/sexy)"
+      },
+      {
+        "text": "랩신랩왕 김남준",
+        "meaning_ja": "ラップ神ラップ王 キム・ナムジュン",
+        "meaning_en": "Rap God Rap King Kim Namjoon (Kim Namjoon is the ultimate rap god and king)"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "남준 is 뭔들",
+        "meaning_ja": "ナムジュンは何でも最高",
+        "meaning_en": "Namjoon does no wrong (everything suits him)"
+      },
+      {
+        "text": "뇌섹남",
+        "meaning_ja": "脳セクシーな男",
+        "meaning_en": "Brainy/Intellectual and Sexy Man"
+      },
+      {
+        "text": "피지컬 천재",
+        "meaning_ja": "フィジカル天才",
+        "meaning_en": "Physical Genius (Referring to his great physique)"
+      },
+      {
+        "text": "얼굴천재",
+        "meaning_ja": "顔面天才",
+        "meaning_en": "Face Genius (Refers to his handsome face)"
+      },
+      {
+        "text": "갓지컬",
+        "meaning_ja": "神フィジカル",
+        "meaning_en": "Godly Physical (Extremely good physique)"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴천재 김남준",
+        "meaning_ja": "顔面天才キム・ナムジュン",
+        "meaning_en": "Face Genius Kim Namjoon (referring to RM)"
+      },
+      {
+        "text": "남준 is 뭔들",
+        "meaning_ja": "ナムジュンは何でも良い",
+        "meaning_en": "Anything RM does is great/perfect. (implied: even if he wasn't talented, his looks would be enough)"
+      },
+      {
+        "text": "미모가 국보급",
+        "meaning_ja": "美貌が国宝級",
+        "meaning_en": "His beauty is a national treasure level."
+      },
+      {
+        "text": "조각미남 김남준",
+        "meaning_ja": "彫刻美男キム・ナムジュン",
+        "meaning_en": "Sculpture-like beautiful man Kim Namjoon"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔が福祉だ",
+        "meaning_en": "His face is welfare/a blessing. (meaning his face is so beautiful it makes you feel good)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "남준 매직!",
+        "meaning_ja": "ナムジュンマジック！(魔法みたい！)",
+        "meaning_en": "Namjoon Magic! (Like magic!)"
+      },
+      {
+        "text": "뇌섹남 김남준",
+        "meaning_ja": "脳セクシーなキム・ナムジュン",
+        "meaning_en": "Brain-sexy Kim Namjoon (referring to his intelligence)"
+      },
+      {
+        "text": "랩몬 짱!",
+        "meaning_ja": "ラップモン最高！",
+        "meaning_en": "Rap Mon is the best!"
+      },
+      {
+        "text": "RM, 무해한 섹시",
+        "meaning_ja": "RM、無害なセクシー",
+        "meaning_en": "RM, harmlessly sexy"
+      },
+      {
+        "text": "국힙대표 김남준",
+        "meaning_ja": "韓国ヒップホップ代表キム・ナムジュン",
+        "meaning_en": "Korea Hip-Hop Representative Kim Namjoon"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "밥알탄!",
+        "meaning_ja": "ご飯パワーチャージ！",
+        "meaning_en": "Rice Power Up! (Implies eating well for energy)"
+      },
+      {
+        "text": "뤂옵마싯!",
+        "meaning_ja": "RM(ラップモンスター)おいしい！",
+        "meaning_en": "RM (Rap Monster) is delicious! (Playful way to say RM is great, implying he should eat well)"
+      },
+      {
+        "text": "밥잘챙김!",
+        "meaning_ja": "ご飯しっかり食べてね！",
+        "meaning_en": "Take good care to eat well! (Direct translation but fits the supportive cheering context)"
+      },
+      {
+        "text": "남준 잘 먹고 힘내슈가!",
+        "meaning_ja": "ナムジュン、よく食べて頑張って、シュガ！",
+        "meaning_en": "Namjoon, eat well and do your best, Suga! (Adding a Suga reference for fun and teamwork)"
+      },
+      {
+        "text": "국밥길만 걷자, RM!",
+        "meaning_ja": "クッパの道だけを歩もう、RM!",
+        "meaning_en": "Let's only walk the path of Kkukbap (Korean soup) RM! (Meaning: Let's only walk the path of delicious and nourishing food, RM! Metaphorically wishing him a great path in life, fueled by good food.)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "낫또 힘!",
+        "meaning_ja": "納豆パワー！(元気出して！)",
+        "meaning_en": "Natto Power! (Get your strength up!) (Referencing RM's love for Natto, and encouraging him to gain strength and stay healthy)"
+      },
+      {
+        "text": "아미밤 비타민 충전!",
+        "meaning_ja": "ARMY Bomb ビタミンチャージ！(元気注入！)",
+        "meaning_en": "ARMY Bomb Vitamin Charge! (Energy Injection!) (Using ARMY Bomb image to encourage health, like vitamin boost)"
+      },
+      {
+        "text": "뇌섹남 감기 조심!",
+        "meaning_ja": "頭脳セクシーな男、風邪に気をつけて！",
+        "meaning_en": "Brain Sexy Man, be careful of colds! (Playful way to tell RM, known for his intelligence, to take care.)"
+      },
+      {
+        "text": "남준 is 뭔들, 건강 젤 중요!",
+        "meaning_ja": "ナムジュンはどれでも良いけど、健康が一番大事！",
+        "meaning_en": "Namjoon is anything is good, but health is the most important! (Using the popular \"is 뭔들\" phrase, but prioritizing health.)"
+      },
+      {
+        "text": "랩모니, 아프지망고!",
+        "meaning_ja": "ラップモニ、病まないでマンゴー！",
+        "meaning_en": "Rap Moni, don't get sick, mango! (Playful pun using \"아프지마\" (don't get sick) and \"망고\" (mango) for a cute, caring message.)"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "뇌섹남! 오늘도 짱!",
+        "meaning_ja": "頭脳セクシーな男！今日も最高！",
+        "meaning_en": "Brainy sexy man! You're the best today too!"
+      },
+      {
+        "text": "랩몬! 수고링!",
+        "meaning_ja": "ラプモン！お疲れ様！",
+        "meaning_en": "Rap Mon! Good job! (casual)"
+      },
+      {
+        "text": "남준 is 뭔들! 고생했어!",
+        "meaning_ja": "ナムジュンは何でも良い！お疲れ様！",
+        "meaning_en": "Namjoon is good no matter what! You worked hard!"
+      },
+      {
+        "text": "갓알엠! 오늘도 열일!",
+        "meaning_ja": "ゴッドRM！今日も頑張った！",
+        "meaning_en": "God RM! You worked hard again today!"
+      },
+      {
+        "text": "RM is 뭔들! 쉬어가면서 해!",
+        "meaning_ja": "RMは何でも良い！休憩しながらやってね！",
+        "meaning_en": "RM is good no matter what! Take breaks while you work!"
+      }
+    ]
+  },
+  "Jin": {
+    "LOVE_GENERAL": [
+      {
+        "text": "석진 is 뭔들",
+        "meaning_ja": "ソクジンは何でも最高",
+        "meaning_en": "Seokjin is perfect no matter what he does. (Lit: \"Whatever Seokjin does is good.\")"
+      },
+      {
+        "text": "잘생김이 뚝뚝",
+        "meaning_ja": "かっこよさが滴る",
+        "meaning_en": "Overflowing with handsome-ness (dripping with good looks)"
+      },
+      {
+        "text": "어깨 깡패 김석진",
+        "meaning_ja": "肩幅オラオラキム・ソクジン",
+        "meaning_en": "Shoulder gangster Kim Seokjin (referring to his broad shoulders)"
+      },
+      {
+        "text": "석진 매직!",
+        "meaning_ja": "ソクジンマジック！",
+        "meaning_en": "Seokjin magic! (referring to something amazing he does)"
+      },
+      {
+        "text": "월드와이드 핸섬!",
+        "meaning_ja": "ワールドワイドハンサム！",
+        "meaning_en": "Worldwide Handsome! (his iconic self-proclamation)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "석진 is 뭔들",
+        "meaning_ja": "ソクジンは何でも最高",
+        "meaning_en": "Everything Jin does is amazing. (Lit: \"Whatever Jin does is amazing.\")"
+      },
+      {
+        "text": "얼굴천재 석진",
+        "meaning_ja": "顔面天才ソクジン",
+        "meaning_en": "Face Genius Seokjin (Meaning: Seokjin is incredibly handsome.)"
+      },
+      {
+        "text": "내 월급 루팡 석진",
+        "meaning_ja": "私の給料泥棒ソクジン",
+        "meaning_en": "Seokjin, the thief of my salary (Meaning: I spend all my money on Jin.)"
+      },
+      {
+        "text": "어깨미남 김석진",
+        "meaning_ja": "肩美男キム・ソクジン",
+        "meaning_en": "Shoulder Beauty Kim Seokjin (Referring to his broad shoulders as a point of admiration)"
+      },
+      {
+        "text": "참잘했어요 석진!",
+        "meaning_ja": "よくできました、ソクジン！",
+        "meaning_en": "Well done, Seokjin! (Used to express praise and encouragement, often with a playful tone)"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "석진이랑 결혼각",
+        "meaning_ja": "ソクジンと結婚するしかない",
+        "meaning_en": "Marrying Seokjin is inevitable. (Implies it's destiny/the only option)"
+      },
+      {
+        "text": "내 인생 석진",
+        "meaning_ja": "私の人生はソクジン",
+        "meaning_en": "Seokjin is my life. (Implies he's everything to them and thus worthy of marriage)"
+      },
+      {
+        "text": "석진아, 내 심장에 입주신고",
+        "meaning_ja": "ソクジン、私の心に入居届出して",
+        "meaning_en": "Seokjin, please register your residency in my heart. (A playful way of saying \"move in\" to my heart, implying a deep connection)"
+      },
+      {
+        "text": "얼굴이 복지다 석진",
+        "meaning_ja": "顔が福祉だ、ソクジン",
+        "meaning_en": "Your face is welfare, Seokjin. (Meaning his beauty is a source of happiness and comfort, suggesting a life well-lived together)."
+      },
+      {
+        "text": "석진 is 뭔들",
+        "meaning_ja": "ソクジンは何でもOK",
+        "meaning_en": "Everything Seokjin does is amazing/perfect. (Implying that even marriage to Jin would be wonderful)"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "석진 보고 싶다 🥺",
+        "meaning_ja": "ソクジン、会いたいよ🥺",
+        "meaning_en": "Seokjin, I miss you 🥺 (Uses a crying emoji for emphasis)"
+      },
+      {
+        "text": "진, 내 마음속에 저-장! (보고싶어!)",
+        "meaning_ja": "ジン、私の心に保存！(会いたい！)",
+        "meaning_en": "Jin, save in my heart! (I miss you!) (Plays on a cutesy phrase, adding the longing)"
+      },
+      {
+        "text": "월드와이드핸썸 보고잡다…😭",
+        "meaning_ja": "ワールドワイドハンサム、会いたいよ…😭",
+        "meaning_en": "World Wide Handsome, I wanna see you…😭 (Uses \"보고잡다\" a cuter/more babyish way of saying \"보고 싶다\")"
+      },
+      {
+        "text": "내 별, 석진아! (보고싶어 죽겠어!)",
+        "meaning_ja": "私の星、ソクジン！(会いたくて死にそう！)",
+        "meaning_en": "My star, Seokjin! (I miss you so much I could die!)"
+      },
+      {
+        "text": "참치오빠… 왜 안 와… (보고싶어!)",
+        "meaning_ja": "チャンチオッパ…どうして来ないの…(会いたい！)",
+        "meaning_en": "Tuna Oppa… why aren't you coming… (I miss you!) (Refers to Jin's love for Tuna, implying he's not visiting/performing)."
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "석진이랑 줁멘",
+        "meaning_ja": "ソクジンとチュンメン(永遠に一緒)",
+        "meaning_en": "Seokjin and Joonmen (Together Forever)"
+      },
+      {
+        "text": "방탄밤해요",
+        "meaning_ja": "バンタンボム(ずっと見守る)",
+        "meaning_en": "Bangtan Bomb (Always watching over you)"
+      },
+      {
+        "text": "오빠미 뿜뿜",
+        "meaning_ja": "オッパの魅力が溢れる(永遠に大好き)",
+        "meaning_en": "Overflowing with Oppa charm (Love you forever)"
+      },
+      {
+        "text": "김석진 is 뭔들",
+        "meaning_ja": "キムソクジンは何でも最高(永遠に応援)",
+        "meaning_en": "Kim Seokjin is amazing no matter what (Forever supporting)"
+      },
+      {
+        "text": "찐!찐!찐이야!",
+        "meaning_ja": "ジン！ジン！ジンだよ！(本物だ、永遠に)",
+        "meaning_en": "Jin! Jin! Jin! (He's the real deal, forever!)"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "얼굴천재 김석진",
+        "meaning_ja": "顔面天才キム・ソクジン",
+        "meaning_en": "Visual Genius Kim Seokjin (Emphasizes his handsome looks)"
+      },
+      {
+        "text": "어깨미남 석진",
+        "meaning_ja": "肩幅イケメンソクジン",
+        "meaning_en": "Shoulder Gangster Seokjin (Playfully referring to his broad shoulders and good looks)"
+      },
+      {
+        "text": "석진 is 뭔들",
+        "meaning_ja": "ソクジンは何でもOK",
+        "meaning_en": "Seokjin can do no wrong / Seokjin is perfect no matter what he does. (Expressing unwavering support)"
+      },
+      {
+        "text": "석진이 맘 = 내 맘",
+        "meaning_ja": "ソクジンの気持ち = 私の気持ち",
+        "meaning_en": "Seokjin's heart = my heart / What Seokjin feels, I feel. (Expressing deep connection and empathy)"
+      },
+      {
+        "text": "월와핸 석진",
+        "meaning_ja": "ワールドワイドハンサムソクジン",
+        "meaning_en": "Worldwide Handsome Seokjin (His famous self-proclaimed title)"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "얼굴천재 김석진",
+        "meaning_ja": "顔面天才 キム・ソクジン (顔が天才的なキム・ソクジン)",
+        "meaning_en": "Face Genius Kim Seokjin (Kim Seokjin, the face genius!)"
+      },
+      {
+        "text": "어깨미남 김석진",
+        "meaning_ja": "肩幅美男 キム・ソクジン (肩幅が広いイケメン キム・ソクジン)",
+        "meaning_en": "Shoulder Beauty Kim Seokjin (Kim Seokjin, the handsome man with broad shoulders!)"
+      },
+      {
+        "text": "잇진 사랑해",
+        "meaning_ja": "イートジン 愛してる (Eat Jin, 愛してる)",
+        "meaning_en": "Eat Jin, I love you (Loving Eat Jin!)"
+      },
+      {
+        "text": "석진 is 뭔들",
+        "meaning_ja": "ソクジン is 何でも良い (ソクジンは何でも良い)",
+        "meaning_en": "Seokjin is anything! (Everything Seokjin does is great!)"
+      },
+      {
+        "text": "참치길만 걸어",
+        "meaning_ja": "マグロ道だけを歩んで (マグロ道だけを歩んでね)",
+        "meaning_en": "Only walk the tuna path (Only walk the path of tuna/success! - A play on words since Jin likes tuna)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "얼굴천재 김석진",
+        "meaning_ja": "顔面国宝 キム・ソクジン",
+        "meaning_en": "Visual Genius Kim Seokjin (Lit. Face Genius)"
+      },
+      {
+        "text": "석진 is 뭔들",
+        "meaning_ja": "ソクジン is 何でも良い",
+        "meaning_en": "Everything (Jin does) is good/perfect (lit. Jin is whatever, all good)"
+      },
+      {
+        "text": "석진 매직!",
+        "meaning_ja": "ソクジンマジック！",
+        "meaning_en": "Seokjin Magic! (Implies anything he does is magical and wonderful)"
+      },
+      {
+        "text": "갓지컬 김석진",
+        "meaning_ja": "ゴッドフィジカル キム・ソクジン",
+        "meaning_en": "God-tier Physical Kim Seokjin (Referring to his amazing physique)"
+      },
+      {
+        "text": "석진 없인 못 살아",
+        "meaning_ja": "ソクジンなしでは生きられない",
+        "meaning_en": "I can't live without Seokjin"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "얼굴천재 김석진!",
+        "meaning_ja": "顔面天才キム・ソクジン！",
+        "meaning_en": "Face genius Kim Seokjin! (Emphasizes his naturally stunning looks)"
+      },
+      {
+        "text": "석진 is 뭔들",
+        "meaning_ja": "ソクジンは何でも最高",
+        "meaning_en": "Anything Jin does is amazing (Expresses that everything he does is wonderful)"
+      },
+      {
+        "text": "미모가 국보급",
+        "meaning_ja": "美貌が国宝級",
+        "meaning_en": "His beauty is national treasure level (Hyperbolic praise comparing his beauty to a valuable national treasure)"
+      },
+      {
+        "text": "잘생김이 덕지덕지",
+        "meaning_ja": "ハンサムがベタベタ",
+        "meaning_en": "He's dripping with handsomeness (A playful way to say he's incredibly handsome)"
+      },
+      {
+        "text": "석진이 미모에 치인다",
+        "meaning_ja": "ソクジンの美貌にやられる",
+        "meaning_en": "I'm attacked by Jin's beauty (A common way to express being overwhelmed by someone's beauty)"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴천재 김석진",
+        "meaning_ja": "顔面天才 キム・ソクジン",
+        "meaning_en": "Face Genius Kim Seokjin (Literally, someone whose face is a genius)"
+      },
+      {
+        "text": "미모가 국보급",
+        "meaning_ja": "美貌が国宝級",
+        "meaning_en": "Beauty is National Treasure Level"
+      },
+      {
+        "text": "석진 is 뭔들",
+        "meaning_ja": "ソクジン is 何でも良い",
+        "meaning_en": "Anything looks good on Seokjin (석진 is 뭔들 = 석진 is 뭔들 is shortened from \"석진 is 뭔들 is 뭔들 is 뭔들...\")"
+      },
+      {
+        "text": "조각미남 김석진",
+        "meaning_ja": "彫刻美男 キム・ソクジン",
+        "meaning_en": "Sculpted Beauty Kim Seokjin"
+      },
+      {
+        "text": "잘생김이 덕지덕지",
+        "meaning_ja": "イケメンがべたべた",
+        "meaning_en": "Handsome is plastered all over him (meaning extremely handsome)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "잘생김 흩뿌려!",
+        "meaning_ja": "イケメンを振りまいて！",
+        "meaning_en": "Sprinkle your handsomeness! (Playing on his visuals)"
+      },
+      {
+        "text": "석진 매직!",
+        "meaning_ja": "ソクジンマジック！",
+        "meaning_en": "Seokjin Magic! (Simple, direct, and uses his given name)"
+      },
+      {
+        "text": "얼굴이 복지다!",
+        "meaning_ja": "顔が福祉だ！",
+        "meaning_en": "Your face is welfare! (Exaggerated praise for his good looks, meaning it makes people happy)"
+      },
+      {
+        "text": "심장에 무리 왔Jin!",
+        "meaning_ja": "心臓に負担が来たJin！",
+        "meaning_en": "My heart is overloaded, Jin! (Play on words with 'Jin' referring to the fan being overwhelmed with joy)"
+      },
+      {
+        "text": "월드와이드 핸썸!",
+        "meaning_ja": "ワールドワイドハンサム！",
+        "meaning_en": "Worldwide Handsome! (Referring to his self-proclaimed title)"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "석진이 맘마 먹어!",
+        "meaning_ja": "ソクジン、ご飯食べてね！",
+        "meaning_en": "Seokjin, eat your meals! (Emphasis on well-being and eating regularly)"
+      },
+      {
+        "text": "오빠 미모 미쳤다리!",
+        "meaning_ja": "オッパの美貌がマジでヤバい！",
+        "meaning_en": "Oppa's beauty is absolutely insane! (Expressing admiration for his looks)"
+      },
+      {
+        "text": "어깨 깡패 김석진!",
+        "meaning_ja": "肩幅オバケ、キム・ソクジン！",
+        "meaning_en": "Shoulder gangster Kim Seokjin! (Referring to his broad shoulders, a popular compliment)"
+      },
+      {
+        "text": "월드와이드핸썸 오늘도 열일!",
+        "meaning_ja": "ワールドワイドハンサム、今日も頑張って！",
+        "meaning_en": "Worldwide Handsome, work hard today too! (Acknowledging his self-proclaimed title and wishing him well at work)"
+      },
+      {
+        "text": "석진 is 뭔들",
+        "meaning_ja": "ソクジンは何でも最高",
+        "meaning_en": "Anything is good with Seokjin. (Implying he looks great doing anything)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "몸 건강히!",
+        "meaning_ja": "体に気をつけて！",
+        "meaning_en": "Stay healthy!"
+      },
+      {
+        "text": "오빠 꽃길만 걸어! 아프지 말고!",
+        "meaning_ja": "オッパ、花道だけを歩んで！病気にならないで！",
+        "meaning_en": "Oppa, only walk flower paths! And don't get sick!"
+      },
+      {
+        "text": "소중한 햄찌, 아프면 안 돼!",
+        "meaning_ja": "大切なハムスター、具合が悪くなっちゃダメだよ！",
+        "meaning_en": "Precious Hamster, you can't be sick! (referencing Jin's hamster-like appearance)"
+      },
+      {
+        "text": "우리 석진이, 밥 잘 챙겨 먹고 감기 조심!",
+        "meaning_ja": "私たちのソクジン、ちゃんとご飯を食べて風邪に気をつけて！",
+        "meaning_en": "Our Seokjin, eat well and be careful not to catch a cold!"
+      },
+      {
+        "text": "어깨왕, 아프지 말고 행복만 하자!",
+        "meaning_ja": "肩幅王、病気にならないで幸せだけになろう！",
+        "meaning_en": "Shoulder King, let's be happy and not sick! (referencing Jin's broad shoulders)"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "월와핸 수고했어!",
+        "meaning_ja": "ワールドワイドハンサム、お疲れ様！",
+        "meaning_en": "World Wide Handsome, good job! (Acknowledges his looks and effort)"
+      },
+      {
+        "text": "잇진 최고! 오늘도 수고했어!",
+        "meaning_ja": "Eat Jin 最高！今日も頑張ったね！",
+        "meaning_en": "Eat Jin is the best! You worked hard again today! (References his eating show and praises his effort)"
+      },
+      {
+        "text": "석진이 덕분에 힐링! 수고했어!",
+        "meaning_ja": "ソクジンのおかげで癒された！お疲れ様！",
+        "meaning_en": "Thanks to Seokjin, I feel healed! Good job! (Expresses appreciation for his impact)"
+      },
+      {
+        "text": "어깨 미남, 오늘도 열일했네!",
+        "meaning_ja": "肩幅美男、今日も頑張ったね！",
+        "meaning_en": "Shoulder beauty, you worked hard today! (Compliments his physique and acknowledges his hard work)"
+      },
+      {
+        "text": "진, 슈스길만 걸어! (오늘도 수고했어!)",
+        "meaning_ja": "ジン、スーパースター街道だけを歩んで！(今日も頑張ったね！)",
+        "meaning_en": "Jin, only walk the superstar path! (You worked hard today!) (A wish for his continued success with an added appreciation for his effort)"
+      }
+    ]
+  },
+  "Suga": {
+    "LOVE_GENERAL": [
+      {
+        "text": "슈가형 멋쟁이 융기 짱!",
+        "meaning_ja": "シュガ兄貴、おしゃれユンギ最高！",
+        "meaning_en": "Suga hyung, stylish Yoongi is the best! (Emphasis on \"stylish\" and using \"hyung\" showing respect)"
+      },
+      {
+        "text": "민윤기 천재 강양이!",
+        "meaning_ja": "ミンユンギ天才子猫ちゃん！",
+        "meaning_en": "Min Yoongi, genius kitten! (Playful, using Suga's cute image)"
+      },
+      {
+        "text": "Agust D 찢었다!",
+        "meaning_ja": "Agust D かっこよすぎ！",
+        "meaning_en": "Agust D tore it up! (Expressing how amazing his Agust D persona is)"
+      },
+      {
+        "text": "윤기 OpPa 멜론 뚫어!",
+        "meaning_ja": "ユンギオッパ、メロンチャート突き抜けろ！",
+        "meaning_en": "Yoongi oppa, break through the Melon charts! (Wishing him chart success)"
+      },
+      {
+        "text": "융기 is 뭔들!",
+        "meaning_ja": "ユンギは何でも最高！",
+        "meaning_en": "Yoongi is perfect no matter what! (Meaning he's amazing in everything he does)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "슈가 is 뭔들",
+        "meaning_ja": "シュガは何でも最高",
+        "meaning_en": "Everything Suga does is amazing (He's perfect no matter what)"
+      },
+      {
+        "text": "융기천재",
+        "meaning_ja": "ユンギ天才",
+        "meaning_en": "Genius Yoongi"
+      },
+      {
+        "text": "슈가밤",
+        "meaning_ja": "シュガ爆弾",
+        "meaning_en": "Suga Bomb (referencing his explosive talent/appeal)"
+      },
+      {
+        "text": "민윤기 사랑해",
+        "meaning_ja": "ミンユンギ愛してる",
+        "meaning_en": "I love Min Yoongi"
+      },
+      {
+        "text": "슈가의 모든 순간",
+        "meaning_ja": "シュガの全ての瞬間",
+        "meaning_en": "Every moment of Suga (is precious)"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "슈가야 내 민증에 니 이름 박자",
+        "meaning_ja": "ユンギ、私の身分証にあなたの名前を刻もう",
+        "meaning_en": "Suga, let's put your name on my ID (Let's get married)"
+      },
+      {
+        "text": "민윤기 유죄! 내 심장에 무기징역!",
+        "meaning_ja": "ミン・ユンギ有罪！私の心に無期懲役！",
+        "meaning_en": "Min Yoongi is guilty! Life sentence in my heart! (I'm so in love I'm imprisoned by you!)"
+      },
+      {
+        "text": "윤기 오빠, 저 오늘부터 무덤까지 오빠 뼈만 핥아요",
+        "meaning_ja": "ユンギオッパ、私は今日からお墓までオッパの骨だけ舐めます",
+        "meaning_en": "Yoongi oppa, from today until my grave, I'll only lick your bones (I'm devoted to you forever). (Hyperbolic, absurd expression of extreme devotion)."
+      },
+      {
+        "text": "내 통장 잔고 = 민윤기 미래 재산",
+        "meaning_ja": "私の銀行残高＝ミン・ユンギの未来の財産",
+        "meaning_en": "My bank balance = Min Yoongi's future wealth (Everything I have is yours)."
+      },
+      {
+        "text": "결혼 안 해주면 고소할거임 ㅠ",
+        "meaning_ja": "結婚してくれなかったら訴えるからね ㅠ",
+        "meaning_en": "I'll sue you if you don't marry me ㅠ (Playful threat, not serious)"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "슈가 보고 싶다링!",
+        "meaning_ja": "シュガに会いたみ！ (会いたいよ～)",
+        "meaning_en": "Suga, I miss you-ring! (I really miss you!)"
+      },
+      {
+        "text": "민윤기 내 심장 저격 ㅠㅠ",
+        "meaning_ja": "ミンユンギ、私の心臓を狙撃ㅠㅠ (会いたくて胸が痛い)",
+        "meaning_en": "Min Yoongi, sniped my heart ㅠㅠ (My heart aches because I miss you)"
+      },
+      {
+        "text": "슙기력 충전 시급!",
+        "meaning_ja": "シュガパワー充電至急！(会ってエネルギー補給したい)",
+        "meaning_en": "Urgent Suga-power recharge needed! (Need to meet him to recharge my energy)"
+      },
+      {
+        "text": "윤기 is 뭔들… 보고 싶다!",
+        "meaning_ja": "ユンギは何でも良い…会いたい！(何をしててもかっこいいから会いたい)",
+        "meaning_en": "Yoongi is 뭔들... I miss him! (Everything he does is great, so I miss him!)"
+      },
+      {
+        "text": "슈가 없인 못 살아 🥺",
+        "meaning_ja": "シュガなしでは生きられない🥺 (会えなくて寂しい)",
+        "meaning_en": "I can't live without Suga 🥺 (I'm lonely because I can't see him)"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "슈냥행알",
+        "meaning_ja": "シュガヒョンと一緒なら何でもできる！",
+        "meaning_en": "I can do anything if I'm with Suga hyung! (Implies loyalty and support)"
+      },
+      {
+        "text": "민피디 맘 = 내 맘",
+        "meaning_ja": "ミンPDの気持ち = 私の気持ち",
+        "meaning_en": "Min PD's heart = my heart (Shows deep understanding and agreement with Suga's music and views)"
+      },
+      {
+        "text": "방탄길만 걸어 슈가길만 걸어",
+        "meaning_ja": "バンタンの道だけを歩んで、シュガの道だけを歩んで",
+        "meaning_en": "Only walk the BTS path, only walk the Suga path (A wish for BTS and Suga's continued success)"
+      },
+      {
+        "text": "늉기없인 못 살아",
+        "meaning_ja": "ユンギなしじゃ生きられない",
+        "meaning_en": "I can't live without Yoongi (Expresses intense admiration and dependence)"
+      },
+      {
+        "text": "슈가천재짱짱맨뿡뿡",
+        "meaning_ja": "シュガ天才最高イケメンプンプン",
+        "meaning_en": "Suga genius, the best, handsome man, boong boong! (Hyperbolic praise using cute slang)"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "슈가천재짱짱맨뿡뿡",
+        "meaning_ja": "シュガ天才最高イケメンぷんぷん！",
+        "meaning_en": "Suga genius, the best, super cool, boing boing! (Playful, exaggerated praise)"
+      },
+      {
+        "text": "윤기오빠 맘찍 ❤️",
+        "meaning_ja": "ユンギオッパ いいね ❤️",
+        "meaning_en": "Yoon-gi oppa, heart click ❤️ (Showing love and support online)"
+      },
+      {
+        "text": "슙디 짱! 👍",
+        "meaning_ja": "シュプD 最高! 👍",
+        "meaning_en": "DJ Suga, the best! 👍 (Praising his work as a DJ)"
+      },
+      {
+        "text": "민윤기 is 뭔들",
+        "meaning_ja": "ミンユンギ is 何でもあり",
+        "meaning_en": "Min Yoongi is good at everything (Expressing admiration for his talent)"
+      },
+      {
+        "text": "늉기야, 생일 축하해! 꽃길만 걷자!",
+        "meaning_ja": "ユンギ、誕生日おめでとう！花の道だけを歩もう！",
+        "meaning_en": "Yoongi, happy birthday! Let's walk only on flower paths! (Wishing him happiness and success)"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "슈가형 짱짱맨뿡뿡",
+        "meaning_ja": "シュガ兄貴マジ最高！ぷんぷん",
+        "meaning_en": "Suga hyung is the best! Boong boong! (Expresses enthusiastic admiration and affection, the \"boong boong\" is a cute sound effect)"
+      },
+      {
+        "text": "민윤기 천재 강아지",
+        "meaning_ja": "ミンユンギ天才子犬",
+        "meaning_en": "Min Yoongi genius puppy! (Highlights Suga's genius and adds an endearing, puppy-like quality.)"
+      },
+      {
+        "text": "입덕 부정기는 끝났다",
+        "meaning_ja": "入徳否定期は終わった",
+        "meaning_en": "My denial phase of becoming a fan is over. (Confesses fully embracing being a fan, implying Suga is irresistibly charming)"
+      },
+      {
+        "text": "뼈를 묻겠습니다, 민슈가!",
+        "meaning_ja": "骨を埋めます、ミンシュガ！",
+        "meaning_en": "I will bury my bones here, Min Suga! (An exaggerated expression of dedicating oneself to supporting Suga)"
+      },
+      {
+        "text": "Agust D 폼 미쳤다!",
+        "meaning_ja": "Agust D かっこよすぎてヤバい！",
+        "meaning_en": "Agust D's form is insane! (Praises Agust D's performance, using slang to say it's incredibly cool)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "슈가천재짱짱맨뿡뿡",
+        "meaning_ja": "シュガ天才最強男プンプン",
+        "meaning_en": "Suga Genius Best Man BboongBboong (BboongBboong is like \"the best\")"
+      },
+      {
+        "text": "민피디님 만세!",
+        "meaning_ja": "ミンPD様 万歳！",
+        "meaning_en": "Min PD-nim, Banzai! (Long live Min PD!)"
+      },
+      {
+        "text": "갓슈가",
+        "meaning_ja": "ゴッドシュガ",
+        "meaning_en": "God Suga"
+      },
+      {
+        "text": "민윤기 사랑해! 빼앰!",
+        "meaning_ja": "ミンユンギ愛してる！ペエm！",
+        "meaning_en": "Min Yoongi, I love you! BBAAM! (Emphasis/exclamation)"
+      },
+      {
+        "text": "슈가형 최고시다!",
+        "meaning_ja": "シュガ兄さん 最高です!",
+        "meaning_en": "Suga Hyung, you're the best!"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "민윤기 얼굴이 복지다",
+        "meaning_ja": "ミンユンギの顔は福祉だ (尊い)",
+        "meaning_en": "Min Yoongi's face is welfare (a blessing)."
+      },
+      {
+        "text": "슈가 미모가 국보급",
+        "meaning_ja": "シュガの美貌が国宝級",
+        "meaning_en": "Suga's beauty is a national treasure."
+      },
+      {
+        "text": "민윤기 is 뭔들",
+        "meaning_ja": "ミンユンギ is 何でも最高",
+        "meaning_en": "Anything Min Yoongi does is amazing. (Lit. Min Yoongi is \"whatever-deul,\" meaning he makes everything great.)"
+      },
+      {
+        "text": "얼굴천재 민윤기",
+        "meaning_ja": "顔天才ミンユンギ",
+        "meaning_en": "Face Genius Min Yoongi"
+      },
+      {
+        "text": "윤기 오빠, 내 심장이 과로사",
+        "meaning_ja": "ユンギオッパ、私の心臓が過労死",
+        "meaning_en": "Yoongi oppa, my heart is working too hard (and will die from it)."
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "*   얼굴천재 민윤기",
+        "meaning_ja": "顔面天才ミンユンギ",
+        "meaning_en": "Face genius Min Yoongi (referring to Suga)"
+      },
+      {
+        "text": "*   민애옹 존잘",
+        "meaning_ja": "ミンニャオン 超イケメン",
+        "meaning_en": "Min Meow (Suga) is so handsome"
+      },
+      {
+        "text": "*   슈가 is 뭔들",
+        "meaning_ja": "シュガは何でも似合う",
+        "meaning_en": "Suga looks good in anything"
+      },
+      {
+        "text": "*   깐윤기 박제",
+        "meaning_ja": "前髪上げたユンギを永久保存",
+        "meaning_en": "Preserve/Freeze the forehead-revealed Yoon-gi (Suga) forever"
+      },
+      {
+        "text": "*   미모 미쳤다",
+        "meaning_ja": "美貌がヤバい",
+        "meaning_en": "His beauty is insane!"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "슈가 손민수템!",
+        "meaning_ja": "シュガとお揃いアイテム！",
+        "meaning_en": "Suga's inspired item!"
+      },
+      {
+        "text": "민윤기 천재 짱짱맨 뿡뿡!",
+        "meaning_ja": "ミン・ユンギ天才最高イケメン！",
+        "meaning_en": "Min Yoongi is a genius, the best, super cool!"
+      },
+      {
+        "text": "늉기 밤톨이!",
+        "meaning_ja": "ユンギの栗頭！",
+        "meaning_en": "Yoongi's little chestnut head! (Endearing nickname)"
+      },
+      {
+        "text": "윤기오빠 심장에 무리 와요!",
+        "meaning_ja": "ユンギ兄さん、心臓に悪い！",
+        "meaning_en": "Yoongi-oppa, you're giving me a heart attack! (said in jest at his charm)"
+      },
+      {
+        "text": "늉기 is 뭔들!",
+        "meaning_ja": "ユンギは何でも最高！",
+        "meaning_en": "Everything Yoongi does is amazing! (roughly equivalent to \"Yoongi can do no wrong\")"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "슈가형 밥길만 걸어",
+        "meaning_ja": "SUGA兄貴、美味しいものだけ食べてね！",
+        "meaning_en": "Suga hyung, only walk the path where you eat delicious things! (Implies only good things)"
+      },
+      {
+        "text": "슙기력 충전 만땅!",
+        "meaning_ja": "ユンギの気力、満タン充電！",
+        "meaning_en": "Yoongi's energy, fully charged! (Eat well to recharge)"
+      },
+      {
+        "text": "민윤기 잇진!",
+        "meaning_ja": "ミン・ユンギ、グルメ王！",
+        "meaning_en": "Min Yoongi, Eat-Jin (Referring to BTS Jin's love of eating) but for Suga!"
+      },
+      {
+        "text": "맛잘알 윤기 만세!",
+        "meaning_ja": "美味しいもの知ってるユンギ、万歳！",
+        "meaning_en": "Hooray for Yoongi who knows all the good food!"
+      },
+      {
+        "text": "냠냠 윤기 최고다!",
+        "meaning_ja": "もぐもぐユンギ最高！",
+        "meaning_en": "Nyam Nyam Yoongi is the best! (Focus on him eating)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "슈가형 감기 조심!",
+        "meaning_ja": "SUGA兄貴、風邪に気を付けて！",
+        "meaning_en": "Suga hyung, be careful not to catch a cold!"
+      },
+      {
+        "text": "민피디 아프지마!",
+        "meaning_ja": "ミンPD、体調崩さないで！",
+        "meaning_en": "Min PD, don't get sick!"
+      },
+      {
+        "text": "윤기오빠 건강 제일!",
+        "meaning_ja": "ユンギオッパ、健康が一番！",
+        "meaning_en": "Yoongi oppa, health comes first!"
+      },
+      {
+        "text": "슈가천재 꿀건강!",
+        "meaning_ja": "SUGA天才、健康第一！",
+        "meaning_en": "Suga genius, amazing health!"
+      },
+      {
+        "text": "슈가 보고 감기 낫자!",
+        "meaning_ja": "SUGAを見て風邪を治そう！",
+        "meaning_en": "Let's get better from our colds by seeing Suga!"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "슈가천재짱짱맨뿡뿡",
+        "meaning_ja": "シュガ天才最高マンぶぶ",
+        "meaning_en": "Suga genius, awesome man, bbuing bbuing (sound effect/playful cheer)"
+      },
+      {
+        "text": "민윤기 최고다",
+        "meaning_ja": "ミン・ユンギ最高だ",
+        "meaning_en": "Min Yoongi is the best!"
+      },
+      {
+        "text": "슙기력 충전 완료",
+        "meaning_ja": "シュガ気力充電完了",
+        "meaning_en": "Suga power (energy) charging complete!"
+      },
+      {
+        "text": "Agust D 폼 미쳤다!",
+        "meaning_ja": "Agust D フォーム狂ってる！",
+        "meaning_en": "Agust D's form is crazy good! (Amazing)"
+      },
+      {
+        "text": "윤기 오빠, 내 심장 쏘아올려!",
+        "meaning_ja": "ユンギオッパ、私の心臓撃ち上げて！",
+        "meaning_en": "Yoongi oppa, shoot my heart up! (Meaning he makes my heart flutter)"
+      }
+    ]
+  },
+  "J-Hope": {
+    "LOVE_GENERAL": [
+      {
+        "text": "*   홉깅이",
+        "meaning_ja": "ホプ赤ちゃん",
+        "meaning_en": "Hobi-baby (Referring to his cute side)"
+      },
+      {
+        "text": "*   햇살호비",
+        "meaning_ja": "太陽ホビ",
+        "meaning_en": "Sunshine Hobi (Referring to his bright personality)"
+      },
+      {
+        "text": "*   정호석! 찢었다!",
+        "meaning_ja": "チョン・ホソク！最高！",
+        "meaning_en": "Jung Hoseok! You slayed!"
+      },
+      {
+        "text": "*   호비 is 뭔들",
+        "meaning_ja": "ホビは何でも正解",
+        "meaning_en": "Hobi is good at everything (Referring to his talents)"
+      },
+      {
+        "text": "*   나의 희망, 나의 햇살",
+        "meaning_ja": "私の希望、私の太陽",
+        "meaning_en": "My hope, my sunshine"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "훕모닝!",
+        "meaning_ja": "ホプモーニング！(良い朝！)",
+        "meaning_en": "Hobi-Morning! (Good Morning!)"
+      },
+      {
+        "text": "홉 is my life",
+        "meaning_ja": "ホビが私の人生",
+        "meaning_en": "Hobi is my life"
+      },
+      {
+        "text": "햅삐홉ッピー",
+        "meaning_ja": "ハッピーホッピー",
+        "meaning_en": "Happy Hoppy"
+      },
+      {
+        "text": "선샤인 호비",
+        "meaning_ja": "サンシャインホビ",
+        "meaning_en": "Sunshine Hobi"
+      },
+      {
+        "text": "홉월드",
+        "meaning_ja": "ホプワールド",
+        "meaning_en": "Hobi World"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "호바, 내 인생에 입주해",
+        "meaning_ja": "ホバ、私の人生に入居して (結婚して)",
+        "meaning_en": "Hoba, move into my life (Marry me)!"
+      },
+      {
+        "text": "정 호석, 내 심장에 큐피드 화살 발사!",
+        "meaning_ja": "チョン・ホソク、私の心臓にキューピッドの矢を発射！(結婚して)",
+        "meaning_en": "Jung Hoseok, shoot Cupid's arrow into my heart! (Marry me!)"
+      },
+      {
+        "text": "햇살아, 내 통장 가져! (결혼해줘!)",
+        "meaning_ja": "日差しさん、私の通帳持ってって！(結婚して！)",
+        "meaning_en": "Sunshine, take my bank account! (Marry me!)"
+      },
+      {
+        "text": "호비 is 뭔들...내 신랑감",
+        "meaning_ja": "ホビ is 何でも良い...私の花婿候補",
+        "meaning_en": "Hobi is anything...My groom material."
+      },
+      {
+        "text": "제이홉, 유죄! (내 신부 유죄!)",
+        "meaning_ja": "J-Hope, 有罪！(私の花婿、有罪！)",
+        "meaning_en": "J-Hope, guilty! (Of being my groom!)"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "홉이 보고 싶어 쥬금 ㅠㅠ",
+        "meaning_ja": "ホビに会いたくて死ぬ ㅠㅠ",
+        "meaning_en": "I miss Hobi so much I'm dying ㅠㅠ (Emphasis on missing him dearly)"
+      },
+      {
+        "text": "햇살호비 내 마음속에 저-장!",
+        "meaning_ja": "太陽のホビ、私の心に保存！",
+        "meaning_en": "Sunshine Hobi, saved in my heart! (Implying wanting to always keep him close)"
+      },
+      {
+        "text": "정호석 is 뭔들! 보고시퍼!",
+        "meaning_ja": "チョン・ホソクは何でも最高！会いたい！",
+        "meaning_en": "Jung Hoseok is good at everything! I miss you! (Expressing admiration and missing him)"
+      },
+      {
+        "text": "호비 보러 광속 입덕!",
+        "meaning_ja": "ホビを見に光速でファンクラブ入会！",
+        "meaning_en": "Joining the fanclub at light speed to see Hobi! (Hyperbolic expression of wanting to see him)"
+      },
+      {
+        "text": "호비 없인 못 살아 증말 ㅠㅠ",
+        "meaning_ja": "ホビなしでは生きられない 本当に ㅠㅠ",
+        "meaning_en": "I really can't live without Hobi ㅠㅠ (Melodramatic expression of missing him)"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "방탄길만 걷자",
+        "meaning_ja": "防弾少年団の道だけを歩もう",
+        "meaning_en": "Let's only walk the BTS path (meaning, let's only have good things happen to us/BTS)"
+      },
+      {
+        "text": "홉월드 영원히",
+        "meaning_ja": "ホビワールド永遠に",
+        "meaning_en": "Hobi World forever (referring to J-Hope's mixtape and his artistic universe)"
+      },
+      {
+        "text": "함께라면 괜찮아",
+        "meaning_ja": "一緒なら大丈夫",
+        "meaning_en": "It's okay as long as we're together."
+      },
+      {
+        "text": "우리의 별, 호석",
+        "meaning_ja": "私たちの星、ホソク",
+        "meaning_en": "Our star, Hoseok (Hoseok is J-Hope's given name)"
+      },
+      {
+        "text": "꽃길만 걸어, 호비!",
+        "meaning_ja": "花道だけを歩んで、ホビ！",
+        "meaning_en": "Only walk on flower paths, Hobi! (Wishing him only good things)"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "홉생일_뿌잉뿌잉",
+        "meaning_ja": "ホプ誕生日_ぶりっ子",
+        "meaning_en": "Happy Birthday Hobi, acting cute! (Like doing aegyo)"
+      },
+      {
+        "text": "정호석_복근_기원",
+        "meaning_ja": "チョン・ホソク_腹筋_祈願",
+        "meaning_en": "Praying for Jung Hoseok's abs! (Wishful thinking)"
+      },
+      {
+        "text": "햇살호비_사랑해",
+        "meaning_ja": "日差しホビ_愛してる",
+        "meaning_en": "I love you, sunshine Hobi!"
+      },
+      {
+        "text": "호비랜드_개장",
+        "meaning_ja": "ホビランド_開場",
+        "meaning_en": "Hobi Land is open! (Referring to his bright personality)"
+      },
+      {
+        "text": "SOPE_케미_최고",
+        "meaning_ja": "SOPE_ケミ_最高",
+        "meaning_en": "SOPE chemistry is the best! (Celebrating his friendship with Suga)"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "*   헐대박",
+        "meaning_ja": "マジ神",
+        "meaning_en": "OMG, that's amazing!"
+      },
+      {
+        "text": "*   정호석 최고",
+        "meaning_ja": "ホソクが一番！",
+        "meaning_en": "Jung Hoseok is the best!"
+      },
+      {
+        "text": "*   흥탄소년단",
+        "meaning_ja": "興탄소년단(ノリノリ)",
+        "meaning_en": "Hype Boyz (lit. hype/excited Bangtan Boys)"
+      },
+      {
+        "text": "*   솝므파탈",
+        "meaning_ja": "ソプムファタル(可愛すぎる危険人物)",
+        "meaning_en": "Sope Fatale (Sope, too cute to handle)"
+      },
+      {
+        "text": "*   햇살호비",
+        "meaning_ja": "太陽ホビ",
+        "meaning_en": "Sunshine Hobi"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "희망 is 뭔들",
+        "meaning_ja": "希望は何でも (いい)",
+        "meaning_en": "Hope is perfect no matter what he does"
+      },
+      {
+        "text": "정말 쩐다!",
+        "meaning_ja": "マジ神！",
+        "meaning_en": "Seriously Godlike! (Amazing!)"
+      },
+      {
+        "text": "우리 호비 최고다!",
+        "meaning_ja": "うちのホビが最高！",
+        "meaning_en": "Our Hobi is the best!"
+      },
+      {
+        "text": "햇살 호석",
+        "meaning_ja": "太陽のホソク",
+        "meaning_en": "Sunshine Hoseok"
+      },
+      {
+        "text": "넘사벽 호비",
+        "meaning_ja": "越えられない壁ホビ",
+        "meaning_en": "Unreachable/Unbeatable Hobi"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉",
+        "meaning_en": "His face is welfare (meaning his visuals bring happiness and well-being)."
+      },
+      {
+        "text": "정호석 is 뭔들",
+        "meaning_ja": "チョン・ホソク is 何でも(最高)",
+        "meaning_en": "Jung Hoseok is good at everything (lit. whatever he does)."
+      },
+      {
+        "text": "햇살 is 뭔들",
+        "meaning_ja": "日差し is 何でも(最高)",
+        "meaning_en": "Sunshine is good at everything (referring to his bright personality and how good he is)."
+      },
+      {
+        "text": "큐티, 섹시, 앙큼, 깜찍 다 한다!",
+        "meaning_ja": "キュート、セクシー、ずる賢い、可愛い 全部できる！",
+        "meaning_en": "He does Cute, Sexy, Sly, and Lovely all!"
+      },
+      {
+        "text": "호비 is 뭔들",
+        "meaning_ja": "ホビ is 何でも(最高)",
+        "meaning_en": "Hobi is good at everything."
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴천재 정호석",
+        "meaning_ja": "顔面天才チョン・ホソク",
+        "meaning_en": "Face Genius Jung Hoseok"
+      },
+      {
+        "text": "잘생쁨 호석",
+        "meaning_ja": "かっこかわいホソク",
+        "meaning_en": "Handsome-Cute Hoseok"
+      },
+      {
+        "text": "조각미남 정호석",
+        "meaning_ja": "彫刻美男チョン・ホソク",
+        "meaning_en": "Sculpted Beauty Jung Hoseok"
+      },
+      {
+        "text": "비주얼 폭발",
+        "meaning_ja": "ビジュアル爆発",
+        "meaning_en": "Visual Explosion"
+      },
+      {
+        "text": "넘사벽 비주얼",
+        "meaning_ja": "誰もが認めざるを得ないビジュアル",
+        "meaning_en": "Unrivaled Visuals"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "햇살홉! 손하트 뿅!",
+        "meaning_ja": "太陽のようなホビ！指ハート、ピョン！",
+        "meaning_en": "Sunshine Hobi! Finger heart, pyong! (Sound effect for a little heart popping out)"
+      },
+      {
+        "text": "홉이 is 뭔들! 손민수템 하트 뿅뿅!",
+        "meaning_ja": "ホビなら何でも良い！真似して指ハート、ピョンピョン！",
+        "meaning_en": "Hobi is perfect in everything! Copying (his style) with finger hearts, pyong pyong!"
+      },
+      {
+        "text": "정호석! 내 심장에 손하트 박제!",
+        "meaning_ja": "チョン・ホソク！私の心臓に指ハートを永久保存！",
+        "meaning_en": "Jung Hoseok! Finger heart permanently etched into my heart!"
+      },
+      {
+        "text": "희망아, 손하트 받으Show me your hope!",
+        "meaning_ja": "希望よ、指ハートを見せて！",
+        "meaning_en": "Hope, show me your finger heart! (Play on \"Show me your love\")"
+      },
+      {
+        "text": "손하트 장인! 홉이 미모가 국보급!",
+        "meaning_ja": "指ハートの達人！ホビの美貌が国宝級！",
+        "meaning_en": "Finger heart master! Hobi's beauty is a national treasure!"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "밥잘챙겨 호비!",
+        "meaning_ja": "ホビ、ちゃんとご飯食べてね！",
+        "meaning_en": "Hobi, make sure you eat well! (Direct, friendly)"
+      },
+      {
+        "text": "호비 맛잘알 인정!",
+        "meaning_ja": "ホビ、美味しいものよく知ってるよね！さすが！",
+        "meaning_en": "Hobi, we acknowledge your excellent taste in food!"
+      },
+      {
+        "text": "햄찌모먼트 기대하며 냠냠!",
+        "meaning_ja": "ハムスターモーメント期待しつつ、もぐもぐ！",
+        "meaning_en": "Looking forward to hamster moments, munch munch! (Referring to a cute, eating expression)"
+      },
+      {
+        "text": "긍정 파워 충전! 밥심으로!",
+        "meaning_ja": "ポジティブパワー充電！ご飯の力で！",
+        "meaning_en": "Charge up your positive energy! With the power of food!"
+      },
+      {
+        "text": "호비 밥길만 걸어!",
+        "meaning_ja": "ホビ、美味しいものだけ食べて幸せに！",
+        "meaning_en": "Hobi, only walk the path of delicious food and happiness! (Wishing him only good things, related to food)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "홉이☀️보고 힘내!",
+        "meaning_ja": "ホビを見て元気出して！",
+        "meaning_en": "Look at Hobi ☀️ and cheer up!"
+      },
+      {
+        "text": "정호석✨은 💖사랑💖입니다",
+        "meaning_ja": "チョン・ホソク✨は💖愛💖です",
+        "meaning_en": "Jung Hoseok ✨ is 💖love💖."
+      },
+      {
+        "text": "흥! 탄! 쏘! 💜",
+        "meaning_ja": "フン！タン！ソ！💜 (盛り上がって！弾けて！叫ぼう！)",
+        "meaning_en": "Heung! Tan! Sso! 💜 (Get hyped! Burst with energy! Shout!)"
+      },
+      {
+        "text": "햇살☀️호비 감기 조심!",
+        "meaning_ja": "日差し☀️ホビ 風邪に気をつけて！",
+        "meaning_en": "Sunshine☀️Hobi, be careful not to catch a cold!"
+      },
+      {
+        "text": "호비 is 뭔들 🧡",
+        "meaning_ja": "ホビは何でも🧡 (ホビなら何でも最高)",
+        "meaning_en": "Hobi is everything 🧡 (Everything Hobi does is the best)"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "*   홉이 is 뭔들",
+        "meaning_ja": "ホビなら何でもOK",
+        "meaning_en": "Hobi can do anything! (Everything Hobi does is great)"
+      },
+      {
+        "text": "*   햇살호비",
+        "meaning_ja": "太陽ホビ",
+        "meaning_en": "Sunshine Hobi"
+      },
+      {
+        "text": "*   정호석 최고!",
+        "meaning_ja": "チョン・ホソク最高！",
+        "meaning_en": "Jung Hoseok is the best!"
+      },
+      {
+        "text": "*   흥탄소년단",
+        "meaning_ja": "ノリノリ防弾少年団",
+        "meaning_en": "Energetic/Excited BTS"
+      },
+      {
+        "text": "*   내 심장 훔쳐간 제이홉",
+        "meaning_ja": "私の心を奪ったJ-Hope",
+        "meaning_en": "J-Hope stole my heart"
+      }
+    ]
+  },
+  "Jimin": {
+    "LOVE_GENERAL": [
+      {
+        "text": "짐랑둥이",
+        "meaning_ja": "ジミン愛しい子(かわいい子)",
+        "meaning_en": "Jimin, my precious baby (cute baby)"
+      },
+      {
+        "text": "지민오빠 맘찍💖",
+        "meaning_ja": "ジミンオッパ、いいね爆撃💖",
+        "meaning_en": "Jimin Oppa, like-bomb!💖 (Showing lots of love/likes on his posts)"
+      },
+      {
+        "text": "박지민 천재강양이",
+        "meaning_ja": "パク・ジミン天才子猫",
+        "meaning_en": "Park Jimin, genius kitten! (Playful, highlighting both talent & cuteness)"
+      },
+      {
+        "text": "무대찢어 지민",
+        "meaning_ja": "ステージをぶち壊せ、ジミン！",
+        "meaning_en": "Tear up the stage, Jimin! (Excitement about his performance)"
+      },
+      {
+        "text": "심장아 나대지마, 박지민 때문이다!",
+        "meaning_ja": "心臓よ、騒ぐな。パク・ジミンのせいだ！",
+        "meaning_en": "Heart, calm down! It's because of Park Jimin! (Expressing being overwhelmed by his charm)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "짐랑해",
+        "meaning_ja": "ジミン愛してる",
+        "meaning_en": "I Jimin You (I love you, Jimin. Play on 사랑해)"
+      },
+      {
+        "text": "지민이 맘속에 저장",
+        "meaning_ja": "ジミンを心に保存",
+        "meaning_en": "Saving Jimin in my heart (Cherishing Jimin)"
+      },
+      {
+        "text": "지민 is 뭔들",
+        "meaning_ja": "ジミンは何でもあり",
+        "meaning_en": "Jimin is good at everything (He can do anything, I love him)"
+      },
+      {
+        "text": "박지민 최고존엄",
+        "meaning_ja": "パクジミン、最高に尊い",
+        "meaning_en": "Park Jimin, the Most Precious Being (Highly valuing Jimin)"
+      },
+      {
+        "text": "심장이 박지민해",
+        "meaning_ja": "心臓がパクジミンしてる",
+        "meaning_en": "My heart is 박지민-ing"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "짐냥아 결혼해줘!",
+        "meaning_ja": "ジミニャン、結婚して！",
+        "meaning_en": "Jimin-nyang, please marry me! (Uses \"nyang\" for cuteness/endearment)"
+      },
+      {
+        "text": "박지민 내꺼! 결혼각!",
+        "meaning_ja": "パク・ジミン、私のもの！結婚の予感！",
+        "meaning_en": "Park Jimin, mine! Marriage vibes! (Focuses on possessiveness & inevitability)"
+      },
+      {
+        "text": "짐몽탄 나랑 결혼하자!",
+        "meaning_ja": "ジムモンタン、私と結婚しよう！",
+        "meaning_en": "Jim-mongtan, let's get married! (Combines Jimin & his puppy Mongtan; a playful suggestion)"
+      },
+      {
+        "text": "지민오빠 유죄! 결혼으로 속죄!",
+        "meaning_ja": "ジミンオッパ有罪！結婚で贖罪！",
+        "meaning_en": "Jimin oppa is guilty! Atone with marriage! (Playful accusation of being too charming, requires marriage as punishment)"
+      },
+      {
+        "text": "결혼 안 하면 불법! 박지민!",
+        "meaning_ja": "結婚しないなら違法！パク・ジミン！",
+        "meaning_en": "Not marrying me is illegal! Park Jimin! (Exaggerated & humorous declaration.)"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "짐 보고 싶지민",
+        "meaning_ja": "ジミンに会いたくて死ぬ",
+        "meaning_en": "Dying to see Jimin"
+      },
+      {
+        "text": "지민 없는 삶, 상상 불가링",
+        "meaning_ja": "ジミンがいない人生なんてありえないんだけど",
+        "meaning_en": "I can't even imagine life without Jimin"
+      },
+      {
+        "text": "내 심장 박지민",
+        "meaning_ja": "私の心臓はパクジミン",
+        "meaning_en": "My heart beats for Park Jimin"
+      },
+      {
+        "text": "지민 매직, 실화냐? 보고 싶어 죽겠네",
+        "meaning_ja": "ジミンのマジック、マジなの？会いたくて死にそう",
+        "meaning_en": "Jimin's magic, is it real? I'm dying to see you"
+      },
+      {
+        "text": "무지개 넘어 지민 보러 갈래",
+        "meaning_ja": "虹を越えてジミンに会いに行く",
+        "meaning_en": "I'll go see Jimin over the rainbow"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "짐랑해 (Jimranghae)",
+        "meaning_ja": "ジミン愛してる(ずっと愛してる)",
+        "meaning_en": "I Jim-love you (I'll always love you, Jimin)"
+      },
+      {
+        "text": "짐생사 (Jimsaengsa)",
+        "meaning_ja": "ジミンが私の生きる理由(永遠に)",
+        "meaning_en": "Jimin is the reason I live (forever)"
+      },
+      {
+        "text": "찜쿵 (Jjimkkung)",
+        "meaning_ja": "ジミンのせいで胸キュン(永遠に)",
+        "meaning_en": "Heart-throb because of Jimin (forever)"
+      },
+      {
+        "text": "박지민은 사랑 (Park Jimin-eun Sarang)",
+        "meaning_ja": "パク・ジミンは愛(永遠に)",
+        "meaning_en": "Park Jimin is love (forever)"
+      },
+      {
+        "text": "우리 곁에 찜 (Uri Gyeote Jjim)",
+        "meaning_ja": "私たちのそばにジミン(ずっと)",
+        "meaning_en": "Jimin by our side (always)"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "짐랑둥이",
+        "meaning_ja": "ジミンちゃん可愛い",
+        "meaning_en": "Jimin is such a cutie! (Emphasizing adorableness)"
+      },
+      {
+        "text": "망개떡 왕자님",
+        "meaning_ja": "餅みたいな王子様",
+        "meaning_en": "Mochi Prince (Referring to Jimin's soft, cute appearance)"
+      },
+      {
+        "text": "지민이 쏘 스윗",
+        "meaning_ja": "ジミン優しすぎ",
+        "meaning_en": "Jimin is so sweet! (Highlighting his kind nature)"
+      },
+      {
+        "text": "탄생 축복해, 짐!",
+        "meaning_ja": "生まれてきてくれて、ジミン！",
+        "meaning_en": "Blessed to be born, Jimin! (Celebrating his birth)"
+      },
+      {
+        "text": "찜럽유",
+        "meaning_ja": "ジミン大好き",
+        "meaning_en": "I love Jimin (Combining Jimin's name with the word \"love\")"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "짐랑둥이",
+        "meaning_ja": "ジミンちゃんかわいすぎ！",
+        "meaning_en": "Jimin is so adorable!"
+      },
+      {
+        "text": "박지민 최고다!",
+        "meaning_ja": "パク・ジミンが一番！",
+        "meaning_en": "Park Jimin is the best!"
+      },
+      {
+        "text": "지민 오빠, 내 맘속에 🌟저장🌟",
+        "meaning_ja": "ジミン、私の心に🌟保存🌟",
+        "meaning_en": "Jimin oppa, saved 🌟 in my heart 🌟! (Refers to saving someone in your phone contacts)"
+      },
+      {
+        "text": "작소, 소중해!",
+        "meaning_ja": "ちっちゃくて可愛い、大事にする！",
+        "meaning_en": "Small and precious, I'll cherish you! (Short for 작고 소중해 - small and precious)"
+      },
+      {
+        "text": "무대찢어!",
+        "meaning_ja": "ステージをぶち壊せ！",
+        "meaning_en": "Tear up the stage! (Expressing enthusiasm for his performance)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "짐멘 🙏",
+        "meaning_ja": "ジミン様、マジ神！",
+        "meaning_en": "Jimin-sama, truly a god! (Uses \"amen\" soundalike to evoke praise)"
+      },
+      {
+        "text": "작고 소중한 지민이 (작소짐)",
+        "meaning_ja": "小さくて大切なジミン",
+        "meaning_en": "Small and precious Jimin (Emphasizes his endearing qualities)"
+      },
+      {
+        "text": "박지민 만세! 🙌",
+        "meaning_ja": "パク・ジミン、万歳！",
+        "meaning_en": "Long live Park Jimin! (Classic enthusiastic cheer)"
+      },
+      {
+        "text": "얼굴이 복지다, 박지민!",
+        "meaning_ja": "顔が福祉だ、パク・ジミン！",
+        "meaning_en": "Your face is welfare, Park Jimin! (Meaning his visuals are a blessing.)"
+      },
+      {
+        "text": "지민 is 뭔들!",
+        "meaning_ja": "ジミンは何でも最高！",
+        "meaning_en": "Jimin can do anything and it will be amazing! (Expressing he will make anything good)"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "오빠미 뿜뿜",
+        "meaning_ja": "オッパ美大爆発",
+        "meaning_en": "Overflowing with Oppa vibes (older brother appeal)"
+      },
+      {
+        "text": "짐며들다",
+        "meaning_ja": "ジミンにハマる",
+        "meaning_en": "To be Jimin-ified (to fall deeply for Jimin)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔が福祉だ",
+        "meaning_en": "Your face is welfare (so beautiful it provides comfort)"
+      },
+      {
+        "text": "무대 장인",
+        "meaning_ja": "ステージ職人",
+        "meaning_en": "Stage Artisan (Master of the stage)"
+      },
+      {
+        "text": "갭모에 최고",
+        "meaning_ja": "ギャップ萌え最高",
+        "meaning_en": "Gap moe is the best! (The charm of contrasting traits is the best!)"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴천재",
+        "meaning_ja": "顔面天才 (がんめんてんさい)",
+        "meaning_en": "Face Genius (Someone with an exceptionally beautiful face)"
+      },
+      {
+        "text": "박지민은_예술이다",
+        "meaning_ja": "パク・ジミンは芸術だ (パク・ジミンはげいじゅつだ)",
+        "meaning_en": "Park Jimin is Art!"
+      },
+      {
+        "text": "본투비아이돌",
+        "meaning_ja": "生まれながらのアイドル (うまれながらのアイドル)",
+        "meaning_en": "Born to be an Idol"
+      },
+      {
+        "text": "무대찢었다",
+        "meaning_ja": "ステージを破った (ステージをやぶった)",
+        "meaning_en": "Ripped the stage (He performed so well, he tore up the stage figuratively)"
+      },
+      {
+        "text": "심장이_박지민",
+        "meaning_ja": "心臓がパク・ジミン (しんぞうがパク・ジミン)",
+        "meaning_en": "My heart is Park Jimin (Park Jimin is my heart)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "짐냥이 최고!",
+        "meaning_ja": "ジミンニャンコ最高！",
+        "meaning_en": "Jimin-nyangi is the best! (Nyangi refers to cat-like cuteness)"
+      },
+      {
+        "text": "망개떡 요정, 찜!",
+        "meaning_ja": "マンゲトック妖精、ジミン！",
+        "meaning_en": "Manggaetteok fairy, Jimin! (Manggaetteok refers to Jimin's chubby cheeks)"
+      },
+      {
+        "text": "심장아 나대지마, 지민이잖아!",
+        "meaning_ja": "心臓よ騒ぐな、ジミンだよ！",
+        "meaning_en": "Heart, don't go wild, it's Jimin!"
+      },
+      {
+        "text": "박지민은 사랑입니다!",
+        "meaning_ja": "パク・ジミンは愛です！",
+        "meaning_en": "Park Jimin is love!"
+      },
+      {
+        "text": "지민 is 뭔들",
+        "meaning_ja": "ジミンは何でもあり！",
+        "meaning_en": "Jimin is good at everything!"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "밥 잘 챙겨 묵어!",
+        "meaning_ja": "ご飯ちゃんと食べてね！",
+        "meaning_en": "Make sure you eat well! (Literally: Take care to eat your rice!)"
+      },
+      {
+        "text": "짐냥이 맘마 먹어쪄?",
+        "meaning_ja": "ジミンちゃん、ご飯食べた？",
+        "meaning_en": "Did Jiminy cat eat his food? (Cute, baby-talk way to ask if he ate)"
+      },
+      {
+        "text": "아프지망고!",
+        "meaning_ja": "痛くならないでマンゴー！（痛くないでね）",
+        "meaning_en": "Don't be sick, mango! (Play on words of 아프지마 which means don't be sick)"
+      },
+      {
+        "text": "탄수화물은 사랑입니다!",
+        "meaning_ja": "炭水化物は愛です！",
+        "meaning_en": "Carbs are love! (Acknowledges the love for good food, even if it's carbs!)"
+      },
+      {
+        "text": "맛저하세요!",
+        "meaning_ja": "美味しい夕食を！",
+        "meaning_en": "Have a delicious dinner! (Short for 맛있게 저녁 하세요 - have a delicious dinner)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "짐냥이 감기 맴매!",
+        "meaning_ja": "ジミンニャンコ、風邪なんかやっつけろ！",
+        "meaning_en": "Jimin-nyang, smack that cold away! (Playful, uses \"nyang\" for cuteness)"
+      },
+      {
+        "text": "지민오빠 아프면 앙대!",
+        "meaning_ja": "ジミンオッパが具合悪くなったらダメ！",
+        "meaning_en": "If Jimin oppa is sick, no way! (Emphasizes concern with \"ang-dae\" meaning \"no way\")"
+      },
+      {
+        "text": "따수히 덮고 코 자!",
+        "meaning_ja": "暖かくして、おやすみ！",
+        "meaning_en": "Stay warm and sleep well! (Simple, sweet, and caring)"
+      },
+      {
+        "text": "지민 is 뭔들! 건강 is 뭔들!",
+        "meaning_ja": "ジミンイズ何でも！健康イズ何でも！",
+        "meaning_en": "Jimin is whatever he does is amazing! Health is whatever is needed! (Uses the \"is 뭔들\" meme to say even health is amazing when it comes to Jimin)"
+      },
+      {
+        "text": "감기 꺼져! 박지민 짱!",
+        "meaning_ja": "風邪なんか消えろ！パクジミン最高！",
+        "meaning_en": "Cold, go away! Park Jimin is the best! (Direct and forceful against the cold, praising Jimin)"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "짐랑둥이",
+        "meaning_ja": "ジミンちゃん可愛い！",
+        "meaning_en": "Jimin is such a cutie! (짐+사랑둥이 - Jimin + endearing/lovable person)"
+      },
+      {
+        "text": "무대찢었다!",
+        "meaning_ja": "ステージぶっ壊した！",
+        "meaning_en": "You slayed the stage! (Lit. \"Tore up the stage!\")"
+      },
+      {
+        "text": "박지민 최고다!",
+        "meaning_ja": "パク・ジミン最高！",
+        "meaning_en": "Park Jimin is the best!"
+      },
+      {
+        "text": "오빠미 뿜뿜",
+        "meaning_ja": "オッパ感満載！",
+        "meaning_en": "Overflowing with Oppa vibes! (오빠미: oppa-ness, 뿜뿜: gushing out)"
+      },
+      {
+        "text": "존잘 is 뭔들",
+        "meaning_ja": "イケメンは何してもイケメン",
+        "meaning_en": "Handsome is handsome no matter what! (존잘: very handsome, 뭔들: literally \"what even,\" implying anything looks good on him)"
+      }
+    ]
+  },
+  "V": {
+    "LOVE_GENERAL": [
+      {
+        "text": "*   태형 is 뭔들",
+        "meaning_ja": "テヒョンは何をやっても最高",
+        "meaning_en": "Everything Taehyung does is amazing/perfect."
+      },
+      {
+        "text": "*   태태랜드",
+        "meaning_ja": "テテランド(テヒョンの世界)",
+        "meaning_en": "TaeTae Land (Taehyung's World)"
+      },
+      {
+        "text": "*   얼굴이 복지다",
+        "meaning_ja": "顔面が福祉",
+        "meaning_en": "His face is welfare (his face is a blessing/good for the soul)."
+      },
+      {
+        "text": "*   뷔주얼 쇼크",
+        "meaning_ja": "Vジュアルショック",
+        "meaning_en": "Visual Shock (V's visuals are shocking)."
+      },
+      {
+        "text": "*   김태형 사랑해",
+        "meaning_ja": "キムテヒョン大好き",
+        "meaning_en": "Kim Taehyung, I love you."
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "뷔주얼 미쳤다",
+        "meaning_ja": "テテのビジュアル、マジヤバい (愛してる)",
+        "meaning_en": "V's visuals are insane (I love him)"
+      },
+      {
+        "text": "태형 is 뭔들",
+        "meaning_ja": "テヒョンはマジ何でも良い (愛してる)",
+        "meaning_en": "Everything Taehyung does is amazing (I love him)"
+      },
+      {
+        "text": "얼굴이 복지다, 김태형",
+        "meaning_ja": "顔面が福祉、キム・テヒョン (愛してる)",
+        "meaning_en": "Your face is welfare, Kim Taehyung (I love him)"
+      },
+      {
+        "text": "내 심장 스틸러, 뷔",
+        "meaning_ja": "私の心を盗む人、V (愛してる)",
+        "meaning_en": "My heart stealer, V (I love him)"
+      },
+      {
+        "text": "입덕 부정은 없다, 김태형",
+        "meaning_ja": "入徳否定は無しだ、キム・テヒョン (愛してる)",
+        "meaning_en": "There's no denying I'm a fan, Kim Taehyung (I love him)"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "뷔 데릴사위",
+        "meaning_ja": "テヒョン、婿に来て！",
+        "meaning_en": "V, come be my son-in-law! (Playfully suggesting the family accepts him!)"
+      },
+      {
+        "text": "얼굴이 복지다 혼인신고",
+        "meaning_ja": "顔面が福祉、婚姻届け！",
+        "meaning_en": "Your face is welfare, marriage registration! (Meaning his visuals are so good, it's practically a public service!)"
+      },
+      {
+        "text": "김태형 내꺼찜",
+        "meaning_ja": "キム・テヒョン、私のお気に入り登録",
+        "meaning_en": "Kim Taehyung, marked as mine! (Like adding to a watchlist or favorites)"
+      },
+      {
+        "text": "오빠 말고 남편",
+        "meaning_ja": "オッパじゃなくて、旦那様",
+        "meaning_en": "Not \"oppa\", but \"husband\"! (Moving past the respectful older brother title)"
+      },
+      {
+        "text": "뷔주얼 혼혈 쌉가능 결혼부터",
+        "meaning_ja": "ヴィジュアル混血、全然アリ、結婚から！",
+        "meaning_en": "Visual mix, totally possible, starting with marriage! (A humorous take on how good-looking their kids would be)"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "태형 is 뭔들!",
+        "meaning_ja": "テヒョンは何でも最高！",
+        "meaning_en": "Taehyung is perfect no matter what! (Implies missing his amazingness)"
+      },
+      {
+        "text": "오빠미 뿜뿜, 보고 싶태!",
+        "meaning_ja": "オッパオーラ全開、会いたいテ！",
+        "meaning_en": "Oppa charm overflowing, Miss you Tae! (Plays on wanting to see his \"oppa\" charm)"
+      },
+      {
+        "text": "심장이 뷔글뷔글, 태형 보고파!",
+        "meaning_ja": "心臓がブイグルブイグル、テヒョンに会いたい！",
+        "meaning_en": "My heart is \"V-gling\", I want to see Taehyung! (V글V글 mimics heart beating fast & uses V's stage name)"
+      },
+      {
+        "text": "얼굴이 복지, 태형 보구 싶다!",
+        "meaning_ja": "顔面が福祉、テヒョンに会いたい！",
+        "meaning_en": "Your face is welfare, I want to see Taehyung! (Meaning his beauty is a blessing, and I miss seeing it)"
+      },
+      {
+        "text": "태태 is 뭔들, 쏘 스윗 보고파!",
+        "meaning_ja": "テテは何でも最高、めっちゃスイートで会いたい！",
+        "meaning_en": "TaeTae is perfect, so sweet, I miss you! (Highlights his sweet nature and missing him)"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "넘넘넘",
+        "meaning_ja": "ずっとずっとずっと",
+        "meaning_en": "Forever, forever, forever"
+      },
+      {
+        "text": "오래오래 함께해",
+        "meaning_ja": "いつまでも一緒にいようね",
+        "meaning_en": "Let's be together for a long, long time."
+      },
+      {
+        "text": "탄생부터 지금까지 영원히 응원해",
+        "meaning_ja": "生まれたときから今まで、永遠に応援するよ",
+        "meaning_en": "I'll support you forever, from your birth until now."
+      },
+      {
+        "text": "뷔주얼 갱얼쥐",
+        "meaning_ja": "뷔ジュアル子犬（ずっと可愛い）",
+        "meaning_en": "V's visual is puppy-like (always cute & forever). *Implies lasting adoration.*"
+      },
+      {
+        "text": "꽃길만 걷자, 뷔야!",
+        "meaning_ja": "花道だけを歩こうね、V！(ずっと幸せに)",
+        "meaning_en": "Let's only walk flower paths, V! (May you always be happy)."
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "태태랜드",
+        "meaning_ja": "テテランド (テテの世界)",
+        "meaning_en": "TaeTae Land (V's World/Domain)"
+      },
+      {
+        "text": "얼굴천재",
+        "meaning_ja": "顔面天才 (顔面が天才)",
+        "meaning_en": "Face Genius (Unbelievably handsome)"
+      },
+      {
+        "text": "뷔주얼",
+        "meaning_ja": "뷔ジュアル (Vビジュアル)",
+        "meaning_en": "V-isual (V's visual appeal/looks)"
+      },
+      {
+        "text": "김태형 사랑해!",
+        "meaning_ja": "キム・テヒョン 愛してる！",
+        "meaning_en": "Kim Taehyung, I love you!"
+      },
+      {
+        "text": "탄생일에 뷔밀!",
+        "meaning_ja": "誕生日に秘密（Vの秘密）！",
+        "meaning_en": "A V-Secret for your Birthday! (Implies a special surprise or wish for V's birthday)"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "태태랜드",
+        "meaning_ja": "テテランド(テテの世界)",
+        "meaning_en": "TaeTae Land (V's World)"
+      },
+      {
+        "text": "뷔주얼천재",
+        "meaning_ja": "ビジュアル天才 (ビジュアルてんさい)",
+        "meaning_en": "Visual Genius (Visual Genius)"
+      },
+      {
+        "text": "김태형은사랑",
+        "meaning_ja": "キム・テヒョンは愛 (キム・テヒョンはあい)",
+        "meaning_en": "Kim Taehyung is Love (Kim Taehyung is Love)"
+      },
+      {
+        "text": "얼굴이복지다",
+        "meaning_ja": "顔が福祉だ (かおがふくしだ)",
+        "meaning_en": "Your face is welfare (Your face is a blessing/welfare)"
+      },
+      {
+        "text": "멍뭉미",
+        "meaning_ja": "わんこみ (犬みたいなかわいさ)",
+        "meaning_en": "Puppy-like cuteness (Puppy-like charm)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "태형 is 뭔들",
+        "meaning_ja": "テヒョン is 何でもいい (最高)",
+        "meaning_en": "Taehyung is good no matter what (He's perfect)"
+      },
+      {
+        "text": "뷔주얼 미쳤다",
+        "meaning_ja": "Vジュアルヤバい",
+        "meaning_en": "V's visuals are insane!"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔が福祉だ",
+        "meaning_en": "His face is welfare (blessing/good for you)"
+      },
+      {
+        "text": "김태형 존잘",
+        "meaning_ja": "キム・テヒョン 超イケメン",
+        "meaning_en": "Kim Taehyung is SO handsome!"
+      },
+      {
+        "text": "내 심장 김태형",
+        "meaning_ja": "私の心臓はキム・テヒョン",
+        "meaning_en": "My heart is Kim Taehyung."
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "얼굴천재 김태형",
+        "meaning_ja": "顔面天才キム・テヒョン",
+        "meaning_en": "Face genius Kim Taehyung (referring to his incredibly handsome face)"
+      },
+      {
+        "text": "태형 is 뭔들",
+        "meaning_ja": "テヒョンは何でもあり",
+        "meaning_en": "Taehyung can do no wrong (meaning everything he does is good)"
+      },
+      {
+        "text": "뷔주얼 미쳤다",
+        "meaning_ja": "Vジュアルやばい",
+        "meaning_en": "V's visuals are insane"
+      },
+      {
+        "text": "태태 렌즈",
+        "meaning_ja": "テテレンズ",
+        "meaning_en": "TaeTae lens (seeing everything through rose-tinted glasses because of Taehyung)"
+      },
+      {
+        "text": "심장이 태형태형해",
+        "meaning_ja": "心臓がテヒョンテヒョンする",
+        "meaning_en": "My heart is going \"Taehyung Taehyung\" (mimicking the sound of a pounding heart when seeing him)"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴천재 (eolgul cheonjae)",
+        "meaning_ja": "顔面天才 (ganmen tensai)",
+        "meaning_en": "Face Genius (Visual Genius)"
+      },
+      {
+        "text": "태형 is 뭔들 (Taehyung is mwondeul)",
+        "meaning_ja": "テヒョンは何でもイケメン (Tehyun wa nandemo ikemen)",
+        "meaning_en": "Taehyung can pull off anything (Anything looks good on Taehyung)"
+      },
+      {
+        "text": "CGV (CGV)",
+        "meaning_ja": "CG美男 (CG bidan)",
+        "meaning_en": "CG Handsome (So handsome he looks like he's from a CG movie)"
+      },
+      {
+        "text": "잘생김이 덕지덕지 (jalsaenggimi deokji deokji)",
+        "meaning_ja": "ハンサムがべったり (hansamu ga bettari)",
+        "meaning_en": "Handsomeness plastered all over him (Overwhelmingly handsome)"
+      },
+      {
+        "text": "조각미남 (jogak minam)",
+        "meaning_ja": "彫刻美男 (choukoku bidan)",
+        "meaning_en": "Sculpted beauty (Looks like he was sculpted by the gods)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "태형아 손민수템!",
+        "meaning_ja": "テヒョンとお揃いアイテム！",
+        "meaning_en": "Taehyung's inspired item/product! (Meaning: Get an item like Taehyung's, then do the finger heart with it.)"
+      },
+      {
+        "text": "태태 손하트 장인!",
+        "meaning_ja": "テテの指ハート職人！",
+        "meaning_en": "TaeTae is a finger heart master!"
+      },
+      {
+        "text": "김태형 손가락 하트 발사!",
+        "meaning_ja": "キムテヒョン、指ハート発射！",
+        "meaning_en": "Kim Taehyung, finger heart launch!"
+      },
+      {
+        "text": "오빠미 손하트 보여줘!",
+        "meaning_ja": "オッパみ指ハート見せて！",
+        "meaning_en": "Show us your oppa finger heart! (Oppa here indicates an elder brotherly/attractive figure.)"
+      },
+      {
+        "text": "심쿵 손하트 부탁해요!",
+        "meaning_ja": "キュンとする指ハートお願いします！",
+        "meaning_en": "Please give us a heart-fluttering finger heart!"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "태형 맛잘알!",
+        "meaning_ja": "テヒョンはグルメ王！",
+        "meaning_en": "Taehyung, the true food connoisseur! (Implies he knows good food and should eat well)"
+      },
+      {
+        "text": "오구오구 잘 먹는다!",
+        "meaning_ja": "よしよし、よく食べるね！",
+        "meaning_en": "Aww, you eat so well! (Expresses fondness and encouragement to eat)"
+      },
+      {
+        "text": "밥태형! 밥 힘으로!",
+        "meaning_ja": "ご飯テヒョン！ご飯の力で！",
+        "meaning_en": "Rice-Taehyung! Power through with rice! (Encourages him to eat rice for energy)"
+      },
+      {
+        "text": "냠냠긋! 태형 냠냠긋!",
+        "meaning_ja": "もぐもぐグッ！テヒョンもぐもぐグッ！",
+        "meaning_en": "Nom nom good! Taehyung nom nom good! (Cute expression for enjoying food, wishing he enjoys his meals)"
+      },
+      {
+        "text": "건강해야해, 뷔타민!",
+        "meaning_ja": "元気でいてね、ビタミン！",
+        "meaning_en": "Stay healthy, Vitamin V! (Plays on his name and the need for vitamins/health)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "태태 감기 조심!",
+        "meaning_ja": "テテ、風邪に気をつけて！",
+        "meaning_en": "TaeTae, be careful not to catch a cold! (Direct & sweet)"
+      },
+      {
+        "text": "V 건강길만 걸어!",
+        "meaning_ja": "V、健康な道だけを歩んで！",
+        "meaning_en": "V, only walk the path of health! (Wishing only good things)"
+      },
+      {
+        "text": "뷔주얼 감기 퇴치!",
+        "meaning_ja": "ヴィジュアルで風邪を退治！",
+        "meaning_en": "Visuals that fight off colds! (Playful wordplay on V's looks)"
+      },
+      {
+        "text": "아프지망고, 태형!",
+        "meaning_ja": "痛くないマンゴー、テヒョン！",
+        "meaning_en": "Don't be sick, Mango (Taehyung)! (Play on \"아프지마\" (apujima = don't be sick) and \"망고\" (mango))"
+      },
+      {
+        "text": "V 아프면 내 심장 아파 ㅠㅠ",
+        "meaning_ja": "Vが痛いと私の心も痛い ㅠㅠ",
+        "meaning_en": "If V is sick, my heart hurts ㅠㅠ (Expressing concern and love)"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "태태랜드 입성!",
+        "meaning_ja": "テテランドへようこそ！",
+        "meaning_en": "Welcome to TaeTae Land! (Welcoming fans to V's captivating world)"
+      },
+      {
+        "text": "뷔주얼 쇼크!",
+        "meaning_ja": "ビジュアルショック！",
+        "meaning_en": "Visual Shock! (Emphasis on V's stunning visuals, common exclamation)"
+      },
+      {
+        "text": "얼굴이 복지다, 뷔!",
+        "meaning_ja": "顔面が福祉だ、V！",
+        "meaning_en": "Your face is welfare, V! (Saying that V's beauty is a blessing)"
+      },
+      {
+        "text": "멍뭉미 뷔!",
+        "meaning_ja": "わんこみたいな可愛さ、V！",
+        "meaning_en": "Puppy-like cuteness, V! (Highlighting V's endearing, playful side)"
+      },
+      {
+        "text": "무대 찢었다, 김태형!",
+        "meaning_ja": "ステージ、ぶっ壊したね、キム・テヒョン！",
+        "meaning_en": "You slayed the stage, Kim Taehyung! (Complimenting his performance on stage)"
+      }
+    ]
+  },
+  "Jungkook": {
+    "LOVE_GENERAL": [
+      {
+        "text": "꾹토끼",
+        "meaning_ja": "グクウサギ (ジョングクはウサギみたい)",
+        "meaning_en": "Kook-Rabbit (Jungkook is like a bunny!)"
+      },
+      {
+        "text": "황금 막내",
+        "meaning_ja": "黄金マンネ (黄金の末っ子)",
+        "meaning_en": "Golden Maknae (Golden youngest member)"
+      },
+      {
+        "text": "정무행알",
+        "meaning_ja": "チョンムヘンアル (ジョングクがいないと無理)",
+        "meaning_en": "Jung-mu-haeng-al (Can't do it without Jungkook)"
+      },
+      {
+        "text": "전정국! 전정국!",
+        "meaning_ja": "チョン・ジョングク！チョン・ジョングク！(ジョングク！ジョングク！)",
+        "meaning_en": "Jeon Jungkook! Jeon Jungkook! (Jungkook! Jungkook!) - Simple, but effective for chanting!"
+      },
+      {
+        "text": "심장폭행",
+        "meaning_ja": "心臓爆撃 (心臓を撃ち抜かれた)",
+        "meaning_en": "Heart Attack (Heart Bombardment - He's too cute/handsome!)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "꾹이 is 뭔들",
+        "meaning_ja": "ジョングクは何でも最高",
+        "meaning_en": "Jungkook is perfect no matter what."
+      },
+      {
+        "text": "황막꾹",
+        "meaning_ja": "黄金マンネ、ジョングク",
+        "meaning_en": "Golden Maknae Jungkook."
+      },
+      {
+        "text": "정국 매직",
+        "meaning_ja": "ジョングクマジック（魔法みたい）",
+        "meaning_en": "Jungkook Magic (like magic)."
+      },
+      {
+        "text": "전정국 쏘 스윗",
+        "meaning_ja": "チョン・ジョングク、超スウィート",
+        "meaning_en": "Jeon Jungkook, so sweet."
+      },
+      {
+        "text": "심장아 나대지마, 정국이 때문에!",
+        "meaning_ja": "心臓よ、騒がないで、ジョングクのせいだから！",
+        "meaning_en": "Heart, don't race, it's all because of Jungkook!"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "꾹아 나랑 살아!",
+        "meaning_ja": "グク、私と生きて！ (結婚して！)",
+        "meaning_en": "Kook-ah, live with me! (Marry me!)"
+      },
+      {
+        "text": "정국 책임져! 내 심장!",
+        "meaning_ja": "ジョングク責任とって！私の心臓！",
+        "meaning_en": "Jungkook, take responsibility! For my heart!"
+      },
+      {
+        "text": "황금 막내 내 신랑!",
+        "meaning_ja": "黄金マンネ、私の新郎！",
+        "meaning_en": "Golden maknae, my groom!"
+      },
+      {
+        "text": "전정국 유죄, 결혼 안 할 죄!",
+        "meaning_ja": "チョン・ジョングク有罪、結婚しない罪！",
+        "meaning_en": "Jeon Jungkook is guilty, guilty of not marrying!"
+      },
+      {
+        "text": "결혼 각이다, 정국!",
+        "meaning_ja": "結婚確定だ、ジョングク！",
+        "meaning_en": "Marriage is certain, Jungkook!"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "꾹토끼 is 뭔들",
+        "meaning_ja": "ジョングクウサギは何でも最高",
+        "meaning_en": "Jungkook-bunny is perfect no matter what! (Expressing that everything Jungkook does is amazing)"
+      },
+      {
+        "text": "전정국 얼굴이 복지다",
+        "meaning_ja": "チョンジョングクの顔は福祉だ",
+        "meaning_en": "Jeon Jungkook's face is welfare. (Meaning his beauty is a blessing)"
+      },
+      {
+        "text": "황금 막내 만세!",
+        "meaning_ja": "黄金マンネ万歳！",
+        "meaning_en": "Hail the Golden Maknae! (Celebrating his multi-talented nature as the youngest member)"
+      },
+      {
+        "text": "내 심장 꾹프린팅",
+        "meaning_ja": "私の心臓にジョングクプリンティング",
+        "meaning_en": "Jungkook is imprinted on my heart. (Expressing deep affection)"
+      },
+      {
+        "text": "피땀눈물 꾹이에게 바쳐",
+        "meaning_ja": "血、汗、涙をグクに捧げる",
+        "meaning_en": "I dedicate my blood, sweat, and tears to Kookie. (A playful adaptation of the song title, showing devotion)"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "꾹포에버",
+        "meaning_ja": "グクフォーエバー (ずっと一緒だよ)",
+        "meaning_en": "Kook Forever (Always together)"
+      },
+      {
+        "text": "정국이즈뭔들",
+        "meaning_ja": "ジョングクイズモンﾄﾞｩﾙ (ジョングクは何でも最高)",
+        "meaning_en": "Jungkook is always right (Whatever Jungkook does is amazing)"
+      },
+      {
+        "text": "황금막내랑 평생 함께",
+        "meaning_ja": "黄金マンネと一生一緒",
+        "meaning_en": "With the Golden Maknae forever."
+      },
+      {
+        "text": "토끼꾹 곁에 있을게",
+        "meaning_ja": "ウサギグクのそばにいるよ",
+        "meaning_en": "I'll be by your side, Bunny Kook."
+      },
+      {
+        "text": "전정국 사랑해 뿅",
+        "meaning_ja": "ジョン・ジョングク愛してるぴょん (愛を込めて)",
+        "meaning_en": "Jeon Jungkook, love you pyong! (With all my love)"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "꾹아 생일 슙제이홉!",
+        "meaning_ja": "グク、誕生日おめでとう！シュガ、ジェイホープみたいにいつも最高！",
+        "meaning_en": "Kook-ah, happy birthday! Be the best always like Suga and J-Hope! (Implies admiration and wishing him well, referencing other BTS members in a lighthearted way)"
+      },
+      {
+        "text": "정구기 꽃길만 걷자!",
+        "meaning_ja": "ジョングク、花の道だけを歩もう！",
+        "meaning_en": "Jungkook, let's only walk the flower path! (Wishing him success and happiness - a common expression)"
+      },
+      {
+        "text": "황금막내 생일 축하해, 덕분에 행복해!",
+        "meaning_ja": "黄金マンネ、誕生日おめでとう！あなたのおかげで幸せ！",
+        "meaning_en": "Golden Maknae, happy birthday! Thanks to you, I'm happy! (Referencing his nickname and expressing gratitude)"
+      },
+      {
+        "text": "전정국 존재 자체가 선물!",
+        "meaning_ja": "チョン・ジョングク、存在そのものがプレゼント！",
+        "meaning_en": "Jeon Jungkook, your very existence is a gift! (Emphasizing his importance to fans)"
+      },
+      {
+        "text": "꾸기 생일, 내 심장도 꾹!",
+        "meaning_ja": "グクの誕生日、私の心臓もグッと！",
+        "meaning_en": "Kookie's birthday, my heart is 'Kooked'! (Playful wordplay on his nickname with \"꾹\" meaning \"firmly/tightly\" implying strong feelings)"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "꾹토끼",
+        "meaning_ja": "グクうさぎ(可愛い！)",
+        "meaning_en": "Kook-bunny (So cute!)"
+      },
+      {
+        "text": "황금 막내",
+        "meaning_ja": "黄金マンネ(最高！)",
+        "meaning_en": "Golden maknae (The best!)"
+      },
+      {
+        "text": "정무행알",
+        "meaning_ja": "チョンムヘンアル(幸せでいて)",
+        "meaning_en": "JeongMuHaengAl (Be happy!)"
+      },
+      {
+        "text": "전정국 사랑해!",
+        "meaning_ja": "ジョングク愛してる!(マジ尊い！)",
+        "meaning_en": "Jeon Jungkook, I love you! (You're precious!)"
+      },
+      {
+        "text": "국프",
+        "meaning_ja": "グクプ(誇らしい！)",
+        "meaning_en": "Gook-proud (So proud of you!)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "꾹토끼",
+        "meaning_ja": "グクウサギ",
+        "meaning_en": "Kook-Bunny (Referring to Jungkook's bunny-like features)"
+      },
+      {
+        "text": "전설의 막내",
+        "meaning_ja": "伝説の末っ子",
+        "meaning_en": "Legendary Maknae (Referring to Jungkook being the youngest member and his legendary skills)"
+      },
+      {
+        "text": "황금 막내",
+        "meaning_ja": "黄金の末っ子",
+        "meaning_en": "Golden Maknae (Another way of praising Jungkook for his multi-talents)"
+      },
+      {
+        "text": "정국이즈뭔들",
+        "meaning_ja": "ジョングクイズモンデル (何をやっても素晴らしい)",
+        "meaning_en": "Jungkook is always amazing (Whatever Jungkook does is great)"
+      },
+      {
+        "text": "심장아 나대지마",
+        "meaning_ja": "心臓よ、騒ぐな",
+        "meaning_en": "Heart, don't go wild (Expressing excitement and love for Jungkook)"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "꾹토끼 최고!",
+        "meaning_ja": "ジョングクウサギ最高！",
+        "meaning_en": "Jungkook bunny, the best!"
+      },
+      {
+        "text": "전정국 얼굴이 복지다",
+        "meaning_ja": "チョン・ジョングクの顔は福祉だ",
+        "meaning_en": "Jung Kook's face is welfare/a blessing."
+      },
+      {
+        "text": "황금 막내 만세!",
+        "meaning_ja": "黄金マンネ万歳！",
+        "meaning_en": "Hail the golden maknae!"
+      },
+      {
+        "text": "정국이 is 뭔들",
+        "meaning_ja": "ジョングクは何でもアリ",
+        "meaning_en": "Jungkook can do anything and make it look good. (lit: Whatever Jungkook does is good)"
+      },
+      {
+        "text": "정국 매직!",
+        "meaning_ja": "ジョングクマジック！",
+        "meaning_en": "Jungkook Magic!"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴천재 정국!",
+        "meaning_ja": "顔面天才ジョングク！",
+        "meaning_en": "Face Genius Jungkook! (Implies he's unbelievably handsome)"
+      },
+      {
+        "text": "정국 is 뭔들",
+        "meaning_ja": "ジョングクは何でも最高",
+        "meaning_en": "Jungkook looks good in anything/Jungkook pulls off anything!"
+      },
+      {
+        "text": "조각미남 정국",
+        "meaning_ja": "彫刻美男ジョングク",
+        "meaning_en": "Sculpted beauty Jungkook! (Refers to his perfect features)"
+      },
+      {
+        "text": "미모 미쳤다",
+        "meaning_ja": "美貌がやばい",
+        "meaning_en": "His visuals are insane!"
+      },
+      {
+        "text": "정국 비주얼 쇼크",
+        "meaning_ja": "ジョングク ビジュアルショック",
+        "meaning_en": "Jungkook visual shock! (His looks are stunning/shockingly good)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "꾹이 손민수템",
+        "meaning_ja": "グクとお揃いアイテム",
+        "meaning_en": "Jungkook's \"hand-minsoo\" item (Meaning buying the same items as Jungkook)"
+      },
+      {
+        "text": "전정국 복근에 건배",
+        "meaning_ja": "チョン・ジョングクの腹筋に乾杯",
+        "meaning_en": "Cheers to Jeon Jungkook's abs!"
+      },
+      {
+        "text": "황금막내, 심장 폭행죄",
+        "meaning_ja": "ゴールデンマンネ、心臓暴行罪",
+        "meaning_en": "Golden maknae, guilty of assaulting my heart!"
+      },
+      {
+        "text": "정국 is 뭔들",
+        "meaning_ja": "ジョングクは何でも良い",
+        "meaning_en": "Jungkook is good at everything!"
+      },
+      {
+        "text": "아미밤 흔들며 꾹이에게 올인",
+        "meaning_ja": "アーミーボム振りながらグクにオールイン",
+        "meaning_en": "Going all-in for Kookie while waving my ARMY Bomb!"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "꾹토끼 맘마 먹어!",
+        "meaning_ja": "グクウサギ、ご飯食べてね！",
+        "meaning_en": "Jungkook-bunny, eat your meal! (Implies Jungkook is cute like a bunny and needs to be taken care of by eating well)"
+      },
+      {
+        "text": "정국이 밥길만 걸어!",
+        "meaning_ja": "ジョングク、美味しいものだけ食べて！",
+        "meaning_en": "Jungkook, only walk the path of good food! (Wish for Jungkook to only experience good fortune and delicious meals.)"
+      },
+      {
+        "text": "황금막내 배부르개!",
+        "meaning_ja": "黄金マンネ、お腹いっぱいになあれ！",
+        "meaning_en": "May the Golden Maknae be full! (Wishing Jungkook, the \"golden maknae\" (youngest), to be well-fed and satisfied.)"
+      },
+      {
+        "text": "꾸기 쩝쩝박사!",
+        "meaning_ja": "グク、モグモグ博士！",
+        "meaning_en": "Kookie, a mukbang expert! (Refers to Jungkook's enjoyable eating habits, hinting he is a eating expert)"
+      },
+      {
+        "text": "탄이 아빠 맘마 챙겨!",
+        "meaning_ja": "タニのパパ、ご飯しっかり食べてね！",
+        "meaning_en": "Tannie's dad, make sure to eat well! (Referring to Jungkook being Bam/Tannie's \"father\" and reminding him to take care of himself by eating well)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "꾹냥이",
+        "meaning_ja": "グクニャンイ(可愛いグク)",
+        "meaning_en": "Kook-nyangie (Cute Jungkook) - *꾹냥이 is a combination of Jungkook's name and \"nyangie\" which is a cute way to refer to a cat, emphasizing his cute and adorable side.*"
+      },
+      {
+        "text": "정무행알",
+        "meaning_ja": "チョンムヘンアル(幸せだけ願う)",
+        "meaning_en": "Jung 행복 only (Wishing only happiness for Jung - Jungkook's family name is Jeon/Jung) - *It's a shortened version of \"정국, 무조건 행복해야 돼, 알지?\" (Jungkook, you absolutely have to be happy, you know?)*"
+      },
+      {
+        "text": "황막꾹",
+        "meaning_ja": "ファンマクグク(黄金マンネグク)",
+        "meaning_en": "Golden Maknae Kook (Golden maknae Jungkook) - *Highlights Jungkook's position as the \"golden maknae\" (youngest member) and his all-around talent.*"
+      },
+      {
+        "text": "국토끼",
+        "meaning_ja": "グクトッキ(ウサギのグク)",
+        "meaning_en": "Guk-Tokki (Rabbit Jungkook) - *Tokki means Rabbit, often used to describe Jungkook's cute bunny-like features.*"
+      },
+      {
+        "text": "전못알",
+        "meaning_ja": "チョンモルアル(チョンは知らない)",
+        "meaning_en": "Jeon-mot-al (Jeon doesn't know) - *Derived from \"Jeon (Jungkook's last name) mot arayo\" (Jeon doesn't know). Often used playfully when Jungkook acts innocent or doesn't understand something, even if he probably does.*"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "꾹이 수고했어!",
+        "meaning_ja": "ジョングク、お疲れ様！",
+        "meaning_en": "Jungkook, good job! (Informal, friendly)"
+      },
+      {
+        "text": "황금 막내 최고다!",
+        "meaning_ja": "ゴールデンマンネ、最高！",
+        "meaning_en": "Golden maknae, the best! (Emphasizing his skills after a good performance)"
+      },
+      {
+        "text": "정국 is 뭔들!",
+        "meaning_ja": "ジョングクは何でも最高！",
+        "meaning_en": "Jungkook is good at everything! (Exaggerated praise, implying even if he messed up, it's still good)"
+      },
+      {
+        "text": "오늘도 레전드 갱신!",
+        "meaning_ja": "今日もレジェンド更新！",
+        "meaning_en": "Another legendary performance today! (Celebrating his consistently amazing performances)"
+      },
+      {
+        "text": "무대 찢었다!",
+        "meaning_ja": "ステージを破った！(最高だった！)",
+        "meaning_en": "He tore up the stage! (Meaning he performed exceptionally well)"
+      }
+    ]
+  }
+}

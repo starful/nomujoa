@@ -196,6 +196,45 @@ button.primary-btn:disabled { background: #ccc; cursor: wait; transform: none; b
     cursor: pointer; 
     box-shadow: 0 4px 10px rgba(0,0,0,0.2); 
 }
+
+/* ... 기존 코드 맨 아래에 추가 ... */
+
+/* [Footer 스타일] */
+.site-footer {
+    margin-top: 50px;
+    padding: 30px 0;
+    border-top: 1px solid #eee;
+    text-align: center;
+    color: #888;
+}
+
+.footer-links {
+    margin-bottom: 15px;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: #555;
+    font-size: 13px;
+    font-weight: bold;
+    transition: color 0.2s;
+}
+
+.footer-links a:hover {
+    color: #ff4081;
+}
+
+.separator {
+    margin: 0 10px;
+    color: #ddd;
+    font-size: 12px;
+}
+
+.copyright {
+    font-size: 12px;
+    margin: 0;
+    color: #aaa;
+}
 .save-btn:hover { background: #111; }
 .reset-link { background: none; border: none; color: #999; font-size: 13px; margin-top: 20px; cursor: pointer; text-decoration: underline; }
 .color-circle { width: 35px; height: 35px; border-radius: 50%; border: none; cursor: pointer; box-shadow: 0 2px 5px rgba(0,0,0,0.2); transition: transform 0.2s; }

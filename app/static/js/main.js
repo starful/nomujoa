@@ -1,3 +1,5 @@
+// static/js/main.js
+
 let currentOptions = [];
 
 // [개선] 폰트 로딩 대기 후 캔버스 렌더링 (글꼴 깨짐 방지)
@@ -54,35 +56,45 @@ function updateUI() {
 function applyTranslations(lang) {
     const t = uiTranslations[lang] || uiTranslations['en'];
 
-    const map = {
-        "t-desc": t.desc,
-        "t-label-group": t.label_group,
-        "t-label-member": t.label_member,
-        "t-label-quick": t.label_quick,
-        "t-label-msg": t.label_msg,
-        "t-btn-gen": t.btn_gen,
-        "t-label-result": t.label_result,
-        "t-txt-result-desc": t.txt_result_desc,
-        "t-btn-retry": t.btn_retry, 
-        "t-label-bg": t.label_bg,
-        "t-label-tpl": t.label_tpl,
-        "t-label-stk": t.label_stk,
-        "t-btn-save": t.btn_save,
-        "t-txt-save-desc": t.txt_save_desc,
-        "t-guide-title": t.guide_title,
-        "t-guide-intro": t.guide_intro,
-        "t-guide-feat-title": t.guide_feat_title,
-        "t-guide-f1": t.guide_f1,
-        "t-guide-f2": t.guide_f2,
-        "t-guide-f3": t.guide_f3,
-        "t-guide-keys": t.guide_keys
-    };
-
-    for (const [id, text] of Object.entries(map)) {
+    // 헬퍼 함수: ID가 있으면 텍스트 교체
+    function setText(id, text) {
         const el = document.getElementById(id);
         if (el) el.innerHTML = text;
     }
+
+    setText("t-desc", t.desc);
+    setText("t-label-group", t.label_group);
+    setText("t-label-member", t.label_member);
+    setText("t-label-quick", t.label_quick);
+    setText("t-label-msg", t.label_msg);
+    setText("t-btn-gen", t.btn_gen);
     
+    setText("t-label-result", t.label_result);
+    setText("t-txt-result-desc", t.txt_result_desc);
+    setText("t-btn-retry", t.btn_retry);
+    
+    setText("t-label-bg", t.label_bg);
+    setText("t-label-tpl", t.label_tpl);
+    setText("t-label-stk", t.label_stk);
+    
+    setText("t-btn-save", t.btn_save);
+    
+    // [추가] 돌아가기 버튼 번역 적용
+    setText("t-btn-back-list", t.btn_back_list);
+    
+    setText("t-txt-save-desc", t.txt_save_desc);
+    
+    // 가이드 섹션 (메인 페이지에서 제거되었어도 에러 방지용으로 남겨둠)
+    if(t.guide_title) {
+        setText("t-guide-title", t.guide_title);
+        setText("t-guide-intro", t.guide_intro);
+        setText("t-guide-feat-title", t.guide_feat_title);
+        setText("t-guide-f1", t.guide_f1);
+        setText("t-guide-f2", t.guide_f2);
+        setText("t-guide-f3", t.guide_f3);
+        setText("t-guide-keys", t.guide_keys);
+    }
+
     const resetBtns = document.querySelectorAll('.reset-link');
     resetBtns.forEach(btn => btn.innerText = t.btn_reset);
 
@@ -134,9 +146,12 @@ function updateMembers() {
     memberSelect.innerHTML = '<option value="All">All Members</option>';
     memberSelect.disabled = true;
 
-    if (kpopData[selectedGroup] && kpopData[selectedGroup].members) {
+    // window.GROUP_DATA (또는 kpopData) 사용
+    const data = window.GROUP_DATA || window.kpopData;
+
+    if (data[selectedGroup] && data[selectedGroup].members) {
         memberSelect.disabled = false;
-        kpopData[selectedGroup].members.forEach(member => {
+        data[selectedGroup].members.forEach(member => {
             const option = document.createElement("option");
             option.value = member;
             option.text = member;
@@ -182,7 +197,7 @@ async function translateAndStart(isRefresh = false) {
         });
         
         const data = await response.json();
-        currentOptions = data.result; // 이제 객체 배열입니다: [{text: "...", meaning: "..."}, ...]
+        currentOptions = data.result; // [{text: "...", meaning: "..."}, ...]
 
         document.getElementById('input-section').style.display = 'none';
         const selectSection = document.getElementById('selection-section');
@@ -194,12 +209,12 @@ async function translateAndStart(isRefresh = false) {
         const labels = ["Name Only", "Cute", "Emotional", "Powerful", "Wit"];
         
         currentOptions.forEach((item, index) => {
-            // [수정] 데이터 파싱: 문자열(구조 호환) 또는 객체 처리
             const koreanText = item.text || item; 
-            const meaningText = item.meaning || text; // 의미가 없으면 원본 텍스트 표시
+            const meaningText = item.meaning || text; 
 
             const card = document.createElement('div');
             card.className = 'option-card';
+            
             // 편집기로 넘어갈 때는 한국어 텍스트만 전달
             card.onclick = function() { goToEditor(koreanText); };
             
@@ -208,7 +223,6 @@ async function translateAndStart(isRefresh = false) {
 
             const label = labels[index] || "Style " + (index+1);
             
-            // [수정] 의미(.option-meaning)를 포함한 HTML 구조
             card.innerHTML = `
                 <span class="option-tag">${label}</span>
                 <div class="option-text">${koreanText}</div>
@@ -231,14 +245,17 @@ async function translateAndStart(isRefresh = false) {
     }
 }
 
-// [수정] 에디터 이동 로직 (객체 구조 대응)
+// [수정] 에디터 이동 로직
 function goToEditor(selectedText) {
     document.getElementById('selection-section').style.display = 'none';
     document.getElementById('editor-section').style.display = 'block';
 
     const groupSelect = document.getElementById("idol-select");
     const groupName = groupSelect.value || "General";
-    const colors = kpopData[groupName]?.colors || ["#ff007f", "#000000"];
+    
+    // 데이터 소스 확인
+    const data = window.GROUP_DATA || window.kpopData;
+    const colors = data[groupName]?.colors || ["#ff007f", "#000000"];
     
     const colorContainer = document.getElementById('fandom-colors');
     if(colorContainer) {
@@ -257,7 +274,6 @@ function goToEditor(selectedText) {
     if(switchContainer) {
         switchContainer.innerHTML = '';
         currentOptions.forEach((item, idx) => {
-            // [수정] 객체에서 한국어 텍스트만 추출
             const opt = item.text || item;
             
             const btn = document.createElement('button');
@@ -275,6 +291,18 @@ function goToEditor(selectedText) {
 
     changeOrientation('portrait'); 
     canvas.clear();
-    setSolidBg(colors[0]); // canvas.js의 changeBg 호출
+    setSolidBg(colors[0]); 
     addText(selectedText); 
+}
+
+// [추가] 목록으로 돌아가기 기능
+function goBackToSelection() {
+    // 1. 에디터 화면 숨기기
+    document.getElementById('editor-section').style.display = 'none';
+    
+    // 2. 선택(목록) 화면 보여주기
+    document.getElementById('selection-section').style.display = 'block';
+    
+    // 3. 스크롤을 부드럽게 위로 올림
+    window.scrollTo({ top: 0, behavior: 'smooth' });
 }

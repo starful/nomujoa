@@ -1,71 +1,10 @@
-// ==========================================
-// 1. 그룹별 멤버 & 공식 색상 데이터
-// ==========================================
-window.GROUP_DATA = {
-    "General": { members: [], colors: ["#ff007f", "#000000"] },
-    
-    "BTS": { 
-        members: ["RM", "Jin", "Suga", "J-Hope", "Jimin", "V", "Jungkook"],
-        colors: ["#A286B6", "#000000"] 
-    },
-    "SEVENTEEN": { 
-        members: ["S.COUPS", "Jeonghan", "Joshua", "Jun", "Hoshi", "Wonwoo", "Woozi", "The8", "Mingyu", "DK", "Seungkwan", "Vernon", "Dino"],
-        colors: ["#F7CAC9", "#92A8D1"] 
-    },
-    "TWICE": { 
-        members: ["Nayeon", "Jeongyeon", "Momo", "Sana", "Jihyo", "Mina", "Dahyun", "Chaeyoung", "Tzuyu"],
-        colors: ["#FF5FA2", "#ECCBA6"] 
-    },
-    "Stray Kids": { 
-        members: ["Bang Chan", "Lee Know", "Changbin", "Hyunjin", "Han", "Felix", "Seungmin", "I.N"],
-        colors: ["#000000", "#FF0000"] 
-    },
-    "IVE": { 
-        members: ["Yujin", "Gaeul", "Rei", "Wonyoung", "Liz", "Leeseo"],
-        colors: ["#FF0055"] 
-    },
-    "NewJeans": { 
-        members: ["Minji", "Hanni", "Danielle", "Haerin", "Hyein"],
-        colors: ["#0058C6", "#FFFFFF"] 
-    },
-    "LE SSERAFIM": { 
-        members: ["Sakura", "Chaewon", "Yunjin", "Kazuha", "Eunchae"],
-        colors: ["#111111", "#F6F7F9"] 
-    },
-    "aespa": { 
-        members: ["Karina", "Giselle", "Winter", "Ningning"],
-        colors: ["#9DE6F5", "#5C5C9F"] 
-    },
-    "TXT": { 
-        members: ["Soobin", "Yeonjun", "Beomgyu", "Taehyun", "HueningKai"],
-        colors: ["#79C7E6"] 
-    },
-    "ENHYPEN": { 
-        members: ["Heeseung", "Jay", "Jake", "Sunghoon", "Sunoo", "Jungwon", "Ni-ki"],
-        colors: ["#222222"] 
-    },
-    "ZEROBASEONE": { 
-        members: ["Jiwoong", "Hao", "Hanbin", "Matthew", "Taerae", "Ricky", "Gyuvin", "Gunwook", "Yujin"],
-        colors: ["#0056B3", "#BCCEE5"] 
-    },
-    "RIIZE": { 
-        members: ["Shotaro", "Eunseok", "Sungchan", "Wonbin", "Sohee", "Anton"],
-        colors: ["#F57E2F"] 
-    },
-    "TREASURE": { 
-        members: ["Hyunsuk", "Jihoon", "Yoshi", "Junkyu", "Jaehyuk", "Asahi", "Doyoung", "Haruto", "Jeongwoo", "Junghwan"],
-        colors: ["#72C6E7"] 
-    },
-    "NCT": { 
-        members: ["Taeyong", "Mark", "Jaehyun", "Doyoung", "Haechan", "Jaemin", "Jeno", "Jisung", "Chenle", "Renjun", "Johnny", "Yuta", "Jungwoo"],
-        colors: ["#B9F306"] 
-    }
-};
+// static/js/data.js
 
-window.kpopData = window.GROUP_DATA;
+// [알림] window.GROUP_DATA는 index.html에서 Python으로부터 직접 주입받습니다.
+// 따라서 여기에는 그룹/멤버 데이터가 없습니다.
 
 // ==========================================
-// 2. 언어별 추천 문구 (Quick Pick)
+// 1. 언어별 추천 문구 (Quick Pick)
 // ==========================================
 window.quickPhrasesData = {
     "ja": [
@@ -97,7 +36,7 @@ window.quickPhrasesData = {
 };
 
 // ==========================================
-// 3. UI 텍스트 번역 데이터
+// 2. UI 텍스트 번역 데이터
 // ==========================================
 window.uiTranslations = {
     "ja": {
@@ -116,7 +55,7 @@ window.uiTranslations = {
         "txt_result_desc": "タップして編集へ進む (Tap to edit)",
         "btn_retry": "🔄 他の候補を見る (Try Again)",
         "btn_reset": "最初に戻る (Reset)",
-        
+        "btn_back_list": "↩ フレーズ選択に戻る (Back)",
         "guide_title": "🎤 Nomujoaの使い方",
         "guide_intro": "Nomujoaは、韓国語がわからなくてもAIが完璧なファンサうちわ文字やスローガンを作ってくれるツールです。",
         "guide_feat_title": "✨ 主な機能",
@@ -144,7 +83,7 @@ window.uiTranslations = {
         "txt_result_desc": "Tap to edit",
         "btn_retry": "🔄 Try Again",
         "btn_reset": "Reset",
-
+        "btn_back_list": "↩ Back to List",
         "guide_title": "🎤 How to use Nomujoa",
         "guide_intro": "Nomujoa creates professional K-POP concert slogans instantly.",
         "guide_feat_title": "✨ Key Features",
@@ -172,7 +111,7 @@ window.uiTranslations = {
         "txt_result_desc": "클릭하면 편집할 수 있습니다.",
         "btn_retry": "🔄 다른 문구 보기",
         "btn_reset": "처음으로",
-
+        "btn_back_list": "↩ 문구 목록으로 돌아가기",
         "guide_title": "🎤 Nomujoa 사용법",
         "guide_intro": "한국어를 몰라도 OK! AI가 주접 멘트로 슬로건을 만들어줍니다.",
         "guide_feat_title": "✨ 주요 기능",
@@ -200,7 +139,7 @@ window.uiTranslations = {
         "txt_result_desc": "点击进行编辑",
         "btn_retry": "🔄 再试一次",
         "btn_reset": "重置",
-
+        "btn_back_list": "↩ 返回列表",
         "guide_title": "🎤 如何使用 Nomujoa",
         "guide_intro": "即使不懂韩语，AI也能为您制作完美的应援板。",
         "guide_feat_title": "✨ 主要功能",

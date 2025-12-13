@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to Use - Nomujoa</title>
+    
+    <!-- 폰트 로드 -->
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+    
+    <style>
+        /* [전체 레이아웃] */
+        body { 
+            font-family: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; 
+            line-height: 1.8; 
+            color: #333; 
+            background-color: #f0f2f5; /* 배경색 연한 회색 */
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        /* [언어 선택기] */
+        .lang-container {
+            width: 100%;
+            max-width: 800px;
+            text-align: right;
+            margin-bottom: 10px;
+        }
+        select {
+            padding: 8px 12px;
+            border-radius: 20px;
+            border: 1px solid #ddd;
+            background: white;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        /* [메인 컨테이너 (흰색 박스)] */
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+            max-width: 800px;
+            width: 100%;
+            box-sizing: border-box; /* 패딩 포함 크기 계산 */
+        }
+
+        /* [타이포그래피] */
+        h1 { 
+            border-bottom: 3px solid #ff4081; 
+            padding-bottom: 15px; 
+            color: #333;
+            margin-top: 0;
+            margin-bottom: 30px;
+            font-size: 28px;
+        }
+        h2 { 
+            margin-top: 40px; 
+            color: #ff4081; 
+            font-size: 22px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        h3 {
+            margin-top: 25px;
+            font-size: 18px;
+            color: #333;
+            font-weight: bold;
+        }
+        p { 
+            margin-bottom: 15px; 
+            color: #555; 
+            font-size: 15px;
+        }
+        ul { 
+            margin-bottom: 20px; 
+            padding-left: 20px; 
+            background: #f9f9f9;
+            padding: 20px 20px 20px 40px;
+            border-radius: 10px;
+        }
+        li { 
+            margin-bottom: 10px; 
+            color: #555; 
+        }
+        strong { color: #333; font-weight: bold; }
+        
+        /* [뒤로가기 버튼] */
+        .back-btn { 
+            display: block; 
+            width: fit-content;
+            margin: 50px auto 30px auto; /* 중앙 정렬 */
+            padding: 15px 30px;
+            background: #333;
+            color: white;
+            text-decoration: none; 
+            font-weight: bold; 
+            border-radius: 50px;
+            transition: transform 0.2s, background 0.2s;
+            text-align: center;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+        }
+        .back-btn:hover { 
+            background: #111; 
+            transform: translateY(-2px);
+        }
+
+        /* [푸터 스타일] */
+        .site-footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+            text-align: center;
+            font-size: 13px;
+            color: #aaa;
+        }
+        .footer-links {
+            margin-bottom: 10px;
+        }
+        .site-footer a { 
+            color: #888; 
+            text-decoration: none; 
+            margin: 0 8px; 
+            font-weight: bold;
+            transition: color 0.2s;
+        }
+        .site-footer a:hover { color: #ff4081; }
+        .separator { color: #ddd; }
+
+        /* [모바일 대응] */
+        @media (max-width: 600px) {
+            .container { padding: 25px; }
+            h1 { font-size: 24px; }
+            h2 { font-size: 20px; }
+            .back-btn { width: 100%; box-sizing: border-box; }
+        }
+    </style>
+
+    <!-- [번역 로직 스크립트] -->
+    <script>
+        // Flask에서 전달받은 번역 데이터
+        window.translations = {{ translations | tojson | safe }};
+        
+        function changeLanguage(lang) {
+            const t = window.translations[lang] || window.translations['en'];
+            
+            // 텍스트 업데이트
+            document.getElementById('t-guide-title').innerText = t.guide_title;
+            document.getElementById('t-guide-intro').innerText = t.guide_intro;
+            document.getElementById('t-feat-title').innerText = t.guide_feat_title;
+            
+            document.getElementById('t-f1-title').innerText = t.guide_f1_title;
+            document.getElementById('t-f1-desc').innerText = t.guide_f1_desc;
+            
+            document.getElementById('t-f2-title').innerText = t.guide_f2_title;
+            document.getElementById('t-f2-desc').innerText = t.guide_f2_desc;
+            
+            document.getElementById('t-f3-title').innerText = t.guide_f3_title;
+            document.getElementById('t-f3-desc').innerText = t.guide_f3_desc;
+            
+            document.getElementById('t-tips-title').innerText = t.guide_tips_title;
+            document.getElementById('t-tip1').innerHTML = t.guide_tip1;
+            document.getElementById('t-tip2').innerHTML = t.guide_tip2;
+            
+            document.getElementById('t-btn-back').innerText = t.btn_back;
+            
+            // Footer
+            document.getElementById('t-footer-home').innerText = t.footer_home;
+            document.getElementById('t-footer-guide').innerText = t.footer_guide;
+            document.getElementById('t-footer-privacy').innerText = t.footer_privacy;
+            document.getElementById('t-footer-contact').innerText = t.footer_contact;
+        }
+    </script>
+</head>
+<body>
+    <!-- 언어 선택기 -->
+    <div class="lang-container">
+        <select onchange="changeLanguage(this.value)">
+            <option value="ja">🇯🇵 日本語</option>
+            <option value="en">🇺🇸 English</option>
+            <option value="ko">🇰🇷 한국어</option>
+            <option value="zh">🇨🇳 中文</option>
+        </select>
+    </div>
+
+    <!-- 메인 컨텐츠 박스 -->
+    <div class="container">
+        <h1 id="t-guide-title">🎤 How to use Nomujoa</h1>
+        <p id="t-guide-intro">...</p>
+
+        <h2 id="t-feat-title">✨ Key Features</h2>
+        
+        <h3 id="t-f1-title">1. AI Translation</h3>
+        <p id="t-f1-desc">...</p>
+
+        <h3 id="t-f2-title">2. Member Specific</h3>
+        <p id="t-f2-desc">...</p>
+
+        <h3 id="t-f3-title">3. Design Editor</h3>
+        <p id="t-f3-desc">...</p>
+
+        <h2 id="t-tips-title">💡 Tips</h2>
+        <ul>
+            <li id="t-tip1">...</li>
+            <li id="t-tip2">...</li>
+        </ul>
+
+        <a href="/" class="back-btn" id="t-btn-back">← Back to Home</a>
+
+        <footer class="site-footer">
+            <div class="footer-links">
+                <a href="/" id="t-footer-home">Home</a>
+                <span class="separator">|</span>
+                <a href="/guide" id="t-footer-guide">How to Use</a>
+                <span class="separator">|</span>
+                <a href="/privacy" id="t-footer-privacy">Privacy Policy</a>
+                <span class="separator">|</span>
+                <a href="https://script.google.com/macros/s/AKfycbw-83hj0ZZiWQqWClJrKpqYmO7CGo60Rm4MjmHia3Ds2oLTroizwXqTkOfXyaf1T3Gy1A/exec" target="_blank" id="t-footer-contact">Contact</a>
+            </div>
+            <p class="copyright">&copy; 2024 Nomujoa. All rights reserved.</p>
+        </footer>
+    </div>
+    
+    <!-- 초기 언어 설정 (일본어) -->
+    <script>changeLanguage('ja');</script>
+</body>
+</html>

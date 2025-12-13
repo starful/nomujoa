@@ -1,1002 +1,3802 @@
 {
   "All": {
     "LOVE_GENERAL": [
-      "둡깅 사랑해!",
-      "트둥 is 뭔들",
-      "원스 맘 = 쯔위 맘",
-      "나연 언니 짱!",
-      "사나 없인 못 살아!"
+      {
+        "text": "둡와이스",
+        "meaning_ja": "ダブ와이스 (豆腐のように白いTWICE)",
+        "meaning_en": "Dubu (Tofu)-white TWICE (referencing Dahyun's nickname and TWICE's overall purity and beauty)"
+      },
+      {
+        "text": "챙아웃",
+        "meaning_ja": "チェンアウート (チェヨンに夢中)",
+        "meaning_en": "Chaeyounged Out (Obsessed with Chaeyoung)"
+      },
+      {
+        "text": "미나리쿵",
+        "meaning_ja": "ミナリコン (ミナリに夢中)",
+        "meaning_en": "Minari Kung (Falling for Mina) - \"쿵\" is the sound of a heartbeat when falling in love."
+      },
+      {
+        "text": "나봉스",
+        "meaning_ja": "ナボンス (ナヨン最高)",
+        "meaning_en": "Nabongs (Nayeon Supreme) - \"스\" adds emphasis to the name, like saying \"best Nayeon\""
+      },
+      {
+        "text": "원럽트와이스",
+        "meaning_ja": "ワンラブトゥワイス (TWICEが一番)",
+        "meaning_en": "One Love TWICE (TWICE is the best/only love)"
+      }
     ],
     "LOVE_DEEP": [
-      "둡! 짱사랑해!",
-      "나봉쓰 ❤️ 영원히",
-      "트둥이 없인 못 살아",
-      "원스 심장에 쯔며들어",
-      "사나 없인 안 돼!"
+      {
+        "text": "챙랑해",
+        "meaning_ja": "チェン愛してる (チェヨン愛してる)",
+        "meaning_en": "Chaeyoung, I love you deeply. (Playing on \"saranghae\" and a member's name)"
+      },
+      {
+        "text": "둡랑해",
+        "meaning_ja": "ダブ愛してる (ダヒョン愛してる)",
+        "meaning_en": "Dahyun, I love you deeply. (Playing on \"saranghae\" and a member's name)"
+      },
+      {
+        "text": "원럽 트와이스",
+        "meaning_ja": "ワンラブ TWICE (一番の愛はTWICE)",
+        "meaning_en": "One Love, TWICE (TWICE is my ultimate love)"
+      },
+      {
+        "text": "트둥이 꽃길만 걸어",
+        "meaning_ja": "TWICEちゃん、花の道だけを歩んで (TWICE, may you only walk on flower paths)",
+        "meaning_en": "TWICE, only walk the flowery path (May only good things happen to you)."
+      },
+      {
+        "text": "내 마음속에 저장쯔위",
+        "meaning_ja": "私の心に保存ツウィ (私の心にツウィを保存)",
+        "meaning_en": "Saving Tzuyu in my heart (Tzuyu, I'm keeping you in my heart forever)"
+      }
     ],
     "REQ_MARRY": [
-      "둡아,나랑결혼!",
-      "나연언니,평생가자!",
-      "미나야,내 심장 가져!",
-      "째욘, 내 신부해!",
-      "사나 없인 못 살아!"
+      {
+        "text": "원스마음 = 내마음",
+        "meaning_ja": "ONCEの心 = 私の心",
+        "meaning_en": "ONCE's heart = My heart (Meaning: Your heart is my heart, like we are one!)"
+      },
+      {
+        "text": "트둥이들 책임져! (내 심장)",
+        "meaning_ja": "トゥドゥンイたち責任取って！(私の心臓)",
+        "meaning_en": "TWICE, take responsibility! (For my heart)"
+      },
+      {
+        "text": "내 통장 다 가져가!",
+        "meaning_ja": "私の銀行口座全部持って行って！",
+        "meaning_en": "Take all my money! (I'd give you everything!)"
+      },
+      {
+        "text": "결혼은...언제?",
+        "meaning_ja": "結婚は...いつ？",
+        "meaning_en": "When's the wedding...? (Direct and playful!)"
+      },
+      {
+        "text": "내 인생의 전부 = 트와이스",
+        "meaning_ja": "私の人生の全部 = TWICE",
+        "meaning_en": "The entirety of my life = TWICE"
+      }
     ],
     "MISS_YOU": [
-      "보고시퍼 챙!",
-      "둡 보고싶다!",
-      "원스 맘=트와 맘",
-      "나봉쓰 보고파!",
-      "트둥이 내 심장ㅠ"
+      {
+        "text": "원스 보고파 죽겠어!",
+        "meaning_ja": "ONCEに会いたくて死にそう！",
+        "meaning_en": "I'm dying to see ONCE! (Implying they, TWICE, miss ONCE, their fan club)"
+      },
+      {
+        "text": "트둥이 보고 싶어서 현기증 나!",
+        "meaning_ja": "TWICEに会いたすぎてめまいがする！",
+        "meaning_en": "I'm so dizzy from missing TWICE!"
+      },
+      {
+        "text": "내 심장 ONCE로 풀착장!",
+        "meaning_ja": "私の心はONCEでフル装備！",
+        "meaning_en": "My heart is fully equipped with ONCE! (Implying they are devoted to ONCE and miss them. 풀착장 is a slang for \"fully equipped/dressed\")"
+      },
+      {
+        "text": "틋스타 보고파 광광 우럭우럭!",
+        "meaning_ja": "TWICEのインスタ見たいよー、しくしく！",
+        "meaning_en": "I wanna see TWICE's Insta so bad, *sob sob*! (틋스타 is short for TWICE Instagram. 광광 우럭우럭 is an onomatopoeic slang for crying dramatically.)"
+      },
+      {
+        "text": "컴백 언제야? 목 빠지게 기다려!",
+        "meaning_ja": "カムバックはいつ？首を長くして待ってるよ！",
+        "meaning_en": "When's the comeback? I'm waiting with bated breath! (Expressing anticipation for TWICE's return, and therefore, missing them until then.)"
+      }
     ],
     "PROMISE_FOREVER": [
-      "원스와 트와이스, 영원히!",
-      "둡챙나모사지미다현 뽀에버!",
-      "트둥이들 없인 못 살아!",
-      "영원히 곁에 있어줘!",
-      "원스와 함께 쭉!"
+      {
+        "text": "원스와 트와이스는 ❤️",
+        "meaning_ja": "ONCEとTWICEは永遠に一緒だよ",
+        "meaning_en": "ONCE and TWICE, together forever with ❤️"
+      },
+      {
+        "text": "트둥이 꽃길만 걸어",
+        "meaning_ja": "TWICE、いつも幸せでいてね",
+        "meaning_en": "TWICE, only walk the flower path (May you always be happy)"
+      },
+      {
+        "text": "영원히 함께해, 챙챙!",
+        "meaning_ja": "いつまでも一緒だよ, 챙챙!",
+        "meaning_en": "Forever together, Chaeng Chaeng! (Adding a playful TWICE member reference)"
+      },
+      {
+        "text": "나연없이 못살아",
+        "meaning_ja": "ナヨンなしでは生きられない",
+        "meaning_en": "Can't live without Nayeon! (Replace Nayeon with other members randomly)"
+      },
+      {
+        "text": "원스랑 트와이스는 운명이야!",
+        "meaning_ja": "ONCEとTWICEは運命だよ！",
+        "meaning_en": "ONCE and TWICE are destined!"
+      }
     ],
     "CONGRAT_BDAY": [
-      "둡깅! 생일 캡쳐!",
-      "챙탄절! 갸악!",
-      "미나리! 햅삐 벌쓰데이!",
-      "나봉쓰! 태어나줘서 땡큐!",
-      "지효여신! 탄신일 축!"
+      {
+        "text": "둡생일",
+        "meaning_ja": "ダブ誕生日おめでとう！",
+        "meaning_en": "Dubu (Tofu/Dahyun) Birthday! (Happy Birthday Dahyun!)"
+      },
+      {
+        "text": "챙탄절",
+        "meaning_ja": "チェヨン誕生日祭！",
+        "meaning_en": "Chaeyoung Day/Festival! (Celebrating Chaeyoung's Birthday!)"
+      },
+      {
+        "text": "원스마스",
+        "meaning_ja": "ワンスのクリスマス",
+        "meaning_en": "ONCE's Christmas (Referring to a special event or comeback near a birthday, like a special gift for ONCEs)"
+      },
+      {
+        "text": "틋둥이 생일",
+        "meaning_ja": "TWICEちゃん誕生日",
+        "meaning_en": "TWICE Baby's Birthday (Wishing happy birthday to the maknae/youngest member)"
+      },
+      {
+        "text": "나봉탄신일",
+        "meaning_ja": "ナヨン様誕生日！",
+        "meaning_en": "Queen Nayeon's Birthday! (Referring to Nayeon's birthday in a fun, exaggerated way)"
+      }
     ],
     "CHEER_UP": [
-      "둡! 기살아!",
-      "틋둥이 힘내!",
-      "원스가 쏜다!",
-      "쯔뭉탱 화이팅!",
-      "나봉쓰 홧팅!"
+      {
+        "text": "둡!둡!둡!",
+        "meaning_ja": "ダヒョン！ダヒョン！ダヒョン！(可愛い！)",
+        "meaning_en": "Dubu! Dubu! Dubu! (So Cute!) *Note: Uses Dahyun's nickname.*"
+      },
+      {
+        "text": "챙!블리!",
+        "meaning_ja": "チェヨン！ラブリー！(愛してる！)",
+        "meaning_en": "Chaeng! Lovely! (We love you!) *Note: Highlights Chaeyoung's cuteness.*"
+      },
+      {
+        "text": "나봉쓰 최고!",
+        "meaning_ja": "ナヨン最高！",
+        "meaning_en": "Nayeon is the best! *Note: Uses Nayeon's nickname in a cute way.*"
+      },
+      {
+        "text": "미나리 홧팅!",
+        "meaning_ja": "ミナリ ファイティン！(頑張って！)",
+        "meaning_en": "Minari Fighting! (Do your best!) *Note: Uses Mina's nickname.*"
+      },
+      {
+        "text": "원스와 트와이스는 하나다!",
+        "meaning_ja": "ONCEとTWICEは一つだ！",
+        "meaning_en": "ONCE and TWICE are one!"
+      }
     ],
     "PRAISE_GOD": [
-      "둡신강림!",
-      "나연신짱!",
-      "미모가 모모GOD",
-      "갓지효 엉엉",
-      "채영아, 예술신!"
+      {
+        "text": "둡챙나챙",
+        "meaning_ja": "ダブチェンナチェン (尊い)",
+        "meaning_en": "DubChaengNaChaeng (Precious/Sacred)"
+      },
+      {
+        "text": "원스 맘 = 내 맘",
+        "meaning_ja": "ONCEの気持ち = 私の気持ち",
+        "meaning_en": "ONCE's heart = My heart"
+      },
+      {
+        "text": "트와이스길만 걸어",
+        "meaning_ja": "TWICEの道だけを歩んで",
+        "meaning_en": "Only walk the TWICE path (Always be successful)"
+      },
+      {
+        "text": "샤샤샤",
+        "meaning_ja": "シャシャシャ (可愛い)",
+        "meaning_en": "Shy Shy Shy (Cute)"
+      },
+      {
+        "text": "챙이쏘",
+        "meaning_ja": "チェンイッソ (天才)",
+        "meaning_en": "Chaeng is so (Genius)"
+      }
     ],
     "PRAISE_VISUAL": [
-      "둡챙존예",
-      "미모가 국보급",
-      "나연 미모 미쳤다",
-      "트둥 is 뭔들",
-      "지효여신 강림"
+      {
+        "text": "얼굴천재 (eolgul cheonjae)",
+        "meaning_ja": "顔面国宝 (ganmen kokuhō)",
+        "meaning_en": "Visual Genius/Face Genius (Someone with unbelievably beautiful looks)"
+      },
+      {
+        "text": "넘사벽 (neomsa byeok)",
+        "meaning_ja": "越えられない壁 (koerarenai kabe)",
+        "meaning_en": "Unreachable wall (Describes someone who is on another level)"
+      },
+      {
+        "text": "무대 장인 (mudae jang-in)",
+        "meaning_ja": "ステージ職人 (sutēji shokunin)",
+        "meaning_en": "Stage Artisan/Craftsman (Someone with incredible stage presence and performance skills)"
+      },
+      {
+        "text": "인간 비타민 (ingan bitamin)",
+        "meaning_ja": "人間ビタミン (ningen bitamin)",
+        "meaning_en": "Human Vitamin (Someone who is bright and cheerful and makes you feel good)"
+      },
+      {
+        "text": "케미 요정 (kemiseu yojeong)",
+        "meaning_ja": "ケミ妖精 (kemi yōsei)",
+        "meaning_en": "Chemistry Fairy (Someone who has amazing chemistry with other members, making their interactions especially enjoyable to watch)"
+      }
     ],
     "PRAISE_FACE": [
-      "둡 is 뭔들!",
-      "미모가 국보급!",
-      "나연 얼굴이 복지",
-      "째용 얼굴 천재!",
-      "트와이스 비주얼 만세!"
+      {
+        "text": "미모 미쳤다",
+        "meaning_ja": "美貌が狂ってる",
+        "meaning_en": "Their beauty is insane (crazy good)!"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔が福祉だ",
+        "meaning_en": "Their face is a blessing/welfare."
+      },
+      {
+        "text": "비주얼 쇼크",
+        "meaning_ja": "ビジュアルショック",
+        "meaning_en": "Visual shock!"
+      },
+      {
+        "text": "인간 명품",
+        "meaning_ja": "人間名品",
+        "meaning_en": "Human luxury brand"
+      },
+      {
+        "text": "넘사벽 비주얼",
+        "meaning_ja": "越えられない壁ビジュアル",
+        "meaning_en": "Unreachable beauty/visuals (like a high wall you can't climb over)"
+      }
     ],
     "REQ_HEART": [
-      "둡깅이 ❤️ 줘!",
-      "나봉스 손하트!",
-      "째욘아, 💖발사!",
-      "미나리 🫶 원해!",
-      "트둥이들 ❤️해줘!"
+      {
+        "text": "원스 맘 = 내 맘",
+        "meaning_ja": "ONCEの気持ち = 私の気持ち",
+        "meaning_en": "ONCE's heart = My heart (Expressing strong connection with the fandom)"
+      },
+      {
+        "text": "둡 is 뭔들",
+        "meaning_ja": "ダヒョンイズ何でも良い (全部良い)",
+        "meaning_en": "Dubu is anything is good (Everything Dubu does is great) (Referencing Dahyun's nickname Dubu and expressing love for anything she does)"
+      },
+      {
+        "text": "챙겨줄게",
+        "meaning_ja": "ツウィのこと、面倒見るよ",
+        "meaning_en": "I'll take care of Chaeyoung (Expressing desire to protect and support Chaeyoung)"
+      },
+      {
+        "text": "나연 언니가 짱",
+        "meaning_ja": "ナヨンお姉さんが最高",
+        "meaning_en": "Nayeon unnie is the best (Simple praise for Nayeon)"
+      },
+      {
+        "text": "미나리 콩",
+        "meaning_ja": "ミナの豆",
+        "meaning_en": "Mina bean (Referring to Mina playfully, potentially based on a meme or inside joke)"
+      }
     ],
     "HEALTH_EAT": [
-      "둡채영, 맘마 먹어!",
-      "챙아 밥길만 걸어!",
-      "미나리 냠냠긋!",
-      "나연언니, 복숭아 먹어!",
-      "트와이스 건강챙겨!"
+      {
+        "text": "밥 잘 챙겨!",
+        "meaning_ja": "ご飯ちゃんと食べてね！",
+        "meaning_en": "Eat well and take care of yourself!"
+      },
+      {
+        "text": "맛있는 거 많이 먹어!",
+        "meaning_ja": "美味しいものいっぱい食べてね！",
+        "meaning_en": "Eat lots of delicious things!"
+      },
+      {
+        "text": "꽃길만 걸어! 맛있는 거 먹으면서!",
+        "meaning_ja": "花道だけを歩こう！美味しいもの食べながら！",
+        "meaning_en": "Let's walk only on flower paths! While eating delicious things!"
+      },
+      {
+        "text": "행복하세요! 맛난 거 드시고!",
+        "meaning_ja": "幸せでいてください！美味しいもの召し上がって！",
+        "meaning_en": "Please be happy! And eat delicious things!"
+      },
+      {
+        "text": "아프지 말고 밥 잘 먹고!",
+        "meaning_ja": "病気しないで、ご飯ちゃんと食べてね！",
+        "meaning_en": "Don't be sick and eat well!"
+      }
     ],
     "HEALTH_CARE": [
-      "아프면 혼난다!",
-      "챙챙 감기 조심!",
-      "틋둥 아프지마!",
-      "원스 심쿵사해!",
-      "건강해야 쯔와이스!"
+      {
+        "text": "챙챙챙!",
+        "meaning_ja": "ちゃんちゃんちゃん！(元気出して！)",
+        "meaning_en": "Cheering for you! (Get well!)"
+      },
+      {
+        "text": "원스 감기 조심!",
+        "meaning_ja": "ONCE, 風邪に気をつけてね！",
+        "meaning_en": "ONCE, be careful not to catch a cold!"
+      },
+      {
+        "text": "아프지마 퉹!",
+        "meaning_ja": "痛くしないで、トゥワイス！",
+        "meaning_en": "Don't be sick, TWICE!"
+      },
+      {
+        "text": "건강해야 돼, 나봉쓰!",
+        "meaning_ja": "元気でいないとだめだよ、ナヨン！",
+        "meaning_en": "You have to be healthy, Nayeon! (Replace \"나연\" with any member name)"
+      },
+      {
+        "text": "꽃길만 걸어요, 아프지 말고!",
+        "meaning_ja": "花道だけを歩こうね、病気にならないで！",
+        "meaning_en": "Let's walk only on flower paths, and don't get sick!"
+      }
     ],
     "GREET_JOB": [
-      "고생했둡!",
-      "고생했찌!",
-      "원스최고!",
-      "트와이스 짱!",
-      "오늘도 수고!"
+      {
+        "text": "트와이스 꽃길만 걷자!",
+        "meaning_ja": "TWICE、花の道だけを歩もう！",
+        "meaning_en": "TWICE, let's only walk on flower paths! (Wishing them success and happiness)"
+      },
+      {
+        "text": "둡와이스!",
+        "meaning_ja": "ダブ와이스！(ダヒョン+TWICE)",
+        "meaning_en": "Doobu-와이스! (Dahyun + TWICE - emphasizing Dahyun's cuteness with TWICE)"
+      },
+      {
+        "text": "챙chae파워!",
+        "meaning_ja": "チェヨンパワー！",
+        "meaning_en": "Chaeng Power! (Referring to Chaeyoung's powerful stage presence)"
+      },
+      {
+        "text": "원스 맘 = 내 맘",
+        "meaning_ja": "ONCEの気持ち = 私の気持ち",
+        "meaning_en": "ONCE's heart = My heart (Expressing solidarity with the fandom)"
+      },
+      {
+        "text": "나연 is 뭔들",
+        "meaning_ja": "ナヨンは何をしても最高",
+        "meaning_en": "Nayeon is good at everything she does (Expressing that anything Nayeon does is amazing)"
+      }
     ]
   },
   "Nayeon": {
     "LOVE_GENERAL": [
-      "나봉쓰 럽유!",
-      "나연 없인 못 살아!",
-      "토끼 공주 사랑해!",
-      "나연 is 뭔들!",
-      "임나연 내 전부!"
+      {
+        "text": "나연 is 뭔들",
+        "meaning_ja": "ナヨンは何でも (最高)",
+        "meaning_en": "Nayeon is good at everything/Nayeon is always perfect"
+      },
+      {
+        "text": "나연 없인 못 살아",
+        "meaning_ja": "ナヨンなしでは生きられない",
+        "meaning_en": "I can't live without Nayeon"
+      },
+      {
+        "text": "나연 공주",
+        "meaning_ja": "ナヨン姫",
+        "meaning_en": "Princess Nayeon"
+      },
+      {
+        "text": "나연 사랑둥이",
+        "meaning_ja": "ナヨンの愛されっ子",
+        "meaning_en": "Nayeon, you're so lovable"
+      },
+      {
+        "text": "나연 때문에 산다",
+        "meaning_ja": "ナヨンのために生きる",
+        "meaning_en": "I live for Nayeon"
+      }
     ],
     "LOVE_DEEP": [
-      "나봉쓰 뼈묻!",
-      "🐰나연 없인 못 살아!",
-      "임나연, 내 심장💖",
-      "나연아, 사랑해 죽어ㅠㅠ",
-      "뵤뵤 최고존엄👑"
+      {
+        "text": "나연 is 뭔들",
+        "meaning_ja": "ナヨンは何でも(最高)",
+        "meaning_en": "Nayeon is perfect no matter what!"
+      },
+      {
+        "text": "냅다 나연",
+        "meaning_ja": "とにかくナヨン",
+        "meaning_en": "Just Nayeon (all in on Nayeon)"
+      },
+      {
+        "text": "나연 사랑하면 폼미쳤다",
+        "meaning_ja": "ナヨンを愛するとイケてる",
+        "meaning_en": "Loving Nayeon is awesome!"
+      },
+      {
+        "text": "나연없인 못 살아",
+        "meaning_ja": "ナヨンなしでは生きられない",
+        "meaning_en": "I can't live without Nayeon!"
+      },
+      {
+        "text": "나연아, 내 심장 쏘아올려!",
+        "meaning_ja": "ナヨン、私の心を撃ち抜いて！",
+        "meaning_en": "Nayeon, shoot my heart!"
+      }
     ],
     "REQ_MARRY": [
-      "나봉쓰, 나랑 겷혼!",
-      "나연아, 내 신부!",
-      "토끼야, 나 꾸며줘!",
-      "임나연, 내 운명!",
-      "결혼각, 임나연!"
+      {
+        "text": "나연아, 내 심장에 불 질렀다",
+        "meaning_ja": "ナヨン、私の心に火をつけた",
+        "meaning_en": "Nayeon, you set my heart on fire!"
+      },
+      {
+        "text": "나연 없인 못 살아!",
+        "meaning_ja": "ナヨンなしでは生きられない！",
+        "meaning_en": "I can't live without Nayeon!"
+      },
+      {
+        "text": "나연 is 뭔들!",
+        "meaning_ja": "ナヨンは全部OK！",
+        "meaning_en": "Everything Nayeon does is great! / Nayeon can do no wrong!"
+      },
+      {
+        "text": "나연아, 내 통장 가져!",
+        "meaning_ja": "ナヨン、私の通帳を持って行って！",
+        "meaning_en": "Nayeon, take my bank account! (meaning: I'll give you all my money)"
+      },
+      {
+        "text": "나연, 내 전부!",
+        "meaning_ja": "ナヨン、私の全部！",
+        "meaning_en": "Nayeon, you're my everything!"
+      }
     ],
     "MISS_YOU": [
-      "나봉쓰 보고싶다!",
-      "나연아 ㅠㅠ 보고파",
-      "깡나 보고 시퍼🥺",
-      "토끼언니 넘 보고싶엉",
-      "임나연 내 심장ㅠ"
+      {
+        "text": "나봉스 보고싶다! (Nabongs bogosipda!)",
+        "meaning_ja": "ナヨンちゃん、会いたいよ！(Nayeon-chan, aitai yo!)",
+        "meaning_en": "Nabongs, I miss you! (Nabongs is a cute nickname for Nayeon)"
+      },
+      {
+        "text": "토끼온니 어디야 ㅠㅠ (Tokki eonni eodiya ㅠㅠ)",
+        "meaning_ja": "ウサギお姉さん、どこにいるの ㅠㅠ (Usagi oneesan, doko ni iru no ㅠㅠ)",
+        "meaning_en": "Bunny unnie, where are you ㅠㅠ (Nayeon is often associated with bunnies)"
+      },
+      {
+        "text": "나연 없인 못 살아! (Nayeon eopsin mot sara!)",
+        "meaning_ja": "ナヨンなしでは生きられない！(Nayeon nashi dewa ikirarenai!)",
+        "meaning_en": "I can't live without Nayeon!"
+      },
+      {
+        "text": "임나연 내 심장에 저-장! (Im Nayeon nae simjange jeo-jang!)",
+        "meaning_ja": "イム・ナヨン、私の心に保存！(Imu Nayeon, watashi no kokoro ni hozon!)",
+        "meaning_en": "Im Nayeon, save [you] in my heart! (Popular internet slang meaning \"I'll save you in my heart\")"
+      },
+      {
+        "text": "나연이 보고 시펑 힝 (Nayeoni bogo sipyeong hing)",
+        "meaning_ja": "ナヨンに会いたいの 힝 (Nayeon ni aitai no hing)",
+        "meaning_en": "I miss Nayeon, hing (힝 is an onomatopoeic expression of whining/sadness)"
+      }
     ],
     "PROMISE_FOREVER": [
-      "나봉쓰 영원히!",
-      "나연아, 쭉 가자!",
-      "토끼언니 뽀에버!",
-      "임나연 사랑해!",
-      "원스와 쭉 함께!"
+      {
+        "text": "나연 is 뭔들",
+        "meaning_ja": "ナヨンは何でも良い",
+        "meaning_en": "Nayeon is good at everything (Nayeon can do anything!)"
+      },
+      {
+        "text": "토끼 is 뭔들",
+        "meaning_ja": "ウサギは何でも良い",
+        "meaning_en": "Rabbit is good at everything (referencing her rabbit teeth)"
+      },
+      {
+        "text": "나봉쓰 무대찢어",
+        "meaning_ja": "ナボンさん、ステージを破って！",
+        "meaning_en": "Nabongs, tear up the stage! (lit. tear/kill the stage)"
+      },
+      {
+        "text": "나연아 꽃길만 걷자",
+        "meaning_ja": "ナヨン、花の道だけを歩こう",
+        "meaning_en": "Nayeon, let's only walk on flower paths (wish her success)"
+      },
+      {
+        "text": "내 심장 나연해",
+        "meaning_ja": "私の心臓ナヨンヘ(愛してる)",
+        "meaning_en": "My heart Nayeon-hae (I love you with my heart)"
+      }
     ],
     "CONGRAT_BDAY": [
-      "나봉쓰 CONGRAT_BDAY!",
-      "나연언니 생일 짱!",
-      "토끼 생일 축하해!",
-      "둡덕 CONGRAT_BDAY!",
-      "울 나연 최고!"
+      {
+        "text": "나연 is 뭔들",
+        "meaning_ja": "ナヨンは何でも最高",
+        "meaning_en": "Nayeon can do anything and it's amazing. (Lit: \"Nayeon is whatever-dle\" - meaning anything Nayeon does is good)"
+      },
+      {
+        "text": "나봉스 데이",
+        "meaning_ja": "ナヨンの日",
+        "meaning_en": "Nayeon's Day (Play on Nayeon's nickname, \"Nabongs\")"
+      },
+      {
+        "text": "냅챙 생일 ㅊㅋ",
+        "meaning_ja": "ナブチェン、誕生日おめでとう",
+        "meaning_en": "Happy Birthday to Nabongs (Nayeon's nickname) and cutie! (ㅊㅋ is short for 축하, congratulations)."
+      },
+      {
+        "text": "토끼언니 햅삐벌쓰데이",
+        "meaning_ja": "ウサギお姉さん、ハッピーバースデー",
+        "meaning_en": "Happy Birthday to our Bunny Unnie (older sister/friend)"
+      },
+      {
+        "text": "나연아 꽃길만 걸어",
+        "meaning_ja": "ナヨン、花道だけを歩いて",
+        "meaning_en": "Nayeon, walk only on flower paths. (Meaning: May only good things happen to you)"
+      }
     ],
     "CHEER_UP": [
-      "나연아 짱!",
-      "나봉쓰 응원!",
-      "토끼야 날아!",
-      "사랑해 나연!",
-      "빛나연 최고!"
+      {
+        "text": "나연 is 뭔들",
+        "meaning_ja": "ナヨンは何でも最高",
+        "meaning_en": "Nayeon is perfect no matter what (Nayeon can do no wrong)"
+      },
+      {
+        "text": "나연 때문에 산다",
+        "meaning_ja": "ナヨンのおかげで生きてる",
+        "meaning_en": "I live because of Nayeon"
+      },
+      {
+        "text": "나연 공주님",
+        "meaning_ja": "ナヨン姫",
+        "meaning_en": "Princess Nayeon"
+      },
+      {
+        "text": "냅다 나연",
+        "meaning_ja": "とにかくナヨン",
+        "meaning_en": "Just Nayeon (Thinking of/obsessed with only Nayeon)"
+      },
+      {
+        "text": "나연 사랑둥이",
+        "meaning_ja": "ナヨン愛しい子",
+        "meaning_en": "Nayeon, sweetheart (lovable person)"
+      }
     ],
     "PRAISE_GOD": [
-      "나봉신!",
-      "토끼여신!",
-      "나연, 갓!",
-      "임나연은 빛",
-      "나연님 충성!"
+      {
+        "text": "나연 is 뭔들",
+        "meaning_ja": "ナヨンイズイズ(何でも)",
+        "meaning_en": "Nayeon is perfect no matter what she does (Nayeon is everything)"
+      },
+      {
+        "text": "나연 공주님 짱!",
+        "meaning_ja": "ナヨン姫様最高！",
+        "meaning_en": "Princess Nayeon is the best!"
+      },
+      {
+        "text": "나연 없인 못 살아",
+        "meaning_ja": "ナヨンなしでは生きられない",
+        "meaning_en": "I can't live without Nayeon."
+      },
+      {
+        "text": "나연 is 뭔들 is 뭔들 is 뭔들",
+        "meaning_ja": "ナヨンイズイズイズ (何でも！)",
+        "meaning_en": "Nayeon is perfect is perfect is perfect!"
+      },
+      {
+        "text": "나연아, 꽃길만 걸어",
+        "meaning_ja": "ナヨン、花の道だけを歩んで",
+        "meaning_en": "Nayeon, only walk the flower path (meaning, only good things happen to you)."
+      }
     ],
     "PRAISE_VISUAL": [
-      "나연 is 뭔들",
-      "맏내 비주얼 미쳤다",
-      "나봉쓰 갓미모",
-      "토끼나연 천상계",
-      "넘사벽 임나연"
+      {
+        "text": "낫닝겐!",
+        "meaning_ja": "人間離れ！",
+        "meaning_en": "Unreal! (Referring to otherworldly beauty)"
+      },
+      {
+        "text": "얼굴이 복지다!",
+        "meaning_ja": "顔面が福祉だ！",
+        "meaning_en": "Her face is welfare! (Meaning her beauty is a blessing)"
+      },
+      {
+        "text": "냅다 예뻐!",
+        "meaning_ja": "ひたすら可愛い！",
+        "meaning_en": "Unconditionally pretty! (Simply and directly praising her beauty)"
+      },
+      {
+        "text": "비주얼 쇼크!",
+        "meaning_ja": "ビジュアルショック！",
+        "meaning_en": "Visual shock! (Her beauty is shocking and stunning)"
+      },
+      {
+        "text": "천상 아이돌!",
+        "meaning_ja": "天上のアイドル！",
+        "meaning_en": "Heavenly Idol! (She's an idol sent from heaven)"
+      }
     ],
     "PRAISE_FACE": [
-      "나봉쓰 얼굴이 복지다",
-      "나연 is 뭔들!",
-      "토끼 미모 미쳤다",
-      "얼굴 천재 임나연",
-      "나연 얼굴이 곧 법"
+      {
+        "text": "나연 is 뭔들",
+        "meaning_ja": "ナヨンは何でも似合う/最高",
+        "meaning_en": "Nayeon looks good in everything / Nayeon can pull off anything. (Implies effortless beauty)"
+      },
+      {
+        "text": "나연 얼굴이 복지다",
+        "meaning_ja": "ナヨンの顔が福祉だ/最高の癒し",
+        "meaning_en": "Nayeon's face is welfare / Nayeon's face is the best healing. (Meaning her beauty is a gift to the world)"
+      },
+      {
+        "text": "얼굴천재 나연",
+        "meaning_ja": "顔面天才ナヨン",
+        "meaning_en": "Face genius Nayeon. (Straightforward praise of her visuals)"
+      },
+      {
+        "text": "나연 is 뭔들 is 뭔들",
+        "meaning_ja": "ナヨンは何でも最高は最高",
+        "meaning_en": "Nayeon is the best, and that's the best! (Exaggerated form of \"Nayeon is 뭔들\" for extra emphasis)"
+      },
+      {
+        "text": "인간 복숭아 나연",
+        "meaning_ja": "人間桃ナヨン",
+        "meaning_en": "Human peach Nayeon. (Describes her sweet and lovely looks, often associated with her skin tone)"
+      }
     ],
     "REQ_HEART": [
-      "나봉쓰 손하트!",
-      "나연언니 🫶 줘!",
-      "깡나, 하트 뿅!",
-      "임나연, ❤️필수!",
-      "토끼야, 손하트!"
+      {
+        "text": "나연 is 뭔들!",
+        "meaning_ja": "ナヨンは何でも最高！",
+        "meaning_en": "Nayeon is good at everything! (Implicitly meaning, \"Even doing a heart would be amazing!\")"
+      },
+      {
+        "text": "나봉쓰 하트 날려줘!",
+        "meaning_ja": "ナヨンさん、ハート飛ばして！",
+        "meaning_en": "Nabong-ssi, send us a heart! (Nabong is a nickname for Nayeon)"
+      },
+      {
+        "text": "인간 비타민 나연! 하트 충전!",
+        "meaning_ja": "人間ビタミンナヨン！ハートチャージ！",
+        "meaning_en": "Human Vitamin Nayeon! Heart Recharge! (Implies needing her heart gesture for energy)"
+      },
+      {
+        "text": "나연아, 하트 장인!",
+        "meaning_ja": "ナヨン、ハート職人！",
+        "meaning_en": "Nayeon, Heart Artisan! (Calling her skilled at making hearts)"
+      },
+      {
+        "text": "나연 하트 = 행복 보장!",
+        "meaning_ja": "ナヨンのハート=幸せ保障！",
+        "meaning_en": "Nayeon's heart = happiness guaranteed!"
+      }
     ],
     "HEALTH_EAT": [
-      "나봉쓰 맘마!",
-      "깡나 밥 잘 먹어!",
-      "퉷! 나연 건강해!",
-      "나연아, 복숭아 먹자!",
-      "챙챙아, 밥심!"
+      {
+        "text": "나봉쓰 맛잘알!",
+        "meaning_ja": "ナヨンちゃんは美味しいものよく知ってる！",
+        "meaning_en": "Nabong (Nayeon) knows good food! (Referring to her good taste)"
+      },
+      {
+        "text": "나연 언니 밥길만 걸어!",
+        "meaning_ja": "ナヨンお姉さん、美味しいものだけ食べて！",
+        "meaning_en": "Nayeon unnie, only walk the path of good food! (Wishing her a life filled with delicious food)"
+      },
+      {
+        "text": "먹잘알 나연!",
+        "meaning_ja": "めっちゃ食べるの知ってるナヨン！",
+        "meaning_en": "Foodie Nayeon! (Nayeon who knows how to eat well)"
+      },
+      {
+        "text": "토끼 먹방 기대할게!",
+        "meaning_ja": "ウサギちゃんのモッパン楽しみにしてるね！",
+        "meaning_en": "Looking forward to Bunny's Mukbang! (Anticipating her eating broadcast)"
+      },
+      {
+        "text": "나연 is 뭔들! (먹는 모습 is 뭔들!)",
+        "meaning_ja": "ナヨンは何でも可愛い！(食べる姿は何でも可愛い！)",
+        "meaning_en": "Nayeon is cute no matter what! (Especially when eating!)"
+      }
     ],
     "HEALTH_CARE": [
-      "나봉쓰 아프지마!",
-      "나연 언니 건강 제일!",
-      "깡나 힘내, 감기 훠이!",
-      "토끼 건강 부적!",
-      "나연 is 뭔들, 건강 제일!"
+      {
+        "text": "나봉쓰 감기 조심!",
+        "meaning_ja": "ナヨンちゃん、風邪に気をつけてね！",
+        "meaning_en": "Nayeon-ssi, please be careful not to catch a cold! (나봉쓰 is a cute nickname for Nayeon)"
+      },
+      {
+        "text": "토끼겅듀 건강 챙겨!",
+        "meaning_ja": "ウサギ姫、健康に気を遣ってね！",
+        "meaning_en": "Bunny Princess, take care of your health! (토끼겅듀 refers to Nayeon's bunny-like features and princess-like vibe)"
+      },
+      {
+        "text": "나연 언니 아프면 맴찢!",
+        "meaning_ja": "ナヨンお姉さん、具合悪くなったら心が痛む！",
+        "meaning_en": "Nayeon unnie, my heart breaks if you're sick! (맴찢 - literally \"heart rips\", meaning heartbreak)"
+      },
+      {
+        "text": "나연 is 뭔들! 아프지만 마!",
+        "meaning_ja": "ナヨンはどんなことでも最高！ただ、具合悪くならないで！",
+        "meaning_en": "Nayeon is good at everything! Just don't get sick! (나연 is 뭔들 -  Nayeon is good at everything, like 'Whatever Nayeon does is perfect.')"
+      },
+      {
+        "text": "낫부리 감기 훠이훠이!",
+        "meaning_ja": "낫ブリー、風邪よ、あっちへ行け！",
+        "meaning_en": "Nabongs, get that cold away! (낫부리 is a playful nickname derived from Nayeon's surname, 임나연 (Im Nayeon))"
+      }
     ],
     "GREET_JOB": [
-      "나봉쓰 수고!",
-      "깡나 최고다!",
-      "나연아 푹 쉬어!",
-      "임나봉 고생했어!",
-      "토끼 힘내!"
+      {
+        "text": "둡챙나",
+        "meaning_ja": "ダヒョン、チェヨン、ナヨン最強！",
+        "meaning_en": "Dahyun, Chaeyoung, Nayeon, the best! (A combination of their names highlighting their strength together)"
+      },
+      {
+        "text": "나봉쓰 짱!",
+        "meaning_ja": "ナヨンちゃんマジ最高！",
+        "meaning_en": "Nabong is the best! (Na-yeon + affectionate suffix \"bong\" + best)"
+      },
+      {
+        "text": "나연 is 뭔들",
+        "meaning_ja": "ナヨンは何しても可愛い！",
+        "meaning_en": "Nayeon is perfect no matter what she does! (Short for \"Nayeon is good at whatever she does\")"
+      },
+      {
+        "text": "나연아 꽃길만 걸어",
+        "meaning_ja": "ナヨン、いつも幸せでいてね！",
+        "meaning_en": "Nayeon, only walk on flower paths! (Wishing her only happiness)"
+      },
+      {
+        "text": "임나연 폼 미쳤다!",
+        "meaning_ja": "イム・ナヨン、マジで最高！",
+        "meaning_en": "Im Nayeon is absolutely crazy good! (Used when someone is incredibly skilled or attractive)"
+      }
     ]
   },
   "Jeongyeon": {
     "LOVE_GENERAL": [
-      "정연 is spelt 'Jeongyeon' 정연 to ensure accuracy\n정연아, 찐사랑!",
-      "둡깅 is Dahyun's nickname\n둡깅맘 정연!",
-      "갓정연, 내 전부!",
-      "정연 없인 못 살아!",
-      "윰블리 사랑해!"
+      {
+        "text": "정연 is 뭔들",
+        "meaning_ja": "ジョンヨンは何でも(良い)",
+        "meaning_en": "Jeongyeon is good no matter what (she does)!"
+      },
+      {
+        "text": "정연 사랑둥이",
+        "meaning_ja": "ジョンヨン 愛されっ子",
+        "meaning_en": "Jeongyeon, sweetheart/loved one!"
+      },
+      {
+        "text": "입덕 부정은 없다",
+        "meaning_ja": "入徳否定はない (もうハマってる)",
+        "meaning_en": "There's no denying I've become a fan (I'm already hooked)!"
+      },
+      {
+        "text": "정연 덕분에 산다",
+        "meaning_ja": "ジョンヨンのおかげで生きる",
+        "meaning_en": "I live because of Jeongyeon!"
+      },
+      {
+        "text": "내 심장 정연",
+        "meaning_ja": "私の心臓はジョンヨン",
+        "meaning_en": "Jeongyeon is my heart!"
+      }
     ],
     "LOVE_DEEP": [
-      "정연 없인 못 살아",
-      "둡며들었어, 정연아!",
-      "정연 is 뭔들",
-      "갓정연, 내 심장 쏴!",
-      "사랑해, 쩡아!"
+      {
+        "text": "정연 is 뭔들",
+        "meaning_ja": "ジョンヨンは何でも(良い)",
+        "meaning_en": "Jeongyeon is good no matter what (she does)"
+      },
+      {
+        "text": "정연아 꽃길만 걸어",
+        "meaning_ja": "ジョンヨン、花の道だけを歩んで",
+        "meaning_en": "Jeongyeon, only walk the flower path (May only good things happen to you)"
+      },
+      {
+        "text": "정연 사랑둥이",
+        "meaning_ja": "ジョンヨン愛されっ子",
+        "meaning_en": "Jeongyeon, darling (lovable person)"
+      },
+      {
+        "text": "정연 없인 못 살아",
+        "meaning_ja": "ジョンヨンなしでは生きられない",
+        "meaning_en": "I can't live without Jeongyeon"
+      },
+      {
+        "text": "내 마음속에 정착",
+        "meaning_ja": "私の心の中に定着",
+        "meaning_en": "Settled in my heart (Jeongyeon is deeply embedded in my heart)"
+      }
     ],
     "REQ_MARRY": [
-      "정연아, 내 전부 줄게!",
-      "쩡, 나랑 살림 차려!",
-      "둡아빠, 같이 살자!",
-      "댕댕아, 내 신부!",
-      "쩡, 뼈를 묻을게!"
+      {
+        "text": "정연아 나랑 살아!",
+        "meaning_ja": "ジョンヨン、私と生きて！",
+        "meaning_en": "Jeongyeon, live with me! (Implies marriage, more direct)"
+      },
+      {
+        "text": "정연 없인 못 살아!",
+        "meaning_ja": "ジョンヨンなしでは生きられない！",
+        "meaning_en": "I can't live without Jeongyeon! (Exaggerated love, romantic implication)"
+      },
+      {
+        "text": "정연 내꺼찜!",
+        "meaning_ja": "ジョンヨン、私のものに決定！",
+        "meaning_en": "Jeongyeon, you're mine! (Possessive, playful, hints at commitment)"
+      },
+      {
+        "text": "정연 is 뭔들!",
+        "meaning_ja": "ジョンヨンは何でも良い！",
+        "meaning_en": "Jeongyeon is good no matter what! (Adoration implying acceptance, could be seen as proposing)"
+      },
+      {
+        "text": "정연 내 운명!",
+        "meaning_ja": "ジョンヨンは私の運命！",
+        "meaning_en": "Jeongyeon is my destiny! (Romantic, fate-based, could be a proposal precursor)"
+      }
     ],
     "MISS_YOU": [
-      "쩡요정 보고파!",
-      "둡깅, 넘 보고 싶어!",
-      "정연 없인 못 살아ㅠㅠ",
-      "언니, 앓다 죽을 ㅠㅠ",
-      "쩡, 내 심장 가져가!"
+      {
+        "text": "정연 보고잡다!",
+        "meaning_ja": "ジョンヨンに会いたいよ！",
+        "meaning_en": "Jeongyeon, I miss you so much!"
+      },
+      {
+        "text": "정연 없인 못 살아!",
+        "meaning_ja": "ジョンヨンなしでは生きられない！",
+        "meaning_en": "I can't live without Jeongyeon!"
+      },
+      {
+        "text": "내 마음속에 정착!",
+        "meaning_ja": "私の心の中に定着！",
+        "meaning_en": "Settled in my heart! (Jeongyeon is always on my mind)"
+      },
+      {
+        "text": "정연 is 뭔들!",
+        "meaning_ja": "ジョンヨンは何でも好き！",
+        "meaning_en": "Jeongyeon is good at everything! (But also implies missing seeing her do things)"
+      },
+      {
+        "text": "정연 스릉흔드!",
+        "meaning_ja": "ジョンヨン大好き！",
+        "meaning_en": "Jeongyeon, I love you so much! (Stronger emphasis on love and missing her)"
+      }
     ],
     "PROMISE_FOREVER": [
-      "쩡언니 꽃길만!",
-      "정연 is 뭔들!",
-      "둡 is 뭔들!",
-      "영원히 함께, 쩡!",
-      "평생 원스 곁에!"
+      {
+        "text": "정연 is 뭔들",
+        "meaning_ja": "ジョンヨンは何でも最高",
+        "meaning_en": "Jeongyeon is perfect no matter what (literally \"Jeongyeon is whatever-deul,\" implying she's good at everything)."
+      },
+      {
+        "text": "정연꽃길만 걸어",
+        "meaning_ja": "ジョンヨン、花の道だけを歩んで",
+        "meaning_en": "Jeongyeon, walk only on flower paths (meaning, only good things happen to you)."
+      },
+      {
+        "text": "빼박 ONCE",
+        "meaning_ja": "逃れられないONCE (ワンス)",
+        "meaning_en": "Irreversible ONCE (meaning, once you're a ONCE, there's no going back)."
+      },
+      {
+        "text": "트와이스길만 걷자",
+        "meaning_ja": "TWICEの道だけを歩もう",
+        "meaning_en": "Let's only walk the path of TWICE (let's support TWICE forever)."
+      },
+      {
+        "text": "영원히 챙랑해",
+        "meaning_ja": "永遠に챙랑 (チェンラン)する",
+        "meaning_en": "Forever 'Chaengranghae' (A cute way of saying 'I love you' using a combination of Chaeyoung and 'saranghae' -  emphasizing a deep, lasting affection)."
+      }
     ],
     "CONGRAT_BDAY": [
-      "정연아 쩨고!",
-      "둡깅 생일 ㅊㅋ!",
-      "유또막, 럽유!",
-      "정연 없인 못 살아",
-      "갓정연 탄신일!"
+      {
+        "text": "정연아, 꽃길만 걸어!",
+        "meaning_ja": "ジョンヨン、花の道だけを歩んで！",
+        "meaning_en": "Jeongyeon, only walk on flower paths! (May only good things happen to you!)"
+      },
+      {
+        "text": "정연 is 뭔들",
+        "meaning_ja": "ジョンヨンは何でも最高",
+        "meaning_en": "Jeongyeon is good at everything / Jeongyeon can pull off anything."
+      },
+      {
+        "text": "내 비타민 정연!",
+        "meaning_ja": "私のビタミン、ジョンヨン！",
+        "meaning_en": "My vitamin, Jeongyeon! (You energize me/are my source of energy!)"
+      },
+      {
+        "text": "정연 때문에 산다",
+        "meaning_ja": "ジョンヨンのために生きる",
+        "meaning_en": "I live because of Jeongyeon."
+      },
+      {
+        "text": "정연 사랑둥이",
+        "meaning_ja": "ジョンヨン、愛されっ子",
+        "meaning_en": "Jeongyeon, a lovable person / everyone loves Jeongyeon."
+      }
     ],
     "CHEER_UP": [
-      "정연아 짱!",
-      "둡깅이 홧팅!",
-      "정연 꽃길만!",
-      "유또막 응원!",
-      "울 챙냥이 최고!"
+      {
+        "text": "정연 is 뭔들",
+        "meaning_ja": "ジョンヨンは何でも最高！",
+        "meaning_en": "Jeongyeon is good at everything! (Anything Jeongyeon does is amazing!)"
+      },
+      {
+        "text": "정연 사랑둥이",
+        "meaning_ja": "ジョンヨン、愛されっ子！",
+        "meaning_en": "Jeongyeon, you adorable darling!"
+      },
+      {
+        "text": "정연 덕분에 산다",
+        "meaning_ja": "ジョンヨンのおかげで生きてる！",
+        "meaning_en": "I live because of Jeongyeon!"
+      },
+      {
+        "text": "갓정연",
+        "meaning_ja": "ゴッドジョンヨン！",
+        "meaning_en": "God Jeongyeon! (Jeongyeon is amazing/perfect!)"
+      },
+      {
+        "text": "정연 is 뭔들 안 예뻐?",
+        "meaning_ja": "ジョンヨンは何しても可愛くないわけがない！",
+        "meaning_en": "How could Jeongyeon *not* be pretty doing anything? (Everything Jeongyeon does is beautiful!)"
+      }
     ],
     "PRAISE_GOD": [
-      "정연 is 뭔들!",
-      "갓정연 강림!",
-      "둡신 강림!",
-      "유갓정!",
-      "정연 is 법!"
+      {
+        "text": "정연 is 뭔들",
+        "meaning_ja": "ジョンヨンは何でも最高！",
+        "meaning_en": "Jeongyeon can do no wrong! (Everything Jeongyeon does is great!)"
+      },
+      {
+        "text": "정연 사랑둥이",
+        "meaning_ja": "ジョンヨン、愛されっ子",
+        "meaning_en": "Jeongyeon, sweetheart/lovable one!"
+      },
+      {
+        "text": "정연 덕분에 산다",
+        "meaning_ja": "ジョンヨンのおかげで生きる！",
+        "meaning_en": "I live because of Jeongyeon! (Jeongyeon makes my life worth living)"
+      },
+      {
+        "text": "정연 없인 못 살아",
+        "meaning_ja": "ジョンヨンなしでは生きられない！",
+        "meaning_en": "I can't live without Jeongyeon!"
+      },
+      {
+        "text": "정연 is 뭔들 is 과학",
+        "meaning_ja": "ジョンヨンは何でも最高は科学だ！",
+        "meaning_en": "Jeongyeon can do no wrong is science! (It's a proven fact Jeongyeon is great)"
+      }
     ],
     "PRAISE_VISUAL": [
-      "정연 is 뭔들!",
-      "갓정연, 닥치고 존예!",
-      "요정연, 얼굴이 복지다!",
-      "정연아, 덕분에 산다!",
-      "존예보스 정연!"
+      {
+        "text": "정연 is 뭔들",
+        "meaning_ja": "ジョンヨン is 何でも似合う (Jonhyon is nandemo niau)",
+        "meaning_en": "Jeongyeon looks good in everything. (Lit. Jeongyeon is whatever)"
+      },
+      {
+        "text": "정연 비주얼 미쳤다리",
+        "meaning_ja": "ジョンヨンのビジュアルマジヤバい (Jonhyon no bijuaru maji yabai)",
+        "meaning_en": "Jeongyeon's visuals are absolutely insane!"
+      },
+      {
+        "text": "정연 얼굴이 복지다",
+        "meaning_ja": "ジョンヨンの顔は福祉 (Jonhyon no kao wa fukushi)",
+        "meaning_en": "Jeongyeon's face is welfare/a blessing."
+      },
+      {
+        "text": "정연 is 뭔들 is 뭔들",
+        "meaning_ja": "ジョンヨン is 何でも似合う is 何でも似合う (Jonhyon is nandemo niau is nandemo niau)",
+        "meaning_en": "Jeongyeon looks good in everything, period. (Emphasis on the first line)"
+      },
+      {
+        "text": "정연 is 뭔들 인정? 어 인정",
+        "meaning_ja": "ジョンヨン is 何でも似合う 認めます？はい、認めます (Jonhyon is nandemo niau, mitomemasu? Hai, mitomemasu)",
+        "meaning_en": "Jeongyeon looks good in everything, agree? Oh, I agree!"
+      }
     ],
     "PRAISE_FACE": [
-      "정연 is 뭔들",
-      "얼굴이 복지다",
-      "미모가 국보급",
-      "청순보스 갓정연",
-      "정연 is 뭔들"
+      {
+        "text": "정연 is 뭔들",
+        "meaning_ja": "ジョンヨンは何でもアリ！(可愛いから)",
+        "meaning_en": "Jeongyeon can pull off anything! (Because she's cute)"
+      },
+      {
+        "text": "정연 얼굴이 복지다",
+        "meaning_ja": "ジョンヨンの顔は福祉だ！(目の保養)",
+        "meaning_en": "Jeongyeon's face is welfare! (A feast for the eyes)"
+      },
+      {
+        "text": "정연 미모가 국보급",
+        "meaning_ja": "ジョンヨンの美貌は国宝級！",
+        "meaning_en": "Jeongyeon's beauty is national treasure level!"
+      },
+      {
+        "text": "정연 때문에 삶이 행복해",
+        "meaning_ja": "ジョンヨンのおかげで人生が幸せ",
+        "meaning_en": "Jeongyeon makes my life happy."
+      },
+      {
+        "text": "정연 is 뭔들 is 뭔들",
+        "meaning_ja": "ジョンヨンは何でもアリは何でもアリ！",
+        "meaning_en": "Jeongyeon can pull off anything and everything!"
+      }
     ],
     "REQ_HEART": [
-      "정연아, 🫶 줘!",
-      "둡깅이, 하트빔!",
-      "요정연, ❤️ 발사!",
-      "갓정연, 심쿵 뿅!",
-      "쩡, 손하트 해줘!"
+      {
+        "text": "정연 is 뭔들! (Jeongyeon is Mweondeul!)",
+        "meaning_ja": "ジョンヨンは何でも最高！",
+        "meaning_en": "Jeongyeon can do no wrong! (Everything she does is amazing!)"
+      },
+      {
+        "text": "정연아, 내 심장 꾹! (Jeongyeon-ah, Nae Simjang Kkuk!)",
+        "meaning_ja": "ジョンヨン、私の心臓をぎゅっと掴んで！",
+        "meaning_en": "Jeongyeon, grab my heart tight! (A playful way to say she makes your heart flutter)"
+      },
+      {
+        "text": "정연 보고 심쿵사! (Jeongyeon Bogo Simkungsa!)",
+        "meaning_ja": "ジョンヨンを見て胸キュン死！",
+        "meaning_en": "I'm dying of heart-fluttering after seeing Jeongyeon!"
+      },
+      {
+        "text": "정연 is 뭔들 is 뭔들 is 뭔들!",
+        "meaning_ja": "ジョンヨンは何でも最高は何でも最高は何でも最高！",
+        "meaning_en": "Jeongyeon is amazing, is amazing, is amazing! (Emphasizing how great she is)"
+      },
+      {
+        "text": "정연아, 손민수템 알려줘! (Jeongyeon-ah, Sonminsu-tem Allyeojwo!)",
+        "meaning_ja": "ジョンヨン、お揃いにしたいアイテム教えて！",
+        "meaning_en": "Jeongyeon, tell me what items you use so I can buy them too! (Sonminsu means to buy the same items as someone you admire)"
+      }
     ],
     "HEALTH_EAT": [
-      "정연아 맘마!",
-      "쩡, 밥길만!",
-      "식사요정 냠!",
-      "밥 잘 챙겨 졍!",
-      "건강하게 뇸뇸!"
+      {
+        "text": "정연아 밥길만 걷자!",
+        "meaning_ja": "ジョンヨン、美味しいものだけ食べて幸せになろう！",
+        "meaning_en": "Jeongyeon, let's only walk the path paved with delicious food (and happiness)!"
+      },
+      {
+        "text": "맛잘알 정연!",
+        "meaning_ja": "美味しいものをよく知ってるジョンヨン！",
+        "meaning_en": "Jeongyeon, the one who knows good food!"
+      },
+      {
+        "text": "정연 is 뭔들! 맛있는거 is 뭔들!",
+        "meaning_ja": "ジョンヨンは何でも似合う！美味しいものなら尚更！",
+        "meaning_en": "Jeongyeon looks good in everything! Especially when eating delicious things!"
+      },
+      {
+        "text": "먹정연! 풀파워 충전!",
+        "meaning_ja": "食べてるジョンヨン！フルパワー充電！",
+        "meaning_en": "Eating Jeongyeon! Full power charging!"
+      },
+      {
+        "text": "정연 먹방 존버!",
+        "meaning_ja": "ジョンヨンのモッパン待機！",
+        "meaning_en": "Waiting patiently for Jeongyeon's Mukbang!"
+      }
     ],
     "HEALTH_CARE": [
-      "정연아, 아프지망!",
-      "묭아, 감기 뚝!",
-      "쩡 건강 최우선!",
-      "우리 묭, 꽃길만! (건강)",
-      "유댕, 무병장수!"
+      {
+        "text": "정연 감기 뚝!",
+        "meaning_ja": "ジョンヨン、風邪なんか吹っ飛ばせ！",
+        "meaning_en": "Jeongyeon, kick that cold away! (Implies wishing her a quick recovery from a cold)"
+      },
+      {
+        "text": "우리 챙챙이 아프지망고!",
+        "meaning_ja": "私たちのチェンチェン、病気にならないでマンゴー！",
+        "meaning_en": "Our Chaeng-Chaeng, don't be sick, Mango! (Playful way of saying \"don't be sick,\" using \"mango\" to rhyme with \"malgo\" (말고 - \"don't\"))"
+      },
+      {
+        "text": "정연 is 뭔들! 건강 is 뭔들!",
+        "meaning_ja": "ジョンヨンは何でもあり！健康は何でもあり！",
+        "meaning_en": "Jeongyeon is perfect no matter what! Health is perfect no matter what! (Adapting the popular \"is 뭔들\" phrase to emphasize her health should be perfect)"
+      },
+      {
+        "text": "정연, 꽃길만 걸어! 아프지 말고!",
+        "meaning_ja": "ジョンヨン、花道だけを歩いて！そして、病気にならないで！",
+        "meaning_en": "Jeongyeon, walk only on flower paths! And don't be sick!"
+      },
+      {
+        "text": "정연아, 건강해야 ONCE도 행복해!",
+        "meaning_ja": "ジョンヨン、元気でいてこそONCEも幸せだよ！",
+        "meaning_en": "Jeongyeon, ONCE are happy only if you are healthy!"
+      }
     ],
     "GREET_JOB": [
-      "정연아 수고했어!",
-      "떵으니 고생했어!",
-      "쩡, 오늘도 빛났쩡!",
-      "유댕 오늘도 최고!",
-      "정연, 덕분에 힘!"
+      {
+        "text": "정연 is 뭔들",
+        "meaning_ja": "ジョンヨンは何でも最高",
+        "meaning_en": "Jeongyeon makes everything look good / Jeongyeon can do anything well."
+      },
+      {
+        "text": "정연 폼 미쳤다!",
+        "meaning_ja": "ジョンヨン、マジ最高！",
+        "meaning_en": "Jeongyeon is killing it! / Jeongyeon is on fire!"
+      },
+      {
+        "text": "정연 사랑둥이",
+        "meaning_ja": "ジョンヨン、愛されっ子",
+        "meaning_en": "Jeongyeon, our sweetheart / Jeongyeon, our beloved."
+      },
+      {
+        "text": "정연 길만 걸어",
+        "meaning_ja": "ジョンヨン、花道だけを歩いて",
+        "meaning_en": "Jeongyeon, only walk the flower path (meaning: only good things happen to you)"
+      },
+      {
+        "text": "정연 덕분에 산다",
+        "meaning_ja": "ジョンヨンのおかげで生きてる",
+        "meaning_en": "I live because of Jeongyeon / Jeongyeon, you're my reason for living."
+      }
     ]
   },
   "Momo": {
     "LOVE_GENERAL": [
-      "모모 없인 못 살아!",
-      "모모링 내 전부!",
-      "복숭아 젤 사랑해!",
-      "모모는 나의 빛!",
-      "모모야, 뼈 묻을게!"
+      {
+        "text": "모모 없인 못 살아",
+        "meaning_ja": "モモなしでは生きられない",
+        "meaning_en": "I can't live without Momo!"
+      },
+      {
+        "text": "모모 is 뭔들",
+        "meaning_ja": "モモなら何でも良い",
+        "meaning_en": "Momo is good no matter what!"
+      },
+      {
+        "text": "모며들어",
+        "meaning_ja": "モモに染み込んでる",
+        "meaning_en": "I'm completely immersed in Momo (love)!"
+      },
+      {
+        "text": "모모 공주님",
+        "meaning_ja": "モモ姫様",
+        "meaning_en": "Princess Momo"
+      },
+      {
+        "text": "심장이 모모해",
+        "meaning_ja": "心臓がモモしてる",
+        "meaning_en": "My heart beats for Momo!"
+      }
     ],
     "LOVE_DEEP": [
-      "모모링 격하게 아낀다!",
-      "모모 없인 못 살아!",
-      "복숭아 없인 못 살아!",
-      "모모야, 내 심장 받아!",
-      "모모는 나의 빛!"
+      {
+        "text": "모모 없인 못 살아!",
+        "meaning_ja": "モモなしでは生きられない！",
+        "meaning_en": "I can't live without Momo!"
+      },
+      {
+        "text": "모모 is 뭔들",
+        "meaning_ja": "モモは何でも最高",
+        "meaning_en": "Momo is perfect no matter what (she does)!"
+      },
+      {
+        "text": "모며들다",
+        "meaning_ja": "モモにハマる",
+        "meaning_en": "To fall for/be obsessed with Momo."
+      },
+      {
+        "text": "내 심장 모모해",
+        "meaning_ja": "私の心臓はモモみたい",
+        "meaning_en": "My heart beats like Momo (My heart belongs to Momo)"
+      },
+      {
+        "text": "모모 공주님 짱!",
+        "meaning_ja": "モモ姫様、最高！",
+        "meaning_en": "Princess Momo is the best!"
+      }
     ],
     "REQ_MARRY": [
-      "모모링 결혼해줘!",
-      "복숭아, 나랑 살아!",
-      "โมโม, 운명이다!",
-      "모구리, 내 전부!",
-      "💍모모야, 내 신부!"
+      {
+        "text": "모모 없인 못 살아!",
+        "meaning_ja": "モモなしでは生きられない！",
+        "meaning_en": "I can't live without Momo!"
+      },
+      {
+        "text": "모며들다… 내 인생 망했어… (좋은 뜻으로!)",
+        "meaning_ja": "モモにハマった… 私の人生終わった… (良い意味で！)",
+        "meaning_en": "I fell for Momo... My life is ruined... (In a good way!)"
+      },
+      {
+        "text": "모모 is 뭔들",
+        "meaning_ja": "モモはなんでも最高",
+        "meaning_en": "Momo is perfect no matter what she does."
+      },
+      {
+        "text": "결혼하자 모모링! (진심)",
+        "meaning_ja": "結婚しよう モモリン！(マジ)",
+        "meaning_en": "Marry me, Momoring! (Seriously)"
+      },
+      {
+        "text": "모모랑 깻잎논쟁 종결 가능",
+        "meaning_ja": "モモとならエゴマの葉論争終結可能",
+        "meaning_en": "I can end the perilla leaf debate with Momo (implying perfect compatibility/trust in a relationship)."
+      }
     ],
     "MISS_YOU": [
-      "모모링 보고파!",
-      "복숭아 없인 못 살아!",
-      "모구리 앓이 중ㅠㅠ",
-      "뫂 보고 싶다!",
-      "눈물샤샤샤..."
+      {
+        "text": "모모 없인 못 살아 (Momo eopsin mot sara)",
+        "meaning_ja": "モモがいなきゃ生きていけない",
+        "meaning_en": "I can't live without Momo!"
+      },
+      {
+        "text": "모모 보고 싶다링 (Momo bogo sipda-ring)",
+        "meaning_ja": "モモに会いたいな",
+        "meaning_en": "I wanna see Momo! (cute/soft version)"
+      },
+      {
+        "text": "모며들다 (Momo-myeodeulda)",
+        "meaning_ja": "モモにハマる",
+        "meaning_en": "Falling for Momo"
+      },
+      {
+        "text": "모모 is 뭔들 (Momo is mwondeul)",
+        "meaning_ja": "モモは何でも最高",
+        "meaning_en": "Momo is perfect no matter what she does! (lit: Momo is what, even?)"
+      },
+      {
+        "text": "모멘 (Mo-men)",
+        "meaning_ja": "モモの時間 (瞬間)",
+        "meaning_en": "Momo-ment (lit. Momo's time/instant - implying cherishing moments with/of her)"
+      }
     ],
     "PROMISE_FOREVER": [
-      "모모링 영원히!",
-      "모모 없인 못 살아!",
-      "복숭아 곁에 쭉!",
-      "모모야, 꽃길만!",
-      "모모랑 평생 가자!"
+      {
+        "text": "모모 없인 못 살아",
+        "meaning_ja": "モモなしでは生きていけない",
+        "meaning_en": "Can't live without Momo! (Implies a strong, unwavering devotion)"
+      },
+      {
+        "text": "모며들다",
+        "meaning_ja": "モモにハマる",
+        "meaning_en": "Falling for Momo (Getting increasingly charmed/addicted to Momo)"
+      },
+      {
+        "text": "맘찍",
+        "meaning_ja": "いいね連打",
+        "meaning_en": "Spamming Likes (Expressing endless support and appreciation)"
+      },
+      {
+        "text": "케미 요정 모모",
+        "meaning_ja": "ケミ妖精モモ",
+        "meaning_en": "Chemistry Fairy Momo (Highlighting Momo's ability to create amazing chemistry with others, promising great future collaborations)"
+      },
+      {
+        "text": "내 맘속에 쾡",
+        "meaning_ja": "私の心にクェン(穴)",
+        "meaning_en": "A big hole in my heart (Meaning that Momo filled the emptiness, and will never leave that place)"
+      }
     ],
     "CONGRAT_BDAY": [
-      "모모링 콩 콩 콩!",
-      "복숭아 생일 축!",
-      "춤신모모! 생탄축!",
-      "모구리, 꽃길만!",
-      "모모 없인 못 살아!"
+      {
+        "text": "모모 없인 못 살아",
+        "meaning_ja": "モモなしでは生きていけない",
+        "meaning_en": "I can't live without Momo"
+      },
+      {
+        "text": "모모는 나의 비타민",
+        "meaning_ja": "モモは私のビタミン",
+        "meaning_en": "Momo is my vitamin (energy source)"
+      },
+      {
+        "text": "모모 is 뭔들",
+        "meaning_ja": "モモは何でも最高",
+        "meaning_en": "Momo is amazing no matter what (literally, \"Momo is what, and it's all good\")"
+      },
+      {
+        "text": "모모 공주님 생일 축하해!",
+        "meaning_ja": "モモ姫、誕生日おめでとう！",
+        "meaning_en": "Happy birthday, Princess Momo!"
+      },
+      {
+        "text": "모모 하고 싶은 거 다 해!",
+        "meaning_ja": "モモがやりたいこと全部やって！",
+        "meaning_en": "Momo, do everything you want to do!"
+      }
     ],
     "CHEER_UP": [
-      "모모 깅 화이팅!",
-      "모모 없인 못 살아!",
-      "댄싱모신 응원해!",
-      "복숭아 붐은 온다!",
-      "모모는 나의 빛!"
+      {
+        "text": "모모 없인 못 살아",
+        "meaning_ja": "モモなしでは生きられない",
+        "meaning_en": "I can't live without Momo!"
+      },
+      {
+        "text": "모모 is 뭔들",
+        "meaning_ja": "モモは何でも最高",
+        "meaning_en": "Momo makes anything look good/Momo can do anything! (Lit: Momo is whatever/what is bad)"
+      },
+      {
+        "text": "킹모모 갓모모",
+        "meaning_ja": "キングモモ、ゴッドモモ",
+        "meaning_en": "King Momo, God Momo! (Meaning: Momo is the best of the best)"
+      },
+      {
+        "text": "모며들다",
+        "meaning_ja": "モモにハマる",
+        "meaning_en": "Falling for Momo / Getting into Momo"
+      },
+      {
+        "text": "다현맘, 나연맘 말고 모모맘!",
+        "meaning_ja": "ダヒョンペン、ナヨンペンじゃなくてモモペン！",
+        "meaning_en": "Forget Dahyun stan/Nayeon stan, I'm a Momo stan!"
+      }
     ],
     "PRAISE_GOD": [
-      "모모는 갓이다!",
-      "모모신 강림!",
-      "갓모모 찬양!",
-      "복숭아 여신!",
-      "모모 없인 못 살아!"
+      {
+        "text": "모모랜드 입덕",
+        "meaning_ja": "モモランドにハマった (桃に恋した)",
+        "meaning_en": "Fell in love with Momoland (Fell in love with Momo) *Note: Plays on 'Momoland' similar sound but refers to Momo"
+      },
+      {
+        "text": "모모 없인 못 살아",
+        "meaning_ja": "モモなしじゃ生きられない (桃なしでは生きられない)",
+        "meaning_en": "Can't live without Momo (Can't live without peach)"
+      },
+      {
+        "text": "모모 is 뭔들",
+        "meaning_ja": "モモは何でも好き (桃は何もかも好き)",
+        "meaning_en": "I love everything about Momo (I love everything about peach)"
+      },
+      {
+        "text": "모모, 내 심장 훔쳐갔어",
+        "meaning_ja": "モモ、私の心を盗んだ (桃、私の心を盗んだ)",
+        "meaning_en": "Momo stole my heart (Peach Stole my heart)"
+      },
+      {
+        "text": "모모는 걍 천사",
+        "meaning_ja": "モモはただの天使 (桃はただの天使)",
+        "meaning_en": "Momo is just an angel (Peach is just an angel)"
+      }
     ],
     "PRAISE_VISUAL": [
-      "모모 is 뭔들",
-      "복숭아 비주얼 미쳤다",
-      "모구리 갓지컬✨",
-      "존예 여신 모모링",
-      "천상 아이돌 히라이 모모"
+      {
+        "text": "모모는 걍 닥치고 존예",
+        "meaning_ja": "モモはマジで黙って美",
+        "meaning_en": "Momo is just effortlessly gorgeous, no need to argue."
+      },
+      {
+        "text": "넘사벽 모모링",
+        "meaning_ja": "超えられない壁、モモリン",
+        "meaning_en": "Unreachable wall, Momo-ring (Momo's nickname). Implying her beauty is beyond compare."
+      },
+      {
+        "text": "모모 없인 못 살아 진짜",
+        "meaning_ja": "モモなしでは生きていけない、マジで",
+        "meaning_en": "I seriously can't live without Momo."
+      },
+      {
+        "text": "모모 is 뭔들",
+        "meaning_ja": "モモは何をやっても最高",
+        "meaning_en": "Momo is perfect no matter what she does. (Literally \"Momo is anything, what wouldn't be good?\")"
+      },
+      {
+        "text": "입덕 부정은 정신승리일 뿐… 모모다…",
+        "meaning_ja": "ファンになることを否定するのは精神勝利にすぎない…モモだ…",
+        "meaning_en": "Denying that you're becoming a fan is just self-deception... it's Momo... (accept that you're falling for her)."
+      }
     ],
     "PRAISE_FACE": [
-      "모모 ᵒ̴̶̷̥́ ·̫ ᵒ̴̶̷̣̥ 핵미모!",
-      "모모 비주얼 실화?!",
-      "복숭아 미모 미쳤다!",
-      "모모 얼굴이 곧 복지!",
-      "갓모모 얼굴 천재!"
+      {
+        "text": "모모 비주얼 미쳤다!",
+        "meaning_ja": "モモのビジュアル、マジでヤバい！",
+        "meaning_en": "Momo's visuals are insane!"
+      },
+      {
+        "text": "모모 얼굴이 복지다",
+        "meaning_ja": "モモの顔は福祉だ",
+        "meaning_en": "Momo's face is welfare (a blessing)."
+      },
+      {
+        "text": "모모 is 뭔들",
+        "meaning_ja": "モモは何でもあり",
+        "meaning_en": "Momo can do anything (and still look good)."
+      },
+      {
+        "text": "모모 덕분에 삶이 풍족해진다",
+        "meaning_ja": "モモのおかげで人生が豊かになる",
+        "meaning_en": "Thanks to Momo, my life is enriched."
+      },
+      {
+        "text": "모모 얼굴이 국보급",
+        "meaning_ja": "モモの顔は国宝級",
+        "meaning_en": "Momo's face is national treasure level."
+      }
     ],
     "REQ_HEART": [
-      "모모링, 손하트 뿅!",
-      "모모, 하트 줘! 심쿵!",
-      "복숭아냥, 하트 내놔!",
-      "모모 공주, 손하트 쏴줘!",
-      "모모 없인 못 살아, 하트해!"
+      {
+        "text": "모모 맘찍!",
+        "meaning_ja": "モモにいいね！",
+        "meaning_en": "Momo, I'm hitting that like button! (Implying support and love)"
+      },
+      {
+        "text": "모모 is 뭔들!",
+        "meaning_ja": "モモは何でもOK！",
+        "meaning_en": "Momo can do no wrong! / Momo is perfect no matter what!"
+      },
+      {
+        "text": "모모 때문에 내 심장 웅냥냥!",
+        "meaning_ja": "モモのせいで私の心臓がドクドク！",
+        "meaning_en": "Momo makes my heart go doki doki! (Cute way to say Momo makes your heart flutter)"
+      },
+      {
+        "text": "모모 보고 롬곡옾눞!",
+        "meaning_ja": "モモを見て感動で号泣！",
+        "meaning_en": "Seeing Momo makes me cry tears of joy! (Exaggerated and cute way to express overwhelming happiness)"
+      },
+      {
+        "text": "모모가 캐리해!",
+        "meaning_ja": "モモが引っ張ってく！",
+        "meaning_en": "Momo's carrying us! / Momo is killing it! (Expressing Momo is doing a great job)"
+      }
     ],
     "HEALTH_EAT": [
-      "모모링, 맛밥!",
-      "먹모, 냠냠긋!",
-      "복숭아, 든든히!",
-      "모구리, 잘 먹어!",
-      "히라이, 밥심!"
+      {
+        "text": "먹잘알 모모링",
+        "meaning_ja": "グルメなモモリン",
+        "meaning_en": "Foodie Momo! (Expressing Momo's knowledge/love for good food. \"먹잘알\" is short for \"먹는 것을 잘 안다\" - knows how to eat well)"
+      },
+      {
+        "text": "모모 is 뭔들! 먹는 거 is 뭔들!",
+        "meaning_ja": "モモは何でも！食べるものは何でも！",
+        "meaning_en": "Momo is amazing no matter what! Eating is amazing no matter what! (Using the slang \"~ is 뭔들\" meaning \"~ is always good/amazing\" applied to both Momo and eating)"
+      },
+      {
+        "text": "뫄뫄: 모모, 맛있는 거 먹어줭!",
+        "meaning_ja": "뫄뫄：モモ、美味しいもの食べてね！",
+        "meaning_en": "뫄뫄: Momo, please eat delicious things! (Using \"뫄뫄\", a placeholder name often used like \"so-and-so\", to create a cute and pleading tone. A playful variation of the original intent)"
+      },
+      {
+        "text": "행복모모 냠냠굿!",
+        "meaning_ja": "幸せモモ もぐもぐいいね！",
+        "meaning_en": "Happy Momo, nom nom good! (\"냠냠굿\" is a cutesy way to say something is delicious)"
+      },
+      {
+        "text": "쩝쩝박사 모모, 오늘도 맛도리 부탁해!",
+        "meaning_ja": "グチャグチャ博士モモ、今日も美味しいものよろしくね！",
+        "meaning_en": "Mukbang Doctor Momo, please give us the delicious stuff today too! (referencing Momo's known love for eating and potentially her mukbang skills (exaggerated by referring to her as a \"쩝쩝박사\" - mukbang doctor). \"맛도리\" means something tasty)"
+      }
     ],
     "HEALTH_CARE": [
-      "모모링 아프지망!",
-      "모모, 건강 최우선!",
-      "복숭아, 감기 뚝!",
-      "춤신춤왕, 건강해!",
-      "모모 없인 못 살아! 아프지마!"
+      {
+        "text": "모모링 감기 조심햇쬬!",
+        "meaning_ja": "モモリン、風邪ひかないでね！（かわいこぶった言い方）",
+        "meaning_en": "Momo-ring, please be careful not to catch a cold! (Said in a cute way)"
+      },
+      {
+        "text": "모모 언니 아프지망고!",
+        "meaning_ja": "モモお姉さん、病気にならないでマンゴー！",
+        "meaning_en": "Momo unnie, don't be sick-o mango! (Playful twist on \"don't be sick\")"
+      },
+      {
+        "text": "모모 건강길만 걸어!",
+        "meaning_ja": "モモ、健康な道だけを歩んで！",
+        "meaning_en": "Momo, only walk the path of health! (Wishing her only good health)"
+      },
+      {
+        "text": "모모 쏘 큣 감기 놉!",
+        "meaning_ja": "モモ、超キュート！風邪はダメ！",
+        "meaning_en": "Momo, so cute! No to colds! (Direct and cute emphasis)"
+      },
+      {
+        "text": "모모 건강 풀파워 충전!",
+        "meaning_ja": "モモ、元気フルパワーチャージ！",
+        "meaning_en": "Momo, full power health charge! (Encouraging her to recharge her health)"
+      }
     ],
     "GREET_JOB": [
-      "모모링 수고했어!",
-      "모모야 푹 쉬어!",
-      "복숭아 고생했어ㅠ",
-      "춤신모모 최고다!",
-      "오늘도 모모 덕질!"
+      {
+        "text": "모모 짱!",
+        "meaning_ja": "モモ最高！(モモマジ最高！)",
+        "meaning_en": "Momo, you're the best! (Momo, you're seriously the best!)"
+      },
+      {
+        "text": "모모 없인 못 살아!",
+        "meaning_ja": "モモなしでは生きていけない！",
+        "meaning_en": "I can't live without Momo!"
+      },
+      {
+        "text": "오늘도 모모 덕분에 힘낸다!",
+        "meaning_ja": "今日もモモのおかげで頑張れる！",
+        "meaning_en": "I'm able to work hard today thanks to Momo!"
+      },
+      {
+        "text": "모모 보고 힘내세요!",
+        "meaning_ja": "モモを見て元気出してね！",
+        "meaning_en": "Look at Momo and cheer up!"
+      },
+      {
+        "text": "넘넘넘 잘했어, 모모링!",
+        "meaning_ja": "とってもよく頑張ったね、モモリン！",
+        "meaning_en": "You did really, really, really well, Momoring!"
+      }
     ]
   },
   "Sana": {
     "LOVE_GENERAL": [
-      "샤샤 없인 못 살아!",
-      "꾸라 없인 안 돼!",
-      "캔디팝 사나 짱!",
-      "사나 사랑해 쪽!",
-      "미나토자키 최고!"
+      {
+        "text": "둡챙나모사쯔미다채",
+        "meaning_ja": "ダブチェンナモサツミダチェ(TWICEを応援します)",
+        "meaning_en": "DubChaengNaMoSaTzuMiDaChae (Cheering for TWICE!)"
+      },
+      {
+        "text": "샤샤샤",
+        "meaning_ja": "シャシャシャ(可愛いサナ)",
+        "meaning_en": "Shya Shya Shya (Cute Sana)"
+      },
+      {
+        "text": "사나 없인 못 살아",
+        "meaning_ja": "サナなしでは生きられない",
+        "meaning_en": "Can't live without Sana"
+      },
+      {
+        "text": "귤현상",
+        "meaning_ja": "みかん現象(サナ現象)",
+        "meaning_en": "Tangerine Phenomenon (Sana Phenomenon – referencing Sana's cuteness)"
+      },
+      {
+        "text": "챙람쥐",
+        "meaning_ja": "リスみたいに可愛いチェヨン(サナも可愛い)",
+        "meaning_en": "Like a squirrel, cute Chaeyoung (Sana is also cute)"
+      }
     ],
     "LOVE_DEEP": [
-      "샤샤 없인 못 살아",
-      "사나 없인 안 돼",
-      "또 사나뿐이야",
-      "🐹 내 사랑 사나야",
-      "사나 보고싶어!"
+      {
+        "text": "사나 없인 못 살아",
+        "meaning_ja": "サナなしでは生きられない",
+        "meaning_en": "I can't live without Sana"
+      },
+      {
+        "text": "샤샤샤",
+        "meaning_ja": "シャシャシャ (可愛い！)",
+        "meaning_en": "Shy Shy Shy (Cute!) *Note: This is a reference to Sana's famous line. The feeling is similar to declaring something cute.*"
+      },
+      {
+        "text": "둡쯔",
+        "meaning_ja": "ダブツ (尊い)",
+        "meaning_en": "DubuTzu (Precious) *Note: While literally referring to Dahyun and Tzuyu, it implies they are precious like Sana*"
+      },
+      {
+        "text": "갓사나",
+        "meaning_ja": "神サナ",
+        "meaning_en": "God Sana"
+      },
+      {
+        "text": "심쿵사",
+        "meaning_ja": "キュン死",
+        "meaning_en": "Heart Attack (Die from Cuteness) *Used to describe being overwhelmed by Sana's charm*"
+      }
     ],
     "REQ_MARRY": [
-      "사나 없인 못 살아",
-      "사나야, 내 아내 되어줘",
-      "햄찌 신부, 나랑 맹세!",
-      "샤샤 공주, 결혼해줘!",
-      "결혼 안 하면 후회해!"
+      {
+        "text": "사나 없인 못 살아",
+        "meaning_ja": "サナなしでは生きられない",
+        "meaning_en": "I can't live without Sana"
+      },
+      {
+        "text": "내 심장 사나로 풀파워",
+        "meaning_ja": "私の心臓はサナでフルパワー",
+        "meaning_en": "My heart is powered by Sana"
+      },
+      {
+        "text": "사나 is 뭔들",
+        "meaning_ja": "サナは何でも最高",
+        "meaning_en": "Sana is perfect no matter what she does"
+      },
+      {
+        "text": "사나 때문에 숨멎",
+        "meaning_ja": "サナのせいで息が止まる",
+        "meaning_en": "Sana takes my breath away"
+      },
+      {
+        "text": "사나 공주님 ㅠ",
+        "meaning_ja": "サナ姫様 (泣)",
+        "meaning_en": "Princess Sana (crying tears of admiration)"
+      }
     ],
     "MISS_YOU": [
-      "샤샤 보고싶어!",
-      "또 보고싶당 사나!",
-      "미나리 없인 못 살아 ㅠㅠ",
-      "햄찌, 넘 그리워!",
-      "사나 없인 안돼!"
+      {
+        "text": "사나 없인 못 살아! (San-a eopsin mot sara!)",
+        "meaning_ja": "サナなしでは生きられない！(Sana nashi dewa ikirarenai!)",
+        "meaning_en": "I can't live without Sana!"
+      },
+      {
+        "text": "사나 보고 싶다 람쥐! (San-a bogo sipda ramjwi!)",
+        "meaning_ja": "サナに会いたいリス！(Sana ni aitai risu!)",
+        "meaning_en": "I miss you Sana, you squirrel! (Referencing Sana's resemblance to a squirrel)"
+      },
+      {
+        "text": "사나 때문에 심쿵사 ㅠㅠ (San-a ttaemune simkungs-a ㅠㅠ)",
+        "meaning_ja": "サナのせいで胸キュン死 ㅠㅠ (Sana no sei de munekyun-shi ㅠㅠ)",
+        "meaning_en": "Sana makes my heart stop (cute death) ㅠㅠ (crying emoticons implying strong feels)"
+      },
+      {
+        "text": "사나 공주님 보고싶어 쥬금! (San-a gongjunim bogosipeo jugeum!)",
+        "meaning_ja": "サナ姫に会いたくて死ぬ！(Sana hime ni aitakute shinu!)",
+        "meaning_en": "I miss Princess Sana so much I'm dying!"
+      },
+      {
+        "text": "사나 is 뭔들! (San-a is mwondeul!)",
+        "meaning_ja": "サナは何でも最高！(Sana wa nandemo saikou!)",
+        "meaning_en": "Sana is always perfect! (implied \"Even wishing I could see her right now!\")"
+      }
     ],
     "PROMISE_FOREVER": [
-      "샤샤랑 영원히!",
-      "또둡 영원히 함께!",
-      "사나 없인 못 살아!",
-      "영원히 큐티뽀짝!",
-      "미나리랑 영원히!"
+      {
+        "text": "원스와 사나, 럽스타!",
+        "meaning_ja": "ONCEとサナ、ラブスタグラム！",
+        "meaning_en": "ONCE and Sana, Lovestagram! (Implying a loving, public relationship/affection)"
+      },
+      {
+        "text": "사나 없인 못 살아!",
+        "meaning_ja": "サナなしでは生きられない！",
+        "meaning_en": "I can't live without Sana!"
+      },
+      {
+        "text": "캔디리더 사나, 꽃길만 걷자!",
+        "meaning_ja": "キャンディーリーダーサナ、花の道だけを歩もう！",
+        "meaning_en": "Candy Leader Sana, let's walk only on flower paths! (Let's have only good things happen)"
+      },
+      {
+        "text": "사나 보고 싶다리",
+        "meaning_ja": "サナに会いたいり (会いたい + 귀엽게)",
+        "meaning_en": "I miss Sana-ri (cute way of saying I miss you)"
+      },
+      {
+        "text": "사나 is 뭔들",
+        "meaning_ja": "サナ is 何でも (最高)",
+        "meaning_en": "Sana is anything/everything (and amazing)!"
+      }
     ],
     "CONGRAT_BDAY": [
-      "사나 없인 못 살아!",
-      "샤샤 공주님, 생일 축하!",
-      "함께라서 행복해, CONGRAT_BDAY!",
-      "사나야, 태어나줘서 고마워!",
-      "미나토자키 사나, 사랑해!"
+      {
+        "text": "둡둡둡",
+        "meaning_ja": "豆腐豆腐豆腐 (かわいさ爆発)",
+        "meaning_en": "Dubu Dubu Dubu (Cuteness Overload - referencing Dahyun, but used playfully for Sana's cuteness too)"
+      },
+      {
+        "text": "챙랑해",
+        "meaning_ja": "チェヨンみたいに愛してる",
+        "meaning_en": "I Cheyoung you (I love you like Cheyoung - referencing her cool energy)"
+      },
+      {
+        "text": "맏내온탑",
+        "meaning_ja": "最年長が頂点",
+        "meaning_en": "Maknae on top (Playing on Sana being one of the oldest but acting like the youngest sometimes)"
+      },
+      {
+        "text": "사나 없인 사나 마나",
+        "meaning_ja": "サナがいなきゃ生きる意味ない",
+        "meaning_en": "Life is meaningless without Sana (A dramatic and playful expression of love)"
+      },
+      {
+        "text": "큐티섹시사나",
+        "meaning_ja": "キュートセクシーサナ",
+        "meaning_en": "Cutie Sexy Sana (Referring to Sana's charm!)"
+      }
     ],
     "CHEER_UP": [
-      "샤샤 응원해!",
-      "사나 없인 못 살아!",
-      "낑깡 파이팅!",
-      "우리 떵강아지 최고!",
-      "사나 짱!"
+      {
+        "text": "샤샤샤",
+        "meaning_ja": "シャシャシャ (可愛い)",
+        "meaning_en": "Shya Shya Shya (Cute/Adorable) - *This is already pretty well-known but still classic! It references Sana's iconic \"Shy Shy Shy\" line.*"
+      },
+      {
+        "text": "둡다현없",
+        "meaning_ja": "ダヒョンなしでは生きられない",
+        "meaning_en": "Can't live without Dubu (Dahyun) - *A play on words, showing affection for Sana's friendship with Dahyun, often called \"Dubu.\" The Japanese is a direct translation of the feeling.*"
+      },
+      {
+        "text": "사나 없인 못 살아",
+        "meaning_ja": "サナなしでは生きられない",
+        "meaning_en": "Can't live without Sana - *Direct and to the point! A declaration of love and support.*"
+      },
+      {
+        "text": "낑깡깅",
+        "meaning_ja": "みかんみたいに可愛い",
+        "meaning_en": "Cute like a tangerine (kumquat) - *A combination of \"낑깡\" (kumquat) and \"아기\" (baby) to express Sana's cuteness. This emphasizes the sweet and vibrant nature associated with tangerines.*"
+      },
+      {
+        "text": "또시작이다!",
+        "meaning_ja": "また始まった！(可愛い！)",
+        "meaning_en": "Here we go again! (So cute!) - *Used when Sana does something incredibly adorable or charming, leading fans to swoon. A playful exclamation.*"
+      }
     ],
     "PRAISE_GOD": [
-      "샤또 사나, 갓!",
-      "믿습니다 사멘🙏",
-      "넘사벽 큐티뽀짝✨",
-      "사나 없인 못 살아😭",
-      "우리 챙, 여신강림!"
+      {
+        "text": "사나 없인 못 살아!",
+        "meaning_ja": "サナ無しでは生きられない！",
+        "meaning_en": "I can't live without Sana!"
+      },
+      {
+        "text": "둡챙쯔!",
+        "meaning_ja": "ダブチェンツ！(最高！)",
+        "meaning_en": "DubChaengTzu! (The best!) (*Referring to Sana, Dahyun & Tzuyu's trio.*)"
+      },
+      {
+        "text": "사나 공주님!",
+        "meaning_ja": "サナ姫！",
+        "meaning_en": "Princess Sana!"
+      },
+      {
+        "text": "샤샤샤!",
+        "meaning_ja": "シャシャシャ！(可愛い！)",
+        "meaning_en": "Shya Shya Shya! (So cute!) (*Referring to Sana's iconic \"Shy Shy Shy\"*)"
+      },
+      {
+        "text": "사나 is 뭔들",
+        "meaning_ja": "サナは何でも正義！",
+        "meaning_en": "Sana is always right! / Sana can do no wrong!"
+      }
     ],
     "PRAISE_VISUAL": [
-      "사나 is 뭔들!",
-      "갓사나 비주얼!",
-      "🐹❤️ 인간 사나에!",
-      "샤샤샤✨존예!",
-      "미모가 국보급!"
+      {
+        "text": "둡 is 뭔들",
+        "meaning_ja": "サナは何でも最高",
+        "meaning_en": "Sana can do no wrong (Everything Sana does is amazing)"
+      },
+      {
+        "text": "사나 없인 못 살아",
+        "meaning_ja": "サナなしじゃ生きられない",
+        "meaning_en": "Can't live without Sana"
+      },
+      {
+        "text": "사나 is 뭔들",
+        "meaning_ja": "サナはマジで神",
+        "meaning_en": "Sana is seriously god-tier"
+      },
+      {
+        "text": "사나 is 뭔들",
+        "meaning_ja": "サナは何しても可愛い",
+        "meaning_en": "Sana is cute no matter what she does"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉",
+        "meaning_en": "Her face is welfare (Her visuals are a blessing)"
+      }
     ],
     "PRAISE_FACE": [
-      "사나 is 뭔들!",
-      "얼굴이 복지다!",
-      "갓사나 미모 열일!",
-      "함냐함냐함! 요정!",
-      "사나 없인 못 살아!"
+      {
+        "text": "미모 미쳤다",
+        "meaning_ja": "美貌が狂ってる",
+        "meaning_en": "Her beauty is insane (crazy good)"
+      },
+      {
+        "text": "사나 없인 못 살아",
+        "meaning_ja": "サナなしでは生きられない",
+        "meaning_en": "I can't live without Sana"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔が福祉だ",
+        "meaning_en": "Her face is welfare (seeing her face is a blessing/good for my well-being)"
+      },
+      {
+        "text": "인간 샤넬",
+        "meaning_ja": "人間シャネル",
+        "meaning_en": "Human Chanel (She embodies the elegance of Chanel)"
+      },
+      {
+        "text": "낫 사나 갓 사나",
+        "meaning_ja": "ナットサナ、ゴッドサナ",
+        "meaning_en": "Not Sana, God Sana (Play on words, elevating Sana to god-like status)"
+      }
     ],
     "REQ_HEART": [
-      "샤샤 공주, 🩷해줘!",
-      "챙이, 손하트 뿅!",
-      "우리 댕댕이, ❤️주세요!",
-      "사나 없인 못 살아, 하트!",
-      "紗夏야, 핑거 하트 줘!"
+      {
+        "text": "샤샤샤~ 내 맘에 사나!",
+        "meaning_ja": "シャシャシャ～私の心にサナ！",
+        "meaning_en": "Shya Shya Shya~ Sana in my heart! (Referencing her famous line from Cheer Up)"
+      },
+      {
+        "text": "사나 없인 못 살아!",
+        "meaning_ja": "サナなしでは生きられない！",
+        "meaning_en": "I can't live without Sana!"
+      },
+      {
+        "text": "낫숭이 파워! 오늘도 레전드 갱신!",
+        "meaning_ja": "ナッツンイパワー！今日もレジェンド更新！",
+        "meaning_en": "Natsuungi Power! Updating the legend today too! (Referencing her nickname and incredible performances)"
+      },
+      {
+        "text": "사나 is 뭔들! 뭘 해도 예뻐!",
+        "meaning_ja": "サナ is 何でもOK！何をやっても可愛い！",
+        "meaning_en": "Sana is anything is okay! She's cute no matter what she does! (Referencing the popular \"뭔들\" phrase)"
+      },
+      {
+        "text": "사나 보고 텐션 풀파워 충전!",
+        "meaning_ja": "サナを見てテンションフルパワー充電！",
+        "meaning_en": "Watching Sana charges my tension to full power!"
+      }
     ],
     "HEALTH_EAT": [
-      "샤샤, 맛점!",
-      "햄찌, 냠냠!",
-      "사나 없인 못살아, 밥 꼭!",
-      "또먹또먹 미나토자키!",
-      "사나야, 밥길만 걸어!"
+      {
+        "text": "먹잘알 사나!",
+        "meaning_ja": "食べることをよく知ってるサナ！",
+        "meaning_en": "Sana, the foodie who knows what's good to eat! (Implies Sana has great taste in food)"
+      },
+      {
+        "text": "빵사나! 꽃길만 먹어!",
+        "meaning_ja": "パンサナ！花道だけ食べよう！",
+        "meaning_en": "Bread Sana! Only eat the flower path! (Bread=ppang, similar sound to bang=road. Flower path means to only experience good things.)"
+      },
+      {
+        "text": "쩝쩝박사 사나!",
+        "meaning_ja": "チュプチュプ博士サナ！",
+        "meaning_en": "\"Chomp chomp\" Doctor Sana! (Refers to someone who eats really well and knows how to enjoy food)"
+      },
+      {
+        "text": "사나 없인 못 살아! 맛있는 거 먹고 힘내!",
+        "meaning_ja": "サナなしでは生きていけない！美味しいもの食べて元気出して！",
+        "meaning_en": "I can't live without Sana! Eat delicious things and be strong!"
+      },
+      {
+        "text": "위대한 쩝쩝이, 사나!",
+        "meaning_ja": "偉大なチュプチュプイ、サナ！",
+        "meaning_en": "The Great \"Chomp chomp\"-er, Sana! (Like #3, but with more emphasis on her enjoyment of food)"
+      }
     ],
     "HEALTH_CARE": [
-      "사나 없인 못 살아! 아프지마!",
-      "햄찌 사나, 건강 제일!",
-      "사나야, 꽃길만 걷자! 감기 조심!",
-      "우리 큐티뽀짝 감기 훠이훠이!",
-      "샤샤샤 감기 뚝! 건강해!"
+      {
+        "text": "샤샤 감기 조심!",
+        "meaning_ja": "シャシャ、風邪に気をつけてね！",
+        "meaning_en": "Shasha, be careful not to catch a cold! (샤샤 is Sana's nickname)"
+      },
+      {
+        "text": "사나 없인 못 살아! 감기 뚝!",
+        "meaning_ja": "サナなしじゃ生きられない！早く風邪治して！",
+        "meaning_en": "Can't live without Sana! Get well soon!"
+      },
+      {
+        "text": "귤나잇 & 감기 훠이훠이!",
+        "meaning_ja": "ミカン(귤)おやすみ & 風邪よ、あっちへ行け！",
+        "meaning_en": "Gyu-night & Shoo away the cold! (귤나잇 is a play on \"goodnight\" and Sana's love for oranges (귤, gyul).)"
+      },
+      {
+        "text": "사나 콧물빔 맞고 감기 나아랏!",
+        "meaning_ja": "サナの鼻水ビームを浴びて風邪を治せ！",
+        "meaning_en": "Get healed by Sana's snot beam! (A humorous take on a healing wish, playing on a funny image.)"
+      },
+      {
+        "text": "紗夏 에너지 충전하고 아프지마!",
+        "meaning_ja": "サナ エネルギー充電して、 痛くないで！",
+        "meaning_en": "Charge up your Sana energy and don't be sick!"
+      }
     ],
     "GREET_JOB": [
-      "샤샤 수고했어!",
-      "햄찌 고생했어!",
-      "사나야, 다 괜찮아!",
-      "우리 챙, 최고다!",
-      "또 봐, 챙아!"
+      {
+        "text": "샤샤샤 💖",
+        "meaning_ja": "シャシャシャ💖 (可愛すぎる)",
+        "meaning_en": "Shya Shya Shya 💖 (So cute!)"
+      },
+      {
+        "text": "둡 is 뭔들!",
+        "meaning_ja": "ダヒョン is 何でも良い！(サナは何でも良い！)",
+        "meaning_en": "Dubu (can be replaced with Sana) is anything! (Anything Sana does is good!)"
+      },
+      {
+        "text": "낫 사나 없이 못 살아!",
+        "meaning_ja": "サナなしでは生きられない！",
+        "meaning_en": "Can't live without Sana!"
+      },
+      {
+        "text": "사나 없인 안된다!",
+        "meaning_ja": "サナがいなくちゃダメだ！",
+        "meaning_en": "I can't do it without Sana!"
+      },
+      {
+        "text": "낑깡 is 뭔들",
+        "meaning_ja": "キンカン is 何でも良い！(サナは何でも良い！)",
+        "meaning_en": "Kkingkkang (Sana's nickname) is anything! (Anything Sana does is good!)"
+      }
     ]
   },
   "Jihyo": {
     "LOVE_GENERAL": [
-      "지효 is 뭔들!",
-      "갓지효 사랑해!",
-      "박리다 짱!",
-      "지효 없인 못 살아",
-      "내 심장 박지효!"
+      {
+        "text": "둡쯔",
+        "meaning_ja": "ダブツ (可愛いジヒョに夢中)",
+        "meaning_en": "Doobu Jihyo (Obsessed with cute Jihyo)"
+      },
+      {
+        "text": "갓지효",
+        "meaning_ja": "ゴッドジヒョ (神ジヒョ)",
+        "meaning_en": "God Jihyo (God Jihyo)"
+      },
+      {
+        "text": "지효 is 뭔들",
+        "meaning_ja": "ジヒョイズモンデル (ジヒョは何でも最高)",
+        "meaning_en": "Jihyo is perfect no matter what (Jihyo is anything is good)"
+      },
+      {
+        "text": "지효나잇",
+        "meaning_ja": "ジヒョナイト (ジヒョの良い夜を)",
+        "meaning_en": "Jihyo-night (Have a good night Jihyo)"
+      },
+      {
+        "text": "입덕요정 지효",
+        "meaning_ja": "入徳妖精ジヒョ (ファンにさせる妖精ジヒョ)",
+        "meaning_en": "Fan-inducing fairy Jihyo (Jihyo the fairy who makes people fans)"
+      }
     ],
     "LOVE_DEEP": [
-      "박리다 is 뭔들!",
-      "지효 is 내 전부!",
-      "지효 없인 못 살아!",
-      "갓지효, 영원히!",
-      "지효 사랑해, 웅냥!"
+      {
+        "text": "지효 is 뭔들",
+        "meaning_ja": "ジヒョは何でも (最高)",
+        "meaning_en": "Jihyo is perfect no matter what she does (She's flawless)"
+      },
+      {
+        "text": "즙 지효",
+        "meaning_ja": "涙ジヒョ (感動)",
+        "meaning_en": "\"Jeup Jihyo\" (Crying Jihyo, from being so moved/touched)"
+      },
+      {
+        "text": "킹갓지효",
+        "meaning_ja": "キングゴッドジヒョ (最高神)",
+        "meaning_en": "King God Jihyo (Ultimate perfection/deity)"
+      },
+      {
+        "text": "지효나잇",
+        "meaning_ja": "ジヒョナイト (良い夜を)",
+        "meaning_en": "Jihyo-night (Have a good night thinking about Jihyo)"
+      },
+      {
+        "text": "oh my 지효!",
+        "meaning_ja": "なんてことだ！ジヒョ！",
+        "meaning_en": "Oh my Jihyo! (Expression of awe/amazement at her beauty/talent)"
+      }
     ],
     "REQ_MARRY": [
-      "지효야, 내 심장에 입주해!",
-      "결혼...저랑 하실래요 햄찌 공주님?",
-      "박리다, 내 인생의 주인공 돼줘!",
-      "지효 없인 못 살아, 결혼 각!",
-      "갓지효, 내 신부가 되어줘!"
+      {
+        "text": "박리다이스 영원히!",
+        "meaning_ja": "ジヒョちゃん、ずっと一緒！",
+        "meaning_en": "Park Leader Jihyo Forever! (Implies a desire for long-term commitment)"
+      },
+      {
+        "text": "갓지효 내 마음속에 저-장!",
+        "meaning_ja": "ジヒョ様、私の心に永遠保存！",
+        "meaning_en": "God Jihyo, saving you in my heart forever! (Expressing deep love and wanting to keep her close)"
+      },
+      {
+        "text": "지효 없인 못 살아 정말 못 살아!",
+        "meaning_ja": "ジヒョなしでは生きていけない！本当に！",
+        "meaning_en": "I can't live without Jihyo! Seriously, I can't! (Over-the-top declaration of dependence/love)"
+      },
+      {
+        "text": "지효 is 뭔들!",
+        "meaning_ja": "ジヒョちゃんなら何でもOK！",
+        "meaning_en": "Jihyo is good no matter what! (Expressing complete adoration and acceptance)"
+      },
+      {
+        "text": "지효 공주님, 꽃길만 걸어요!",
+        "meaning_ja": "ジヒョ姫、幸せな道だけを歩んで！",
+        "meaning_en": "Princess Jihyo, walk only on a flower path! (Wishing her a happy and prosperous future, and wanting to be part of it)"
+      }
     ],
     "MISS_YOU": [
-      "지효 보고 싶다!",
-      "박리다 기다려!",
-      "지효 없인 못 살아!",
-      "갓지효 내 심장!",
-      "횻! 보고 횻!"
+      {
+        "text": "지효 보고 싶지효!",
+        "meaning_ja": "ジヒョに会いたいよ！",
+        "meaning_en": "I really wanna see Jihyo! (Cute pun using Jihyo's name)"
+      },
+      {
+        "text": "지효 없인 못 살아 ㅠㅠ",
+        "meaning_ja": "ジヒョなしでは生きられない ㅠㅠ",
+        "meaning_en": "I can't live without Jihyo ㅠㅠ (Expressing deep longing)"
+      },
+      {
+        "text": "내 심장 지효 땜에 풀발기!",
+        "meaning_ja": "私の心臓はジヒョのせいでドキドキ！",
+        "meaning_en": "My heart is throbbing because of Jihyo! (Expressing excitement and longing)"
+      },
+      {
+        "text": "지효 보고 감격쓰!",
+        "meaning_ja": "ジヒョを見て感動！",
+        "meaning_en": "So touched/moved to see Jihyo! (Expressing feeling when finally seeing her)"
+      },
+      {
+        "text": "지효 is 뭔들! (보고 싶어)",
+        "meaning_ja": "ジヒョは何でも最高！(会いたい)",
+        "meaning_en": "Jihyo is perfect no matter what! (I miss you) (Expressing love and missing her)"
+      }
     ],
     "PROMISE_FOREVER": [
-      "지효랑 쭉!",
-      "갓지효 영원히!",
-      "박리다 평생!",
-      "지효 없인 못 살아",
-      "함께 가자, 지효!"
+      {
+        "text": "평생 함께 가자!",
+        "meaning_ja": "一生一緒にいよう！",
+        "meaning_en": "Let's go together forever!"
+      },
+      {
+        "text": "지효 없인 못 살아!",
+        "meaning_ja": "ジヒョなしでは生きられない！",
+        "meaning_en": "I can't live without Jihyo!"
+      },
+      {
+        "text": "내 맘속에 지효 저장!",
+        "meaning_ja": "私の心にジヒョを保存！",
+        "meaning_en": "Saving Jihyo in my heart!"
+      },
+      {
+        "text": "지효 is 뭔들!",
+        "meaning_ja": "ジヒョ is 何でも良い！",
+        "meaning_en": "Jihyo is always right/perfect! (implied: I'll always support her)"
+      },
+      {
+        "text": "지효랑 뼈를 묻자!",
+        "meaning_ja": "ジヒョと骨を埋めよう！",
+        "meaning_en": "Let's be with Jihyo until we die! (A very strong way of saying \"forever\")"
+      }
     ],
     "CONGRAT_BDAY": [
-      "지효언니 🎂탄신일!",
-      "갓지효, 생일 축하!",
-      "미나리맘 생일 젤 축하!",
-      "박리다 생일 짱!",
-      "지효야, 태어나줘서 고마워!"
+      {
+        "text": "지효 is 뭔들",
+        "meaning_ja": "ジヒョは何でも最高",
+        "meaning_en": "Jihyo is perfect no matter what she does."
+      },
+      {
+        "text": "둡챙나",
+        "meaning_ja": "ダブチェンナ (ダヒョン、チェヨン、ナヨン)",
+        "meaning_en": "DooChaengNa (Dahyun, Chaeyoung, Nayeon - playfully including other members to show group love)"
+      },
+      {
+        "text": "갓지효",
+        "meaning_ja": "ゴッドジヒョ",
+        "meaning_en": "God Jihyo (expressing immense admiration)"
+      },
+      {
+        "text": "내맘속에 저장",
+        "meaning_ja": "私の心に保存",
+        "meaning_en": "Save in my heart (expressing a desire to always remember Jihyo)"
+      },
+      {
+        "text": "텐션 올려",
+        "meaning_ja": "テンション上げて",
+        "meaning_en": "Raise the tension (Encouraging Jihyo to hype up the crowd/performance)"
+      }
     ],
     "CHEER_UP": [
-      "지효 짱!",
-      "갓지효 응원!",
-      "박리다 최고!",
-      "지효야 사랑해!",
-      "믿지효 가자!"
+      {
+        "text": "갓지효",
+        "meaning_ja": "まじ神ジヒョ",
+        "meaning_en": "Literally \"God Jihyo,\" meaning \"Jihyo is a God!\" (Used for amazing talent/beauty)"
+      },
+      {
+        "text": "둡리더",
+        "meaning_ja": "ダブリーダー (リーダーダヒョン)",
+        "meaning_en": "Dub Leader (Dahyun as the leader). Jihyo and Dahyun are very close, like leader and vice leader, and calling them '둡리더' is their slang."
+      },
+      {
+        "text": "지효 is 뭔들",
+        "meaning_ja": "ジヒョは何でもあり",
+        "meaning_en": "Jihyo is good at everything (Can do anything well)"
+      },
+      {
+        "text": "박리다",
+        "meaning_ja": "パクリダ (パク・リーダーの略)",
+        "meaning_en": "Park Leader (Abbreviation for Park Jihyo Leader)"
+      },
+      {
+        "text": "지효언니 국보급",
+        "meaning_ja": "ジヒョお姉さんは国宝級",
+        "meaning_en": "Jihyo unnie is national treasure level (Unnie is someone older than you in Korean, but it is used because she is very popular.)"
+      }
     ],
     "PRAISE_GOD": [
-      "갓지효",
-      "지효여신 강림",
-      "지효렐루야",
-      "지효는 나의 빛",
-      "지효 없인 못 살아"
+      {
+        "text": "갓지효",
+        "meaning_ja": "ゴッドジヒョ",
+        "meaning_en": "God Jihyo (Direct transliteration, emphasizes her skill and leadership)"
+      },
+      {
+        "text": "지효 is 뭔들",
+        "meaning_ja": "ジヒョは何でもあり",
+        "meaning_en": "Jihyo is good at everything (Expresses admiration for her versatility)"
+      },
+      {
+        "text": "지효없인 못 살아",
+        "meaning_ja": "ジヒョなしでは生きられない",
+        "meaning_en": "I can't live without Jihyo (Expresses deep admiration and reliance)"
+      },
+      {
+        "text": "지효 is 뭔들",
+        "meaning_ja": "ジヒョは最強",
+        "meaning_en": "Jihyo is the strongest (Expressing her being the best in the group)"
+      },
+      {
+        "text": "넘사벽 지효",
+        "meaning_ja": "誰も超えられないジヒョ",
+        "meaning_en": "Jihyo, impossible to surpass (Highlights her untouchable talent and presence)"
+      }
     ],
     "PRAISE_VISUAL": [
-      "지효 is 뭔들",
-      "갓지효 미모 미쳤다",
-      "지효 없인 못 살아",
-      "박리다 is 뭔들",
-      "지효 짱!"
+      {
+        "text": "갓지효",
+        "meaning_ja": "まさに神ジヒョ",
+        "meaning_en": "God Jihyo (Implies she's perfect/divine)"
+      },
+      {
+        "text": "지효 is 뭔들",
+        "meaning_ja": "ジヒョは何でも最高",
+        "meaning_en": "Jihyo could do anything and it'd be great (She can do no wrong)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉",
+        "meaning_en": "Her face is welfare/a public good (Her beauty is a blessing to everyone)"
+      },
+      {
+        "text": "지효나잇",
+        "meaning_ja": "ジヒョおやすみ",
+        "meaning_en": "Jihyo-night (Good night, thinking of Jihyo) - A play on \"Good Night.\""
+      },
+      {
+        "text": "롬곡옘뫄",
+        "meaning_ja": "涙が止まらない (号泣)",
+        "meaning_en": "Crying buckets (Overwhelmed with emotion because of Jihyo's beauty/talent)"
+      }
     ],
     "PRAISE_FACE": [
-      "갓지효 얼굴 복지다!",
-      "박리다 얼굴이 국보급!",
-      "지효 미모에 정신 놓고 갑니다",
-      "지효 얼굴이 곧 서사다...",
-      "지효 is 뭔들, 얼굴 천재!"
+      {
+        "text": "얼굴천재 박지효!",
+        "meaning_ja": "顔面天才 パク・ジヒョ！",
+        "meaning_en": "Face Genius Park Jihyo! (Emphasizes her naturally stunning face)"
+      },
+      {
+        "text": "지효 is 뭔들!",
+        "meaning_ja": "ジヒョは何をやっても最高！",
+        "meaning_en": "Jihyo is amazing no matter what! (Implying she looks good regardless)"
+      },
+      {
+        "text": "지효 비주얼 미쳤다리!",
+        "meaning_ja": "ジヒョのビジュアルやばすぎ！",
+        "meaning_en": "Jihyo's visuals are absolutely insane! (Uses slang \"미쳤다리\" for exaggerated praise)"
+      },
+      {
+        "text": "갓지효, 오늘도 열일하는 얼굴!",
+        "meaning_ja": "ゴッドジヒョ、今日も頑張ってる顔！",
+        "meaning_en": "God Jihyo, her face is working hard today too! (Implies her beauty is constantly shining)"
+      },
+      {
+        "text": "지효 is 뭔들 is 과학",
+        "meaning_ja": "ジヒョは何をやっても最高は科学だ！",
+        "meaning_en": "Jihyo being amazing is science! (Playful exaggeration, implying it's undeniable)"
+      }
     ],
     "REQ_HEART": [
-      "지효냥 하트!",
-      "박리다 하트 뿅!",
-      "갓지효 ❤️ 줘!",
-      "지효 공주, 손가락 하트!",
-      "토마스 하트 발사!"
+      {
+        "text": "쯔젤귀 (쯔위+젤+귀여워)",
+        "meaning_ja": "ツウィが一番可愛い",
+        "meaning_en": "Tzuyu is the cutest! (Replacing Tzuyu with Jihyo makes it Jihyo's cutest)"
+      },
+      {
+        "text": "지효 없인 못 살아!",
+        "meaning_ja": "ジヒョなしでは生きられない！",
+        "meaning_en": "I can't live without Jihyo!"
+      },
+      {
+        "text": "박리다 최고!",
+        "meaning_ja": "パクリダ最高！(パク・ジヒョのリーダーシップ最高！)",
+        "meaning_en": "Park Leader is the best! (Referring to Jihyo's leadership as leader Park)"
+      },
+      {
+        "text": "지효 is 뭔들!",
+        "meaning_ja": "ジヒョは何でもアリ！",
+        "meaning_en": "Jihyo can pull off anything! (Literally \"Jihyo is whatever\" implying she makes everything look good)"
+      },
+      {
+        "text": "지효 파워!",
+        "meaning_ja": "ジヒョパワー！",
+        "meaning_en": "Jihyo Power! (Enthusiastic shout of support and empowerment)"
+      }
     ],
     "HEALTH_EAT": [
-      "지효, 맛난거 꼭꼭!",
-      "믿지, 밥심!",
-      "박리다, 냠냠해!",
-      "지효야, 행복밥!",
-      "갓지효, 건강챙겨!"
+      {
+        "text": "밥 잘 챙겨 즈효야!",
+        "meaning_ja": "ご飯ちゃんと食べて、ジヒョ！",
+        "meaning_en": "Make sure you eat well, Jihyo!"
+      },
+      {
+        "text": "굶지마 챙!",
+        "meaning_ja": "お腹すかせちゃダメだよ、チェン(ジヒョの愛称)！",
+        "meaning_en": "Don't go hungry, Chaeng (Jihyo's nickname)!"
+      },
+      {
+        "text": "맛잘알 횻!",
+        "meaning_ja": "美味しいものよく知ってるね、ヒョッ！",
+        "meaning_en": "You sure know your good food, Hyo!"
+      },
+      {
+        "text": "냠냠굿 횻짱!",
+        "meaning_ja": "もぐもぐグッド、ヒョッちゃん！",
+        "meaning_en": "Nom nom good, Hyo-jjang (Jihyo with a cute honorific)!"
+      },
+      {
+        "text": "행복횻길만 걸어! 맛있는거 먹으면서!",
+        "meaning_ja": "幸せなヒョ道のりを歩んで！美味しいもの食べながら！",
+        "meaning_en": "Only walk the happy Hyo-path! While eating delicious things!"
+      }
     ],
     "HEALTH_CARE": [
-      "지효 아프면 앙대!",
-      "미나리 지효 건강해!",
-      "지효 감기 뚝!",
-      "박리다 건강 최우선!",
-      "갓지효 건강길만!"
+      {
+        "text": "지효 감기요정 훠이훠이!",
+        "meaning_ja": "ジヒョ風邪の妖精、あっち行け！",
+        "meaning_en": "Jihyo, shoo away the cold fairy! (Wishing away the cold)"
+      },
+      {
+        "text": "아프지 마 도토 도토 잠보! 지효 맘찢 ㅠㅠ",
+        "meaning_ja": "痛くしないで、トトトトジャンボ！ジヒョ、心が痛むㅠㅠ",
+        "meaning_en": "Don't be sick, Toto Toto Jambo! Jihyo, my heart aches ㅠㅠ (Exaggerated cuteness/concern)"
+      },
+      {
+        "text": "지효 건강 풀파워 충전 완료!",
+        "meaning_ja": "ジヒョの健康、フルパワー充電完了！",
+        "meaning_en": "Jihyo's health, full power charge complete! (Metaphorical energy boost)"
+      },
+      {
+        "text": "꽃길만 걸어, 아프지 말고! 지효 쵝오!",
+        "meaning_ja": "花道だけを歩いて、病気にならないで！ジヒョ最高！",
+        "meaning_en": "Only walk the flower path, and don't get sick! Jihyo is the best! (Wishing happiness and health)"
+      },
+      {
+        "text": "지효 아프면 내 심장도 아파! 건강 제일!",
+        "meaning_ja": "ジヒョが病気なら私の心臓も痛い！健康が一番！",
+        "meaning_en": "If Jihyo is sick, my heart hurts too! Health is the most important! (Expressing sympathy and emphasizing health)"
+      }
     ],
     "GREET_JOB": [
-      "지효 고생했어!",
-      "갓지효 수고!",
-      "박리다 푹 쉬어!",
-      "지효야, 다 했어!",
-      "횻! 오늘도 빛났어!"
+      {
+        "text": "지효나잇!",
+        "meaning_ja": "ジヒョお疲れ様！/ ジヒョ、おやすみ！",
+        "meaning_en": "Jihyo Goodnight! / Jihyo, You worked hard! (Implies wishing her a good rest after hard work.)"
+      },
+      {
+        "text": "갓지효!",
+        "meaning_ja": "まさに神ジヒョ！",
+        "meaning_en": "God Jihyo! (Used to praise Jihyo's incredible performance.)"
+      },
+      {
+        "text": "지효 덕분에 산다!",
+        "meaning_ja": "ジヒョのおかげで生きてる！",
+        "meaning_en": "I live because of Jihyo! (Expressing extreme appreciation for her positive influence)"
+      },
+      {
+        "text": "고생했지효!",
+        "meaning_ja": "お疲れ様ジヒョ！",
+        "meaning_en": "You worked hard, Jihyo! (Combining \"고생했어\" - you worked hard - with her name for a cute twist.)"
+      },
+      {
+        "text": "오늘도 지효해!",
+        "meaning_ja": "今日もジヒョってる！",
+        "meaning_en": "Doing Jihyo today too! (Implies supporting or being influenced by Jihyo in a positive way.)"
+      }
     ]
   },
   "Mina": {
     "LOVE_GENERAL": [
-      "미나 없인 못 살아",
-      "미나리 쏘 스윗",
-      "미나야, 꽃길만!",
-      "미나 공주 사랑해",
-      "미나 is 뭔들!"
+      {
+        "text": "미나 없인 못 살아",
+        "meaning_ja": "ミナなしじゃ生きられない",
+        "meaning_en": "Can't live without Mina!"
+      },
+      {
+        "text": "미나 공주님",
+        "meaning_ja": "ミナ姫",
+        "meaning_en": "Princess Mina"
+      },
+      {
+        "text": "미나 is 뭔들",
+        "meaning_ja": "ミナは何でも最高",
+        "meaning_en": "Mina is amazing no matter what! (Mina is perfect in every way)"
+      },
+      {
+        "text": "미나 보고 힐링",
+        "meaning_ja": "ミナを見て癒される",
+        "meaning_en": "Healing by watching Mina."
+      },
+      {
+        "text": "미나 is 뭔들",
+        "meaning_ja": "ミナは何でも最高",
+        "meaning_en": "Mina is perfect no matter what she does! (Mina is amazing in every way)"
+      }
     ],
     "LOVE_DEEP": [
-      "미나 없인 못 살아",
-      "밍구리, 사랑해!",
-      "미나야, 내 전부!",
-      "낫숭이, 럽유!",
-      "미나, 영원히 함께!"
+      {
+        "text": "미나 없인 못 살아",
+        "meaning_ja": "ミナなしでは生きられない",
+        "meaning_en": "I can't live without Mina!"
+      },
+      {
+        "text": "미나 공주님 짱!",
+        "meaning_ja": "ミナお姫様最高！",
+        "meaning_en": "Princess Mina is the best!"
+      },
+      {
+        "text": "미나 is 뭔들",
+        "meaning_ja": "ミナは何でも良い",
+        "meaning_en": "Anything Mina does is amazing! / Mina is good at everything!"
+      },
+      {
+        "text": "미나 때문에 산다",
+        "meaning_ja": "ミナのおかげで生きる",
+        "meaning_en": "I live because of Mina!"
+      },
+      {
+        "text": "미나 is 뭔들 is 뭔들 is 뭔들",
+        "meaning_ja": "ミナは何でも良いx3",
+        "meaning_en": "Mina is awesome, awesome, awesome! (emphasizing her greatness)"
+      }
     ],
     "REQ_MARRY": [
-      "미나야, 나랑 결혼해줘!",
-      "미나 없인 못 살아! 결혼해!",
-      "미나 공주, 저랑 뼈를 묻어요!",
-      "결혼 안 하면 후회할걸? 미나야!",
-      "미나야! 내 심장에 입주해! (결혼!)"
+      {
+        "text": "미나 없인 못 살아!",
+        "meaning_ja": "ミナなしでは生きられない！",
+        "meaning_en": "I can't live without Mina!"
+      },
+      {
+        "text": "미나 내꺼! 찜!",
+        "meaning_ja": "ミナは私のもの！キープ！",
+        "meaning_en": "Mina is mine! Dibs! (Claiming her in a possessive, joking way)"
+      },
+      {
+        "text": "미나 is 뭔들",
+        "meaning_ja": "ミナは何でもあり",
+        "meaning_en": "Mina is good at everything."
+      },
+      {
+        "text": "미나 공주님!",
+        "meaning_ja": "ミナお姫様！",
+        "meaning_en": "Mina, Princess! (Expressing adoration)"
+      },
+      {
+        "text": "미나 때문에 심쿵사",
+        "meaning_ja": "ミナのせいでキュン死",
+        "meaning_en": "Mina makes my heart explode with cuteness (dying from heart attack)"
+      }
     ],
     "MISS_YOU": [
-      "미나 없인 못 살아!",
-      "미나 보고싶다 엉엉",
-      "미나야 내 심장에 입주해",
-      "샤론…내 사랑 받아랏!",
-      "미나 공주 어디 계세요ㅠㅠ"
+      {
+        "text": "미나 없인 못 살아 ㅠㅠ",
+        "meaning_ja": "ミナがいなきゃ生きていけない (泣)",
+        "meaning_en": "I can't live without Mina ㅠㅠ (crying)"
+      },
+      {
+        "text": "미나 보고 싶다리~",
+        "meaning_ja": "ミナに会いたいなり~",
+        "meaning_en": "I wanna see Mina~ (Aegyo-ish)"
+      },
+      {
+        "text": "미나 is 뭔들... 넘 보고 싶어!",
+        "meaning_ja": "ミナは何でも最高...めっちゃ会いたい！",
+        "meaning_en": "Mina is perfect no matter what... I miss her so much!"
+      },
+      {
+        "text": "미나 공주... 내 심장 돌려줘 (만나고 싶어)!",
+        "meaning_ja": "ミナ姫...私の心臓を返して (会いたい)!",
+        "meaning_en": "Mina princess... give me back my heart (I want to meet you)!"
+      },
+      {
+        "text": "미나야 내 맘속에 저장...보고 싶다!",
+        "meaning_ja": "ミナ、私の心の中に保存...会いたい！",
+        "meaning_en": "Mina, saved in my heart... I miss you!"
+      }
     ],
     "PROMISE_FOREVER": [
-      "미나 없인 못 살아!",
-      "미나야, 평생 함께!",
-      "미나 공주 영원히!",
-      "미나 사랑해 쭉!",
-      "미나랑 약속 💖"
+      {
+        "text": "미나 없인 못 살아",
+        "meaning_ja": "ミナなしでは生きられない",
+        "meaning_en": "I can't live without Mina"
+      },
+      {
+        "text": "미나 is 뭔들",
+        "meaning_ja": "ミナは何でも最高",
+        "meaning_en": "Mina is perfect no matter what."
+      },
+      {
+        "text": "미나 길만 걸어",
+        "meaning_ja": "ミナの道だけを歩もう",
+        "meaning_en": "Let's only walk the Mina path (always support Mina)"
+      },
+      {
+        "text": "미나 덕질은 나의 행복",
+        "meaning_ja": "ミナのオタ活は私の幸せ",
+        "meaning_en": "Stanning Mina is my happiness."
+      },
+      {
+        "text": "영원히 미나 편",
+        "meaning_ja": "永遠にミナの味方",
+        "meaning_en": "Forever on Mina's side."
+      }
     ],
     "CONGRAT_BDAY": [
-      "미나리 생일 짱!",
-      "미나 공주 탄신일!",
-      "미나야, 💖 뿅!",
-      "밍탄절 경축🎉",
-      "미나 없인 못 살아!"
+      {
+        "text": "미나 is 뭔들",
+        "meaning_ja": "ミナは何でも最高",
+        "meaning_en": "Mina is perfect no matter what! (Literal translation of \"What Mina does is always good\")"
+      },
+      {
+        "text": "미나 없인 못 살아!",
+        "meaning_ja": "ミナなしでは生きられない！",
+        "meaning_en": "I can't live without Mina!"
+      },
+      {
+        "text": "미나 is 내 삶의 낙",
+        "meaning_ja": "ミナは私の人生の楽しみ",
+        "meaning_en": "Mina is the joy of my life!"
+      },
+      {
+        "text": "미나 덕분에 행복해!",
+        "meaning_ja": "ミナのおかげで幸せ！",
+        "meaning_en": "Thanks to Mina, I'm happy!"
+      },
+      {
+        "text": "미나길만 걸어!",
+        "meaning_ja": "ミナの道だけを歩んで！",
+        "meaning_en": "Only walk the Mina path! (Meaning: Only take the good path, Mina!)"
+      }
     ],
     "CHEER_UP": [
-      "미나 응원해!",
-      "밍구리 짱!",
-      "🦢미나야 사랑해",
-      "낫숭이 힘내!",
-      "미나 덕분에 산다!"
+      {
+        "text": "*   미나 없인 못 살아!",
+        "meaning_ja": "ミナなしでは生きられない！",
+        "meaning_en": "Can't live without Mina!"
+      },
+      {
+        "text": "*   미나 is 뭔들",
+        "meaning_ja": "ミナは何でも最高！",
+        "meaning_en": "Mina is perfect no matter what! (Mina is always the best!)"
+      },
+      {
+        "text": "*   미나 공주님!",
+        "meaning_ja": "ミナ姫！",
+        "meaning_en": "Princess Mina!"
+      },
+      {
+        "text": "*   미나 파워!",
+        "meaning_ja": "ミナパワー！",
+        "meaning_en": "Mina Power!"
+      },
+      {
+        "text": "*   미나 덕분에 산다",
+        "meaning_ja": "ミナのおかげで生きてる",
+        "meaning_en": "I live because of Mina (Mina keeps me going)"
+      }
     ],
     "PRAISE_GOD": [
-      "미나 is 뭔들!",
-      "갓미나 강림!",
-      "미나 is 진리!",
-      "샤론 여신님!",
-      "넘사벽 미나!"
+      {
+        "text": "미나 없인 못 살아",
+        "meaning_ja": "ミナなしじゃ生きられない",
+        "meaning_en": "Can't live without Mina!"
+      },
+      {
+        "text": "미나 is 뭔들",
+        "meaning_ja": "ミナは何でもOK",
+        "meaning_en": "Mina can do no wrong! / Everything looks good on Mina!"
+      },
+      {
+        "text": "미나 공주 짱",
+        "meaning_ja": "ミナ姫最高",
+        "meaning_en": "Mina Princess is the best!"
+      },
+      {
+        "text": "미나 때문에 입덕",
+        "meaning_ja": "ミナのせいでファンになった",
+        "meaning_en": "Mina made me a fan!"
+      },
+      {
+        "text": "미나 보고 힐링",
+        "meaning_ja": "ミナ見て癒される",
+        "meaning_en": "Healing by watching Mina!"
+      }
     ],
     "PRAISE_VISUAL": [
-      "미나 is 뭔들",
-      "미나 비주얼 미쳤다",
-      "갓미나 얼굴이 복지다",
-      "미나 없인 못 살아",
-      "미나야, 존재가 예술"
+      {
+        "text": "미나 없인 못 살아",
+        "meaning_ja": "ミナなしでは生きられない",
+        "meaning_en": "I can't live without Mina!"
+      },
+      {
+        "text": "미나 is 뭔들",
+        "meaning_ja": "ミナは何でも最高",
+        "meaning_en": "Mina is perfect no matter what!"
+      },
+      {
+        "text": "미나 공주님",
+        "meaning_ja": "ミナ姫",
+        "meaning_en": "Princess Mina"
+      },
+      {
+        "text": "미나 때문에 산다",
+        "meaning_ja": "ミナのおかげで生きている",
+        "meaning_en": "I live because of Mina."
+      },
+      {
+        "text": "미나 is 뭔들 뭔들",
+        "meaning_ja": "ミナは何でも最高of最高",
+        "meaning_en": "Mina is the best of the best!"
+      }
     ],
     "PRAISE_FACE": [
-      "미나 is 뭔들!",
-      "얼굴이 복지다!",
-      "미모가 국보급",
-      "갓미나, 킹갓엠페러!",
-      "넘사벽 미모!"
+      {
+        "text": "미모 미쳤다",
+        "meaning_ja": "美貌が狂ってる",
+        "meaning_en": "Her beauty is insane/crazy."
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔が福祉だ",
+        "meaning_en": "Her face is welfare/a blessing. (Meaning her face makes you happy and well)"
+      },
+      {
+        "text": "민깅이즈뭔들",
+        "meaning_ja": "ミナなら何でもあり",
+        "meaning_en": "Anything Mina does is amazing."
+      },
+      {
+        "text": "인간 샤넬",
+        "meaning_ja": "人間シャネル",
+        "meaning_en": "Human Chanel. (Meaning she looks luxurious and elegant)"
+      },
+      {
+        "text": "미나 is 뭔들",
+        "meaning_ja": "ミナ is 何でもあり",
+        "meaning_en": "Mina is perfect no matter what."
+      }
     ],
     "REQ_HEART": [
-      "미나야, 손하트 뿅!",
-      "미나 공주, 럽손!",
-      "미나 없인 못 살아! 🩷",
-      "미나야, 하트 줘! 🥺",
-      "미나 is 뭔들, 하트필수!"
+      {
+        "text": "미나 is 뭔들",
+        "meaning_ja": "ミナは何でも似合う",
+        "meaning_en": "Mina looks good in everything. (Implies any style suits her, hinting she'd look great doing finger hearts)"
+      },
+      {
+        "text": "미나 없인 못 살아",
+        "meaning_ja": "ミナなしでは生きられない",
+        "meaning_en": "I can't live without Mina. (Exaggerated love and devotion, subtly implying wanting to see her finger heart)"
+      },
+      {
+        "text": "미나 공주님 핑거하트 해주세요",
+        "meaning_ja": "ミナ姫、指ハートしてください",
+        "meaning_en": "Princess Mina, please give us a finger heart. (Directly requests finger heart, using \"공주님\" (princess) as a term of endearment)"
+      },
+      {
+        "text": "미나 is 뭔들 하트 is 뭔들",
+        "meaning_ja": "ミナは何でも、ハートは何でも最高",
+        "meaning_en": "Mina is great at everything, hearts are always the best. (Playing on \"미나 is 뭔들\", connecting it to hearts, suggesting she'd be amazing at finger hearts)"
+      },
+      {
+        "text": "미나야, 내 심장에 저장! (핑거하트 버전으로)",
+        "meaning_ja": "ミナ、私の心に保存！(指ハートバージョンで)",
+        "meaning_en": "Mina, save yourself in my heart! (Finger heart version). (Classic saying but with a playful \"finger heart version\" add-on)"
+      }
     ],
     "HEALTH_EAT": [
-      "미나, 맘마 먹어!",
-      "미나야, 밥길만 걸어!",
-      "미나 공주, 냠냠해줘!",
-      "미나 펭귄, 맛저!",
-      "미나, 행복 밥상!"
+      {
+        "text": "미나 먹잘알!",
+        "meaning_ja": "ミナはグルメ王！",
+        "meaning_en": "Mina's a foodie queen/king! (먹잘알 refers to someone who knows a lot about food and how to enjoy it)"
+      },
+      {
+        "text": "미나 쩝쩝박사!",
+        "meaning_ja": "ミナはモグモグ博士！",
+        "meaning_en": "Mina is a \"nom nom\" doctor! (쩝쩝 is the sound of eating deliciously, and \"박사\" means doctor/expert)"
+      },
+      {
+        "text": "미나 밥길만 걸어!",
+        "meaning_ja": "ミナ、美味しいものだけ食べて幸せな道だけ歩んで！",
+        "meaning_en": "Mina, only walk the road paved with delicious food and happiness! (밥길 refers to a successful and comfortable life centered around good food)"
+      },
+      {
+        "text": "미나 맛잘알 인정!",
+        "meaning_ja": "ミナの味覚センス、マジで認める！",
+        "meaning_en": "Mina's taste in food, I totally acknowledge it! (맛잘알 is similar to 먹잘알 but emphasizes understanding good taste)"
+      },
+      {
+        "text": "미나 먹방 여신!",
+        "meaning_ja": "ミナ、モッパン女神！",
+        "meaning_en": "Mina, eating show goddess! (먹방 refers to watching someone eat deliciously on camera)"
+      }
     ],
     "HEALTH_CARE": [
-      "미나야, 아프지망!",
-      "미나링 건강 제일!",
-      "미나 펭귄, 감기 훠이!",
-      "미나야, 꽃길만 걸어, 건강길만 걸어!",
-      "미나 없이 몬산다, 아프면 안돼!"
+      {
+        "text": "미나링 감기 조심햇!",
+        "meaning_ja": "ミナリン、風邪に気をつけてね！",
+        "meaning_en": "Mina-ring, be careful not to catch a cold!"
+      },
+      {
+        "text": "낫닝겐 미나 건강해야해!",
+        "meaning_ja": "レベチなミナ、元気でいてね！",
+        "meaning_en": "Our goddess Mina, you have to be healthy! (낫닝겐 emphasizes Mina's beauty is beyond human)"
+      },
+      {
+        "text": "오나나 감기 뚝!",
+        "meaning_ja": "オナナ、風邪なんか吹っ飛ばせ！",
+        "meaning_en": "Oh Nana, get rid of that cold! (오나나 is a cute way of saying \"Oh Nana\")"
+      },
+      {
+        "text": "미나야 아프지망고!",
+        "meaning_ja": "ミナ、痛くないマンゴー！(痛くないでね)",
+        "meaning_en": "Mina, don't be sick, Mango! (망고 rhymes with 'malgo' which is short for 'mal-go', which means 'don't')"
+      },
+      {
+        "text": "갑분싸 감기 out! 미나 건강 최고!",
+        "meaning_ja": "急に寒くなったけど風邪はダメ！ミナが一番！",
+        "meaning_en": "It suddenly got cold, but no colds allowed! Mina's health is the best! (갑분싸 is \"sudden mood killer\", here implying a cold is a mood killer)"
+      }
     ],
     "GREET_JOB": [
-      "미나냥 수고했어!",
-      "미나야, 푹 쉬어!",
-      "고생했어, 밍!",
-      "미나짱 최고!",
-      "미나 덕분에 힐링!"
+      {
+        "text": "미나 없인 못 살아",
+        "meaning_ja": "ミナなしでは生きられない",
+        "meaning_en": "I can't live without Mina!"
+      },
+      {
+        "text": "미나 is 뭔들",
+        "meaning_ja": "ミナは何でもあり！",
+        "meaning_en": "Mina can do anything! / Mina is good at everything!"
+      },
+      {
+        "text": "미나 공주님 ㅠㅠ",
+        "meaning_ja": "ミナお姫様 泣",
+        "meaning_en": "Princess Mina ㅠㅠ (crying in adoration)"
+      },
+      {
+        "text": "미나 사랑둥이",
+        "meaning_ja": "ミナ愛されっ子",
+        "meaning_en": "Mina, you're so lovable! / Mina, the darling!"
+      },
+      {
+        "text": "미나 때문에 산다",
+        "meaning_ja": "ミナのおかげで生きている",
+        "meaning_en": "I live because of Mina!"
+      }
     ]
   },
   "Dahyun": {
     "LOVE_GENERAL": [
-      "두부 is 뭔들!",
-      "둡깅 사랑해!",
-      "김다현 내 전부!",
-      "툽! 영원히 함께!",
-      "둡 없인 못 살아!"
+      {
+        "text": "둡 is 뭔들",
+        "meaning_ja": "ダヒョンなら何でもOK",
+        "meaning_en": "Dahyun can do no wrong. (Literally: \"Whatever Dahyun does is good\")"
+      },
+      {
+        "text": "둡깅이",
+        "meaning_ja": "ダヒョン赤ちゃん",
+        "meaning_en": "Dahyun baby! (Referring to her cute and adorable side)"
+      },
+      {
+        "text": "豆腐멘탈은 가라!",
+        "meaning_ja": "豆腐メンタルは捨てろ!",
+        "meaning_en": "Throw away the tofu mentality! (Encouragement to be strong)"
+      },
+      {
+        "text": "심장이 둡! 둡!",
+        "meaning_ja": "心臓がドゥブ！ドゥブ！",
+        "meaning_en": "My heart goes Dubu! Dubu! (Imitating Dahyun's name sound)"
+      },
+      {
+        "text": "다현 is 뭔들 is 뭔들 is 뭔들",
+        "meaning_ja": "ダヒョンは何でも良いx3",
+        "meaning_en": "Dahyun is good no matter what x3."
+      }
     ],
     "LOVE_DEEP": [
-      "두부 is 뭔들❤️",
-      "김다현 없인 못 살아😭",
-      "둡깅 사랑해 죽어💖",
-      "현아… 내 전부야✨",
-      "다현아 영원히 함께🍀"
+      {
+        "text": "둡깅이",
+        "meaning_ja": "ダヒョン赤ちゃん (可愛いダヒョン)",
+        "meaning_en": "Dahyun baby (Cute Dahyun)"
+      },
+      {
+        "text": "두부멘탈",
+        "meaning_ja": "豆腐メンタル (豆腐のような心)",
+        "meaning_en": "Tofu Mental (Tofu-like heart; meaning a pure and soft heart)"
+      },
+      {
+        "text": "흥부자 둡",
+        "meaning_ja": "ノリノリダヒョン (ノリが良いダヒョン)",
+        "meaning_en": "Heung Buja Dub (Full of energy Dahyun) *Heung refers to a Korean sense of excitement and fun.*"
+      },
+      {
+        "text": "둡프리카",
+        "meaning_ja": "ダヒョンアフリカ (ダヒョンの魅力にハマる)",
+        "meaning_en": "Dubfrica (Getting lost in Dahyun's charm, like discovering Africa)"
+      },
+      {
+        "text": "둡덕사",
+        "meaning_ja": "ダヒョンオタ死亡 (ダヒョンのオタクが死ぬほど好き)",
+        "meaning_en": "Dub Deoksa (Dahyun Otaku death; loving Dahyun so much you could die)"
+      }
     ],
     "REQ_MARRY": [
-      "두부야, 나랑 결혼!",
-      "둡깅아, 책임져!",
-      "김다현 내 아내!",
-      "결혼 각이다!",
-      "다현 없인 못 살아!"
+      {
+        "text": "두부랑 결혼각",
+        "meaning_ja": "お豆腐ちゃんと結婚案件",
+        "meaning_en": "Marriage material Dubu (Dahyun nickname)!"
+      },
+      {
+        "text": "다현 is 뭔들... 결혼해주세여",
+        "meaning_ja": "ダヒョン is 何でもあり…結婚してください",
+        "meaning_en": "Dahyun is perfect... Please marry me!"
+      },
+      {
+        "text": "얼굴이 복지! 결혼이 답!",
+        "meaning_ja": "顔が福祉！結婚が答え！",
+        "meaning_en": "Her face is welfare! Marriage is the answer!"
+      },
+      {
+        "text": "국보급 미모! 결혼 시급!",
+        "meaning_ja": "国宝級の美貌！結婚至急！",
+        "meaning_en": "National treasure beauty! Urgent marriage needed!"
+      },
+      {
+        "text": "다현 없인 못 살아! 결혼 고고!",
+        "meaning_ja": "ダヒョンなしでは生きられない！結婚ゴーゴー！",
+        "meaning_en": "Can't live without Dahyun! Let's get married!"
+      }
     ],
     "MISS_YOU": [
-      "두부 보고 싶다!",
-      "둡깅이 내놔!",
-      "다현 없인 못 살아",
-      "김다현 사랑해!",
-      "보고파 豆腐!"
+      {
+        "text": "둡깅 보고싶어!",
+        "meaning_ja": "ダヒョン赤ちゃん、会いたい！",
+        "meaning_en": "Dahyun baby, I miss you!"
+      },
+      {
+        "text": "둡프리카 보고싶다!",
+        "meaning_ja": "ダヒョンアフリカ、会いたい！",
+        "meaning_en": "Dahyun-Africa (a cute nickname), I miss you!"
+      },
+      {
+        "text": "豆腐야 보고싶어!",
+        "meaning_ja": "豆腐、会いたい！",
+        "meaning_en": "Tofu (Dahyun's nickname), I miss you!"
+      },
+      {
+        "text": "다현아 내 심장 가져가! 보고싶어!",
+        "meaning_ja": "ダヒョン、私の心臓を持って行って！会いたい！",
+        "meaning_en": "Dahyun, take my heart! I miss you!"
+      },
+      {
+        "text": "김다현 사랑해! 보고싶어!",
+        "meaning_ja": "キム・ダヒョン、愛してる！会いたい！",
+        "meaning_en": "Kim Dahyun, I love you! I miss you!"
+      }
     ],
     "PROMISE_FOREVER": [
-      "두부랑 영원히!",
-      "둡깅, 끝까지!",
-      "김다현 사랑해!",
-      "원스와 함께 쭉!",
-      "영원히, 두부 only!"
+      {
+        "text": "둡깅이랑 뼈를 묻자",
+        "meaning_ja": "ダヒョンちゃんと骨を埋めよう",
+        "meaning_en": "Let's be buried with Dubu-gi (Dahyun)! (meaning: Let's be fans of Dahyun forever!)"
+      },
+      {
+        "text": "둡며들다 영원히",
+        "meaning_ja": "ダヒョンにハマる永遠に",
+        "meaning_en": "Falling for Dahyun forever!"
+      },
+      {
+        "text": "다현 is 뭔들, 평생 뭔들",
+        "meaning_ja": "ダヒョンは全部いい、一生全部いい",
+        "meaning_en": "Dahyun is good at everything, being a fan for life is good at everything."
+      },
+      {
+        "text": "두부멘! 럽멘! 영원멘!",
+        "meaning_ja": "ダヒョンメン！愛してるメン！永遠メン！",
+        "meaning_en": "Dahyun amen! Love amen! Forever amen!"
+      },
+      {
+        "text": "둡프 최고, 우리 우정 뽀에버",
+        "meaning_ja": "ダヒョンペン最高、私たちの友情フォーエバー",
+        "meaning_en": "Dahyun fans are the best, our friendship forever!"
+      }
     ],
     "CONGRAT_BDAY": [
-      "두부 생일 축!",
-      "둡깅 탄신일!",
-      "김다현 짱!",
-      "오늘 주인공!",
-      "혅 탄생일🎂"
+      {
+        "text": "둡깅이 생일 ㅊㅋ",
+        "meaning_ja": "ダヒョンちゃん誕生日おめでとう！",
+        "meaning_en": "Happy birthday, Dubu-cutie!"
+      },
+      {
+        "text": "둡프린세스 탄신일",
+        "meaning_ja": "ダヒョン姫 誕生祭",
+        "meaning_en": "Dubu-princess's birthday festival!"
+      },
+      {
+        "text": "흥둡흥둡 생일파티",
+        "meaning_ja": "ノリノリダヒョン 誕生日パーティー",
+        "meaning_en": "Let's get hype with Dubu at the birthday party!"
+      },
+      {
+        "text": "둡 is 뭔들! 생일 축하!",
+        "meaning_ja": "ダヒョンは何でも最高！誕生日おめでとう！",
+        "meaning_en": "Everything Dahyun does is amazing! Happy birthday!"
+      },
+      {
+        "text": "탱큥 둡! 생일 너무 축하해!",
+        "meaning_ja": "サンキューダヒョン！誕生日おめでとう！",
+        "meaning_en": "Thank you, Dubu! Happy happy birthday!"
+      }
     ],
     "CHEER_UP": [
-      "두부 멘탈 꽉!",
-      "둡깅이 파이팅!",
-      "김다현 꽃길만!",
-      "흥둡, 오늘도 힘!",
-      "우리 둡 응원해!"
+      {
+        "text": "둡깅이 최고!",
+        "meaning_ja": "ダヒョンちゃんが一番！",
+        "meaning_en": "Dahyunie is the best!"
+      },
+      {
+        "text": "흥!칫!뿡! (다현아 힘내!)",
+        "meaning_ja": "ふん！ちっ！ぷん！(ダヒョン、頑張って！)",
+        "meaning_en": "Hmph! Tch! Pooh! (Dahyun, cheer up!)"
+      },
+      {
+        "text": "내 맘속에 저장! (다현이 저장!)",
+        "meaning_ja": "私の心に保存！(ダヒョンを保存！)",
+        "meaning_en": "Save in my heart! (Saving Dahyun!)"
+      },
+      {
+        "text": "다현 is 뭔들!",
+        "meaning_ja": "ダヒョンは何でも最高！",
+        "meaning_en": "Dahyun is perfect no matter what! (literally: Dahyun is \"whatever\" great!)"
+      },
+      {
+        "text": "다현아 꽃길만 걷자!",
+        "meaning_ja": "ダヒョン、花の道だけを歩こう！",
+        "meaning_en": "Dahyun, let's only walk on flower paths! (Wishing her all the best)"
+      }
     ],
     "PRAISE_GOD": [
-      "두부신 강림!",
-      "둡멘🙏",
-      "갓다현 찬양해!",
-      "흰둥이 복음!",
-      "천상둡😇"
+      {
+        "text": "둡멘",
+        "meaning_ja": "ダヒョン様、アーメン！(Dahyun-sama, Amen!)",
+        "meaning_en": "Dahyun, Amen! (A playful way to say \"Praise Dahyun!\")"
+      },
+      {
+        "text": "둡렐루야",
+        "meaning_ja": "ダヒョン様、ハレルヤ！(Dahyun-sama, Hallelujah!)",
+        "meaning_en": "Dahyun, Hallelujah! (Expressing joyous admiration.)"
+      },
+      {
+        "text": "둡옵",
+        "meaning_ja": "ダヒョン様、ゴッド！(Dahyun-sama, God!)",
+        "meaning_en": "Dahyun, God! (Simple and direct praise.)"
+      },
+      {
+        "text": "킹다현",
+        "meaning_ja": "キングダヒョン(王ダヒョン)",
+        "meaning_en": "King Dahyun (Emphasizing her royalty and supremacy.)"
+      },
+      {
+        "text": "갓다현",
+        "meaning_ja": "ゴッドダヒョン(神ダヒョン)",
+        "meaning_en": "God Dahyun (Directly calling her a goddess.)"
+      }
     ],
     "PRAISE_VISUAL": [
-      "두부 is 뭔들",
-      "다현 is 뭔들",
-      "김다현 갓지컬",
-      "둡최고 존엄",
-      "천상 아이도루 둡"
+      {
+        "text": "둡깅이",
+        "meaning_ja": "ダヒョン赤ちゃん",
+        "meaning_en": "Dahyun baby (referring to her cuteness)"
+      },
+      {
+        "text": "둡프리카",
+        "meaning_ja": "ダヒョン + アフリカ (太陽のように明るいダヒョン)",
+        "meaning_en": "Dub-frica (Dahyun + Africa, highlighting her bright and sunny personality)"
+      },
+      {
+        "text": "두부멘탈",
+        "meaning_ja": "ダヒョン豆腐メンタル (見た目と違って繊細)",
+        "meaning_en": "Tofu mental (referring to Dahyun's surprisingly delicate side despite her strong image)"
+      },
+      {
+        "text": "흰둥이",
+        "meaning_ja": "白い子(ダヒョンのニックネーム)",
+        "meaning_en": "Whitey (Dahyun's nickname, referring to her fair skin)"
+      },
+      {
+        "text": "둡랑둥이",
+        "meaning_ja": "ダヒョン可愛い子",
+        "meaning_en": "Dahyun lovely (Dahyun being lovely, endearing)"
+      }
     ],
     "PRAISE_FACE": [
-      "두부 is 뭔들!",
-      "김다현 갓굴!",
-      "얼굴이 복지다!",
-      "숨멎 둡 비주얼",
-      "광채 아기맹수!"
+      {
+        "text": "두부 is 뭔들",
+        "meaning_ja": "ダヒョンちゃんは何しても最高",
+        "meaning_en": "Dahyun is perfect no matter what (Referring to Dahyun as tofu)"
+      },
+      {
+        "text": "넘사벽 비주얼",
+        "meaning_ja": "誰もが超えられないビジュアル",
+        "meaning_en": "An untouchable/unrivaled visual"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "ダヒョンの顔は最高の福利厚生",
+        "meaning_en": "Dahyun's face is the best welfare (benefit/happiness)"
+      },
+      {
+        "text": "세젤예 다현",
+        "meaning_ja": "世界で一番可愛いダヒョン",
+        "meaning_en": "The most beautiful Dahyun in the world"
+      },
+      {
+        "text": "인간 두부",
+        "meaning_ja": "人間豆腐",
+        "meaning_en": "Human Tofu (Complimentary, meaning someone soft, white, and cute)"
+      }
     ],
     "REQ_HEART": [
-      "두부야, 손하트!",
-      "둡, 하트 줘!",
-      "김다현 핱으!",
-      "내 심장에 손하트!",
-      "둡 is 뭔들 🩷"
+      {
+        "text": "둡깅이",
+        "meaning_ja": "ダヒョン赤ちゃん",
+        "meaning_en": "Dahyun, the baby! (Endearing term)"
+      },
+      {
+        "text": "두부둡둡",
+        "meaning_ja": "ダヒョン豆腐豆腐",
+        "meaning_en": "Dahyun Tofu Tofu (Repeating her nickname cutely)"
+      },
+      {
+        "text": "흥! 다현",
+        "meaning_ja": "ふん！ダヒョン",
+        "meaning_en": "Hmph! Dahyun! (Teasingly cute, like \"Pouty Dahyun!\")"
+      },
+      {
+        "text": "다현 is 뭔들",
+        "meaning_ja": "ダヒョンは何でも最高",
+        "meaning_en": "Dahyun is perfect no matter what she does."
+      },
+      {
+        "text": "다현아 꽃길만 걸어",
+        "meaning_ja": "ダヒョン、花の道だけを歩んで",
+        "meaning_en": "Dahyun, only walk the flowery path. (Wishing her success)"
+      }
     ],
     "HEALTH_EAT": [
-      "두부 맛저!",
-      "둡 맛있게 냠냠!",
-      "김다현 밥심!",
-      "오늘도 똠냥꿍!",
-      "밥 잘 챙겨, 내 햇살!"
+      {
+        "text": "다현 is 뭔들! (맛있는 거 뭔들 안 어울리겠어!)",
+        "meaning_ja": "ダヒョンは何でも似合う！(美味しいもの何でも似合うよ！)",
+        "meaning_en": "Dahyun can pull off anything! (She deserves all the delicious food!)"
+      },
+      {
+        "text": "쩝쩝박사 다현! (맛잘알 다현, 맛있는 거 많이 먹어!)",
+        "meaning_ja": "チュプチュプ博士ダヒョン！(美味しいものよく知ってるダヒョン、美味しいものいっぱい食べて！)",
+        "meaning_en": "Mukbang Master Dahyun! (You know your food! Eat lots of delicious things!)"
+      },
+      {
+        "text": "오늘도 다현하세요! (맛있는 거 먹고 행복한 하루 보내세요!)",
+        "meaning_ja": "今日もダヒョンしてください！(美味しいもの食べて幸せな一日を過ごしてください！)",
+        "meaning_en": "\"Dahyun\" your day! (Eat something delicious and have a happy day!)"
+      },
+      {
+        "text": "다현 먹방 존버! (다현 먹방 기다릴게요, 맛있는 거 많이 먹어줘!)",
+        "meaning_ja": "ダヒョンモッパン、絶対待つ！(ダヒョンのモッパン待ってるよ、美味しいものいっぱい食べてね！)",
+        "meaning_en": "Dahyun mukbang, we're holding out! (We're waiting for your mukbang, eat lots of yummy things!)"
+      },
+      {
+        "text": "두부 is 뭔들! (두부처럼 뽀얀 다현, 맛있는 거 많이 먹고 힘내!)",
+        "meaning_ja": "豆腐は何でも似合う！(豆腐のように白いダヒョン、美味しいものいっぱい食べて元気出して！)",
+        "meaning_en": "Tofu is everything! (Dahyun, like tofu, is pure perfection! Eat lots and feel strong!)"
+      }
     ],
     "HEALTH_CARE": [
-      "두부야, 아프지마!",
-      "김다현 건강최고!",
-      "툽깅이 감기 앙대!",
-      "다현 is 뭔들, 건강 뭔들!",
-      "豆腐 건강해!"
+      {
+        "text": "둡프 감기 뚝!",
+        "meaning_ja": "ダヒョン、風邪なんか吹き飛ばせ！",
+        "meaning_en": "Dahyun, blow away that cold! (A play on Dahyun's nickname \"Dubu\" - Tofu)"
+      },
+      {
+        "text": "우리 둡 아프지망고!",
+        "meaning_ja": "うちのダヒョン、マンゴーみたいに元気でいて！(ア프지마 - 病まないで、망고-マンゴー)",
+        "meaning_en": "Our Dahyun, stay healthy like a mango! (Mango = healthy and delicious, \"Don't get sick\")"
+      },
+      {
+        "text": "둡깅이 건강길만 걸어!",
+        "meaning_ja": "ダヒョン、健康な道だけを歩んで！",
+        "meaning_en": "Dubu baby, only walk the healthy path! (둡깅이 - Dahyun baby, 건강길 - healthy path)"
+      },
+      {
+        "text": "둡와이스 감기 꺼져!",
+        "meaning_ja": "ダヒョンとTWICEから風邪菌よ、出て行け！",
+        "meaning_en": "Cold germs, get away from Dahyun and TWICE! (둡와이스 - Dubu + TWICE)"
+      },
+      {
+        "text": "둡님, 아프면 쓰레기!",
+        "meaning_ja": "ダヒョン様、具合が悪くなったらダメですよ！(쓰레기 - ゴミ)",
+        "meaning_en": "Dahyun-nim, being sick is trash! (둡님 - Dahyun-sama, 아프면 쓰레기 - if you're sick you're trash, playful saying)"
+      }
     ],
     "GREET_JOB": [
-      "두부 고생해써!",
-      "둡깅 수고했어!",
-      "김다현 최고다!",
-      "오늘도 빛나는 둡!",
-      "고생했둡!"
+      {
+        "text": "둡깅 수고했어!",
+        "meaning_ja": "豆腐ちゃん、お疲れ様！",
+        "meaning_en": "Dahyun-baby, you worked hard! (둡깅 - Dubu-baby, Dubu is a nickname for Dahyun referring to her white skin. Emphasis on cuteness and praise)"
+      },
+      {
+        "text": "흥둡력 만렙!",
+        "meaning_ja": "ドゥブのポテンシャル、レベルMAX！",
+        "meaning_en": "Dahyun's energy, level MAX! (흥 - Heung, meaning excitement/energy. Man-level = maximum level. Suggests Dahyun's boundless energy even when tired.)"
+      },
+      {
+        "text": "오늘도 둡채력 풀충전!",
+        "meaning_ja": "今日も豆腐チャージ満タン！",
+        "meaning_en": "Dahyun's charm fully charged today too! (둡채력 - Dubu's charm/power. Full charge means fully ready to shine despite hard work)"
+      },
+      {
+        "text": "둡리더 고생했둡!",
+        "meaning_ja": "豆腐リーダー、お疲れ様ドゥブ！",
+        "meaning_en": "Dubu-leader, you worked hard Dubu! (Adding Dubu at the end is a cute and playful way to emphasize it's for Dahyun, like a stamp of affection. 고생했둡 (gosaenghaedup) is play on 고생했어 (you worked hard) using Dubu's nickname)"
+      },
+      {
+        "text": "둡와이스 덕분에 힘난다!",
+        "meaning_ja": "豆腐ワイスのおかげで元気が出る！",
+        "meaning_en": "Thanks to Dubu-TWICE, I feel energized! (Combines Dubu and TWICE, expressing gratitude for Dahyun's hard work and positive impact on the group.)"
+      }
     ]
   },
   "Chaeyoung": {
     "LOVE_GENERAL": [
-      "챙, 완전 사랑해!",
-      "딸기 공주 최고!",
-      "채영 없인 못 살아",
-      "째욘 사랑둥이ㅠ",
-      "오늘도 챙이 빛!"
+      {
+        "text": "챙랑해",
+        "meaning_ja": "チェヨン愛してる！",
+        "meaning_en": "I Chaeyoung you! (A play on \"사랑해\" - I love you, replacing \"사랑\" with \"Chaeyoung\")"
+      },
+      {
+        "text": "챙잘알",
+        "meaning_ja": "チェヨンのことなら何でも知ってる！",
+        "meaning_en": "Chaeyoung Expert! (Means someone who knows everything about Chaeyoung)"
+      },
+      {
+        "text": "챙파고",
+        "meaning_ja": "チェヨン博士",
+        "meaning_en": "Chaeyoung PhD/Dr. Chaeyoung (Implies someone who knows an extreme amount of trivia/facts about Chaeyoung)"
+      },
+      {
+        "text": "입덕 부정기는 끝났다, 챙며들었다!",
+        "meaning_ja": "入信否定期は終わった、チェヨンに染まった！",
+        "meaning_en": "I'm past the denial stage, I've completely fallen for Chaeyoung! (입덕 means \"entering the fandom,\" 부정기 means \"denial stage,\" 챙며들었다 is \"being permeated/influenced by Chaeyoung\")"
+      },
+      {
+        "text": "채며들다 못해 뼈를 묻는다!",
+        "meaning_ja": "チェヨンにハマりすぎて骨を埋める！",
+        "meaning_en": "I'm so hooked on Chaeyoung, I'll stay with her forever! (뼈를 묻는다 literally means \"burying one's bones,\" implying staying in a place for a very long time)"
+      }
     ],
     "LOVE_DEEP": [
-      "챙아, 뼈 묻을게!",
-      "딸기공주, 찐사랑!",
-      "채영 없인 못 살아!",
-      "최애는 채영 뿐!",
-      "아기맹수, 내 전부!"
+      {
+        "text": "챙잘알",
+        "meaning_ja": "チェヨンのことなら何でも知ってる！",
+        "meaning_en": "Knows Chaeyoung inside and out! (Lit. \"Chaeyoung expert\")"
+      },
+      {
+        "text": "딸기공주 챙",
+        "meaning_ja": "いちご姫チェヨン",
+        "meaning_en": "Strawberry Princess Chaeyoung"
+      },
+      {
+        "text": "챙랑해",
+        "meaning_ja": "チェヨンと結婚したい！",
+        "meaning_en": "I want to marry Chaeyoung! (Hyperbolic love)"
+      },
+      {
+        "text": "노잼챙 No Jam 챙",
+        "meaning_ja": "つまらないチェヨン (でも可愛い)",
+        "meaning_en": "No Jam Chaeyoung (But still cute) *This is a playful self-deprecating meme used for Chaeyoung.*"
+      },
+      {
+        "text": "챙카소",
+        "meaning_ja": "チェヨンカソ",
+        "meaning_en": "Chaeyoung-casso (referring to her artistic talents like Picasso)"
+      }
     ],
     "REQ_MARRY": [
-      "챙아, 나랑결혼!",
-      "딸기공주, 내 신부!",
-      "채영 없인 못 살아",
-      "손챙, 💍 줄게!",
-      "결혼, 운명이야!"
+      {
+        "text": "챙랑해!",
+        "meaning_ja": "ソンちゃん愛してる！結婚して！",
+        "meaning_en": "Chaeyoung, I love you! Marry me!"
+      },
+      {
+        "text": "채프린세스, 내 왕관 받아줘!",
+        "meaning_ja": "チェプリンセス、私の王冠を受け取って！",
+        "meaning_en": "Chaeyoung Princess, accept my crown (ring)!"
+      },
+      {
+        "text": "쌈무쌈무, 내 신부!",
+        "meaning_ja": "サムムサムム、僕の花嫁！",
+        "meaning_en": "Ssammu Ssammu, be my bride! (쌈무 is often associated with Chaeyoung's cuteness)"
+      },
+      {
+        "text": "딸기공주, 결혼하자!",
+        "meaning_ja": "イチゴ姫、結婚しよう！",
+        "meaning_en": "Strawberry Princess, let's get married! (Chaeyoung is often associated with strawberries.)"
+      },
+      {
+        "text": "챙아, 내 인생 베팅!",
+        "meaning_ja": "チェヨン、僕の人生をベッティング！",
+        "meaning_en": "Chaeyoung, I'm betting my life on you! (Implies serious commitment)"
+      }
     ],
     "MISS_YOU": [
-      "챙아 보고싶다!",
-      "딸기 공주 보고파!",
-      "채영 없인 못 살아!",
-      "퉆챙 너무 보고싶어😭",
-      "아기맹수 보고싶엉!"
+      {
+        "text": "챙깅아 보고 싶다 ㅠ",
+        "meaning_ja": "チェヨン恋しいよ(泣)",
+        "meaning_en": "Chaeyoung, I miss you so much (crying)!"
+      },
+      {
+        "text": "챙아 내 심장에 무임승차",
+        "meaning_ja": "チェヨン、私の心に無賃乗車",
+        "meaning_en": "Chaeyoung, you're riding on my heart for free! (You occupy my thoughts)"
+      },
+      {
+        "text": "챙프리카 보고싶어 죽겠네",
+        "meaning_ja": "챙프リカ会いたくて死にそう",
+        "meaning_en": "Chaeyoung-frica (playful nickname) I miss you to death!"
+      },
+      {
+        "text": "챙아! 떡볶이 데이트 콜?",
+        "meaning_ja": "챙！トッポッキデート、どう？",
+        "meaning_en": "Chaeyoung! Tteokbokki date, what do you say? (Implies wanting to see her)"
+      },
+      {
+        "text": "챙이 보고파서 현기증 난다",
+        "meaning_ja": "챙に会いたすぎてめまいがする",
+        "meaning_en": "I'm so dizzy from missing Chaeyoung!"
+      }
     ],
     "PROMISE_FOREVER": [
-      "챙아 평생 가자!",
-      "딸기공주 영원히!",
-      "채빵 영원 약속!",
-      "채영아 꽃길만!",
-      "넘나 좋은 채!"
+      {
+        "text": "챙맘",
+        "meaning_ja": "チェヨンママ (笑)",
+        "meaning_en": "Chaeyoung Mom (LOL, meaning someone who fiercely cares for Chaeyoung)"
+      },
+      {
+        "text": "둡챙뽀에버",
+        "meaning_ja": "ダチェン永遠に",
+        "meaning_en": "DubChaeng Forever (Referring to a popular ship between Dahyun and Chaeyoung, forever.)"
+      },
+      {
+        "text": "딸기챙",
+        "meaning_ja": "イチゴチェヨン",
+        "meaning_en": "Strawberry Chaeyoung (Strawberry = Chaeyoung's nickname, so \"Strawberry Chaeyoung\" implies sweetness & adoration)"
+      },
+      {
+        "text": "챙랑해",
+        "meaning_ja": "チェヨン愛してる",
+        "meaning_en": "Chaeyoung, I love you. (A cute way to express love for Chaeyoung)"
+      },
+      {
+        "text": "원스챙이",
+        "meaning_ja": "ONCEはチェヨン推し",
+        "meaning_en": "ONCE loves Chaeyoung. (Expressing the ONCE fandom's love for Chaeyoung.)"
+      }
     ],
     "CONGRAT_BDAY": [
-      "챙뇽 탄신일!",
-      "딸기공주 ㅊㅋ!",
-      "채영아, 꽃길만!",
-      "둡챙 영원히!",
-      "퉆챙 행복해!"
+      {
+        "text": "챙랑해",
+        "meaning_ja": "チェヨン愛してる！",
+        "meaning_en": "Chaeyoung, I love you! (Combines Chaeyoung's name with \"saranghae,\" making it a cute, personal declaration of love.)"
+      },
+      {
+        "text": "딸기 공주",
+        "meaning_ja": "いちご姫",
+        "meaning_en": "Strawberry Princess (Referring to Chaeyoung's love of strawberries)"
+      },
+      {
+        "text": "둡챙 케미 짱!",
+        "meaning_ja": "ダヒョンとチェヨンのケミ最高！",
+        "meaning_en": "Dahyun & Chaeyoung chemistry is the best! (A cheer about the popular Dahyun & Chaeyoung pairing)"
+      },
+      {
+        "text": "Chaeyoung is 뭔들",
+        "meaning_ja": "チェヨンは何でも最高！",
+        "meaning_en": "Chaeyoung is perfect no matter what! (Expresses that Chaeyoung looks good in everything)"
+      },
+      {
+        "text": "노잼시기 극복!",
+        "meaning_ja": "つまらない時期を克服！",
+        "meaning_en": "Overcome the boring times! (A supportive message for Chaeyoung, telling her to overcome tough times.)"
+      }
     ],
     "CHEER_UP": [
-      "챙 짱!",
-      "딸기 공주 홧팅!",
-      "채영아, 꽃길만!",
-      "툽깅이 최고!",
-      "채영 is 뭔들!"
+      {
+        "text": "챙잘알",
+        "meaning_ja": "チェヨンのことなら何でも知ってる！",
+        "meaning_en": "Chaeyoung know-it-all (Someone who knows everything about Chaeyoung!)"
+      },
+      {
+        "text": "챙랑해",
+        "meaning_ja": "チェヨン愛してる！",
+        "meaning_en": "I Chaeyoung you! (I love Chaeyoung!) - Play on \"Saranghae\""
+      },
+      {
+        "text": "챙깅이",
+        "meaning_ja": "チェヨン可愛い子！",
+        "meaning_en": "Chaeyoung cutie!"
+      },
+      {
+        "text": "딸기공주 챙",
+        "meaning_ja": "いちご姫チェヨン",
+        "meaning_en": "Strawberry Princess Chaeyoung!"
+      },
+      {
+        "text": "넘챙스럽다",
+        "meaning_ja": "チェヨンはマジ最高！",
+        "meaning_en": "So Chaeyoung-like! (Over-the-top Chaeyoung, in a good way)"
+      }
     ],
     "PRAISE_GOD": [
-      "챙신강림!",
-      "딸기천사 채영!",
-      "갓채영 찬양해!",
-      "채영 없인 못 살아",
-      "넘사벽 손채영"
+      {
+        "text": "챙잘알",
+        "meaning_ja": "チェヨンのことなら何でも知ってる",
+        "meaning_en": "Knows Chaeyoung inside and out (a true Chaeyoung expert!)"
+      },
+      {
+        "text": "딸기 공주",
+        "meaning_ja": "いちご姫",
+        "meaning_en": "Strawberry Princess (referencing Chaeyoung's love for strawberries)"
+      },
+      {
+        "text": "노잼시티 탈출",
+        "meaning_ja": "退屈な街からの脱出",
+        "meaning_en": "Escape from Boring City (referencing a common joke/meme in kpop)"
+      },
+      {
+        "text": "힙챙",
+        "meaning_ja": "ヒップなチェヨン",
+        "meaning_en": "Hip Chaeyoung (referencing Chaeyoung's cool and stylish vibe)"
+      },
+      {
+        "text": "Chaeyoung is 뭔들",
+        "meaning_ja": "チェヨンは何でもあり",
+        "meaning_en": "Chaeyoung can pull off anything (because she's amazing)"
+      }
     ],
     "PRAISE_VISUAL": [
-      "챙프 갓 비주얼!",
-      "딸기 공주님, 존예!",
-      "채영아, 덕분에 산다!",
-      "존귀탱 채영!",
-      "노랑 머리 찰떡!"
+      {
+        "text": "챙잘알",
+        "meaning_ja": "チェヨンのことなら何でも知ってる (Chaeyong no koto nara nan demo shitteru)",
+        "meaning_en": "Knows everything about Chaeyoung (a true fan)"
+      },
+      {
+        "text": "챙깅이",
+        "meaning_ja": "チェヨンかわいすぎ (Chaeyong kawaisugi)",
+        "meaning_en": "Chaeyoung is too cute! (expresses extreme cuteness)"
+      },
+      {
+        "text": "챙아사랑해",
+        "meaning_ja": "チェヨン愛してる (Chaeyong aishiteru)",
+        "meaning_en": "Chaeyoung, I love you!"
+      },
+      {
+        "text": "챙프로디테",
+        "meaning_ja": "チェヨン、アフロディーテみたい (Chaeyong, Afurodiite mitai)",
+        "meaning_en": "Chaeyoung, like Aphrodite (comparing her to a goddess of beauty)"
+      },
+      {
+        "text": "얼굴천재 챙",
+        "meaning_ja": "顔面天才チェヨン (Ganmen tensai Chaeyong)",
+        "meaning_en": "Face genius Chaeyoung (praising her visual)"
+      }
     ],
     "PRAISE_FACE": [
-      "챙 얼굴이 복지다",
-      "딸기 공주 미모 미쳤다",
-      "채영 is 뭔들",
-      "인간 딸기 조각상",
-      "갓챙 비주얼 실화냐"
+      {
+        "text": "챙또예!",
+        "meaning_ja": "チェヨンまた可愛い！",
+        "meaning_en": "Chaeyoung's cute again! (Expressing she's always cute)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉だ",
+        "meaning_en": "Her face is welfare (Meaning her beauty is a blessing)."
+      },
+      {
+        "text": "채영 is 뭔들",
+        "meaning_ja": "チェヨン is 何でも良い",
+        "meaning_en": "Chaeyoung is good at everything/can pull off anything. (Implying her beauty makes anything look good)."
+      },
+      {
+        "text": "채며들다",
+        "meaning_ja": "チェヨンに染み込む",
+        "meaning_en": "Falling for Chaeyoung (Getting hooked on her beauty/charm)."
+      },
+      {
+        "text": "인간 벚꽃 채영",
+        "meaning_ja": "人間桜チェヨン",
+        "meaning_en": "Human Cherry Blossom Chaeyoung (Comparing her beauty to a beautiful cherry blossom)."
+      }
     ],
     "REQ_HEART": [
-      "챙이 하트 줘!",
-      "아기맹수 ❤️ 줘!",
-      "딸기 공주 손하트!",
-      "채영아, 🫶 해줘!",
-      "툽이 손하트 필승!"
+      {
+        "text": "챙 is 뭔들",
+        "meaning_ja": "どんなチェヨンも最高！",
+        "meaning_en": "Everything Chaeyoung does is amazing! (Implying heart-fluttering perfection)"
+      },
+      {
+        "text": "챙냥이 is 뭔들",
+        "meaning_ja": "チェヨンニャンはマジ天使！",
+        "meaning_en": "Chaeyoungie-nyang is a total angel! (Referring to her cat-like cuteness and requesting heart with it)"
+      },
+      {
+        "text": "챙아 사랑둥이",
+        "meaning_ja": "チェヨン、愛されっ子！",
+        "meaning_en": "Chaeyoung, you're such a sweetheart! (Inviting her to show heart to everyone)"
+      },
+      {
+        "text": "넘사벽 챙",
+        "meaning_ja": "超えられない壁、チェヨン",
+        "meaning_en": "The unbeatable Chaeyoung! (Using her untouchable beauty to request heart pose)"
+      },
+      {
+        "text": "심쿵챙!",
+        "meaning_ja": "ドキドキさせるチェヨン！",
+        "meaning_en": "Heart-stopping Chaeyoung! (She already stole my heart, but I am requesting finger heart again)"
+      }
     ],
     "HEALTH_EAT": [
-      "챙잘먹!",
-      "딸챙 맛저!",
-      "아기맹수 냠냠!",
-      "챙슐랭 등극!",
-      "채영이 밥길만!"
+      {
+        "text": "챙잘먹",
+        "meaning_ja": "ちゃんとおいしいもの食べてね！",
+        "meaning_en": "Eat well, Chaeyoung! (Said with affection)"
+      },
+      {
+        "text": "밥 잘 챙겨 챙!",
+        "meaning_ja": "ご飯ちゃんと食べてね、チェヨン！",
+        "meaning_en": "Make sure you eat your meals, Chaeyoung! (Cute & encouraging)"
+      },
+      {
+        "text": "냠냠굿 챙!",
+        "meaning_ja": "もぐもぐ、おいしいね、チェヨン！",
+        "meaning_en": "Yummy yummy good, Chaeyoung! (Focuses on the enjoyment of eating)"
+      },
+      {
+        "text": "단짠챙하세요!",
+        "meaning_ja": "甘いものとしょっぱいもの、バランス良く食べてね！",
+        "meaning_en": "Get your sweet and savory, Chaeyoung! (Encourages balanced eating)"
+      },
+      {
+        "text": "위 건강 챙!",
+        "meaning_ja": "胃の健康も大事にしてね、チェヨン！",
+        "meaning_en": "Take care of your stomach health, Chaeyoung! (Wishes good health and focuses on digestion)"
+      }
     ],
     "HEALTH_CARE": [
-      "챙아, 아프지마!",
-      "딸기공주 건강해!",
-      "챙이 감기 훠이훠이!",
-      "채영이 꽃길만, 건강길만!",
-      "챙, 몸 챙겨!"
+      {
+        "text": "챙프 감기 뚝!",
+        "meaning_ja": "チェヨンちゃん、風邪なんか吹っ飛ばせ！",
+        "meaning_en": "Chaeyoung, kick that cold away! (Focuses on Chaeyoung being strong against illness)"
+      },
+      {
+        "text": "딸기공주 아프지망고!",
+        "meaning_ja": "いちご姫、痛くないでマンゴー！(大丈夫だよ！)",
+        "meaning_en": "Strawberry Princess, don't be in pain, Mango! (It's okay! / You'll be fine!) (Uses \"mang-go\" as a pun meaning it's okay)"
+      },
+      {
+        "text": "챙이 꽃길만 걸어, 건강길도!",
+        "meaning_ja": "チェヨン、花の道だけを歩こう、健康の道もね！",
+        "meaning_en": "Chaeyoung, walk only on flower paths, and healthy paths too! (Implies wishing her both success and health)"
+      },
+      {
+        "text": "우리 챙픈 감기몬스터 훠이훠이!",
+        "meaning_ja": "私たちのチェヨンペン、風邪モンスターはあっちへ行け！",
+        "meaning_en": "Our Chaeyoung fan, shoo away the cold monster! (Uses a playful way to banish illness)"
+      },
+      {
+        "text": "챙냥이 따뜻하게 덮어줄게!",
+        "meaning_ja": "チェヨンニャン、暖かくしてあげるね！",
+        "meaning_en": "I'll keep Chaeyoung warm! (Playfully refers to Chaeyoung as \"cat\" and expresses care for her well-being)"
+      }
     ],
     "GREET_JOB": [
-      "챙아, 수고했어!",
-      "딸기 공주, 고생했어!",
-      "채영아, 다 했어? 푹 쉬어!",
-      "툽, 오늘도 짱!",
-      "챙, 최고였어!"
+      {
+        "text": "챙깅이 수고했챙!",
+        "meaning_ja": "챙깅、お疲れ様！",
+        "meaning_en": "Chaeyoungie, you worked hard! (Uses \"Chaengging,\" a nickname for Chaeyoung, for extra cuteness.)"
+      },
+      {
+        "text": "딸기공주 최고챙!",
+        "meaning_ja": "イチゴ姫、最高！",
+        "meaning_en": "Strawberry Princess, you're the best! (Highlights Chaeyoung's love for strawberries.)"
+      },
+      {
+        "text": "챙잘알, 오늘도 빛챙!",
+        "meaning_ja": "ちゃんとチェヨンを知ってる、今日も輝いてる！",
+        "meaning_en": "You know Chaeyoung well, shining brightly today! (This plays on fans who know Chaeyoung inside and out, and praises her shine.)"
+      },
+      {
+        "text": "오늘도 챙! 내일도 챙!",
+        "meaning_ja": "今日もチェヨン！明日もチェヨン！",
+        "meaning_en": "Chaeyoung today! Chaeyoung tomorrow! (Simple and repetitive, a common cheering style in K-pop)"
+      },
+      {
+        "text": "챙이 짱! 수고했챙!",
+        "meaning_ja": "チェヨンが一番！お疲れ様！",
+        "meaning_en": "Chaeyoung is the best! You worked hard! (A straightforward compliment with an added \"Chaeng\" for flair)"
+      }
     ]
   },
   "Tzuyu": {
     "LOVE_GENERAL": [
-      "쯔위 is 뭔들!",
-      "쯔뭉이 사랑해!",
-      "쯔위 없인 못 살아!",
-      "쯔며들다…♥",
-      "쯔냥 is 뭔들!"
+      {
+        "text": "쯔뭉이 is 뭔들",
+        "meaning_ja": "쯔뭉이なら何でも良い",
+        "meaning_en": "Tzuyu is perfect no matter what she does. (Expressing love and acceptance of everything Tzuyu does. \"뭔들\" implies that everything is good because it's her.)"
+      },
+      {
+        "text": "쯔며들다",
+        "meaning_ja": "쯔ウィにハマる",
+        "meaning_en": "To slowly fall for Tzuyu. (Describing the gradual process of becoming a Tzuyu fan.)"
+      },
+      {
+        "text": "입덕 부정기는 쯔위 앞에선 무용지물",
+        "meaning_ja": "入徳否定期はツウィの前では無用",
+        "meaning_en": "Denial of being a fan is useless in front of Tzuyu. (Humorously suggesting Tzuyu is so captivating, resisting fandom is impossible.)"
+      },
+      {
+        "text": "얼굴이 복지다, 쯔위!",
+        "meaning_ja": "顔が福祉だ、ツウィ！",
+        "meaning_en": "Your face is welfare, Tzuyu! (Meaning Tzuyu's beauty is so incredible, it brings happiness and good fortune like welfare benefits.)"
+      },
+      {
+        "text": "쯔위 때문에 내 심장이 endangered species",
+        "meaning_ja": "ツウィのせいで私の心臓は絶滅危惧種",
+        "meaning_en": "Tzuyu makes my heart an endangered species. (Hyperbolically stating that Tzuyu's beauty is so overwhelming, it's putting your heart at risk.)"
+      }
     ],
     "LOVE_DEEP": [
-      "주희야, 찐사랑!",
-      "쯔뭉이 맘에 꾹!",
-      "쯔위 is 뭔들!",
-      "쯔며들다...♥",
-      "쯔쯔, 내 전부!"
+      {
+        "text": "둡챙나챙",
+        "meaning_ja": "ダブチェン、私チェン！(愛してるよ！)",
+        "meaning_en": "Dubu Chaeyoung, I love Chaeyoung! (Implies loving Tzuyu in the same way someone loves Dahyun and Chaeyoung - deep affection)"
+      },
+      {
+        "text": "쯔뭉이 최고",
+        "meaning_ja": "쯔뭉が最高！(愛してる!)",
+        "meaning_en": "Tzuyu-moongi is the best! (I love her!) (Tzuyu-moongi is a nickname combining Tzuyu and 'moongchi' meaning soft/fluffy)"
+      },
+      {
+        "text": "쯔위 is 뭔들",
+        "meaning_ja": "ツウィは何でも最高！(愛してるからね!)",
+        "meaning_en": "Tzuyu is perfect no matter what! (Because I love you!) (Means Tzuyu is good no matter what she does.)"
+      },
+      {
+        "text": "오늘부터 1일 쯔며들다",
+        "meaning_ja": "今日から1日、ツウィにハマる！(大好き！)",
+        "meaning_en": "Day 1 of falling for Tzuyu! (I love her!) (Emphasizes a renewed or deepening love for Tzuyu.)"
+      },
+      {
+        "text": "쯔렐루야",
+        "meaning_ja": "ツウィレルヤ！(愛してる、神！)",
+        "meaning_en": "Tzuyu-lujah! (I love you, God!) (Playful expression combining Tzuyu's name with 'Hallelujah' to express intense joy and adoration.)"
+      }
     ],
     "REQ_MARRY": [
-      "주희야, 나랑 결혼!",
-      "쯔뭉아, 나와 살아!",
-      "우리 쯔위, 내 신부!",
-      "결혼해줘, 쯔뭉ㅠㅠ",
-      "주희 없인 못 살아!"
+      {
+        "text": "주쯔윗 결혼해줘",
+        "meaning_ja": "チュウィと結婚してくれ (onegai)",
+        "meaning_en": "Tzuyu, please marry me (I'm begging you)!"
+      },
+      {
+        "text": "쯔며들다 내 인생 책임져",
+        "meaning_ja": "チュウィにハマって私の人生責任取って",
+        "meaning_en": "I've fallen for Tzuyu, take responsibility for my life! (A playful way of saying you're devoted)"
+      },
+      {
+        "text": "얼굴이 복지다 쯔위",
+        "meaning_ja": "顔が福祉だ、ツウィ",
+        "meaning_en": "Tzuyu's face is welfare (her beauty is a blessing)!"
+      },
+      {
+        "text": "쯔뭉이 is 뭔들",
+        "meaning_ja": "쯔뭉이 は何でも良い",
+        "meaning_en": "Anything Tzuyu does is great (Tzuyu is perfect no matter what)!"
+      },
+      {
+        "text": "쯔랑해! 내 심장 가져가",
+        "meaning_ja": "ツウィ愛してる！私の心臓もってって",
+        "meaning_en": "I love Tzuyu! Take my heart!"
+      }
     ],
     "MISS_YOU": [
-      "쯔뭉이 보고파!",
-      "자유 ㅠㅠ 보고 싶어!",
-      "쯔위 없인 못 살아!",
-      "막내온탑 보고파!",
-      "내 심장에 쯔위!"
+      {
+        "text": "쯔뭉 보고 싶다! (Tzuyu mung bogo shipda!)",
+        "meaning_ja": "ツウィ餅会いたい！(Tzuyu mochi aitai!)",
+        "meaning_en": "I miss Tzuyu (like a soft, cute rice cake)! (Emphasizes Tzuyu's cuteness & the longing to see her)"
+      },
+      {
+        "text": "쯔며들다… (Tzuyu myeo-deulda…)",
+        "meaning_ja": "ツウィに染み込む… (Tzuyu ni shimi komu…)",
+        "meaning_en": "I'm becoming imbued/absorbed with Tzuyu… (Implies falling deeply for Tzuyu & wanting her presence.)"
+      },
+      {
+        "text": "내 심장 쯔쿵! (Nae simjang Tzuyu-kung!)",
+        "meaning_ja": "私の心臓、ツウィキュン！(Watashi no shinzou, Tzuyu-kyun!)",
+        "meaning_en": "My heart goes 'Tzuyu-kung'! (Expresses the heart flutter when thinking of Tzuyu, mimicking the sound of a heartbeat.)"
+      },
+      {
+        "text": "쯔구싶다 (Tzuyu-go shipda)",
+        "meaning_ja": "ツウィに会いたくて震える (Tzuyu ni aitakute furueru)",
+        "meaning_en": "I'm trembling with how much I want to see Tzuyu! (Exaggerated expression of missing someone intensely. The \"go\" adds a cute/playful feel.)"
+      },
+      {
+        "text": "인생은 쯔위 (Insaeng-eun Tzuyu)",
+        "meaning_ja": "人生はツウィ (Jinsei wa Tzuyu)",
+        "meaning_en": "Life is Tzuyu (Expresses that Tzuyu makes life better, and that life isn't as fulfilling without her)"
+      }
     ],
     "PROMISE_FOREVER": [
-      "쯔위 곁에 영원히",
-      "우리 쯔뭉 영원히!",
-      "자유 쯔위, 쭉 가자!",
-      "쯔쯔랑 평생 함께!",
-      "쯔위 사랑해 영원히"
+      {
+        "text": "럽유쏘마치 쯔위",
+        "meaning_ja": "愛してるよ、本当に！ツウィ",
+        "meaning_en": "Love you so much, Tzuyu! (Emphasizing enduring affection)"
+      },
+      {
+        "text": "쯔며들다 영원히",
+        "meaning_ja": "ツウィに染み込むように永遠に",
+        "meaning_en": "To be forever permeated by Tzuyu (Implying a lasting influence)"
+      },
+      {
+        "text": "쯔깅이 꽃길만 걸어",
+        "meaning_ja": "ツウィたん、花の道だけを歩んでね",
+        "meaning_en": "Tzuyu-baby, only walk the flower path (Wishing her only good things forever)"
+      },
+      {
+        "text": "내 맘속에 쯔착! 영원히!",
+        "meaning_ja": "私の心にツウィが着席！永遠に！",
+        "meaning_en": "Tzuyu is settled in my heart! Forever! (Expressing a permanent place in the fan's heart)"
+      },
+      {
+        "text": "쯔랑둥이 뽀에버",
+        "meaning_ja": "ツウィ、愛しい子、永遠に",
+        "meaning_en": "Tzuyu, my precious darling, forever! (A term of endearment with the \"forever\" promise)"
+      }
     ],
     "CONGRAT_BDAY": [
-      "쯔뭉이 탄신!",
-      "쯔위님, 생탄!",
-      "우리 쯔뭉 생일 츄카!",
-      "조쯔, 생일 축복!",
-      "쿼카 공주, 생일해!"
+      {
+        "text": "쯔뭉이 최고!",
+        "meaning_ja": "쯔뭉이 最高！ (쯔뭉이 さいこう！)",
+        "meaning_en": "Tzuyu-moong is the best! (Expressing immense admiration, \"moong\" adds cuteness.)"
+      },
+      {
+        "text": "둡쯔 뽀에버!",
+        "meaning_ja": "ダブツ 永遠に！ (Dabutsu eien ni!)",
+        "meaning_en": "DubTzu Forever! (Referencing the Dahyun/Tzuyu ship, meaning 'forever')"
+      },
+      {
+        "text": "Tzuyu 꽃길만 걸어!",
+        "meaning_ja": "Tzuyu 花道だけを歩いて！(Tzuyu hanamichi dake o aruite!)",
+        "meaning_en": "Tzuyu, only walk the flower path! (Wishing her success and happiness in her career.)"
+      },
+      {
+        "text": "쯔위 is 뭔들",
+        "meaning_ja": "ツウィは何でも！ (Tzuyu wa nandemo!)",
+        "meaning_en": "Tzuyu is good at everything! / Tzuyu makes anything work! (Expressing that she excels at anything she tries.)"
+      },
+      {
+        "text": "내 맘속에 쯔위 저장!",
+        "meaning_ja": "私の心の中にツウィ保存！ (Watashi no kokoro no naka ni Tzuyu hozon!)",
+        "meaning_en": "Tzuyu, saved in my heart! (Expressing how loved she is)."
+      }
     ],
     "CHEER_UP": [
-      "쯔뭉이 홧팅!",
-      "자유 🌸 응원해!",
-      "쯔위야, 빛나리!",
-      "우리 쯔 짱!",
-      "막내온탑 🆙!"
+      {
+        "text": "쯔뭉이 최고!",
+        "meaning_ja": "쯔뭉이 最高！(マジ最高！)",
+        "meaning_en": "Tzuyu is the best! (Seriously the best!)"
+      },
+      {
+        "text": "사나없이 사나마나 쯔위없이 못살아",
+        "meaning_ja": "サナなしでは生きられない、ツウィなしでは生きられない",
+        "meaning_en": "Without Sana, it's pointless to live. I can't live without Tzuyu. (Play on a viral phrase)"
+      },
+      {
+        "text": "쯔위 is 뭔들",
+        "meaning_ja": "ツウィは何でもアリ(最高)",
+        "meaning_en": "Tzuyu can pull off anything (is amazing)."
+      },
+      {
+        "text": "쯔깅이 꽃길만 걸어!",
+        "meaning_ja": "쯔ギちゃん、花の道だけを歩んで！",
+        "meaning_en": "Tzuyu, walk only on flower paths! (Wishing only good things)"
+      },
+      {
+        "text": "쯔며들다",
+        "meaning_ja": "쯔ウィにハマる",
+        "meaning_en": "To slowly fall for Tzuyu (becoming more and more of a fan)"
+      }
     ],
     "PRAISE_GOD": [
-      "쯔위는 신이다!",
-      "쯔여신 강림!",
-      "갓쯔위 만세!",
-      "우리 쯔뭉신!",
-      "쯔멘🙏"
+      {
+        "text": "쯔갓사",
+        "meaning_ja": "ツウィ様マジ神",
+        "meaning_en": "Tzuyu-sama is truly a god!"
+      },
+      {
+        "text": "미모가 국보급",
+        "meaning_ja": "美貌が国宝級",
+        "meaning_en": "Her beauty is a national treasure!"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉だ",
+        "meaning_en": "Her face is welfare/a blessing!"
+      },
+      {
+        "text": "무대찢었다",
+        "meaning_ja": "ステージを破った",
+        "meaning_en": "She slayed the stage! (lit. Tore up the stage)"
+      },
+      {
+        "text": "입덕 부정은 없다",
+        "meaning_ja": "入徳否定はない",
+        "meaning_en": "There's no denying becoming a fan! (lit. There's no denying entering fandom)"
+      }
     ],
     "PRAISE_VISUAL": [
-      "쯔위 얼굴이 복지다!",
-      "막내온탑 미모 실화?",
-      "쯔뭉이 비주얼 만세!",
-      "쯔위 is 뭔들!",
-      "쯔렐루야!"
+      {
+        "text": "쯔뭉이",
+        "meaning_ja": "ツウィ餅 (可愛い)",
+        "meaning_en": "Tzuyu Mochi (So Cute)"
+      },
+      {
+        "text": "갓쯔위",
+        "meaning_ja": "神ツウィ (最高)",
+        "meaning_en": "God Tzuyu (The Best)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉 (国宝級)",
+        "meaning_en": "Her face is welfare (National Treasure Level)"
+      },
+      {
+        "text": "쯔며들다",
+        "meaning_ja": "ツウィに染まる (ハマる)",
+        "meaning_en": "To Tzuyu-permeate (To fall for Tzuyu)"
+      },
+      {
+        "text": "쯔비드",
+        "meaning_ja": "ツウィ + デビッド (彫刻美)",
+        "meaning_en": "Tzuyu + David (Sculptural Beauty)"
+      }
     ],
     "PRAISE_FACE": [
-      "쯔위 얼굴이 복지다",
-      "얼굴 천재 쯔뭉이!",
-      "비주얼 여신 쯔위!",
-      "쯔위 미모 미쳤다!",
-      "우리 쯔 얼굴 최고!"
+      {
+        "text": "쯔뭉이 is 뭔들",
+        "meaning_ja": "ツウィちゃんは何でも最高",
+        "meaning_en": "Tzuyu is perfect no matter what (she does/wears)!"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉",
+        "meaning_en": "Her face is welfare (meaning it brings happiness and good fortune)."
+      },
+      {
+        "text": "비주얼 천재 만재 갓주희",
+        "meaning_ja": "ビジュアル天才、満載、ゴッド・ツウィ",
+        "meaning_en": "Visual genius, overflowing, God Tzuyu (a term of high praise)."
+      },
+      {
+        "text": "주희 is 뭔들 안 예쁘겠어",
+        "meaning_ja": "ツウィちゃんは何でも可愛いに決まってる",
+        "meaning_en": "What wouldn't be beautiful on Tzuyu? (Implies everything looks good on her)."
+      },
+      {
+        "text": "인생은 주희처럼",
+        "meaning_ja": "人生はツウィみたいに",
+        "meaning_en": "Life should be like Tzuyu (meaning beautiful and blessed)."
+      }
     ],
     "REQ_HEART": [
-      "쯔뭉이, 🩷해줘!",
-      "자유, 손하트!",
-      "우리 쯔위, 🫶plz!",
-      "쯔부리, 하트 뿅!",
-      "막내온탑, ❤️날려!"
+      {
+        "text": "쯔뭉이",
+        "meaning_ja": "ツウィたんかわいすぎ",
+        "meaning_en": "Tzuyu is too cute!"
+      },
+      {
+        "text": "샤샤샤",
+        "meaning_ja": "シャシャシャ (可愛さ爆発)",
+        "meaning_en": "Shya Shya Shya (bursting with cuteness)"
+      },
+      {
+        "text": "둡챙쯔",
+        "meaning_ja": "ダヒョン、チェヨン、ツウィ最高",
+        "meaning_en": "Dahyun, Chaeyoung, Tzuyu are the best!"
+      },
+      {
+        "text": "원스라서 행복해",
+        "meaning_ja": "Onceで幸せ",
+        "meaning_en": "Happy to be a ONCE"
+      },
+      {
+        "text": "우리 댕댕이",
+        "meaning_ja": "私たちのわんこ (可愛い子)",
+        "meaning_en": "Our puppy (cute person)"
+      }
     ],
     "HEALTH_EAT": [
-      "쯔뭉이 맘마!",
-      "쯔뭉쯔뭉 밥 먹어!",
-      "자유, 맛점해줘!",
-      "우리 쯔위 냠냠!",
-      "쯔 다 먹어랏!"
+      {
+        "text": "쯔뭉이 밥길만 걸어!",
+        "meaning_ja": "ツウィたん、美味しいものだけ食べてね！",
+        "meaning_en": "Tzuyu, only walk the path where good food is! (Meaning: Only good things, especially delicious food, should come your way!)"
+      },
+      {
+        "text": "먹쯔위 건강쯔위!",
+        "meaning_ja": "食べるツウィ、健康なツウィ！",
+        "meaning_en": "Eating Tzuyu, Healthy Tzuyu! (Meaning: We want to see you eat well and stay healthy!)"
+      },
+      {
+        "text": "굶지마 쯔위야!",
+        "meaning_ja": "お腹すかせないでね、ツウィ！",
+        "meaning_en": "Don't go hungry, Tzuyu!"
+      },
+      {
+        "text": "쯔와이스 밥잘챙겨!",
+        "meaning_ja": "TWICE、ご飯ちゃんと食べてね！",
+        "meaning_en": "TWICE, please take care of your meals! (Meaning indirectly focusing on Tzuyu with the wider group in mind)"
+      },
+      {
+        "text": "만두길만 걸어 쯔위야!",
+        "meaning_ja": "餃子の道だけ歩いて、ツウィ！",
+        "meaning_en": "Only walk the path of dumplings, Tzuyu! (Playful and refers to her love of dumplings)"
+      }
     ],
     "HEALTH_CARE": [
-      "쯔뭉아, 아프지마!",
-      "우리 쯔위 건강최고!",
-      "자유 아프면 안돼! ㅠㅠ",
-      "쯔뭉 건강해줘! 제발!",
-      "쯔위야, 감기 뚝!"
+      {
+        "text": "쯔뭉이 감기 조심!",
+        "meaning_ja": "ツウィちゃん、風邪に気をつけてね！",
+        "meaning_en": "Tzuyu-ah, be careful not to catch a cold! (쯔뭉이 - Tzuyu nickname)"
+      },
+      {
+        "text": "챙쯔 건강길만 걷자!",
+        "meaning_ja": "チェンツ、健康な道だけを歩もう！",
+        "meaning_en": "ChaengTzu, let's only walk the healthy path! (챙쯔 - Chaeyoung & Tzuyu ship name)"
+      },
+      {
+        "text": "원스 감기뚝! 쯔위 파워!",
+        "meaning_ja": "ONCEの風邪、すぐ治れ！ツウィパワー！",
+        "meaning_en": "ONCE, get well soon! Tzuyu power! (뚝 - sudden stop, slang for getting better quickly)"
+      },
+      {
+        "text": "아프지망고 쯔위야!",
+        "meaning_ja": "病気にならないでマンゴー、ツウィ！",
+        "meaning_en": "Don't get sick, Mango Tzuyu! (아프지망고 - Play on \"Don't be sick\" + Mango, Tzuyu's favorite fruit)"
+      },
+      {
+        "text": "쯔위 보고 힘내고 감기 훠이훠이!",
+        "meaning_ja": "ツウィを見て元気出して風邪を追い払おう！",
+        "meaning_en": "Look at Tzuyu, get energized, and chase away the cold! (훠이훠이 - onomatopoeia for shooing something away)"
+      }
     ],
     "GREET_JOB": [
-      "쯔뭉이 수고했어!",
-      "자랑스런 쯔위!",
-      "우리 막냉이 최고!",
-      "고생했어, 쯔!",
-      "쯔쯔 힘내라!"
+      {
+        "text": "쯔뭉이 최고!",
+        "meaning_ja": "ツウィちゃんマジ最高！",
+        "meaning_en": "Tzuyu is seriously the best!"
+      },
+      {
+        "text": "둡챙나챙!",
+        "meaning_ja": "ダヒョン、チェヨン、ナヨンしか勝たん！",
+        "meaning_en": "Dahyun, Chaeyoung, Nayeon are the only ones that matter! (Used playfully to emphasize one's bias, but can be adapted to \"쯔위가 최고! - Tzuyu is the best!\")"
+      },
+      {
+        "text": "Tzuyu 덕질은 나의 힘!",
+        "meaning_ja": "ツウィを推すのが私の力！",
+        "meaning_en": "Stanning Tzuyu is my strength!"
+      },
+      {
+        "text": "오늘도 Tzuyu 파워!",
+        "meaning_ja": "今日もツウィパワー！",
+        "meaning_en": "Tzuyu power today too!"
+      },
+      {
+        "text": "Tzuyu 없인 못 살아!",
+        "meaning_ja": "ツウィなしじゃ生きられない！",
+        "meaning_en": "I can't live without Tzuyu!"
+      }
     ]
   }
 }

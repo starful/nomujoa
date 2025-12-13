@@ -1,0 +1,35 @@
+{
+  "General": { "members": [], "colors": ["#ff007f", "#000000"] },
+  "BTS": { 
+    "members": ["RM", "Jin", "Suga", "J-Hope", "Jimin", "V", "Jungkook"],
+    "colors": ["#A286B6", "#000000"] 
+  },
+  "SEVENTEEN": { 
+    "members": ["S.COUPS", "Jeonghan", "Joshua", "Jun", "Hoshi", "Wonwoo", "Woozi", "The8", "Mingyu", "DK", "Seungkwan", "Vernon", "Dino"],
+    "colors": ["#F7CAC9", "#92A8D1"] 
+  },
+  "TWICE": { 
+    "members": ["Nayeon", "Jeongyeon", "Momo", "Sana", "Jihyo", "Mina", "Dahyun", "Chaeyoung", "Tzuyu"],
+    "colors": ["#FF5FA2", "#ECCBA6"] 
+  },
+  "Stray Kids": { 
+    "members": ["Bang Chan", "Lee Know", "Changbin", "Hyunjin", "Han", "Felix", "Seungmin", "I.N"],
+    "colors": ["#000000", "#FF0000"] 
+  },
+  "IVE": { 
+    "members": ["Yujin", "Gaeul", "Rei", "Wonyoung", "Liz", "Leeseo"],
+    "colors": ["#FF0055"] 
+  },
+  "NewJeans": { 
+    "members": ["Minji", "Hanni", "Danielle", "Haerin", "Hyein"],
+    "colors": ["#0058C6", "#FFFFFF"] 
+  },
+  "aespa": { 
+    "members": ["Karina", "Giselle", "Winter", "Ningning"],
+    "colors": ["#9DE6F5", "#5C5C9F"] 
+  },
+  "BLACKPINK": { 
+    "members": ["Jisoo", "Jennie", "Rosé", "Lisa"], 
+    "colors": ["#FF69B4", "#000000"] 
+  }
+}
