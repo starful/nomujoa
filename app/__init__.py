@@ -64,9 +64,19 @@ def load_groups():
 
 @app.route('/')
 def index():
+    # 1. URL 파라미터에서 언어 가져오기 (기본값: ja)
+    lang = request.args.get('lang', 'ja')
+    
     group_data = load_groups()
-    translations = load_translations() # [추가]
-    return render_template('index.html', group_data=group_data, translations=translations)
+    translations = load_translations()
+    
+    # 2. current_lang 변수를 추가해서 HTML로 전달
+    return render_template(
+        'index.html', 
+        group_data=group_data, 
+        translations=translations, 
+        current_lang=lang  # <--- 이 부분이 추가되어야 합니다!
+    )
 
 @app.route('/guide')
 def guide():

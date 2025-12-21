@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="{{ current_lang }}"> <!-- [SEO] 언어 설정 동적 변경 -->
 <head>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-7RN20YED5D"></script>
@@ -14,14 +14,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="canonical" href="https://nomujoa.com/">
     
-    <title>Nomujoa - K-POP Cheering Board & Uchiwa Maker</title>
-    <meta name="description" content="Create K-POP concert slogans and Uchiwa fans instantly with AI translation. K-POP応援ボード、うちわ文字、スローガンをAIで韓国語に翻訳して簡単に作成！">
-    <meta name="keywords" content="K-POP, 推し活, 応援ボード, うちわ文字, スローガン, 韓国語, Nomujoa">
+    <!-- [SEO] Title 및 Description 최적화 -->
+    <title>Nomujoa - K-POP Cheering Board & Slogan Maker (AI Korean Translation)</title>
+    <meta name="description" content="Create K-POP concert slogans, LED boards, and Uchiwa fans instantly with AI translation. Translate 'I love you' into trendy Korean fandom slang. K-POP応援ボード、うちわ文字、スローガンをAIで韓国語に翻訳して簡単に作成！">
+    <meta name="keywords" content="K-POP, Slogan Maker, Uchiwa, 応援ボード, うちわ文字, スローガン, 韓国語, 翻訳, Nomujoa, BTS, SEVENTEEN, TWICE">
     <meta name="author" content="Nomujoa">
 
     <link rel="shortcut icon" href="/static/images/favicon.ico">
     <link rel="icon" href="/static/images/favicon.ico">
 
+    <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://nomujoa.com/">
     <meta property="og:title" content="🇰🇷 Nomujoa - K-POP Cheering Board Maker">
@@ -30,48 +32,58 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="https://nomujoa.com/static/images/og_image.png">
 
+    <!-- [SEO] 구조화 데이터 (JSON-LD) 추가: 구글이 앱으로 인식하도록 설정 -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Nomujoa",
+      "url": "https://nomujoa.com",
+      "description": "Create K-POP concert slogans and Uchiwa fans instantly with AI translation.",
+      "applicationCategory": "DesignApplication",
+      "operatingSystem": "Web",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+    </script>
+
     <!-- [성능] 폰트 서버 미리 연결 -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preconnect" href="https://webfontworld.github.io">
 
-    <!-- [중요] Critical CSS (인라인) -->
+    <!-- Critical CSS -->
     <style>
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background: #f0f2f5; text-align: center; margin: 0; padding: 20px; color: #333; -webkit-font-smoothing: antialiased; line-height: 1.5; }
-        
         .container { max-width: 500px; margin: 0 auto; background: white; padding: 30px 20px; border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); min-height: 600px; overflow: hidden; }
-        
         header { position: relative; margin-bottom: 30px; padding-top: 10px; min-height: 120px; }
-        
-        h1 { margin: 0 0 10px 0; display: flex; justify-content: center; align-items: center; }
-        
+        h1 { margin: 0 0 10px 0; display: flex; justify-content: center; align-items: center; position: relative; }
         main { min-height: 500px; }
-
         .form-group { text-align: left; margin-bottom: 20px; min-height: 80px; }
         .chip-container { display: flex; flex-wrap: wrap; gap: 8px; min-height: 160px; overflow: hidden; }
         input[type="text"], select { width: 100%; height: 50px; padding: 14px; border-radius: 12px; border: 2px solid #eee; box-sizing: border-box; }
-        
         .primary-btn { background: linear-gradient(90deg, #ff4b8b, #ff80ab); color: white; border: none; padding: 16px; border-radius: 50px; font-size: 16px; font-weight: bold; width: 100%; cursor: pointer; }
     </style>
 
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=optional" rel="stylesheet" media="print" onload="this.media='all'">
     <link href="https://webfontworld.github.io/gmarket/GmarketSans.css" rel="stylesheet" media="print" onload="this.media='all'">
-    
     <link rel="stylesheet" href="/static/css/style.min.css" media="print" onload="this.media='all'">
-
     <noscript>
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
         <link href="https://webfontworld.github.io/gmarket/GmarketSans.css" rel="stylesheet">
         <link rel="stylesheet" href="/static/css/style.min.css">
     </noscript>
 
-    <!-- [핵심] Flask에서 넘겨준 그룹 데이터를 JS 변수로 선언 -->
+    <!-- [핵심] Flask 데이터 및 현재 언어 설정 -->
     <script>
         window.GROUP_DATA = {{ group_data | tojson | safe }};
         window.kpopData = window.GROUP_DATA;
+        window.CURRENT_LANG = "{{ current_lang }}"; // 현재 언어 정보 전달
     </script>
 
-    <!-- JS 지연 로딩 -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fabric.js/5.3.1/fabric.min.js" defer></script>
     <script src="/static/js/data.js" defer></script>
     <script src="/static/js/canvas.js" defer></script>
@@ -81,17 +93,22 @@
 <body>
     <div class="container">
         <header>
+            <!-- [SEO] URL 파라미터 방식으로 언어 변경 (페이지 리로드) -->
             <div class="lang-switcher">
-                <select id="src-lang" onchange="updateUI()" aria-label="Select Language">
-                    <option value="ja" selected>🇯🇵 日本語</option>
-                    <option value="en">🇺🇸 English</option>
-                    <option value="ko">🇰🇷 한국어</option>
-                    <option value="zh">🇨🇳 中文</option>
+                <select id="src-lang" onchange="location.href='/?lang=' + this.value" aria-label="Select Language">
+                    <option value="ja" {% if current_lang == 'ja' %}selected{% endif %}>🇯🇵 日本語</option>
+                    <option value="en" {% if current_lang == 'en' %}selected{% endif %}>🇺🇸 English</option>
+                    <option value="ko" {% if current_lang == 'ko' %}selected{% endif %}>🇰🇷 한국어</option>
+                    <option value="zh" {% if current_lang == 'zh' %}selected{% endif %}>🇨🇳 中文</option>
                 </select>
             </div>
 
+            <!-- [SEO] H1 태그에 숨겨진 텍스트 추가 (봇이 읽을 수 있게) -->
             <h1>
-                <img src="/static/images/logo_h.png" alt="Nomujoa" style="max-width: 220px; height: auto;">
+                <img src="/static/images/logo_h.png" alt="Nomujoa Logo" style="max-width: 220px; height: auto;">
+                <span style="position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0,0,0,0);">
+                    Nomujoa - AI K-POP Cheering Board & Slogan Maker
+                </span>
             </h1>
             
             <p class="desc" id="t-desc" style="color:#555;">AIが韓国語のファン用語(スラング)に翻訳します✨</p>
@@ -105,7 +122,6 @@
                     <label for="idol-select" id="t-label-group">1. Group & Member</label>
                     <select id="idol-select" onchange="updateMembers()">
                         <option value="">Select Group</option>
-                        <!-- [핵심] Jinja2 템플릿으로 옵션 자동 생성 -->
                         {% for group_name in group_data %}
                             {% if group_name != 'General' %}
                             <option value="{{ group_name }}">{{ group_name }}</option>
@@ -196,14 +212,12 @@
                         <button class="control-btn img-btn" onclick="addSticker('cat.webp')"><img src="/static/images/stickers/cat.webp" alt="cat" loading="lazy" width="40" height="40"></button>
                         <button class="control-btn img-btn" onclick="addSticker('dog.webp')"><img src="/static/images/stickers/dog.webp" alt="dog" loading="lazy" width="40" height="40"></button>
                         <button class="control-btn img-btn" onclick="addSticker('ham.webp')"><img src="/static/images/stickers/ham.webp" alt="hamster" loading="lazy" width="40" height="40"></button>
-
                         <button class="control-btn img-btn" onclick="addSticker('boy.webp')"><img src="/static/images/stickers/boy.webp" alt="boy" loading="lazy" width="40" height="40"></button>
                         <button class="control-btn img-btn" onclick="addSticker('boy2.webp')"><img src="/static/images/stickers/boy2.webp" alt="boy2" loading="lazy" width="40" height="40"></button>
                         <button class="control-btn img-btn" onclick="addSticker('boy_dan.webp')"><img src="/static/images/stickers/boy_dan.webp" alt="boy_dan" loading="lazy" width="40" height="40"></button>
                         <button class="control-btn img-btn" onclick="addSticker('girl_dan.webp')"><img src="/static/images/stickers/girl_dan.webp" alt="girl_dan" loading="lazy" width="40" height="40"></button>
                         <button class="control-btn img-btn" onclick="addSticker('girl_long.webp')"><img src="/static/images/stickers/girl_long.webp" alt="girl_long" loading="lazy" width="40" height="40"></button>
                         <button class="control-btn img-btn" onclick="addSticker('girl_shot.webp')"><img src="/static/images/stickers/girl_shot.webp" alt="girl_shot" loading="lazy" width="40" height="40"></button>
-
                         <button class="control-btn img-btn" onclick="addSticker('finger_herat1.webp')"><img src="/static/images/stickers/finger_herat1.webp" alt="heart1" loading="lazy" width="40" height="40"></button>
                         <button class="control-btn img-btn" onclick="addSticker('finger_herat2.webp')"><img src="/static/images/stickers/finger_herat2.webp" alt="heart2" loading="lazy" width="40" height="40"></button>
                         <button class="control-btn img-btn" onclick="addSticker('ribbon1.webp')"><img src="/static/images/stickers/ribbon1.webp" alt="ribbon1" loading="lazy" width="40" height="40"></button>
@@ -226,23 +240,47 @@
 
                 <button class="reset-link" onclick="location.reload()" id="t-btn-reset-2">最初に戻る</button>
             </section>
+            
+            <!-- [SEO] 검색 엔진을 위한 텍스트 콘텐츠 (About Section) -->
+            <section style="margin-top: 40px; padding: 25px 20px; background: #f9f9f9; border-radius: 15px; text-align: left; border: 1px solid #eee;">
+                <h2 style="font-size: 18px; color: #333; margin-top: 0; margin-bottom: 15px;">Nomujoa: K-POP Fan Creator Tool</h2>
+                <p style="font-size: 14px; color: #666; line-height: 1.8;">
+                    <strong>Nomujoa</strong> is a free web tool designed for K-POP fans worldwide. 
+                    Even if you don't speak Korean, you can easily create professional cheering slogans, LED boards, and Uchiwa fans for concerts.
+                </p>
+                <p style="font-size: 14px; color: #666; line-height: 1.8;">
+                    Our AI translator converts your messages (Japanese, English, Chinese) into trendy <strong>Korean fandom slang (주접 멘트)</strong> instantly.
+                    Support your favorite idols like <strong>BTS, SEVENTEEN, TWICE, Stray Kids, IVE, NewJeans, aespa, and BLACKPINK</strong> with customized designs.
+                </p>
+                <div style="margin-top: 15px; font-size: 13px; color: #888;">
+                    <span>Keywords: K-POP Slogan, Cheering Kit, Concert Fan, Hangul Translation, Korean Meme, Uchiwa Maker</span>
+                </div>
+            </section>
+
         </main>
 
-        <!-- Footer 영역 -->
         <footer class="site-footer">
             <div class="footer-links">
-                <!-- [추가] How to Use 링크 -->
                 <a href="/guide">How to Use</a>
                 <span class="separator">|</span>
-                
                 <a href="/privacy">Privacy Policy</a>
                 <span class="separator">|</span>
-                
                 <a href="https://script.google.com/macros/s/AKfycbw-83hj0ZZiWQqWClJrKpqYmO7CGo60Rm4MjmHia3Ds2oLTroizwXqTkOfXyaf1T3Gy1A/exec" target="_blank" rel="noopener noreferrer">Contact</a>
             </div>
             <p class="copyright">&copy; 2024 Nomujoa. All rights reserved.</p>
         </footer>
 
     </div>
+    
+    <!-- [SEO] 초기 언어 설정 적용 -->
+    <script>
+        // main.js의 updateUI 함수가 로드된 후 실행 (동적 언어 변경 대응)
+        document.addEventListener('DOMContentLoaded', function() {
+            if (typeof updateUI === 'function') {
+                // select 박스 값은 이미 jinja2에서 세팅되었으므로 UI 텍스트만 갱신
+                updateUI();
+            }
+        });
+    </script>
 </body>
 </html>
