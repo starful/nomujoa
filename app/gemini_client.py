@@ -80,7 +80,7 @@ def call_gemini_api(text, group_name, member_name, source_lang):
     if not api_key: return [{'text': "API Key Error", 'meaning': "Error"}]
 
     try:
-        model = genai.GenerativeModel('gemini-2.0-flash')
+        model = genai.GenerativeModel('gemini-2.5-flash')
         
         target_info = f"group '{group_name}'"
         if member_name and member_name != 'All':
