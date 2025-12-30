@@ -1,0 +1,2662 @@
+{
+  "All": {
+    "LOVE_GENERAL": [
+      {
+        "text": "다이브 맘",
+        "meaning_ja": "DIVE ママ(IVEの保護者)",
+        "meaning_en": "DIVE Mom (IVE's protector)"
+      },
+      {
+        "text": "갑분IVE",
+        "meaning_ja": "突然IVE (急にIVEの話)",
+        "meaning_en": "Suddenly IVE (Suddenly talking about IVE)"
+      },
+      {
+        "text": "IVE 없인 못 살아",
+        "meaning_ja": "IVEなしでは生きられない",
+        "meaning_en": "Can't live without IVE"
+      },
+      {
+        "text": "리즈 갱신",
+        "meaning_ja": "リズ更新(毎日が全盛期)",
+        "meaning_en": "Updating Liz (Every day is a peak) - *referencing Liz of IVE, and her visuals*"
+      },
+      {
+        "text": "IVE is 뭔들",
+        "meaning_ja": "IVEは何でも最高",
+        "meaning_en": "IVE is good at everything"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "다이브 is 뭔들",
+        "meaning_ja": "DIVEは何もかも (愛してる)",
+        "meaning_en": "DIVEs are perfect no matter what. (Implies loving everything about IVE fans - DIVEs)"
+      },
+      {
+        "text": "갑주IVE",
+        "meaning_ja": "急にIVE (愛してる)",
+        "meaning_en": "Suddenly IVE! (Expressing a sudden, strong feeling of love for IVE)"
+      },
+      {
+        "text": "리즈 갱신",
+        "meaning_ja": "リズ更新 (愛してる)",
+        "meaning_en": "Updating my Liz (referencing the member Liz, meaning they always exceed expectations, implies loving her progress)"
+      },
+      {
+        "text": "IVE 없인 못 살아",
+        "meaning_ja": "IVEなしでは生きられない (愛してる)",
+        "meaning_en": "I can't live without IVE (Expressing absolute devotion)"
+      },
+      {
+        "text": "IVE길만 걸어",
+        "meaning_ja": "IVEの道だけを歩もう (愛してる)",
+        "meaning_en": "Let's only walk the IVE path (Wishing IVE success and promising to follow them)"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "다이브, 나랑 텽(결혼)하자!",
+        "meaning_ja": "DIVE、私と一緒になろう！（結婚しよう！）",
+        "meaning_en": "DIVE, let's tie the knot (get married)! (Using \"텽\" as a cute slang for \"결혼\")"
+      },
+      {
+        "text": "IVE, 내 심장에 무임승차! 결혼해줘!",
+        "meaning_ja": "IVE、私の心臓に無賃乗車！結婚して！",
+        "meaning_en": "IVE, you're freeloading on my heart! Marry me! (Using \"무임승차\" figuratively)"
+      },
+      {
+        "text": "IVE 없이는 못 살아, 내 인생 책임져! 결혼해줘!",
+        "meaning_ja": "IVEなしでは生きられない、私の人生責任取って！結婚して！",
+        "meaning_en": "I can't live without IVE, take responsibility for my life! Marry me!"
+      },
+      {
+        "text": "IVE is 뭔들, 결혼 is 뭔들!",
+        "meaning_ja": "IVEは何でも良い、結婚は何でも良い！",
+        "meaning_en": "Anything IVE does is great, anything marriage is great! (A playful take on \"뭔들\")"
+      },
+      {
+        "text": "다이브 심쿵사, IVE 책임져! 결혼해줘!",
+        "meaning_ja": "DIVE、胸キュン死、IVE責任取って！結婚して！",
+        "meaning_en": "DIVE, heart attack from cuteness, IVE take responsibility! Marry me!"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "다이브 보고싶다 🥺",
+        "meaning_ja": "DIVEに会いたい 🥺",
+        "meaning_en": "DIVE, I miss you 🥺 (Expressing longing with a cute emoji)"
+      },
+      {
+        "text": "IVE 없인 못 살아 😭",
+        "meaning_ja": "IVEなしでは生きられない 😭",
+        "meaning_en": "I can't live without IVE 😭 (Emphasizing dependence on IVE)"
+      },
+      {
+        "text": "내 심장 IVE 꺼 💕",
+        "meaning_ja": "私の心臓はIVEのもの 💕",
+        "meaning_en": "My heart belongs to IVE 💕 (A passionate declaration of love and devotion)"
+      },
+      {
+        "text": "오늘도 IVE 생각뿐 🥰",
+        "meaning_ja": "今日もIVEのことばかり 🥰",
+        "meaning_en": "I'm only thinking about IVE today too 🥰 (Expressing constant thoughts of IVE)"
+      },
+      {
+        "text": "IVE 보고 힘내자! 💪",
+        "meaning_ja": "IVEを見て頑張ろう！ 💪",
+        "meaning_en": "Let's cheer up by watching IVE! 💪 (Finding strength and motivation from IVE)"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "다이브 맘",
+        "meaning_ja": "DIVEのオンマ(笑)",
+        "meaning_en": "DIVE Mom (lol - like a caring parent)"
+      },
+      {
+        "text": "탈케는 없다",
+        "meaning_ja": "グループを離れることはない！",
+        "meaning_en": "No Leaving the Fandom!"
+      },
+      {
+        "text": "5늘 6IVE",
+        "meaning_ja": "いつもIVE (変わらない愛)",
+        "meaning_en": "Always IVE (Unchanging Love)"
+      },
+      {
+        "text": "입덕 부정기 끝!",
+        "meaning_ja": "ファンになるのを否定する時期は終わり！",
+        "meaning_en": "End of the Fan Denial Stage!"
+      },
+      {
+        "text": "IVE 없인 못 살아",
+        "meaning_ja": "IVEなしでは生きられない",
+        "meaning_en": "Can't Live Without IVE"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "다이브 맘(=다이브 엄마)",
+        "meaning_ja": "DIVEの母（みたいな気持ち）",
+        "meaning_en": "DIVE Mom (Like a motherly feeling)"
+      },
+      {
+        "text": "리즈 갱신",
+        "meaning_ja": "リズ更新 (記録更新)",
+        "meaning_en": "Liz Renews (Breaking Records like Liz does)"
+      },
+      {
+        "text": "만반잘부",
+        "meaning_ja": "たくさん会えて嬉しい",
+        "meaning_en": "Nice to meet you a bunch"
+      },
+      {
+        "text": "케이크길만 걸어",
+        "meaning_ja": "ケーキの道だけを歩んで",
+        "meaning_en": "Only walk the cake path (May you only have good things happen to you)"
+      },
+      {
+        "text": "입덕 부정기",
+        "meaning_ja": "ファンになるのを否定する時期",
+        "meaning_en": "The period of denying that you're becoming a fan (of IVE)"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "다이브 맘",
+        "meaning_ja": "DIVEママ(DIVEのママ)",
+        "meaning_en": "DIVE Mom (Referring to someone who cares for IVE members like a mom)"
+      },
+      {
+        "text": "갑분IVE",
+        "meaning_ja": "急にIVE(急にIVE)",
+        "meaning_en": "Suddenly IVE (Used when IVE content or thoughts appear unexpectedly)"
+      },
+      {
+        "text": "레전드IVE",
+        "meaning_ja": "レジェンドIVE(伝説のIVE)",
+        "meaning_en": "Legendary IVE (Expressing that IVE is legendary)"
+      },
+      {
+        "text": "IVE없이는 못 살아",
+        "meaning_ja": "IVEなしでは生きられない(IVEなしでは生きられない)",
+        "meaning_en": "I can't live without IVE (Expressing deep affection and dependency on IVE)"
+      },
+      {
+        "text": "입덕 부정기는 끝났다",
+        "meaning_ja": "ファンになるのを否定する時期は終わった(ファンになるのを否定する時期は終わった)",
+        "meaning_en": "The period of denying I'm a fan is over (Acknowledging and embracing being a fan of IVE)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "다이브는 신이다",
+        "meaning_ja": "DIVEは神だ",
+        "meaning_en": "DIVE is God"
+      },
+      {
+        "text": "리즈 미모 미쳤다리",
+        "meaning_ja": "Lizの美貌マジヤバい",
+        "meaning_en": "Liz's beauty is crazy"
+      },
+      {
+        "text": "장원영 폼 미쳤다",
+        "meaning_ja": "チャン・ウォニョン調子良すぎ",
+        "meaning_en": "Jang Wonyoung's on fire"
+      },
+      {
+        "text": "갓 이서 킹받네",
+        "meaning_ja": "ゴッドイソムカつくけど最高",
+        "meaning_en": "God Iseo is annoying but the best"
+      },
+      {
+        "text": "안유진 없이는 못 살아",
+        "meaning_ja": "アン・ユジンなしでは生きられない",
+        "meaning_en": "I can't live without An Yu-jin"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉",
+        "meaning_en": "Their faces are welfare (meaning their beauty is a blessing to everyone)"
+      },
+      {
+        "text": "갓IVE",
+        "meaning_ja": "神IVE (かみIVE)",
+        "meaning_en": "God IVE (meaning they're flawless and divine)"
+      },
+      {
+        "text": "비주얼 미쳤다",
+        "meaning_ja": "ビジュアル狂ってる",
+        "meaning_en": "Their visuals are insane"
+      },
+      {
+        "text": "존예보스",
+        "meaning_ja": "超絶可愛いボス",
+        "meaning_en": "Super pretty boss (meaning they're both beautiful and powerful)"
+      },
+      {
+        "text": "무대찢었다",
+        "meaning_ja": "ステージを破った",
+        "meaning_en": "They ripped the stage (meaning their performance was amazing and impactful)"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉",
+        "meaning_en": "Visuals are welfare (meaning they are healing and provide comfort)."
+      },
+      {
+        "text": "ive 얼굴이 곧 서사다",
+        "meaning_ja": "IVEの顔がすなわち叙事詩",
+        "meaning_en": "IVE's faces are the narrative (meaning their visuals tell a story)."
+      },
+      {
+        "text": "다이브 심장 강타, 얼굴이 열일한다",
+        "meaning_ja": "DIVEの心臓を強打、顔が頑張ってる",
+        "meaning_en": "Crushing DIVE's hearts, their faces are working hard (meaning they're visually stunning)."
+      },
+      {
+        "text": "ive 미모 미쳤다리",
+        "meaning_ja": "IVEの美貌、マジヤバすぎ",
+        "meaning_en": "IVE's beauty is absolutely insane."
+      },
+      {
+        "text": "얼굴천재 아이브",
+        "meaning_ja": "顔面天才IVE",
+        "meaning_en": "Face genius IVE (meaning they are exceptionally beautiful)."
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "다이브 하트",
+        "meaning_ja": "DIVEハート飛ばすよ！",
+        "meaning_en": "DIVE Heart sending your way! (DIVE is IVE's fandom name)"
+      },
+      {
+        "text": "핑거 하트 뿅",
+        "meaning_ja": "指ハート、ビュン！",
+        "meaning_en": "Finger heart, pyong! (Sound effect for sending the heart)"
+      },
+      {
+        "text": "IVE 사랑 뿅뿅",
+        "meaning_ja": "IVEへの愛、ビュンビュン！",
+        "meaning_en": "Love for IVE, pyong pyong!"
+      },
+      {
+        "text": "넘 IVE 하트해",
+        "meaning_ja": "超IVEにハート飛ばすね！",
+        "meaning_en": "Super IVE heart for you! (Similar to \"I heart IVE so much!\")"
+      },
+      {
+        "text": "예서처럼 하트",
+        "meaning_ja": "イソちゃんみたいにハート！",
+        "meaning_en": "Heart like Yeseo! (Referencing a member known for cute heart gestures)"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "밥길만 걷자",
+        "meaning_ja": "美味しいご飯だけ食べようね",
+        "meaning_en": "Let's only walk the path of delicious food (meaning only good things happen)"
+      },
+      {
+        "text": "다이브 건강길만 걸어",
+        "meaning_ja": "DIVE（IVEのファン）は健康でいてね",
+        "meaning_en": "DIVE, let's only walk the path of good health."
+      },
+      {
+        "text": "맛잘알 IVE",
+        "meaning_ja": "美味しいものに詳しいIVE",
+        "meaning_en": "IVE knows good food well."
+      },
+      {
+        "text": "오구오구 잘 먹는다",
+        "meaning_ja": "いい子だね、よく食べるね",
+        "meaning_en": "Aww, good babies, you eat so well! (Expressing endearment while watching them eat)"
+      },
+      {
+        "text": "IVE 맘마미아",
+        "meaning_ja": "IVE、マンマミーア（ご飯たくさん食べてね）",
+        "meaning_en": "IVE, Mamma Mia (eat lots of food!)."
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "다이브 감기 조심!",
+        "meaning_ja": "DIVEの皆さん、風邪に気をつけてね！",
+        "meaning_en": "DIVEs, stay healthy! (DIVE is IVE's fandom name)"
+      },
+      {
+        "text": "아프지망고 IVE!",
+        "meaning_ja": "IVE、痛くないでマンゴー！(痛くないでね)",
+        "meaning_en": "IVE, don't be sick, mango! (망고 replaces 말아, common cute replacement)"
+      },
+      {
+        "text": "꽃길만 걸어, 따뜻하게 입고!",
+        "meaning_ja": "花道だけを歩んで、暖かく着てね！",
+        "meaning_en": "Walk only flower paths, and dress warmly!"
+      },
+      {
+        "text": "리즈 갱신, 건강이 최우선!",
+        "meaning_ja": "リズ更新、健康が最優先！",
+        "meaning_en": "Keep breaking records, but health comes first! (리즈 갱신 means constantly achieving a new peak of beauty/success, リズ is Liz's name)"
+      },
+      {
+        "text": "무대 뿌셔! (감기 뿌셔!)",
+        "meaning_ja": "ステージを壊せ！(風邪を壊せ！)",
+        "meaning_en": "Smash the stage! (Smash the cold!)"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "다이브 맘찍",
+        "meaning_ja": "DIVE、いいね爆撃！",
+        "meaning_en": "DIVE, like bomb! (Referring to liking all their posts/content)"
+      },
+      {
+        "text": "갑분IVE",
+        "meaning_ja": "突然のIVE！",
+        "meaning_en": "Sudden IVE! (When IVE appears unexpectedly, or you suddenly start talking about them)"
+      },
+      {
+        "text": "IVE없못살",
+        "meaning_ja": "IVEなしでは生きられない！",
+        "meaning_en": "I can't live without IVE!"
+      },
+      {
+        "text": "레전드IVE",
+        "meaning_ja": "レジェンドIVE！",
+        "meaning_en": "Legendary IVE! (When IVE does something amazing)"
+      },
+      {
+        "text": "IVE깅",
+        "meaning_ja": "IVEかわいい！(IVE + 아잉 애교)",
+        "meaning_en": "Cute IVE! (Combines IVE's name with a cute, playful feeling)"
+      }
+    ]
+  },
+  "Yujin": {
+    "LOVE_GENERAL": [
+      {
+        "text": "유진 is 뭔들",
+        "meaning_ja": "ユジンは何でも似合う(最高)",
+        "meaning_en": "Yujin makes anything look good (She's the best)"
+      },
+      {
+        "text": "유진 때문에 내 심장이 뛴다 쿵쾅",
+        "meaning_ja": "ユジンのおかげで私の心臓がドキドキする",
+        "meaning_en": "Yujin makes my heart beat fast (thump thump)"
+      },
+      {
+        "text": "유진 공주님 짱",
+        "meaning_ja": "ユジン姫最高",
+        "meaning_en": "Yujin, our princess, is the best!"
+      },
+      {
+        "text": "유진 is 뭔데 이렇게 예뻐?",
+        "meaning_ja": "ユジンって何なの、こんなに可愛いって？",
+        "meaning_en": "What is it about Yujin that makes her so pretty?"
+      },
+      {
+        "text": "유진 사랑해 뿅",
+        "meaning_ja": "ユジン愛してる、ピョン",
+        "meaning_en": "Yujin, I love you! (Bbyong! - sound of disappearing or love shooting)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "유진 is 뭔들",
+        "meaning_ja": "ユジンはマジで何でも最高",
+        "meaning_en": "Yujin is amazing no matter what (doing anything)"
+      },
+      {
+        "text": "다이브 심장 폭격기 유진",
+        "meaning_ja": "DIVEの心臓爆撃機ユジン",
+        "meaning_en": "DIVE's Heart Bomber Yujin (meaning she steals our hearts)"
+      },
+      {
+        "text": "유진 없인 못 살아",
+        "meaning_ja": "ユジンなしでは生きられない",
+        "meaning_en": "I can't live without Yujin"
+      },
+      {
+        "text": "유진 공주님 만세",
+        "meaning_ja": "ユジンお姫様万歳",
+        "meaning_en": "All hail Princess Yujin!"
+      },
+      {
+        "text": "유진 때문에 입덕",
+        "meaning_ja": "ユジンがきっかけでファンになった",
+        "meaning_en": "I became a fan because of Yujin."
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "유진아 내 심장 훔쳐가 ㅠㅠ",
+        "meaning_ja": "ユジン、私の心を盗んでいってㅠㅠ",
+        "meaning_en": "Yujin, steal my heart ㅠㅠ (implies you've already stolen it, so marry me!)"
+      },
+      {
+        "text": "유진이랑 결혼 or 죽음 뿐",
+        "meaning_ja": "ユジンと結婚か死ぬかしかない",
+        "meaning_en": "It's either marry Yujin or death!"
+      },
+      {
+        "text": "유진아 나랑 럽다이브 하자!",
+        "meaning_ja": "ユジン、私とラブダイブしよう！",
+        "meaning_en": "Yujin, let's Love Dive (do a Love Dive) with me! (Play on IVE's song & a romantic relationship)"
+      },
+      {
+        "text": "유진 없이는 못 살아 정말 못 살아! (결혼해줘)",
+        "meaning_ja": "ユジンなしでは生きられない、本当に生きられない！(結婚して)",
+        "meaning_en": "I can't live without Yujin, I really can't! (Marry me)"
+      },
+      {
+        "text": "유진 is 뭔들 (결혼해!)",
+        "meaning_ja": "ユジンis何でもあり！(結婚して！)",
+        "meaning_en": "Yujin is perfect no matter what! (Marry me!) ( \"뭔들\" is short for \"무엇이든지\" meaning \"anything\")"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "유진 is 뭔들!",
+        "meaning_ja": "ユジンは何でも最高！",
+        "meaning_en": "Yujin is great at everything! (Implies missing her because she's so talented)."
+      },
+      {
+        "text": "유진 없인 못 살아 ㅠㅠ",
+        "meaning_ja": "ユジンなしじゃ生きられない ㅠㅠ",
+        "meaning_en": "I can't live without Yujin ㅠㅠ (Expressing longing)."
+      },
+      {
+        "text": "유진 보고잡다리...",
+        "meaning_ja": "ユジンに会いたすぎる…",
+        "meaning_en": "I miss Yujin so much… (Cuter, more exaggerated way of saying \"I miss you\")."
+      },
+      {
+        "text": "유진 때문에 현생 불가",
+        "meaning_ja": "ユジンのせいで現実生活無理",
+        "meaning_en": "My real life is impossible because of Yujin (Meaning you're too busy thinking about her to function)."
+      },
+      {
+        "text": "유진 얼굴이 복지다",
+        "meaning_ja": "ユジンの顔が福祉だ",
+        "meaning_en": "Yujin's face is welfare (Her beauty is so amazing, it's like receiving a blessing, implying you miss seeing it)."
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "녕깅이랑 쭈욱",
+        "meaning_ja": "ユジンちゃんとずっと",
+        "meaning_en": "Yujin and forever! (Focuses on being with Yujin specifically)"
+      },
+      {
+        "text": "다이브는 유진편",
+        "meaning_ja": "ダイブはユジン側",
+        "meaning_en": "DIVEs are on Yujin's side (Emphasizes fan support forever)"
+      },
+      {
+        "text": "유진 is 뭔들",
+        "meaning_ja": "ユジンは何でも最高",
+        "meaning_en": "Everything Yujin does is amazing (Implies unwavering support)"
+      },
+      {
+        "text": "유진 꽃길만 걸어",
+        "meaning_ja": "ユジン、花の道だけを歩んで",
+        "meaning_en": "Yujin, only walk the flower path (Wishing her only good things forever)"
+      },
+      {
+        "text": "유진 없인 못 살아",
+        "meaning_ja": "ユジンなしでは生きられない",
+        "meaning_en": "I can't live without Yujin (Exaggerated love and devotion)"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "유진 is 뭔들",
+        "meaning_ja": "ユジンは何でも最高",
+        "meaning_en": "Yujin can do no wrong"
+      },
+      {
+        "text": "깡냥이 유진",
+        "meaning_ja": "強ニャンコ ユジン",
+        "meaning_en": "Powerful Kitten Yujin"
+      },
+      {
+        "text": "유진 언니, 내 심장 훔쳐가!",
+        "meaning_ja": "ユジンお姉様、私の心臓を盗んで！",
+        "meaning_en": "Yujin unnie, steal my heart!"
+      },
+      {
+        "text": "유진 덕분에 행복회로 풀가동",
+        "meaning_ja": "ユジンのおかげで幸せ回路フル稼働",
+        "meaning_en": "Yujin makes my happy circuit go full throttle"
+      },
+      {
+        "text": "유진 is 뭔데요? 천사인데요!",
+        "meaning_ja": "ユジンって何者？天使だよ！",
+        "meaning_en": "What is Yujin? An angel!"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "유진 is 뭔들",
+        "meaning_ja": "ユジンは何でも最高",
+        "meaning_en": "Yujin is good at everything / Yujin can do no wrong! (Implies she's great at everything she does)"
+      },
+      {
+        "text": "유진 공주님 👑",
+        "meaning_ja": "ユジン姫 👑",
+        "meaning_en": "Princess Yujin 👑 (Common way to refer to an idol with adoration)"
+      },
+      {
+        "text": "다이브는 유진편!",
+        "meaning_ja": "DIVEはユジンの味方！",
+        "meaning_en": "DIVE are on Yujin's side! (DIVE is IVE's fandom name, showing support)"
+      },
+      {
+        "text": "유진 때문에 산다",
+        "meaning_ja": "ユジンのおかげで生きている",
+        "meaning_en": "I live because of Yujin / Yujin keeps me going! (Exaggerated expression of love and support)"
+      },
+      {
+        "text": "유진 is 뭔들 is 뭔들 is 뭔들",
+        "meaning_ja": "ユジンは何でも最高x3",
+        "meaning_en": "Yujin is good at everything x3 (Repeating it for emphasis and comedic effect, showing strong admiration)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "유진 is 뭔들",
+        "meaning_ja": "ユジンは何でも尊い",
+        "meaning_en": "Yujin is perfect no matter what she does (Everything Yujin does is precious)."
+      },
+      {
+        "text": "갓유진 강림",
+        "meaning_ja": "神ユジン降臨",
+        "meaning_en": "God Yujin has descended (The arrival of divine Yujin)."
+      },
+      {
+        "text": "유진 공주님 만세!",
+        "meaning_ja": "ユジン姫、万歳！",
+        "meaning_en": "All hail Princess Yujin! (Long live Princess Yujin!)."
+      },
+      {
+        "text": "유진 is 내 삶의 이유",
+        "meaning_ja": "ユジンは私の人生の理由",
+        "meaning_en": "Yujin is the reason for my life."
+      },
+      {
+        "text": "유진 없인 못 살아",
+        "meaning_ja": "ユジンなしでは生きられない",
+        "meaning_en": "I can't live without Yujin."
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "유진 is 뭔들",
+        "meaning_ja": "ユジンは何でも正義",
+        "meaning_en": "Yujin can do no wrong / Everything looks good on Yujin. (Implies she's so perfect, anything she does is amazing)"
+      },
+      {
+        "text": "유진 is LOVE",
+        "meaning_ja": "ユジンはマジ天使",
+        "meaning_en": "Yujin is truly an angel / Yujin is love. (Emphasizes her loveliness and perfection)"
+      },
+      {
+        "text": "유진 공주님 만세!",
+        "meaning_ja": "ユジン姫、万歳！",
+        "meaning_en": "Long live Princess Yujin! (Exaggeratedly praises her princess-like beauty and grace)"
+      },
+      {
+        "text": "유진 얼굴이 복지다",
+        "meaning_ja": "ユジンの顔は福祉だ",
+        "meaning_en": "Yujin's face is welfare/well-being. (Meaning seeing her face is enough to bring happiness and well-being)"
+      },
+      {
+        "text": "갓유진",
+        "meaning_ja": "神ユジン",
+        "meaning_en": "God Yujin"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "갓기 유진",
+        "meaning_ja": "まるで神様みたいな赤ちゃんユジン",
+        "meaning_en": "God-baby Yujin (Referring to her youthful and godly looks)"
+      },
+      {
+        "text": "얼굴이 복지다, 유진!",
+        "meaning_ja": "顔面が福祉だ、ユジン！",
+        "meaning_en": "Your face is welfare, Yujin! (Meaning her beauty is a blessing)"
+      },
+      {
+        "text": "유진 is 뭔들",
+        "meaning_ja": "ユジンは何でも似合う",
+        "meaning_en": "Yujin looks good in anything / Yujin can pull off anything!"
+      },
+      {
+        "text": "유진이 미모가 국보급",
+        "meaning_ja": "ユジンの美貌が国宝級",
+        "meaning_en": "Yujin's beauty is national treasure level!"
+      },
+      {
+        "text": "다이브 심장 폭격기 유진",
+        "meaning_ja": "Diveの心臓爆撃機ユジン",
+        "meaning_en": "Dive's Heart Bomber Yujin! (Her visuals are stunning.)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "유진 is 뭔들",
+        "meaning_ja": "ユジンは何でも最高",
+        "meaning_en": "Yujin can do no wrong / Yujin is perfect no matter what"
+      },
+      {
+        "text": "유진 is 뭔들 하트 날려줘!",
+        "meaning_ja": "ユジンは何でも最高、ハート送って!",
+        "meaning_en": "Yujin can do no wrong, send us a heart!"
+      },
+      {
+        "text": "유진, 내 심장 훔쳐가! (하트 뿅)",
+        "meaning_ja": "ユジン、私の心を盗んで行って! (ハートピョン)",
+        "meaning_en": "Yujin, steal my heart! (heart pyeong - sound effect for a heart appearing)"
+      },
+      {
+        "text": "유진 is 러브 그 자체",
+        "meaning_ja": "ユジンは愛そのもの",
+        "meaning_en": "Yujin is love itself."
+      },
+      {
+        "text": "유진이 하트 장인!",
+        "meaning_ja": "ユジンはハート職人!",
+        "meaning_en": "Yujin is a heart master!"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "유진, 밥길만 걷자!",
+        "meaning_ja": "ユジン、美味しいものだけ食べて幸せになろう！",
+        "meaning_en": "Yujin, let's walk only the path of delicious food and happiness! (Implies: Only good things should happen to you)"
+      },
+      {
+        "text": "오구오구, 잘 먹는 유진 최고!",
+        "meaning_ja": "よしよし、よく食べるユジン最高！",
+        "meaning_en": "Good job, Yujin eating well is the best! (Like praising a baby, but for eating well)"
+      },
+      {
+        "text": "윰댕 먹방 기대해!",
+        "meaning_ja": "ユムデン(ユジン)のモッパン期待してるよ！",
+        "meaning_en": "Looking forward to Yoomdaeng's (Yujin's) Mukbang! (Yoomdaeng is a cute nickname for Yujin + Mukbang is eating broadcast)"
+      },
+      {
+        "text": "유진, 맛잘알 인정!",
+        "meaning_ja": "ユジン、美味しいもの知ってるの認める！",
+        "meaning_en": "Yujin, 인정 (I acknowledge) you as a 맛잘알 (someone who knows how to eat well)!"
+      },
+      {
+        "text": "유진 is 뭔들! 맛있는 거 뭔들 안 어울려!",
+        "meaning_ja": "ユジンは何でも似合う！美味しいものなら何でも！",
+        "meaning_en": "Yujin suits everything! Especially tasty food! (Implies: Everything looks good on her, especially when she's enjoying delicious food)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "유진 감기 훠이훠이!",
+        "meaning_ja": "ユジン、風邪なんか吹っ飛ばせ！",
+        "meaning_en": "Yujin, shoo away that cold! (훠이훠이 is an onomatopoeic way to ward off bad things, like a cold)."
+      },
+      {
+        "text": "아프지 마 도토 도토 잠보! 유진!",
+        "meaning_ja": "痛いの痛いの飛んでいけ！ユジン！",
+        "meaning_en": "Boo-boo, be gone! Yujin! (A childish way of saying \"I hope you feel better soon!\" - 도토 도토 잠보 is the onomatopoeia)"
+      },
+      {
+        "text": "유진 꽃길만 걸어! 건강 꽃길!",
+        "meaning_ja": "ユジン、花の道だけを歩んで！健康な花の道！",
+        "meaning_en": "Yujin, only walk on flower paths! May your flower path be filled with health! (꽃길만 걸어 is a common phrase wishing someone only good things; adapting it for health.)"
+      },
+      {
+        "text": "유진, 내 맘속에 저!장! 건강도 저!장!",
+        "meaning_ja": "ユジン、私の心に保存！健康も保存！",
+        "meaning_en": "Yujin, save you in my heart! Save your health too! (저!장! is a common phrase from Produce 101, now used to express fondness. Here, it's adapted for health)."
+      },
+      {
+        "text": "유진 건강 풀파워 충전!",
+        "meaning_ja": "ユジン、元気フルパワー充電！",
+        "meaning_en": "Yujin, full power health charge! (풀파워 충전! is often used like \"full power!\" or \"charge up!\" )"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "갓유진",
+        "meaning_ja": "まさに神ユジン",
+        "meaning_en": "God Yujin (Used to express admiration for her skills and beauty)"
+      },
+      {
+        "text": "유진 is 뭔들",
+        "meaning_ja": "ユジンは何でも似合う",
+        "meaning_en": "Yujin makes anything look good (Expressing that she excels at everything)"
+      },
+      {
+        "text": "유진 덕분에 산다",
+        "meaning_ja": "ユジンのおかげで生きてる",
+        "meaning_en": "I live because of Yujin (Exaggerated expression of gratitude and admiration)"
+      },
+      {
+        "text": "유진 없인 못 살아",
+        "meaning_ja": "ユジンなしでは生きられない",
+        "meaning_en": "I can't live without Yujin (Expressing dependence and love for Yujin)"
+      },
+      {
+        "text": "오늘도 유진하세요",
+        "meaning_ja": "今日もユジンしてね！",
+        "meaning_en": "Have a Yujin day today! (Encouraging others to appreciate and admire Yujin)"
+      }
+    ]
+  },
+  "Gaeul": {
+    "LOVE_GENERAL": [
+      {
+        "text": "가을 is 뭔들",
+        "meaning_ja": "ガウルは何でも(最高)",
+        "meaning_en": "Gaeul is perfect no matter what (she does)"
+      },
+      {
+        "text": "가을 언니, 냅두고 가세요! 내 심장!",
+        "meaning_ja": "ガウルお姉さん、置いていかないで！私の心臓！",
+        "meaning_en": "Gaeul unnie, don't leave my heart behind!"
+      },
+      {
+        "text": "가을 공주, 쩝쩝박사 인정합니다!",
+        "meaning_ja": "ガウル姫、食べっぷり博士として認定します！",
+        "meaning_en": "Princess Gaeul, I acknowledge you as a mukbang master! (referencing \"쩝쩝박사\" as someone who eats deliciously)"
+      },
+      {
+        "text": "가을 is 뭔들 is 과학",
+        "meaning_ja": "ガウルは何でもが科学",
+        "meaning_en": "Gaeul is perfect is science (it's just a fact)"
+      },
+      {
+        "text": "가을 때문에 내 통장 텅장",
+        "meaning_ja": "ガウルのせいで私のお財布は空っぽ",
+        "meaning_en": "Gaeul makes my wallet empty (because I buy all her merch)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "가을 is 뭔들",
+        "meaning_ja": "ガウルは何でも (愛)",
+        "meaning_en": "Gaeul is good at everything (Love!)"
+      },
+      {
+        "text": "가을선배 찢었다",
+        "meaning_ja": "ガウル先輩、最高！(愛してる)",
+        "meaning_en": "Gaeul-sunbae absolutely slayed! (I love you!)"
+      },
+      {
+        "text": "가을 공주님 깅",
+        "meaning_ja": "ガウル姫、マジ尊い(愛)",
+        "meaning_en": "Gaeul princess is so precious! (Love)"
+      },
+      {
+        "text": "가을맘 뭔데",
+        "meaning_ja": "ガウルママ、何なの？(愛)",
+        "meaning_en": "Gaeul-mom, what is she? (Love, admiring her motherly vibes)"
+      },
+      {
+        "text": "가을 is 뭔들 is 뭔들",
+        "meaning_ja": "ガウルは何でも最強！(愛してる)",
+        "meaning_en": "Gaeul is good at everything, she is everything! (I love you!)"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "가을 책임져!",
+        "meaning_ja": "ガウル、責任取って！",
+        "meaning_en": "Gaeul, take responsibility (for my heart)! (Implies stealing someone's heart and being responsible for their feelings. Playful)."
+      },
+      {
+        "text": "결혼해줘 가을아! 💍",
+        "meaning_ja": "結婚して、ガウル！💍",
+        "meaning_en": "Marry me, Gaeul! 💍 (Direct, but still a common fan expression.)"
+      },
+      {
+        "text": "가을 없인 못 살아 😭",
+        "meaning_ja": "ガウルなしでは生きられない😭",
+        "meaning_en": "I can't live without Gaeul 😭 (Exaggerated and dramatic, common in fandoms)."
+      },
+      {
+        "text": "내 통장 가을꺼!",
+        "meaning_ja": "私の口座はガウルのもの！",
+        "meaning_en": "My bank account is Gaeul's! (A declaration of support, willing to spend money on their idol.)"
+      },
+      {
+        "text": "가을 is 뭔들!",
+        "meaning_ja": "ガウルは何でも最高！",
+        "meaning_en": "Gaeul is perfect no matter what! (Expressing unwavering support and love, even if she does anything.)"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "가을 is 뭔들",
+        "meaning_ja": "ガウルは何でも(最高)",
+        "meaning_en": "Gaeul is perfect no matter what (doing)"
+      },
+      {
+        "text": "가을 없인 못 살아",
+        "meaning_ja": "ガウル無しでは生きられない",
+        "meaning_en": "I can't live without Gaeul"
+      },
+      {
+        "text": "가을 공주님 ㅠㅠ",
+        "meaning_ja": "ガウル姫様 泣",
+        "meaning_en": "Gaeul, our princess. (crying tears of joy)"
+      },
+      {
+        "text": "가을 사랑둥이",
+        "meaning_ja": "ガウル愛されっ子",
+        "meaning_en": "Gaeul, you lovable darling"
+      },
+      {
+        "text": "가을 스릉흔드",
+        "meaning_ja": "ガウル 大好き",
+        "meaning_en": "Gaeul, I really love you"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "가을 is 뭔들",
+        "meaning_ja": "ガウルは何でも最高",
+        "meaning_en": "Gaeul is amazing no matter what (implied: always will be)."
+      },
+      {
+        "text": "가을 없인 못 살아",
+        "meaning_ja": "ガウル無しでは生きられない",
+        "meaning_en": "I can't live without Gaeul."
+      },
+      {
+        "text": "가을 은행길만 걷자",
+        "meaning_ja": "ガウルとお金の道だけを歩もう",
+        "meaning_en": "Let's only walk the road of Gaeul and money (meaning: success and happiness with Gaeul). *Note: 은행길 (eunhaenggil) is literally \"bank road,\" but is commonly used to mean a road paved with money, implying a prosperous future.*"
+      },
+      {
+        "text": "가을 is 내 전부",
+        "meaning_ja": "ガウルは私の全て",
+        "meaning_en": "Gaeul is my everything."
+      },
+      {
+        "text": "가을길만 🌸길",
+        "meaning_ja": "ガウルの道だけ🌸道",
+        "meaning_en": "Only Gaeul's path is a flower path (meaning: following Gaeul leads to happiness)."
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "가을이 폼 미쳤다!",
+        "meaning_ja": "ガウル、マジ最高！",
+        "meaning_en": "Gaeul is absolutely killing it! (This conveys excitement and admiration, perfect for a birthday performance)"
+      },
+      {
+        "text": "가을 언니, 생일 춍춍!",
+        "meaning_ja": "ガウルお姉さん、誕生日ぴょんぴょん！",
+        "meaning_en": "Happy Birthday, Gaeul unnie, bounce bounce! (춍춍 is a cute onomatopoeia for bouncing, implying excitement and happiness)"
+      },
+      {
+        "text": "가을이 덕분에 내 삶이 레전드",
+        "meaning_ja": "ガウルのおかげで私の人生はレジェンド",
+        "meaning_en": "Thanks to Gaeul, my life is legendary! (Expressing how Gaeul makes their life better and more exciting)"
+      },
+      {
+        "text": "가을 공주님, 생일 축하 링!",
+        "meaning_ja": "ガウル姫様、誕生日おめでとうリング！",
+        "meaning_en": "Happy birthday ring ring, Princess Gaeul! (링! is cutesy to say ring. Its playful slang emphasizing importance)"
+      },
+      {
+        "text": "가을 is 뭔들! 생일 최고다!",
+        "meaning_ja": "ガウルは何でも最高！誕生日最高！",
+        "meaning_en": "Gaeul is amazing no matter what! Best birthday ever! (뭔들 emphasizes that no matter what Gaeul does, she's amazing)"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "가을 is 뭔들",
+        "meaning_ja": "ガウルは何でも最高",
+        "meaning_en": "Gaeul can do anything! (Everything Gaeul does is amazing)"
+      },
+      {
+        "text": "갑분가을",
+        "meaning_ja": "突然のガウル",
+        "meaning_en": "Sudden Gaeul! (When Gaeul suddenly appears/does something)"
+      },
+      {
+        "text": "가을 공주님",
+        "meaning_ja": "ガウルの姫様",
+        "meaning_en": "Gaeul, our princess!"
+      },
+      {
+        "text": "가을 없인 못 살아",
+        "meaning_ja": "ガウルなしでは生きられない",
+        "meaning_en": "I can't live without Gaeul!"
+      },
+      {
+        "text": "가을 폼 미쳤다",
+        "meaning_ja": "ガウル、マジでイケてる！",
+        "meaning_en": "Gaeul is killing it! (Gaeul's style is amazing!)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "가을 is 뭔들",
+        "meaning_ja": "ガウル is 何でも似合う (Gaeul is nani demo niau)",
+        "meaning_en": "Gaeul slays everything! (Gaeul is good at anything!)"
+      },
+      {
+        "text": "갓! 가을!",
+        "meaning_ja": "ゴッド！ガウル！(Goddo! Gaeul!)",
+        "meaning_en": "God! Gaeul! (Same meaning, just emphasizing it in Japanese)"
+      },
+      {
+        "text": "가을선배 찢었다",
+        "meaning_ja": "ガウル先輩、最高！(Gaeul senpai, saikou!)",
+        "meaning_en": "Gaeul-sunbae KILLED it! (Gaeul is the best!)"
+      },
+      {
+        "text": "가을렐루야",
+        "meaning_ja": "ガウルハレルヤ！(Gaeuru hareruya!)",
+        "meaning_en": "Gaeul-lelujah! (Praising Gaeul like a god, similar to \"Hallelujah\")"
+      },
+      {
+        "text": "가을 is 뭔들 is 뭔들 is 뭔들",
+        "meaning_ja": "ガウル is 何でも似合う is 何でも似合う is 何でも似合う (Gaeul is nani demo niau is nani demo niau is nani demo niau)",
+        "meaning_en": "Gaeul is good at everything x3! (Repeating for extra emphasis and hype!)"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "갓 ഗ을",
+        "meaning_ja": "神ガウル (かみガウル)",
+        "meaning_en": "God Gaeul (Goddess Gaeul)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉 (がんめんがふくし)",
+        "meaning_en": "Her face is welfare (Her beauty heals)"
+      },
+      {
+        "text": "가을 is 뭔들",
+        "meaning_ja": "ガウル is 何でも (ガウル is なんでも)",
+        "meaning_en": "Gaeul is always right (Gaeul is perfect no matter what)"
+      },
+      {
+        "text": "가을 선배 사랑해여",
+        "meaning_ja": "ガウル先輩、愛してます (ガウルせんぱい、あいしてます)",
+        "meaning_en": "Gaeul sunbae, I love you! (Gaeul senior, I love you!)"
+      },
+      {
+        "text": "가을 공주님 만세",
+        "meaning_ja": "ガウル姫様万歳 (ガウルひめさまばんざい)",
+        "meaning_en": "All hail Princess Gaeul!"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉",
+        "meaning_en": "Her face is welfare (meaning it heals and makes you happy just by looking at it)"
+      },
+      {
+        "text": "가을 is 뭔들",
+        "meaning_ja": "ガウルは何でも正義",
+        "meaning_en": "Gaeul is always right (implying anything Gaeul does, especially looks-wise, is perfect)"
+      },
+      {
+        "text": "가을이즈 뭔들",
+        "meaning_ja": "ガウルイズ何でも正義",
+        "meaning_en": "Gaeul is 'whatever-dle' (Play on words, implying everything she does/is is amazing)"
+      },
+      {
+        "text": "가을 얼굴에 치얼스",
+        "meaning_ja": "ガウルの顔に乾杯",
+        "meaning_en": "Cheers to Gaeul's face!"
+      },
+      {
+        "text": "갓지컬 가을",
+        "meaning_ja": "神ビジュアルガウル",
+        "meaning_en": "God-tier visual Gaeul"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "가을 is 뭔들💖",
+        "meaning_ja": "ガウルは何しても最高💖",
+        "meaning_en": "Gaeul can do no wrong💖 (Meaning anything Gaeul does is amazing)"
+      },
+      {
+        "text": "가을아 손민수템 뭔데?👉❤️",
+        "meaning_ja": "ガウルちゃんとお揃いのアイテムは何？👉❤️",
+        "meaning_en": "Gaeul, what's the item you're using? I wanna copy it! 👉❤️ (Followed by a finger heart request)"
+      },
+      {
+        "text": "가을 공주 핑거하트 발사뿅뿅!💘",
+        "meaning_ja": "ガウル姫の指ハート発射ビョンビョン！💘",
+        "meaning_en": "Princess Gaeul's finger heart, shoot shoot! 💘 (Sound effect added for cuteness)"
+      },
+      {
+        "text": "가을 is 뭔들인데 핑거하트는 오조오억배 더 뭔들❤️",
+        "meaning_ja": "ガウルは何しても最高だけど、指ハートは五兆五億倍最高❤️",
+        "meaning_en": "Gaeul can do no wrong, but a finger heart is five trillion, five hundred million times more amazing ❤️"
+      },
+      {
+        "text": "가을아 🫶 + 🤏 = ❤️ 해줘!",
+        "meaning_ja": "ガウルちゃん、🫶 + 🤏 = ❤️ して！",
+        "meaning_en": "Gaeul-ah, 🫶 + 🤏 = ❤️  Do it! (Using emojis to visually represent a finger heart)"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "가을깅 맛도리길만 걸어!",
+        "meaning_ja": "ガウルちゃん、美味しい道だけ歩んで！",
+        "meaning_en": "Gaeul, only walk the path of deliciousness! (맛도리 (mat-dori) is slang for delicious food/experience and 길만 걸어 (gil-man georeo) means \"only walk the path\")"
+      },
+      {
+        "text": "가을 선배 밥길만 걸으세요!",
+        "meaning_ja": "ガウル先輩、美味しいご飯の道だけ歩んでください！",
+        "meaning_en": "Gaeul sunbae, please only walk the path paved with delicious food! (밥길 (bap-gil) refers to a path of abundant food/livelihood; 선배 (sunbae) used respectfully)"
+      },
+      {
+        "text": "오구오구 가을이 맘마 먹어쪄요?",
+        "meaning_ja": "よしよし、ガウリ、ご飯食べた？",
+        "meaning_en": "Aww, did Gaeul eat your yummy food? (오구오구 (ogu ogu) is baby talk expressing endearment, 맘마 (mam-ma) is baby talk for food/meal)"
+      },
+      {
+        "text": "가을 is 뭔들! 맛있는 거 다 먹어!",
+        "meaning_ja": "ガウルは何でも似合う！美味しいもの全部食べて！",
+        "meaning_en": "Gaeul is perfect no matter what! Eat all the delicious things! (뭔들 (mwondeul) is short for \"무엇이든\", meaning \"anything\" or \"no matter what,\" implying Gaeul can do anything well)"
+      },
+      {
+        "text": "가을 공주님, 꽃길 말고 밥길만!",
+        "meaning_ja": "ガウル姫様、お花畑の道じゃなくて、美味しいご飯の道だけ！",
+        "meaning_en": "Princess Gaeul, not a flower path, but only a path of delicious food! (공주님 (gongjunim) means princess, 꽃길 (kkot-gil) means flower path, metaphor for a good/successful life.)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "가을냥 감기 조심 ʚ(>ᴥ<)ɞ",
+        "meaning_ja": "ガウルちゃん、風邪に気をつけてね ʚ(>ᴥ<)ɞ",
+        "meaning_en": "Gaeul-nyang, please be careful not to catch a cold! ʚ(>ᴥ<)ɞ (Uses 귀엽다 expression for cuteness)"
+      },
+      {
+        "text": "가을 언니 아프지망고!",
+        "meaning_ja": "ガウルお姉さん、具合悪くならないでマンゴー！",
+        "meaning_en": "Gaeul unnie, don't get sick, mango! (Playful way of saying \"don't be sick\")"
+      },
+      {
+        "text": "만수무강 가을! 💪",
+        "meaning_ja": "いつまでも元気でいて、ガウル！💪",
+        "meaning_en": "May you live long and healthily, Gaeul! 💪 (Classic well-wishing phrase)"
+      },
+      {
+        "text": "가을 비타민 충전 완료! 🔋",
+        "meaning_ja": "ガウル ビタミンチャージ完了！🔋",
+        "meaning_en": "Gaeul, vitamin charge complete! 🔋 (Implies she's a source of energy)"
+      },
+      {
+        "text": "내 가수님 꽃길만 걸으세요, 아프지 말고! 🌸",
+        "meaning_ja": "私の推し、お花畑だけを歩んでください、病気にならないで！🌸",
+        "meaning_en": "My singer, please only walk on flower paths, and don't get sick! 🌸 (Wishing her success and good health)"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "가을선배, 폼 미쳤다!",
+        "meaning_ja": "ガウル先輩、マジ最高！ (マジ卍よりもっと上)",
+        "meaning_en": "Gaeul sunbae, you're absolutely killing it! (Even better than \"lit\")"
+      },
+      {
+        "text": "가을 is 뭔들!",
+        "meaning_ja": "ガウルは何でも最高！",
+        "meaning_en": "Gaeul is good at everything! (Whatever Gaeul does, it's great!)"
+      },
+      {
+        "text": "가을아, 걍 데뷔해 👏",
+        "meaning_ja": "ガウル、もうデビューしちゃえ👏",
+        "meaning_en": "Gaeul, just debut already 👏 (Implies she's so good she should debut immediately, even if she already has!)"
+      },
+      {
+        "text": "가을 언니, 내 심장 훔쳐 갔어 ㅠㅠ",
+        "meaning_ja": "ガウルお姉さん、私の心を盗んでいったㅠㅠ",
+        "meaning_en": "Gaeul unnie, you stole my heart ㅠㅠ"
+      },
+      {
+        "text": "가을 공주, 오늘도 열일!",
+        "meaning_ja": "ガウル姫、今日も頑張って！",
+        "meaning_en": "Gaeul princess, working hard again today!"
+      }
+    ]
+  },
+  "Rei": {
+    "LOVE_GENERAL": [
+      {
+        "text": "rei깅이",
+        "meaning_ja": "レイちゃんかわちい(可愛い)",
+        "meaning_en": "Rei-baby is so cute! (emphasizing cuteness)"
+      },
+      {
+        "text": "레이 맘찍",
+        "meaning_ja": "レイにいいね連打",
+        "meaning_en": "Rei gets all my likes! (Showing online support)"
+      },
+      {
+        "text": "갑분레이",
+        "meaning_ja": "突然レイちゃん",
+        "meaning_en": "Suddenly Rei! (Expressing surprise at Rei's appearance or impact)"
+      },
+      {
+        "text": "레이 미쳤다리",
+        "meaning_ja": "レイちゃんマジヤバい",
+        "meaning_en": "Rei is crazy good! (Expressing extreme admiration and excitement)"
+      },
+      {
+        "text": "레이 is 뭔들",
+        "meaning_ja": "レイは何でもあり",
+        "meaning_en": "Rei can do anything! (Saying that Rei is good at everything she does)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "뤠이 is 뭔들",
+        "meaning_ja": "レイis 何でも(愛してる)",
+        "meaning_en": "Rei is perfect no matter what (love you)"
+      },
+      {
+        "text": "다이브 심멎",
+        "meaning_ja": "DIVE 心臓止まる(好きすぎて)",
+        "meaning_en": "DIVE's heart stops (because we love you so much)"
+      },
+      {
+        "text": "킹갓뤠이",
+        "meaning_ja": "キングゴッドレイ(最高)",
+        "meaning_en": "King God Rei (the best)"
+      },
+      {
+        "text": "뤠이깅이",
+        "meaning_ja": "レイっ子(可愛い)",
+        "meaning_en": "Rei-baby (so cute)"
+      },
+      {
+        "text": "내 맘속에 뤠이저",
+        "meaning_ja": "私の心にレイザー(光)",
+        "meaning_en": "Rei-ser in my heart (a ray of light)"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "레이 내꺼",
+        "meaning_ja": "レイ、私のもの",
+        "meaning_en": "Rei is mine."
+      },
+      {
+        "text": "레이 결혼해줘",
+        "meaning_ja": "レイ、結婚して",
+        "meaning_en": "Rei, marry me."
+      },
+      {
+        "text": "레이 짱!",
+        "meaning_ja": "レイ、最高！",
+        "meaning_en": "Rei, you're the best!"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔が福祉だ",
+        "meaning_en": "Your face is welfare (Your face is so beautiful it heals)."
+      },
+      {
+        "text": "레이 없인 못 살아",
+        "meaning_ja": "レイなしでは生きられない",
+        "meaning_en": "I can't live without Rei."
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "레냥 보고잡다! (Reinyang bogojapda!)",
+        "meaning_ja": "レイニャンに会いたい！",
+        "meaning_en": "I miss Reinyang! (Reinyang is a nickname, 보고잡다 is a cute way of saying 보고싶다 - want to see)"
+      },
+      {
+        "text": "레이 is 뭔들...🥺 보고싶어 죽겠네! (Rei is mwondeul...🥺 bogosipeo jugeunne!)",
+        "meaning_ja": "レイは何でも似合う…🥺 会いたくて死にそう！",
+        "meaning_en": "Rei looks good in everything...🥺 I miss you so much I could die! (뭔들 means 'whatever she does/wears,' 죽겠네 is an exaggeration, 'dying')"
+      },
+      {
+        "text": "레이 없인 못 살아 😭 라뷰라뷰 보고파! (Rei eopsin mot sara 😭 rabyurabyu bogopa!)",
+        "meaning_ja": "レイなしでは生きられない😭 ラブラブ会いたい！",
+        "meaning_en": "I can't live without Rei 😭 Love love I want to see you! (라뷰 is a shortened version of \"love\" to make it sound cuter, 보고파 is a shorter more informal version of 보고싶어.)"
+      },
+      {
+        "text": "입덕 부정기 끝나고 레이 앓이 중...🥺 (Ipdeok bujeonggi kkeunnago Rei alhi jung...)",
+        "meaning_ja": "ファンになったことを否定する時期が終わって、レイのことばかり考えてる...🥺",
+        "meaning_en": "My period of denying I was a fan is over, and now I'm obsessed with Rei...🥺 (입덕 부정기 refers to the period where you deny stanning a group, 앓이 means to be sick with love or obsession)"
+      },
+      {
+        "text": "레이 때문에 심장이 뻐렁친다!! 💖 보고 시퍼!! (Rei ttaemune simjangi ppeoreongchinda!! 💖 bogo sipeo!!)",
+        "meaning_ja": "レイのせいで胸がいっぱいだ!!💖 会いたい!!",
+        "meaning_en": "My heart is overflowing because of Rei!! 💖 I wanna see you!! (뻐렁친다 means to overflow, simjangi ppeoreongchinda = my heart is overflowing,  시퍼 is a super cute/baby-like way of saying 보고 싶어)"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "다이브는 걍 뤠이꺼💖",
+        "meaning_ja": "DIVEはもうレイのもの💖",
+        "meaning_en": "DIVEs are completely Rei's💖 (Expressing DIVEs belonging to Rei)"
+      },
+      {
+        "text": "뤠이 없인 못 살아 😭",
+        "meaning_ja": "レイなしでは生きられない😭",
+        "meaning_en": "I can't live without Rei 😭 (Expressing deep affection and dependency)"
+      },
+      {
+        "text": "레이야, 내 맘속에 앙콘 확정! 💖",
+        "meaning_ja": "レイ、私の心の中でアンコン確定！💖",
+        "meaning_en": "Rei, an encore concert is confirmed in my heart! 💖 (Meaning Rei will always have a place and love in the speaker's heart)"
+      },
+      {
+        "text": "다이브는 뤠이 편! 💪",
+        "meaning_ja": "DIVEはレイの味方！💪",
+        "meaning_en": "DIVEs are on Rei's side! 💪 (Promise of unwavering support)"
+      },
+      {
+        "text": "죽어도 뤠이 사랑해! 🥺",
+        "meaning_ja": "死んでもレイを愛してる! 🥺",
+        "meaning_en": "I'll love Rei even if I die! 🥺 (Extreme expression of eternal love)"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "rei탄절",
+        "meaning_ja": "Rei誕生祭 (Rei tanjou sai)",
+        "meaning_en": "Rei's birthday festival! (탄절 is a slangy way to say \"birth event\" or \"birthday\" often used by fans)"
+      },
+      {
+        "text": "쩝쩝박사 Rei",
+        "meaning_ja": "ŧ‹\"ŧ‹\"博士 Rei (Chop chop hakase Rei)",
+        "meaning_en": "Rei, the expert on delicious things! (쩝쩝 is the sound of eating deliciously, and 박사 means \"doctor/expert\")"
+      },
+      {
+        "text": "Rei깅이",
+        "meaning_ja": "Reiっ子 (Rei-kko)",
+        "meaning_en": "Rei baby/Rei cutie! (깅이 is a cute way to refer to someone, like a baby. It also implies cuteness)"
+      },
+      {
+        "text": "Rei지컬",
+        "meaning_ja": "Reiビジュアル (Rei bijuaru)",
+        "meaning_en": "Rei's visuals are legendary! (A play on words combining \"Rei\" and \"Visual\". Adding \"-지컬\" implies something is of legendary quality)"
+      },
+      {
+        "text": "무릉도원 Rei",
+        "meaning_ja": "桃源郷 Rei (Tougenkyou Rei)",
+        "meaning_en": "Rei, the utopia/ideal! (무릉도원 means \"Shangri-La/utopia\" in Korean, implying Rei is perfect.)"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "갑분레이",
+        "meaning_ja": "突然のレイ (突然レイの話になること)",
+        "meaning_en": "Suddenly Rei (when the topic suddenly becomes about Rei)"
+      },
+      {
+        "text": "레이깅",
+        "meaning_ja": "レイ+レギンス (レイがレギンスを履いている姿が可愛いこと)",
+        "meaning_en": "Rei-ggings (Rei wearing leggings and looking cute)"
+      },
+      {
+        "text": "레이더쿠",
+        "meaning_ja": "レイオタク (レイの熱狂的なファン)",
+        "meaning_en": "Rei Otaku (Hardcore Rei fan)"
+      },
+      {
+        "text": "레이렐루야",
+        "meaning_ja": "レイ+ハレルヤ (レイを見た時の感動を表す言葉)",
+        "meaning_en": "Rei-llelujah (Expressing overwhelming emotion when seeing Rei)"
+      },
+      {
+        "text": "만찢레",
+        "meaning_ja": "漫画から飛び出してきたレイ (漫画から飛び出してきたように美しいレイ)",
+        "meaning_en": "Manjjit-Rei (Rei looks like she jumped straight out of a manga)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "갓기 레이",
+        "meaning_ja": "神ベビーレイ",
+        "meaning_en": "Baby God Rei"
+      },
+      {
+        "text": "레이는 킹정이지",
+        "meaning_ja": "レイはマジ神",
+        "meaning_en": "Rei is undeniably GOD"
+      },
+      {
+        "text": "레멘 🙏",
+        "meaning_ja": "レイメン 🙏",
+        "meaning_en": "Rei-men (Amen for Rei) 🙏"
+      },
+      {
+        "text": "레이 is 뭔들",
+        "meaning_ja": "レイは何でも神",
+        "meaning_en": "Rei is good at everything"
+      },
+      {
+        "text": "천상계 레이",
+        "meaning_ja": "天上界レイ",
+        "meaning_en": "Heavenly Rei"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "‎다이브 심장 꾹!",
+        "meaning_ja": "DIVEの心臓をぎゅっと！",
+        "meaning_en": "DIVE's hearts, *boop*! (Implies she steals/captures DIVE's hearts with her cuteness, \"꾹!\" is an onomatopoeia for a light poke/press)"
+      },
+      {
+        "text": "‎갓기 레이다!",
+        "meaning_ja": "天使(갓)赤ちゃん(기)レーダー！",
+        "meaning_en": "God-baby Rei radar activated! (Emphasizes her youthful and divine beauty)"
+      },
+      {
+        "text": "‎청순 과즙상 만찢녀",
+        "meaning_ja": "清純な果汁顔、漫画から飛び出してきたような女の子",
+        "meaning_en": "Pure and fruity beauty, a girl who jumped out of a manga! (Highlights her refreshing and unreal visual)"
+      },
+      {
+        "text": "‎얼굴이 복지다!",
+        "meaning_ja": "顔が福祉だ！",
+        "meaning_en": "Her face is welfare! (Meaning her face is so good, it's a blessing/benefit to society)"
+      },
+      {
+        "text": "‎레이 is 뭔들",
+        "meaning_ja": "レイは何でも正解！",
+        "meaning_en": "Rei is perfect no matter what she does! (Shortened from \"무엇을 하든지\" - \"no matter what (she) does,\" emphasizing her perfection.)"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉",
+        "meaning_en": "Her face is welfare (meaning it's so good, it's beneficial to society)"
+      },
+      {
+        "text": "얼굴 천재 만재 킹",
+        "meaning_ja": "顔面天才万才キング",
+        "meaning_en": "Face Genius, Ten Thousand Cheers, King! (describing her beauty as unbelievably amazing)"
+      },
+      {
+        "text": "비주얼 미쳤다리",
+        "meaning_ja": "ビジュアルマジヤバい",
+        "meaning_en": "Visuals are crazy good! (Expressing amazement at her looks)"
+      },
+      {
+        "text": "레전드 미모 갱신",
+        "meaning_ja": "レジェンド美貌更新",
+        "meaning_en": "Updating the legend of beauty (implying she becomes more beautiful every day)"
+      },
+      {
+        "text": "무릉도원 비주얼",
+        "meaning_ja": "桃源郷ビジュアル",
+        "meaning_en": "Shangri-La Visuals (describing her beauty as otherworldly and perfect)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "레이야, 쁘이쁘이 손하트!",
+        "meaning_ja": "レイちゃん、ブイブイ手ハート！",
+        "meaning_en": "Rei-ya, V-V finger heart! (V-V implies lots of love and excitement while asking for a finger heart)"
+      },
+      {
+        "text": "심멎! 레이 is 뭔들! (손하트 날려줘!)",
+        "meaning_ja": "心臓停止！レイは何でも可愛い！(手ハート飛ばして！)",
+        "meaning_en": "Heart stop! Rei is perfect no matter what! (Send us a finger heart!)"
+      },
+      {
+        "text": "킹받게 귀여워! (손하트 뿅뿅!)",
+        "meaning_ja": "マジで可愛すぎる！(手ハートぴょんぴょん！)",
+        "meaning_en": "So frustratingly cute! (Finger heart pyong pyong!) ( \"킹받네\" is a slang expressing being frustratingly cute, and \"뿅뿅\" mimics the action of sending hearts)"
+      },
+      {
+        "text": "레이 공주, 손민수템 손하트 플리즈!",
+        "meaning_ja": "レイ姫、真似したい手ハートください！",
+        "meaning_en": "Rei princess, please give us a finger heart we can copy! (손민수템 means items fans want to copy from idols)"
+      },
+      {
+        "text": "케미 요정 레이, 손하트 발사!",
+        "meaning_ja": "ケミ妖精レイ、手ハート発射！",
+        "meaning_en": "Chemistry fairy Rei, fire finger hearts! (Expressing Rei's great chemistry with other members, and asking for a finger heart as if it's a \"missile\")"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "먹잘알 레이다이브",
+        "meaning_ja": "美味しいものレーダー作動！レイIVE",
+        "meaning_en": "Rei, the gourmet radar of IVE! (Implies she knows all the best places to eat)"
+      },
+      {
+        "text": "쩝쩝박사 레이냥",
+        "meaning_ja": "もぐもぐ博士レイちゃん",
+        "meaning_en": "Dr. Chompers Rei (A cute way of saying she's a master of eating deliciously)"
+      },
+      {
+        "text": "레이 먹방 풀파워",
+        "meaning_ja": "レイのモッパン、フルパワー！",
+        "meaning_en": "Rei's Mukbang, full power! (Encourages her to eat well and showcases the power of her eating)"
+      },
+      {
+        "text": "위장 풀가동 레이",
+        "meaning_ja": "胃袋フル稼働レイ",
+        "meaning_en": "Rei, activating the stomach! (Playfully says she should eat a lot)"
+      },
+      {
+        "text": "맛잘알 레이, 풀 충전!",
+        "meaning_ja": "美味しいものよく知ってるレイ、フル充電！",
+        "meaning_en": "Rei, the food expert, fully charged! (Implies that eating good food will give her energy)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "갑분레이 건강챙겨!",
+        "meaning_ja": "突然のレイ、健康に気をつけて！",
+        "meaning_en": "Suddenly, let's all focus on Rei's health!"
+      },
+      {
+        "text": "얼죽아 레이 감기조심!",
+        "meaning_ja": "アイスコーヒーしか飲まないレイ、風邪に気をつけて！",
+        "meaning_en": "Even if you only drink iced coffee, Rei, be careful not to catch a cold!"
+      },
+      {
+        "text": "레이는 소중하니까, 따뜻하게 입어!",
+        "meaning_ja": "レイは大切だから、暖かく着て！",
+        "meaning_en": "Because Rei is precious, dress warmly!"
+      },
+      {
+        "text": "무야호~ 레이 감기 뚝 떨어져라!",
+        "meaning_ja": "ムヤホ～ レイ、風邪が治りますように！",
+        "meaning_en": "Muyaho~! Rei, may your cold disappear completely! (Muyaho is an exclamation of joy/excitement)"
+      },
+      {
+        "text": "행복레이, 아프지망고!",
+        "meaning_ja": "幸せなレイ、痛くないでマンゴー！",
+        "meaning_en": "Happy Rei, don't be sick, mango! (망고 (mango) is a pun on 말아 (mara - don't))"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "*   킹받네!",
+        "meaning_ja": "マジむかつくけど、レイちゃんだから許す！",
+        "meaning_en": "That's annoying, but it's Rei, so I'll let it slide! (Expresses frustration, but adoration for Rei)"
+      },
+      {
+        "text": "*   갑분싸, but Rei is 🔥",
+        "meaning_ja": "場の空気一変、でもレイちゃんは最高！",
+        "meaning_en": "Mood killer, but Rei is fire! (Humorous contrast highlighting Rei's positive impact)"
+      },
+      {
+        "text": "*   레전드",
+        "meaning_ja": "レジェンド更新中",
+        "meaning_en": "Updating the Legend (Meaning Rei is constantly setting new high standards)"
+      },
+      {
+        "text": "*   인싸력 만렙 Rei!",
+        "meaning_ja": "コミュ力最強 Rei!",
+        "meaning_en": "Rei, social butterfly level max! (Expresses admiration for her social skills/popularity)"
+      },
+      {
+        "text": "*   Rei 때문에 산다",
+        "meaning_ja": "Reiのおかげで生きてる",
+        "meaning_en": "I live because of Rei (Exaggerated expression of love and appreciation)"
+      }
+    ]
+  },
+  "Wonyoung": {
+    "LOVE_GENERAL": [
+      {
+        "text": "원영 is 뭔들",
+        "meaning_ja": "ウォニョンは何でもあり！",
+        "meaning_en": "Wonyoung can pull off anything! (Lit. Wonyoung is \"whatever you do\", meaning she's good at everything.)"
+      },
+      {
+        "text": "갓기 원영",
+        "meaning_ja": "天使みたいなウォニョンちゃん",
+        "meaning_en": "Angelic Wonyoung (used to describe someone cute and innocent like a baby, but also godly)"
+      },
+      {
+        "text": "원영 공주님 💖",
+        "meaning_ja": "ウォニョンお姫様💖",
+        "meaning_en": "Princess Wonyoung 💖"
+      },
+      {
+        "text": "워녕 is 뭔들 is 과사is 뭔들",
+        "meaning_ja": "ウォニョンはなんでもあり、過去写真もなんでもあり！",
+        "meaning_en": "Wonyoung is perfect, and even her pre-debut photos are perfect! (\"과사\" - past photo)"
+      },
+      {
+        "text": "다이브 심장 폭행범 = 원영",
+        "meaning_ja": "DIVEの心を奪う人 = ウォニョン",
+        "meaning_en": "Wonyoung = The one who steals DIVE's hearts (심장 폭행범 - heart attacker, someone who makes your heart flutter)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "원영 is 뭔들",
+        "meaning_ja": "ウォニョン is 何でもあり (愛してるから)",
+        "meaning_en": "Wonyoung is perfect no matter what (Because I love you)"
+      },
+      {
+        "text": "다이브는 원영편",
+        "meaning_ja": "DIVEはウォニョンの味方 (愛してるよ、いつも)",
+        "meaning_en": "DIVE is always on Wonyoung's side (I love you, always)"
+      },
+      {
+        "text": "원영 공주님 깅",
+        "meaning_ja": "ウォニョン姫、マジ最高 (愛してる！)",
+        "meaning_en": "Wonyoung Princess, Seriously the best (I love you!) *깅 is slang for '찐' (jjin - real/true) and intensifies the feeling.*"
+      },
+      {
+        "text": "원영 is 뭔들 is 과몰입",
+        "meaning_ja": "ウォニョン is 何でもあり にハマりすぎてる (愛してる証拠)",
+        "meaning_en": "I'm too immersed in Wonyoung being perfect (Proof of my love)"
+      },
+      {
+        "text": "워뇨 사랑하면 무조건 해피엔딩",
+        "meaning_ja": "ウォニョンを愛せば無条件にハッピーエンド (愛してるから信じてる)",
+        "meaning_en": "Loving Wonyoung guarantees a happy ending (Because I love you, I believe it)"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "원영적 사고 회로 풀가동!",
+        "meaning_ja": "ウォニョン的思考回路フル稼働！",
+        "meaning_en": "Wonyoung-style thought process at full power! (Implying idealization/blind love)"
+      },
+      {
+        "text": "원영 is 뭔들",
+        "meaning_ja": "ウォニョンは何でも良い",
+        "meaning_en": "Wonyoung is good no matter what (she does). (Suggesting unwavering support/adoration)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔が福祉だ",
+        "meaning_en": "Her face is welfare. (Meaning her beauty is a blessing/makes you happy. It's a compliment taken to the extreme.)"
+      },
+      {
+        "text": "Wonyoung 없인 못 살아!",
+        "meaning_ja": "ウォニョン無しじゃ生きられない！",
+        "meaning_en": "I can't live without Wonyoung! (Direct expression of intense love/dependence.)"
+      },
+      {
+        "text": "내 심장 Wonyoung한테 저당 잡힘",
+        "meaning_ja": "私の心臓はウォニョンに担保に取られた",
+        "meaning_en": "My heart is mortgaged to Wonyoung. (Meaning: Wonyoung owns my heart completely.)"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "원영 is 뭔들",
+        "meaning_ja": "ウォニョンは何でも (最高)",
+        "meaning_en": "Wonyoung is always (amazing/the best)"
+      },
+      {
+        "text": "내 마음속에 ⭐️깅",
+        "meaning_ja": "私の心の中に⭐埋め込み",
+        "meaning_en": "Star-embedded in my heart"
+      },
+      {
+        "text": "원영 공주님 💖",
+        "meaning_ja": "ウォニョンお姫様💖",
+        "meaning_en": "Princess Wonyoung 💖"
+      },
+      {
+        "text": "보고싶daWONYOUNG",
+        "meaning_ja": "会いたいdaWONYOUNG (会いたいよ)",
+        "meaning_en": "Miss you daWONYOUNG (Miss you)"
+      },
+      {
+        "text": "원영 is 뭔들 안 귀여워?",
+        "meaning_ja": "ウォニョンは何でも可愛くないわけがない",
+        "meaning_en": "How can Wonyoung *not* be cute? (She's always cute!)"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "원영 is 뭔들",
+        "meaning_ja": "ウォニョンは何をやっても最高",
+        "meaning_en": "Wonyoung can do no wrong (Everything Wonyoung does is great)."
+      },
+      {
+        "text": "다이브는 영원히 곁에",
+        "meaning_ja": "DIVEは永遠にそばにいるよ",
+        "meaning_en": "DIVE will always be by your side forever."
+      },
+      {
+        "text": "원영 공주님 평생 모실게요",
+        "meaning_ja": "ウォニョンお姫様、一生お守りします",
+        "meaning_en": "Princess Wonyoung, I will protect you for life."
+      },
+      {
+        "text": "원영 없인 못 살아 정말 못 살아",
+        "meaning_ja": "ウォニョンなしでは生きられない、本当に生きられない",
+        "meaning_en": "I can't live without Wonyoung, I really can't."
+      },
+      {
+        "text": "원영 is 뭔들 is 과학",
+        "meaning_ja": "ウォニョンは何をやっても最高は科学 (証明済み)",
+        "meaning_en": "Wonyoung can do no wrong is science (It's proven!)."
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "원영 is 뭔들",
+        "meaning_ja": "ウォニョンは何でもアリ！",
+        "meaning_en": "Wonyoung can pull off anything! (meaning she's good at everything)"
+      },
+      {
+        "text": "갓기 Wonyoung",
+        "meaning_ja": "天使のようなウォニョンちゃん",
+        "meaning_en": "Angelic Wonyoung (Referring to her baby-like beauty and innocence)"
+      },
+      {
+        "text": "Wonyoung 복숭아",
+        "meaning_ja": "ウォニョンは桃みたい",
+        "meaning_en": "Wonyoung is like a peach (referring to her beauty and sweetness, \"peach-like\")"
+      },
+      {
+        "text": "Wonyoung 때문에 살아",
+        "meaning_ja": "ウォニョンのために生きる",
+        "meaning_en": "I live for Wonyoung (Meaning she is the reason for one's happiness)"
+      },
+      {
+        "text": "Wonyoung 꽃길만 걸어",
+        "meaning_ja": "ウォニョンには花道だけを歩いてほしい",
+        "meaning_en": "I wish Wonyoung only walks on flower paths (Wishing her only the best and success)"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "갓기 🐰",
+        "meaning_ja": "天使！(マジ天使！)",
+        "meaning_en": "Angel! (So angelic!) (Referring to her perceived \"born perfect\" image)"
+      },
+      {
+        "text": "원영적 사고 ✨",
+        "meaning_ja": "ウォニョン的思考 (ポジティブマインド)",
+        "meaning_en": "Wonyoung-esque thinking (Positive mindset) (Referencing her perceived positivity)"
+      },
+      {
+        "text": "넘사벽 💖",
+        "meaning_ja": "壁超えちゃってる！(次元が違う！)",
+        "meaning_en": "Unreachable wall! (She's on another level!) (Highlighting her beauty and success)"
+      },
+      {
+        "text": "만찢녀 🌸",
+        "meaning_ja": "漫画から出てきた子 (リアルお人形さん)",
+        "meaning_en": "Girl who came out of a manga (Real-life doll) (Emphasizing her doll-like visuals)"
+      },
+      {
+        "text": "Wo-Nyoung-mazing! 👍",
+        "meaning_ja": "ウォニョン最高！(マジですごい！)",
+        "meaning_en": "Wonyoung is amazing! (Seriously incredible!) (Direct hype with an English pun)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "갓기 🤍",
+        "meaning_ja": "神の子 (かみのこ)",
+        "meaning_en": "God Baby (referring to her god-like visuals and young age)"
+      },
+      {
+        "text": "원카이브 🤍",
+        "meaning_ja": "ウォニョンアーカイブ (ウォニョンあーかいぶ)",
+        "meaning_en": "Wonyoung Archive (meaning she's legendary and deserves to be documented)"
+      },
+      {
+        "text": "천상계 비주얼 🤍",
+        "meaning_ja": "天上界ビジュアル (てんじょうかいびじゅある)",
+        "meaning_en": "Heavenly Visuals (her beauty is otherworldly)"
+      },
+      {
+        "text": "넘사벽 미모 🤍",
+        "meaning_ja": "越えられない壁の美貌 (こえられないかべのびぼう)",
+        "meaning_en": "Unattainable Beauty (her beauty is unmatched)"
+      },
+      {
+        "text": "본투비 아이돌 🤍",
+        "meaning_ja": "生まれながらのアイドル (うまれながらのアイドル)",
+        "meaning_en": "Born to be Idol (she was born to be a star)"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "갓기 뿅아리",
+        "meaning_ja": "まるで神様のような赤ちゃんひよこ",
+        "meaning_en": "God-like baby chick (emphasizing her youthful perfection)"
+      },
+      {
+        "text": "원영 is 뭔들",
+        "meaning_ja": "ウォニョンは何でも似合う/最高",
+        "meaning_en": "Wonyoung looks good in anything / Wonyoung is perfect no matter what"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉",
+        "meaning_en": "Her face is welfare (meaning just looking at her brings happiness and good fortune)"
+      },
+      {
+        "text": "인형이세요? 네, 원영인데요",
+        "meaning_ja": "人形ですか？はい、ウォニョンですけど。",
+        "meaning_en": "Are you a doll? Yes, it's Wonyoung."
+      },
+      {
+        "text": "원영적 모먼트",
+        "meaning_ja": "ウォニョン的瞬間",
+        "meaning_en": "A Wonyoung-esque moment (describes a situation or pose that is effortlessly chic and stylish, like Wonyoung)"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "갓기 웡",
+        "meaning_ja": "まるで赤ちゃん！(神がかってるウォニョン)",
+        "meaning_en": "Baby Wonyoung is a goddess! (Literal: \"God-baby Wonyoung\")"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉 (ウォニョンの顔は見る人を幸せにする)",
+        "meaning_en": "Her face is welfare (Wonyoung's face brings happiness to everyone who sees it)"
+      },
+      {
+        "text": "천상계 미모",
+        "meaning_ja": "天上界の美貌 (ウォニョンは次元が違う美しさ)",
+        "meaning_en": "Otherworldly beauty (Wonyoung's beauty is on a different dimension)"
+      },
+      {
+        "text": "인형 아니야?",
+        "meaning_ja": "人形じゃないの？ (ウォニョンはまるで人形みたい)",
+        "meaning_en": "Isn't she a doll? (Wonyoung looks like a doll)"
+      },
+      {
+        "text": "넘사벽 비주얼",
+        "meaning_ja": "誰も越えられないビジュアル (ウォニョンの美貌は誰にも超えられない)",
+        "meaning_en": "Unattainable visual (Wonyoung's beauty is unmatched)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "원영 is 뭔들",
+        "meaning_ja": "ウォニョンは何しても最高",
+        "meaning_en": "Wonyoung can do no wrong (anything she does is amazing)!"
+      },
+      {
+        "text": "만찢원",
+        "meaning_ja": "漫画から飛び出たウォニョン",
+        "meaning_en": "Wonyoung is like a manga character come to life (so perfect)!"
+      },
+      {
+        "text": "갓기 원영",
+        "meaning_ja": "神のような赤ちゃんウォニョン",
+        "meaning_en": "Goddess baby Wonyoung (she's both a god and adorable)! (Implies sending her love in the form of REQ_HEART)"
+      },
+      {
+        "text": "원영적 모먼트",
+        "meaning_ja": "ウォニョン的な瞬間",
+        "meaning_en": "A Wonyoung-esque moment (when someone does something graceful and charming) (Followed by REQ_HEART)"
+      },
+      {
+        "text": "냅다 원영",
+        "meaning_ja": "とにかくウォニョン",
+        "meaning_en": "Just Wonyoung (used to express fervent love and support) (Sends REQ_HEART)"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "원영 is 뭔들! (맛있는거 다 먹어!)",
+        "meaning_ja": "ウォニョンは何でも似合う！(美味しいもの全部食べて！)",
+        "meaning_en": "Wonyoung can pull off anything! (Eat all the delicious things!)"
+      },
+      {
+        "text": "먹잘알 원영!",
+        "meaning_ja": "食べることをよく知ってるウォニョン！",
+        "meaning_en": "Wonyoung knows how to eat well! (She knows her good food!)"
+      },
+      {
+        "text": "영깅이 밥길만 걸어!",
+        "meaning_ja": "ヨンギはご飯の道だけを歩いて！",
+        "meaning_en": "Young-ggi, only walk the path of good food! (May Wonyoung only have good food in her future!)"
+      },
+      {
+        "text": "만반잘부 원영! (맛있는 거 많이많이 잘 부탁해!)",
+        "meaning_ja": "いろいろよろしくねウォニョン！(美味しいものたくさんたくさんよろしくね！)",
+        "meaning_en": "Many things to look forward to from Wonyoung! (Please treat us to lots and lots of delicious food!) - *This is a playful take on \"잘 부탁해\" using \"만반\" (many things)*"
+      },
+      {
+        "text": "원영 is 뭔들 맛없없! (맛없을 수 없음!)",
+        "meaning_ja": "ウォニョンは何でも似合う、まずいはずがない！",
+        "meaning_en": "Wonyoung can pull off anything, there's no way anything could be not delicious with her! (There's no way food could be bad with Wonyoung!)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "만찢비주얼 감기조심!",
+        "meaning_ja": "漫画から出てきたようなビジュアル、風邪に気をつけて！",
+        "meaning_en": "Comic book visuals, stay healthy (don't catch a cold)!"
+      },
+      {
+        "text": "원영 is 뭔들, 아프지망고!",
+        "meaning_ja": "ウォニョンは何でも似合う、病気にならないでマンゴー！",
+        "meaning_en": "Wonyoung looks good in everything, don't get sick, mango! (Mango sounds like \"malgo\" which means \"don't\" in this context)."
+      },
+      {
+        "text": "다이브 심쿵사 방지, 건강챙겨!",
+        "meaning_ja": "ダイブ心臓麻痺防止、健康に気をつけて！",
+        "meaning_en": "Prevent Dive's heart attacks, take care of your health! (Referring to fans being overwhelmed by her beauty)."
+      },
+      {
+        "text": "갓기 원영, 꽃길만 걸어, 아프지마!",
+        "meaning_ja": "赤ちゃんみたいなウォニョン、花の道だけを歩んで、病気にならないで！",
+        "meaning_en": "Baby Wonyoung, walk only on flower paths, don't be sick! (Uses \"갓기\" which implies baby/god tier cuteness)"
+      },
+      {
+        "text": "무결점 미모, 건강이 최고시다!",
+        "meaning_ja": "完璧な美貌、健康が一番です！",
+        "meaning_en": "Flawless beauty, health is the most important! (Ending with -시다 gives it a polite/respectful feel, suitable for addressing an idol)."
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "갓기 짱",
+        "meaning_ja": "天才赤ちゃん最高！(マジ神)",
+        "meaning_en": "Genius Baby, you're the best! (Seriously God-tier)"
+      },
+      {
+        "text": "원영적 사고 풀가동",
+        "meaning_ja": "ウォニョン的思考フル稼働！(ポジティブ全開)",
+        "meaning_en": "Wonyoung-like thinking, full power! (Maximum positivity)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉！(顔を見るだけで癒やされる)",
+        "meaning_en": "Your face is welfare! (Just looking at your face is healing)"
+      },
+      {
+        "text": "무대 찢었다",
+        "meaning_ja": "ステージを破った！(最高のパフォーマンス)",
+        "meaning_en": "You ripped the stage! (The best performance)"
+      },
+      {
+        "text": "만찢녀",
+        "meaning_ja": "漫画から飛び出してきた女！(美しすぎる)",
+        "meaning_en": "A girl who jumped out of a manga! (Too beautiful)"
+      }
+    ]
+  },
+  "Liz": {
+    "LOVE_GENERAL": [
+      {
+        "text": "리즈 is 뭔들",
+        "meaning_ja": "リズは何でも最高！",
+        "meaning_en": "Liz is perfect no matter what! (Lit: \"Liz is what-ever is always good!\")"
+      },
+      {
+        "text": "리즈 꽃길만 걸어",
+        "meaning_ja": "リズ、花の道だけを歩んで！",
+        "meaning_en": "Liz, only walk on flower paths! (May you only have good fortune)"
+      },
+      {
+        "text": "완리즈",
+        "meaning_ja": "完璧リズ",
+        "meaning_en": "Perfect Liz (A play on \"완벽\" which means perfect)"
+      },
+      {
+        "text": "리즈 맘 잘 알지?",
+        "meaning_ja": "リズの気持ち、よく分かってるでしょ？",
+        "meaning_en": "You know Liz's heart well, right? (Expressing a deep understanding and love)"
+      },
+      {
+        "text": "리즈 덕분에 산다",
+        "meaning_ja": "リズのおかげで生きてる！",
+        "meaning_en": "I live thanks to Liz! (Meaning that Liz is a source of happiness and motivation)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "리즈 is 뭔들",
+        "meaning_ja": "リズ is 何でも好き (愛してる)",
+        "meaning_en": "Liz is good at everything (I love everything about her)"
+      },
+      {
+        "text": "다이브 심멎",
+        "meaning_ja": "DIVE 心臓が止まる (愛しすぎて)",
+        "meaning_en": "DIVE heart stops (From loving you too much)"
+      },
+      {
+        "text": "리즈 꽃길만 걸어",
+        "meaning_ja": "リズ、花の道だけを歩んで (愛を込めて応援する)",
+        "meaning_en": "Liz, walk only on flower paths (Supporting you with all my love)"
+      },
+      {
+        "text": "리즈 맘찍",
+        "meaning_ja": "リズにいいね連打 (愛が止まらない)",
+        "meaning_en": "Liz heart click (Spamming likes because I can't stop loving you)"
+      },
+      {
+        "text": "리즈 is 뭔들 is 뭔들",
+        "meaning_ja": "リズは何もかも大好きx2 (マジで愛してる)",
+        "meaning_en": "Liz is good at everything x2 (I seriously love everything about her)"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "리즈 is 뭔들",
+        "meaning_ja": "リズはマジで何でも最高",
+        "meaning_en": "Liz is seriously amazing no matter what she does. (Implies she's perfect and worthy of everything)"
+      },
+      {
+        "text": "리즈, 내 심장 훔쳐가",
+        "meaning_ja": "リズ、私のハートを盗んでって",
+        "meaning_en": "Liz, steal my heart away! (Direct expression of affection)"
+      },
+      {
+        "text": "리즈, 내 인생 책임져!",
+        "meaning_ja": "リズ、私の人生、責任とって！",
+        "meaning_en": "Liz, take responsibility for my life! (Playful, hyperbolic way of saying she's everything)"
+      },
+      {
+        "text": "리즈 없인 못 살아",
+        "meaning_ja": "リズなしでは生きられない",
+        "meaning_en": "I can't live without Liz. (Extreme declaration of dependence/love)"
+      },
+      {
+        "text": "리즈, 결혼 각이다!",
+        "meaning_ja": "リズ、結婚確定だ！",
+        "meaning_en": "Liz, a marriage is sealed! (Playful yet bold proclamation hinting at the REQ_MARRY intent)"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "리즈 보고 픈 거 있 Liz?",
+        "meaning_ja": "リズに会いたいの、ある？",
+        "meaning_en": "Wanna see Liz, or what? (Playing on \"있 Liz?\" meaning \"Is there Liz?\" but sounds like \"Is there?\")"
+      },
+      {
+        "text": "리즈 없인 못 살아 🥺",
+        "meaning_ja": "リズなしじゃ生きられない 🥺",
+        "meaning_en": "I can't live without Liz 🥺 (Common dramatic expression, adding the emoji)"
+      },
+      {
+        "text": "리즈 생각에 심장이 콩닥콩닥!",
+        "meaning_ja": "リズのことを考えると、ドキドキ！",
+        "meaning_en": "My heart goes doki doki (thump thump) thinking of Liz!"
+      },
+      {
+        "text": "내 마음속에 리즈 저장! (보고싶다 💾)",
+        "meaning_ja": "私の心にリズを保存！(会いたい 💾)",
+        "meaning_en": "Liz saved in my heart! (MISS_YOU 💾) (Referencing the save icon and feeling)"
+      },
+      {
+        "text": "리즈 is 뭔들…(보고싶은 걸 뭔들 안 예쁘겠어)",
+        "meaning_ja": "リズ is 何でも…(会いたいから何でも可愛く見える)",
+        "meaning_en": "Liz is 뭔들… (Since I MISS_YOU, everything she does is adorable) (\"뭔들\" is short for \"뭐든지\" meaning \"whatever she does\")"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "리즈는 걍 '내' 거",
+        "meaning_ja": "リズはもう「私」のもの",
+        "meaning_en": "Liz is totally 'mine' (in a possessive fan way)"
+      },
+      {
+        "text": "리즈 없인 못 살아!",
+        "meaning_ja": "リズなしじゃ生きられない！",
+        "meaning_en": "I can't live without Liz!"
+      },
+      {
+        "text": "리즈 is 뭔들",
+        "meaning_ja": "リズはマジで何でもアリ",
+        "meaning_en": "Liz is amazing no matter what she does."
+      },
+      {
+        "text": "리즈랑 뼈를 묻을게",
+        "meaning_ja": "リズと骨を埋める覚悟",
+        "meaning_en": "I'm ready to dedicate my life to Liz."
+      },
+      {
+        "text": "리즈 맘 = 내 맘",
+        "meaning_ja": "リズの気持ち = 私の気持ち",
+        "meaning_en": "Liz's heart = my heart."
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "리즈깅 생일 쮸카해!",
+        "meaning_ja": "リズ姫、誕生日おめでとう、ちゅっ！",
+        "meaning_en": "Happy Birthday, Liz-princess! *Chu!* (Kiss sound)"
+      },
+      {
+        "text": "리즈 is 뭔들!",
+        "meaning_ja": "リズは何でもあり！",
+        "meaning_en": "Liz can do anything! / Liz is good at everything!"
+      },
+      {
+        "text": "리즈 꽃길만 걸어!",
+        "meaning_ja": "リズ、花の道だけを歩んで！",
+        "meaning_en": "Liz, only walk on flower paths! (Wishing her only good things)"
+      },
+      {
+        "text": "리즈 덕분에 행복회로 풀가동!",
+        "meaning_ja": "リズのおかげで幸せ回路フル稼働！",
+        "meaning_en": "Thanks to Liz, my happiness circuit is running at full speed!"
+      },
+      {
+        "text": "리즈 사랑둥이 만세!",
+        "meaning_ja": "リズ、愛されっ子、ばんざーい！",
+        "meaning_en": "Hooray for Liz, our beloved darling! / Long live Liz, our loveable one!"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "리즈 미모 미쳤당!",
+        "meaning_ja": "リズの美貌マジヤバい！",
+        "meaning_en": "Liz's beauty is seriously insane! (Lit. *crazy*)"
+      },
+      {
+        "text": "리즈 꽃길만 걸어!",
+        "meaning_ja": "リズ、花の道だけを歩んで！",
+        "meaning_en": "Liz, only walk the flower path! (May you only walk the path of happiness.)"
+      },
+      {
+        "text": "리즈 폼 미쳤다!",
+        "meaning_ja": "リズの調子マジやばい！",
+        "meaning_en": "Liz's form is insane! (Lit. *crazy* - meaning \"amazing\" or \"on fire!\")"
+      },
+      {
+        "text": "리즈 덕분에 산다!",
+        "meaning_ja": "リズのおかげで生きてる！",
+        "meaning_en": "I live because of Liz! (Liz is my reason for living.)"
+      },
+      {
+        "text": "리즈 is 뭔들!",
+        "meaning_ja": "リズは何でも最高！",
+        "meaning_en": "Liz is perfect no matter what! (Lit. \"Liz is whatever, what's wrong with it?\", meaning even if she does something unexpected, it's still great because it's her.)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "리즈 is 뭔들",
+        "meaning_ja": "リズは何でも神",
+        "meaning_en": "Liz can do anything! / Liz is amazing no matter what!"
+      },
+      {
+        "text": "갓리더 (갓 + 리즈)",
+        "meaning_ja": "まさに神リーダー！",
+        "meaning_en": "God-Leader Liz! (Implies she's an amazing leader)"
+      },
+      {
+        "text": "리즈 폼 미쳤다",
+        "meaning_ja": "リズの調子がマジ神",
+        "meaning_en": "Liz is killing it! / Liz is in top form! (폼 미쳤다 is trending in korea)"
+      },
+      {
+        "text": "리즈가 곧 복지",
+        "meaning_ja": "リズはもはや福祉",
+        "meaning_en": "Liz is welfare (Means: Liz's existence is happiness and good for us)"
+      },
+      {
+        "text": "얼굴이 개연성",
+        "meaning_ja": "顔面が神展開",
+        "meaning_en": "Her face is the plot (The literal translation is: Her face is the coherence of the story, meaning that her face is so beautiful that everything is justified)"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "리즈 미모 미쳤다리",
+        "meaning_ja": "リズの美貌、マジありえない！",
+        "meaning_en": "Liz's beauty is absolutely insane! (Emphasis on unbelievable beauty)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉だ",
+        "meaning_en": "Your face is a welfare service (meaning seeing her face is beneficial and makes people happy)."
+      },
+      {
+        "text": "인간 비타민 리즈",
+        "meaning_ja": "人間ビタミン リズ",
+        "meaning_en": "Human Vitamin Liz (meaning she's refreshing and energizing like a vitamin)."
+      },
+      {
+        "text": "리즈 is 뭔들",
+        "meaning_ja": "リズは何でも似合う",
+        "meaning_en": "Liz looks good in anything (shortened version of \"Liz is 뭔들 안 어울리겠어?\")."
+      },
+      {
+        "text": "갓기리즈",
+        "meaning_ja": "天使赤ちゃんリズ",
+        "meaning_en": "Baby Angel Liz (referring to Liz's youthful and adorable visuals despite being a grown woman)."
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉",
+        "meaning_en": "Her face is welfare/a blessing. (Implying her beauty is so good it's like a social benefit)"
+      },
+      {
+        "text": "리즈 미모 미쳤다",
+        "meaning_ja": "リズの美貌が狂ってる",
+        "meaning_en": "Liz's beauty is insane/crazy."
+      },
+      {
+        "text": "얼굴천재 만만세",
+        "meaning_ja": "顔面天才、万歳！",
+        "meaning_en": "Face genius, hurrah!/long live the face genius!"
+      },
+      {
+        "text": "비주얼 폭탄",
+        "meaning_ja": "ビジュアル爆弾",
+        "meaning_en": "Visual bomb. (Meaning extremely visually stunning)"
+      },
+      {
+        "text": "인간 리즈 그 자체",
+        "meaning_ja": "人間リズそのもの",
+        "meaning_en": "Human Liz herself. (Highlighting she embodies the name's association with ultimate beauty)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "리즈, 핑거하트 앙망!",
+        "meaning_ja": "リズ、指ハートちょうだい！",
+        "meaning_en": "Liz, please give us a finger heart! (앙망 is a playful, almost begging-like way to request something)"
+      },
+      {
+        "text": "리즈 is 뭔들, 핑거하트 is 진리!",
+        "meaning_ja": "リズは何でも似合う、指ハートはマジ最高！",
+        "meaning_en": "Liz looks good in anything, a finger heart is the truth! (뭔들 means \"anything,\" and 진리 means \"the truth\" or \"the best thing\")"
+      },
+      {
+        "text": "리즈, 핑거하트 안 주면 나 울어! ㅠㅠ",
+        "meaning_ja": "リズ、指ハートくれなかったら泣く！ㅠㅠ",
+        "meaning_en": "Liz, if you don't give us a finger heart, I'll cry! ㅠㅠ (Common internet expression for crying)"
+      },
+      {
+        "text": "리즈, 핑거하트 발사! 내 심장에 안착!",
+        "meaning_ja": "リズ、指ハート発射！私の心臓に着陸！",
+        "meaning_en": "Liz, fire a finger heart! Land it in my heart! (Uses the imagery of shooting/landing something - playful and dramatic)"
+      },
+      {
+        "text": "리즈 핑거하트 = 국룰",
+        "meaning_ja": "リズの指ハート = 鉄板！",
+        "meaning_en": "Liz's finger heart = a must-do/guaranteed hit! (국룰, short for \"국민 룰,\" means it's a universally accepted rule or something everyone loves/expects.)"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "리즈 맘마머겅!",
+        "meaning_ja": "リズ、まんま食べてね！",
+        "meaning_en": "Liz, eat your meals well! (lit. \"Liz, eat yum-yums!\")"
+      },
+      {
+        "text": "리즈 행복 풀코스 가자!",
+        "meaning_ja": "リズ、幸せフルコースで行こう！",
+        "meaning_en": "Liz, let's go for a full course of happiness! (Implying eating delicious things leads to happiness)"
+      },
+      {
+        "text": "리즈 맛잘알 인정!",
+        "meaning_ja": "リズ、美味しいもの知ってるの認める！",
+        "meaning_en": "Liz, I acknowledge your excellent taste in food!"
+      },
+      {
+        "text": "리즈 밥길만 걸어!",
+        "meaning_ja": "リズ、美味しいご飯の道だけを歩んで！",
+        "meaning_en": "Liz, only walk the path of delicious food! (Meaning: Eat only good things and have a happy life)"
+      },
+      {
+        "text": "리즈 먹방 요정!",
+        "meaning_ja": "リズ、モッパンの妖精！",
+        "meaning_en": "Liz, the Mukbang fairy! (Meaning: Liz is great at eating shows and enjoys food.)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "리즈, 아프지망고!",
+        "meaning_ja": "リズ、痛くないでマンゴー！(痛くしないでね！)",
+        "meaning_en": "Liz, don't be sick-mango! (Please don't be sick!)"
+      },
+      {
+        "text": "리즈깅 감기 조심 💖",
+        "meaning_ja": "リズちゃん、風邪に気をつけて💖",
+        "meaning_en": "Liz-gyeo, be careful of colds 💖"
+      },
+      {
+        "text": "리즈, 꽃길만 걸어! 건강 꽃길!",
+        "meaning_ja": "リズ、花の道だけを歩いて！健康な花の道！",
+        "meaning_en": "Liz, walk only on flower paths! A healthy flower path!"
+      },
+      {
+        "text": "우리 리즈, 밥 잘 챙겨 먹구 행복해야 돼!",
+        "meaning_ja": "私たちのリズ、ご飯をちゃんと食べて幸せにならないとだめだよ！",
+        "meaning_en": "Our Liz, make sure you eat well and be happy!"
+      },
+      {
+        "text": "리즈 is 뭔들, 건강이 제일!",
+        "meaning_ja": "リズ is 何でも(良いけど)、健康が一番！",
+        "meaning_en": "Liz is anything, but health is the most important!"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "리즈 is 뭔들",
+        "meaning_ja": "リズは何でも最高",
+        "meaning_en": "Liz can do no wrong / Liz is amazing at everything"
+      },
+      {
+        "text": "갑분리즈",
+        "meaning_ja": "突然のリズ",
+        "meaning_en": "Suddenly, it's Liz! (referring to her charm or talent suddenly appearing)"
+      },
+      {
+        "text": "리즈깅",
+        "meaning_ja": "リズっ子",
+        "meaning_en": "Little Liz (affectionate nickname, like calling her \"Liz-kin\")"
+      },
+      {
+        "text": "리즈 미모 미쳤다",
+        "meaning_ja": "リズの美貌、マジヤバい",
+        "meaning_en": "Liz's beauty is insane!"
+      },
+      {
+        "text": "리즈 폼 미쳤다",
+        "meaning_ja": "リズ、調子マジ最高！",
+        "meaning_en": "Liz is on fire! (Her performance is amazing)"
+      }
+    ]
+  },
+  "Leeseo": {
+    "LOVE_GENERAL": [
+      {
+        "text": "리즈 미모 미쳤다리",
+        "meaning_ja": "リズの美貌、マジヤバすぎ！",
+        "meaning_en": "Leeseo's beauty is crazy!"
+      },
+      {
+        "text": "막내온탑 리즈",
+        "meaning_ja": "末っ子オン トップ リズ",
+        "meaning_en": "Leeseo, the youngest on top!"
+      },
+      {
+        "text": "리즈 is 뭔들",
+        "meaning_ja": "リズは何でも最高",
+        "meaning_en": "Leeseo is perfect no matter what!"
+      },
+      {
+        "text": "리즈 꽃길만 걸어",
+        "meaning_ja": "リズ、花の道だけを歩んで！",
+        "meaning_en": "Leeseo, walk only on flower paths! (May only good things happen to you)"
+      },
+      {
+        "text": "리즈 폼 미쳤다!",
+        "meaning_ja": "リズの調子、マジ最高！",
+        "meaning_en": "Leeseo's form is insane! (You're doing great!)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "리즈 is 뭔들",
+        "meaning_ja": "リズは何でも最高",
+        "meaning_en": "Leeseo is perfect no matter what (lit. \"Leeseo, whatever she does is the best\")"
+      },
+      {
+        "text": "이서 is 뭔들",
+        "meaning_ja": "イソは何でも最高",
+        "meaning_en": "Leeseo is perfect no matter what (lit. \"Leeseo, whatever she does is the best\")"
+      },
+      {
+        "text": "이서 공주님",
+        "meaning_ja": "イソ姫様",
+        "meaning_en": "Princess Leeseo"
+      },
+      {
+        "text": "이서 is 뭔들",
+        "meaning_ja": "イソは何でも最高",
+        "meaning_en": "Leeseo is perfect no matter what (lit. \"Leeseo, whatever she does is the best\")"
+      },
+      {
+        "text": "이서 때문에 산다",
+        "meaning_ja": "イソのおかげで生きてる",
+        "meaning_en": "I live because of Leeseo."
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "리즈서 내꺼",
+        "meaning_ja": "リズ、私のものになって！(結婚して！)",
+        "meaning_en": "Leeseo, be mine! (Marry me!)"
+      },
+      {
+        "text": "리즈서 is 뭔들",
+        "meaning_ja": "リズは何でも最高！(結婚したい！)",
+        "meaning_en": "Leeseo is amazing no matter what! (I want to marry you!)"
+      },
+      {
+        "text": "심장이 리즈서해",
+        "meaning_ja": "心臓がリズ書してる(結婚したいほどドキドキ)",
+        "meaning_en": "My heart is Leeseo-ing (beating fast because I want to marry you)"
+      },
+      {
+        "text": "리즈서 때문에 산다",
+        "meaning_ja": "リズのために生きる(結婚して支えたい)",
+        "meaning_en": "I live because of Leeseo (I want to marry you and support you)"
+      },
+      {
+        "text": "리즈서 공주님",
+        "meaning_ja": "リズ姫、結婚して！",
+        "meaning_en": "Princess Leeseo, Marry Me!"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "리서 앓이 중",
+        "meaning_ja": "リソ앓이中(恋わずらい中)",
+        "meaning_en": "Currently suffering from Leeseo-앓이 (Missing Leeseo sickness)"
+      },
+      {
+        "text": "리서 보고잡다🥺",
+        "meaning_ja": "リソに会いたい🥺",
+        "meaning_en": "I wanna see Leeseo🥺"
+      },
+      {
+        "text": "내 마음 속 리서 저☆장",
+        "meaning_ja": "私の心の中にリソを保存☆",
+        "meaning_en": "Leeseo saved in my heart☆"
+      },
+      {
+        "text": "리서 없인 못 살아 ㅠ",
+        "meaning_ja": "リソなしでは生きられないㅠ",
+        "meaning_en": "I can't live without Leeseoㅠ"
+      },
+      {
+        "text": "리서 풀파워 충전 완료! (보고 싶어서)",
+        "meaning_ja": "リソフルパワー充電完了！(会いたくて)",
+        "meaning_en": "Leeseo full power charge complete! (Because I miss you)"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "리즈다이브 영원히",
+        "meaning_ja": "リズとDIVE、永遠に",
+        "meaning_en": "Leeseo and DIVE, forever! (Combining Leeseo's name \"리즈\" and the fandom name \"DIVE\" implies a bond that lasts forever)"
+      },
+      {
+        "text": "막내온탑 영원히 함께",
+        "meaning_ja": "末っ子オン トップ、永遠に一緒に",
+        "meaning_en": "Maknae on Top, together forever! (Celebrating Leeseo's status as the youngest member and promising continued support.)"
+      },
+      {
+        "text": "무지개길만 걸어, 쭈욱!",
+        "meaning_ja": "虹色の道だけを歩こう、ずっと！",
+        "meaning_en": "Let's walk only on rainbow paths, forever! (Wishing only happiness and success and promising to stay by her side.)"
+      },
+      {
+        "text": "내 맘속에 저장, 평생!",
+        "meaning_ja": "私の心の中に保存、一生！",
+        "meaning_en": "Saved in my heart, for life! (Expressing deep affection and lifelong support.)"
+      },
+      {
+        "text": "입덕 부정은 없다, 찐팬 예약",
+        "meaning_ja": "ファンになるのを否定するなんてありえない、ガチファン確定",
+        "meaning_en": "No denying becoming a fan, genuine fan guaranteed! (Acknowledging the inevitability of falling for Leeseo and solidifying a commitment to stay a fan forever.)"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "리즈서 깅",
+        "meaning_ja": "リズソ赤ちゃん",
+        "meaning_en": "Leeseo, baby! (Implies cuteness/adorableness, often used playfully.)"
+      },
+      {
+        "text": "만찢리",
+        "meaning_ja": "漫画から飛び出してきたリズ",
+        "meaning_en": "Leeseo, straight out of a manga! (Used to express how unrealistically beautiful someone is.)"
+      },
+      {
+        "text": "리즈 비타민",
+        "meaning_ja": "リズ ビタミン",
+        "meaning_en": "Leeseo Vitamin! (Implies she is like an energy boost or a source of happiness.)"
+      },
+      {
+        "text": "리즈 공주님",
+        "meaning_ja": "リズ お姫様",
+        "meaning_en": "Leeseo, Princess! (Expressing admiration and adoration.)"
+      },
+      {
+        "text": "리즈 is 뭔들",
+        "meaning_ja": "リズは何でも正解",
+        "meaning_en": "Leeseo is perfect no matter what she does! (Slang expressing that everything she does is great.)"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "리즈 미모 미쳤다",
+        "meaning_ja": "リズの美貌、マジでヤバい！",
+        "meaning_en": "Leeseo's beauty is insane! (Focuses on her stunning looks)"
+      },
+      {
+        "text": "막내온탑 리즈",
+        "meaning_ja": "末っ子オン・トップ、リズ！",
+        "meaning_en": "Maknae on Top, Leeseo! (Highlights her strong presence despite being the youngest)"
+      },
+      {
+        "text": "리즈 is 뭔들",
+        "meaning_ja": "リズは何でも最高！",
+        "meaning_en": "Leeseo can do anything! (Expresses admiration for her versatility)"
+      },
+      {
+        "text": "리즈 폼 미쳤다",
+        "meaning_ja": "リズの調子、マジでヤバい！",
+        "meaning_en": "Leeseo's performance is crazy good! (Emphasizes her skills and stage presence)"
+      },
+      {
+        "text": "리즈 덕분에 행복해",
+        "meaning_ja": "リズのおかげで幸せ",
+        "meaning_en": "Thanks to Leeseo, I'm happy. (Expresses gratitude for her positive influence)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "갓기 리서",
+        "meaning_ja": "神童リソ",
+        "meaning_en": "Leeseo, the God-baby prodigy! (Emphasizes her talent at a young age)"
+      },
+      {
+        "text": "천상아이돌 리서",
+        "meaning_ja": "天上のアイドルリソ",
+        "meaning_en": "Leeseo, a heavenly idol! (Highlights her ethereal beauty and talent)"
+      },
+      {
+        "text": "리서 is 뭔들",
+        "meaning_ja": "リソは何でもあり",
+        "meaning_en": "Anything Leeseo does is amazing! (Expresses unconditional support)"
+      },
+      {
+        "text": "얼굴이 복지다 리서",
+        "meaning_ja": "顔が福祉だリソ",
+        "meaning_en": "Leeseo's face is a blessing/welfare! (Praises her visual beauty as something that brings happiness)"
+      },
+      {
+        "text": "리서 없인 못 살아",
+        "meaning_ja": "リソなしでは生きられない",
+        "meaning_en": "I can't live without Leeseo! (Shows intense love and admiration)"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "리즈 갱신",
+        "meaning_ja": "ビジュアル更新 (びじゅあるこうしん)",
+        "meaning_en": "Visuals updating (meaning: she's becoming even more beautiful)"
+      },
+      {
+        "text": "천상계 미모",
+        "meaning_ja": "天上界の美貌 (てんじょうかいのびぼう)",
+        "meaning_en": "Otherworldly beauty"
+      },
+      {
+        "text": "인간 벚꽃",
+        "meaning_ja": "人間桜 (にんげんざくら)",
+        "meaning_en": "Human cherry blossom (referring to her delicate beauty)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔が福祉 (かおがふくし)",
+        "meaning_en": "Her face is welfare (meaning: just looking at her is a blessing)"
+      },
+      {
+        "text": "갓기폭주",
+        "meaning_ja": "ベイビー爆走 (べいびーばくそう)",
+        "meaning_en": "Baby runaway (implying cuteness and unstoppable charm)"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "리즈 미모 미쳤다",
+        "meaning_ja": "リズの美貌マジヤバい",
+        "meaning_en": "Leeseo's beauty is insane! (Referring to her pre-debut name and implying legendary beauty)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉",
+        "meaning_en": "Her face is welfare! (Meaning looking at her is a form of happiness/benefit)"
+      },
+      {
+        "text": "천상 아이돌",
+        "meaning_ja": "天性のアイドル",
+        "meaning_en": "Born to be an idol / Naturally an idol (Implies innate talent and beauty for being an idol)"
+      },
+      {
+        "text": "인간 레몬",
+        "meaning_ja": "人間レモン",
+        "meaning_en": "Human Lemon / Living Lemon (Referring to her youthful, refreshing and bright look)"
+      },
+      {
+        "text": "이서 is 뭔들",
+        "meaning_ja": "イソは何でも良い",
+        "meaning_en": "Leeseo is good at everything (but in this context refers to her beauty always shining through)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "리즈서 핑거하트 폼 미쳤다!",
+        "meaning_ja": "リズソの指ハート、マジで最高！",
+        "meaning_en": "Leeseo's finger heart is absolutely insane! (Meaning incredibly cool/amazing)"
+      },
+      {
+        "text": "리즈서 하트 장인 인정? 어 인정!",
+        "meaning_ja": "リズソのハート職人、認める？もちろん認める！",
+        "meaning_en": "Leeseo is a heart master, 인정? 어 인정! (Acknowledge? Of course!)"
+      },
+      {
+        "text": "리즈서 하트 날려주면 내 심장 찢어져 ㅠㅠ",
+        "meaning_ja": "リズソがハート飛ばしてくれたら、私の心臓は張り裂けちゃう ㅠㅠ",
+        "meaning_en": "If Leeseo sends me a heart, my heart will explode ㅠㅠ (Crying emojis represent overwhelming emotion)"
+      },
+      {
+        "text": "리즈서 하트에 내 통장 다 털려도 좋아!",
+        "meaning_ja": "リズソのハートのためなら、私の貯金全部なくなってもいい！",
+        "meaning_en": "I'm happy to spend all my money for Leeseo's heart!"
+      },
+      {
+        "text": "리즈서 하트 안 주면 앙대!",
+        "meaning_ja": "リズソ、ハートくれないとダメ！",
+        "meaning_en": "Leeseo, you gotta give me a heart! (Ang dae is a cute way of saying \"it won't do!\")"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "르또먹!",
+        "meaning_ja": "レットモク！(おいしいものいっぱい食べて！)",
+        "meaning_en": "Leeseo, eat a lot of yummy food! (Lettuce Eat!)"
+      },
+      {
+        "text": "오구오구 잘 먹는다!",
+        "meaning_ja": "よしよし、よく食べるね！(うちの子は)",
+        "meaning_en": "Aww, you're eating so well! (Like praising a baby)"
+      },
+      {
+        "text": "먹잘알 막내!",
+        "meaning_ja": "食べることをよく知ってる末っ子！",
+        "meaning_en": "Maknae who knows her food! (Youngest member who knows how to eat well)"
+      },
+      {
+        "text": "밥길만 걸어 르세오!",
+        "meaning_ja": "ご飯の道だけを歩んで、Leeseo！(美味しいものいっぱい食べて、幸せになって！)",
+        "meaning_en": "Only walk the path of food, Leeseo! (May you always have delicious food and be happy!)"
+      },
+      {
+        "text": "쩝쩝박사 르세오!",
+        "meaning_ja": "咀嚼博士 Leeseo！(食べる音も可愛い Leeseo!)",
+        "meaning_en": "Chewing Sound Doctor Leeseo! (Leeseo whose eating sounds are cute!)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "리즈서 감기 조심 뇽안!",
+        "meaning_ja": "リズソ、風邪に気をつけて、おやすみ！",
+        "meaning_en": "Leeseo, be careful not to catch a cold, good night! (Adding a little casual \"good night\" at the end)"
+      },
+      {
+        "text": "리즈서 아프지망고!",
+        "meaning_ja": "リズソ、痛くないでマンゴー！",
+        "meaning_en": "Leeseo, don't be sick-o mango! (Cute play on words with \"mango\" and \"don't be sick\")"
+      },
+      {
+        "text": "리즈서 건강길만 걸어!",
+        "meaning_ja": "リズソ、健康な道だけを歩んで！",
+        "meaning_en": "Leeseo, walk only the healthy path! (Wishing her to always be healthy)"
+      },
+      {
+        "text": "리즈서 꽃길만 걸어! (건강하게!)",
+        "meaning_ja": "リズソ、花の道だけを歩んで！(元気にね！)",
+        "meaning_en": "Leeseo, walk only the flower path! (Healthily!) (Adding a reminder for her health)"
+      },
+      {
+        "text": "리즈서 아프면 앙대!",
+        "meaning_ja": "リズソ、具合が悪くなったらダメ！",
+        "meaning_en": "Leeseo, you can't be sick! (Emphasizing how important her health is)"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "리즈 미모 미쳤다리",
+        "meaning_ja": "リズの美貌、マジヤバすぎ！",
+        "meaning_en": "Leeseo's beauty is seriously insane! (Lit. \"gone crazy\")"
+      },
+      {
+        "text": "막내온탑 리즈",
+        "meaning_ja": "末っ子オン トップ リズ",
+        "meaning_en": "Leeseo, the maknae (youngest) on top!"
+      },
+      {
+        "text": "리즈 is 뭔들",
+        "meaning_ja": "リズは何でも良い",
+        "meaning_en": "Leeseo is good at anything (She's amazing no matter what)!"
+      },
+      {
+        "text": "리즈, 내 심장에 무임승차",
+        "meaning_ja": "リズ、私の心に無賃乗車",
+        "meaning_en": "Leeseo, you're hitchhiking a ride on my heart (You stole my heart)!"
+      },
+      {
+        "text": "리즈 공주님, 오늘도 열일!",
+        "meaning_ja": "リズ姫、今日も一日お疲れ様！",
+        "meaning_en": "Princess Leeseo, great work today too!"
+      }
+    ]
+  }
+}

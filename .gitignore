@@ -16,7 +16,7 @@ env/
 Thumbs.db
 
 # [데이터] 생성된 결과물
-app/data/dicts/*.json
+# app/data/dicts/*.json
 logs/
 
 # [IDE] 에디터 설정 파일

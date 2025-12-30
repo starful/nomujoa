@@ -1,0 +1,1902 @@
+{
+  "All": {
+    "LOVE_GENERAL": [
+      {
+        "text": "블핑은혜",
+        "meaning_ja": "ブルピンの恵み (ブルピンからの恩恵)",
+        "meaning_en": "BLACKPINK's Grace (Blessing from BLACKPINK)"
+      },
+      {
+        "text": "뚜두뚜두좌",
+        "meaning_ja": "뚜두뚜두様 (뚜두뚜두さま)",
+        "meaning_en": "DDU-DU DDU-DU God (Someone amazing because of the song)"
+      },
+      {
+        "text": "젠득이",
+        "meaning_ja": "ジェンドゥギ (ジェニたん)",
+        "meaning_en": "Jendeukie (Jennie's nickname, cute & affectionate)"
+      },
+      {
+        "text": "빻빻",
+        "meaning_ja": "ブスブス (可愛くない)",
+        "meaning_en": "Ugly Ugly (Used ironically, meaning the opposite, super cute/amazing)"
+      },
+      {
+        "text": "롬곡옘뇸",
+        "meaning_ja": "号泣えぐえぐ (号泣めっちゃ泣く)",
+        "meaning_en": "Bursting into tears (Crying a river)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "블핑 is 뭔들",
+        "meaning_ja": "ブルピンは何でも最高",
+        "meaning_en": "BLACKPINK is perfect no matter what (Everything BLACKPINK does is great)"
+      },
+      {
+        "text": "블링크는 럽라",
+        "meaning_ja": "ブリンクはラブラブ",
+        "meaning_en": "BLINKs are in a Love Line (with BLACKPINK)"
+      },
+      {
+        "text": "뚜두뚜두해",
+        "meaning_ja": "ドゥドゥドゥドゥする",
+        "meaning_en": "\"DDU-DU DDU-DU\"ing (Showing fierce love & support, referencing their song)"
+      },
+      {
+        "text": "젠냥이 모먼트",
+        "meaning_ja": "ジェニの猫モーメント",
+        "meaning_en": "Jennie's \"cat-like\" moment (Referring to Jennie's cute and cool duality which we love)"
+      },
+      {
+        "text": "블랙핑크는 국보",
+        "meaning_ja": "ブラックピンクは国宝",
+        "meaning_en": "BLACKPINK is a national treasure"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "블핑이랑결혼각",
+        "meaning_ja": "ブルピンと結婚するしかない！",
+        "meaning_en": "I have no choice but to marry BLACKPINK! (Implies they're so amazing)"
+      },
+      {
+        "text": "내 통장 블핑꺼💍",
+        "meaning_ja": "私の貯金はBLACKPINKのもの💍",
+        "meaning_en": "My bank account belongs to BLACKPINK 💍 (I'd give them everything)"
+      },
+      {
+        "text": "블링크, 혼인신고 준비완료!",
+        "meaning_ja": "BLINK、婚姻届の準備完了！",
+        "meaning_en": "BLINK, marriage registration forms are ready! (I'm ready to marry them)"
+      },
+      {
+        "text": "블랙핑크 내 아내",
+        "meaning_ja": "BLACKPINKは俺の嫁",
+        "meaning_en": "BLACKPINK is my wife (Jokingly claiming them)"
+      },
+      {
+        "text": "오늘부터 1일 (부부)",
+        "meaning_ja": "今日から1日目（夫婦）",
+        "meaning_en": "Day 1 (as a married couple) (Starting the relationship in my dreams)"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "블핑 보고 싶다! (블핑 보싶!)",
+        "meaning_ja": "ブルピンに会いたい！",
+        "meaning_en": "I miss BLACKPINK!"
+      },
+      {
+        "text": "젠득이 보고파!",
+        "meaning_ja": "ジェンドゥクに会いたい！",
+        "meaning_en": "I miss Jennie! (Using \"Jendeuk\" is a cute nickname for Jennie)"
+      },
+      {
+        "text": "블링크 심쿵사... 보고 싶어 죽겠어!",
+        "meaning_ja": "BLINK胸キュン死... 会いたくて死にそう！",
+        "meaning_en": "BLINK heart attack... I miss you so much I could die!"
+      },
+      {
+        "text": "블랙핑크 내 삶의 이유... 보고 싶어!",
+        "meaning_ja": "BLACKPINK 私の人生の理由… 会いたい！",
+        "meaning_en": "BLACKPINK are the reason for my life... I miss you!"
+      },
+      {
+        "text": "컴백 언제야ㅠㅠ 보고 싶어 미쳐!",
+        "meaning_ja": "カムバックいつなのㅠㅠ 会いたくて気が狂いそう！",
+        "meaning_en": "When's the comeback ㅠㅠ I'm going crazy missing you!"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "블핑 is 뭔들",
+        "meaning_ja": "ブルピンは何でも最高",
+        "meaning_en": "BLACKPINK is good at everything (implied forever success)"
+      },
+      {
+        "text": "영원히 함께해, 블핑!",
+        "meaning_ja": "永遠に一緒にいよう、ブルピン！",
+        "meaning_en": "Let's be together forever, BLACKPINK!"
+      },
+      {
+        "text": "5늘처럼 5래보자!",
+        "meaning_ja": "今日みたいにずっと見よう！",
+        "meaning_en": "Let's see each other like today, forever! (play on words, \"5\" is similar to \"O\" sound)"
+      },
+      {
+        "text": "블링크는 블핑편",
+        "meaning_ja": "BLINKはBLACKPINKの味方",
+        "meaning_en": "BLINK is on BLACKPINK's side (implies unwavering support)"
+      },
+      {
+        "text": "탈덕은 없다",
+        "meaning_ja": "脱退(ファン辞める)はありえない",
+        "meaning_en": "There's no leaving the fandom (meaning: I'll always be a fan)"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "블핑 is 뭔들",
+        "meaning_ja": "ブルピンは何でも最高",
+        "meaning_en": "BLACKPINK is perfect no matter what (BLACKPINK can do no wrong)"
+      },
+      {
+        "text": "뚜두뚜두 is 내 심장",
+        "meaning_ja": "トゥドゥトゥドゥは私の心臓",
+        "meaning_en": "DDU-DU DDU-DU is my heartbeat"
+      },
+      {
+        "text": "블링크길만 걷자",
+        "meaning_ja": "ブリンクの道だけを歩こう",
+        "meaning_en": "Let's only walk the Blink path (Let's only support BLACKPINK)"
+      },
+      {
+        "text": "옌냥이들 최고",
+        "meaning_ja": "可愛い子猫たち最高",
+        "meaning_en": "These cute kittens are the best! (Referring to Blackpink)"
+      },
+      {
+        "text": "블핑 사랑둥이",
+        "meaning_ja": "ブルピン愛しい",
+        "meaning_en": "BLACKPINK sweethearts!"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "블핑 사랑둥이",
+        "meaning_ja": "ブルピン愛しい子たち",
+        "meaning_en": "BLACKPINK, our precious darlings!"
+      },
+      {
+        "text": "뚜두뚜두 붐바야!",
+        "meaning_ja": "ドゥドゥドゥドゥ ブンバヤ！",
+        "meaning_en": "DDU-DU DDU-DU Boombayah! (Representing their powerful songs)"
+      },
+      {
+        "text": "블링크 심장 저격",
+        "meaning_ja": "BLINKの心臓狙撃",
+        "meaning_en": "Heart Attack for BLINKs"
+      },
+      {
+        "text": "넘사벽 블핑",
+        "meaning_ja": "越えられない壁ブルピン",
+        "meaning_en": "BLACKPINK, an insurmountable wall (referring to their success)"
+      },
+      {
+        "text": "인생은 블핑처럼",
+        "meaning_ja": "人生はブルピンのように",
+        "meaning_en": "Life is like BLACKPINK! (Meaning: Live life to the fullest and stylishly like BLACKPINK)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "블핑 is 뭔들",
+        "meaning_ja": "ブルピンは何でも最高",
+        "meaning_en": "BLACKPINK is perfect no matter what. (Implies everything BLACKPINK does is amazing)"
+      },
+      {
+        "text": "뚜두뚜두 붐바야!",
+        "meaning_ja": "ドゥドゥドゥドゥ　ブンバヤ！",
+        "meaning_en": "DDU-DU DDU-DU Boombayah! (Literal repetition of iconic song titles, used for hype)"
+      },
+      {
+        "text": "블링크 심쿵사",
+        "meaning_ja": "BLINK 心臓キュン死",
+        "meaning_en": "BLINK heart attack. (Referring to how BLINKs react to BLACKPINK's beauty/performance)"
+      },
+      {
+        "text": "인생은 블핑처럼",
+        "meaning_ja": "人生はブルピンのように",
+        "meaning_en": "Life should be like BLACKPINK. (Implies living a fabulous, successful life)"
+      },
+      {
+        "text": "옌젤 리사 만세!",
+        "meaning_ja": "天使リサ万歳！",
+        "meaning_en": "Hail Angel Lisa! (Focus on Lisa, praising her as an angel)"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "블핑 is 뭔들",
+        "meaning_ja": "ブルピン is 何でも尊い",
+        "meaning_en": "Everything BLACKPINK does is precious! (Lit. \"BLACKPINK is whatever you say is good\")"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉",
+        "meaning_en": "Their faces are a blessing/welfare. (Means their visuals are so good, it's a public service!)"
+      },
+      {
+        "text": "인간 명품",
+        "meaning_ja": "人間名品",
+        "meaning_en": "Human Luxury Brand"
+      },
+      {
+        "text": "넘사벽 비주얼",
+        "meaning_ja": "超えられない壁ビジュアル",
+        "meaning_en": "An insurmountable visual wall. (Means their visuals are top-tier and unmatched)"
+      },
+      {
+        "text": "무대찢었다",
+        "meaning_ja": "ステージを破った",
+        "meaning_en": "They slayed the stage! (Lit. \"They ripped the stage apart\" - meaning they performed incredibly well)"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉",
+        "meaning_en": "Their faces are welfare (meaning they're so beautiful they're a blessing)"
+      },
+      {
+        "text": "비주얼 미쳤다",
+        "meaning_ja": "ビジュアル狂ってる",
+        "meaning_en": "Their visuals are insane (meaning unbelievably gorgeous)"
+      },
+      {
+        "text": "인간 명품",
+        "meaning_ja": "人間名品",
+        "meaning_en": "Human luxury brand (meaning they are so beautiful and stylish, they look like a high-end product)"
+      },
+      {
+        "text": "얼굴 천재",
+        "meaning_ja": "顔面天才",
+        "meaning_en": "Face genius (meaning they are a genius when it comes to their looks)"
+      },
+      {
+        "text": "여신 강림",
+        "meaning_ja": "女神降臨",
+        "meaning_en": "Goddess descent (meaning a goddess has descended, referring to their heavenly beauty)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "블핑 사랑둥이",
+        "meaning_ja": "ブルピン愛しい子ちゃん",
+        "meaning_en": "BLACKPINK, you adorable sweethearts!"
+      },
+      {
+        "text": "뚜두뚜두 심쿵해",
+        "meaning_ja": "ドゥドゥドゥドゥ、胸キュン",
+        "meaning_en": "DDU-DU DDU-DU, my heart skips a beat!"
+      },
+      {
+        "text": "젠냥이 미모 미쳤다",
+        "meaning_ja": "ジェニちゃん美貌ヤバすぎ",
+        "meaning_en": "Jennie's beauty is insane!"
+      },
+      {
+        "text": "블링크는 블핑 편",
+        "meaning_ja": "BLINKはBLACKPINKの味方",
+        "meaning_en": "BLINKs are on BLACKPINK's side."
+      },
+      {
+        "text": "인생은 블핑처럼",
+        "meaning_ja": "人生はBLACKPINKみたいに",
+        "meaning_en": "Life is like BLACKPINK."
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "밥 잘 챙겨 먹어!",
+        "meaning_ja": "ご飯ちゃんと食べてね！",
+        "meaning_en": "Eat well and take care of yourself! (Similar to \"美味しいもの食べてね\")"
+      },
+      {
+        "text": "블핑 밥길만 걸어!",
+        "meaning_ja": "BLACKPINKは美味しいものだけ食べられますように！ (文字通りではない)",
+        "meaning_en": "May BLACKPINK only walk the path of delicious food! (Figuratively, meaning may they always have good fortune and success - food is a symbol of abundance)"
+      },
+      {
+        "text": "아프지 말고 맛있는 거 많이 먹어!",
+        "meaning_ja": "辛い思いをしないで、美味しいものをたくさん食べてね！",
+        "meaning_en": "Don't be sick, and eat lots of delicious things!"
+      },
+      {
+        "text": "블링크가 맛있는 거 사줄게!",
+        "meaning_ja": "BLINKが美味しいものを買ってあげるね！",
+        "meaning_en": "BLINKs will buy you delicious food! (BLINK is BLACKPINK's fandom name)"
+      },
+      {
+        "text": "꽃길만 걷고 맛있는 거 먹자!",
+        "meaning_ja": "花道だけを歩いて、美味しいものを食べよう！",
+        "meaning_en": "Let's only walk the flower path and eat delicious things! (Walking the \"flower path\" means only experiencing happiness and success)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "블핑 감기 조심링",
+        "meaning_ja": "ブルピン、風邪に気をつけてね！",
+        "meaning_en": "BLACKPINK, stay careful of catching a cold!"
+      },
+      {
+        "text": "아프지망고, 블핑!",
+        "meaning_ja": "痛くならないでマンゴー、ブルピン！",
+        "meaning_en": "Don't get sick, Mango! BLACKPINK! (Play on \"망고\" [mango] and \"말고\" [don't/not])"
+      },
+      {
+        "text": "건강해야해, 믓쨍이들!",
+        "meaning_ja": "健康じゃないとダメだよ、イケてる子たち！",
+        "meaning_en": "You gotta be healthy, you cool kids!"
+      },
+      {
+        "text": "꽃길만 걷되, 건강하게 꽃길!",
+        "meaning_ja": "花道だけを歩けど、健康に花道を！",
+        "meaning_en": "Only walk the flower path, but a healthy flower path!"
+      },
+      {
+        "text": "블링크가 지켜줄게, 건강 블핑!",
+        "meaning_ja": "Blinkが守ってあげるよ、健康BLACKPINK！",
+        "meaning_en": "Blinks will protect you, healthy BLACKPINK!"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "인싸템",
+        "meaning_ja": "イケてるもの / マストアイテム",
+        "meaning_en": "Must-have item / Trendsetter item"
+      },
+      {
+        "text": "롬곡옾냐",
+        "meaning_ja": "涙が止まらない / 大号泣",
+        "meaning_en": "Crying a river / Inconsolable crying"
+      },
+      {
+        "text": "갑분싸",
+        "meaning_ja": "場の空気が急にシラける / 突然シーンとなる",
+        "meaning_en": "Suddenly awkward / Mood killer"
+      },
+      {
+        "text": "최애",
+        "meaning_ja": "推し",
+        "meaning_en": "My bias / Ultimate favorite"
+      },
+      {
+        "text": "빼박캔트",
+        "meaning_ja": "言い逃れできない / 絶対に間違いない",
+        "meaning_en": "No way out / Absolutely certain"
+      }
+    ]
+  },
+  "Jisoo": {
+    "LOVE_GENERAL": [
+      {
+        "text": "옘병 Jisoo",
+        "meaning_ja": "マジJisoo最高！",
+        "meaning_en": "Jisoo is seriously the best! (Emphasizes Jisoo's awesomeness, softening the original meaning of \"yeombyeong\")."
+      },
+      {
+        "text": "so hot Jisoo",
+        "meaning_ja": "Jisooはマジでアチアチ",
+        "meaning_en": "Jisoo is seriously so hot (Common and well-known Jisoo reaction)"
+      },
+      {
+        "text": "Jisoo unnie 사랑해",
+        "meaning_ja": "Jisooお姉さん、愛してる",
+        "meaning_en": "Jisoo unnie, I love you."
+      },
+      {
+        "text": "Jisoo 보고싶어",
+        "meaning_ja": "Jisooに会いたい",
+        "meaning_en": "I miss Jisoo."
+      },
+      {
+        "text": "Jisoo 짱",
+        "meaning_ja": "Jisooは最高！",
+        "meaning_en": "Jisoo is the best!"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "언니 is 뭔들",
+        "meaning_ja": "お姉様は何でも(最高)",
+        "meaning_en": "Anything Unnie does is (amazing/perfect)"
+      },
+      {
+        "text": "so hot 츄",
+        "meaning_ja": "めっちゃホットなチュウ",
+        "meaning_en": "So hot Chuu (kiss/adorable)"
+      },
+      {
+        "text": "지수 is 뭔들",
+        "meaning_ja": "ジスは何でも(最高)",
+        "meaning_en": "Anything Jisoo does is (amazing/perfect)"
+      },
+      {
+        "text": "만찢 Jisoo",
+        "meaning_ja": "漫画から飛び出たようなジス",
+        "meaning_en": "Jisoo like she jumped out of a manga"
+      },
+      {
+        "text": "so cute 츄",
+        "meaning_ja": "めっちゃ可愛いチュウ",
+        "meaning_en": "So cute Chuu (kiss/adorable)"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "츄랑 결혼해 줘!",
+        "meaning_ja": "チュと結婚してくれ！",
+        "meaning_en": "Marry Chu (Jisoo)!/ Please marry Jisoo!"
+      },
+      {
+        "text": "지수 내꺼찜!",
+        "meaning_ja": "ジスは私のもの！",
+        "meaning_en": "Jisoo is MINE! (Dibs!)"
+      },
+      {
+        "text": "오늘부터 내 최애는 지수다!",
+        "meaning_ja": "今日から私の推しはジスだ！",
+        "meaning_en": "From today, my ultimate bias is Jisoo! (Implying a serious declaration of love)"
+      },
+      {
+        "text": "지수 없인 못 살아!",
+        "meaning_ja": "ジスなしでは生きられない！",
+        "meaning_en": "I can't live without Jisoo!"
+      },
+      {
+        "text": "지수 공주님, 납치할거야! (사랑으로)",
+        "meaning_ja": "ジス姫、誘拐するぞ！（愛で）",
+        "meaning_en": "Princess Jisoo, I'm going to kidnap you! (With love/out of love)"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "츄냥 보고싶어! (Chyu-nyang bogoshipo!)",
+        "meaning_ja": "チュニャン会いたい！(Chunyan aitai!)",
+        "meaning_en": "I miss you, Chyu-nyang! (츄 Chyu is from Jisoo's nickname 'Kim Chyu' and 냥 nyang is the sound a cat makes, cute for fans)"
+      },
+      {
+        "text": "지수 is 뭔들 (Jisoo is mwondeul)",
+        "meaning_ja": "ジスは何でも良い (Jisoo wa nandemo ii)",
+        "meaning_en": "Anything Jisoo does is perfect / I miss everything about Jisoo. (Implies everything she does is great, and therefore missed.)"
+      },
+      {
+        "text": "김지수 내 심장 (Kim Jisoo nae simjang)",
+        "meaning_ja": "キム・ジスは私の心臓 (Kimu Jisoo wa watashi no shinzou)",
+        "meaning_en": "Kim Jisoo is my heart / I miss my heart (Implying she is vital and therefore her absence is felt deeply)."
+      },
+      {
+        "text": "밥솥 보싶 (Bapsot Boship)",
+        "meaning_ja": "炊飯器会いたい (Suihanki aitai)",
+        "meaning_en": "I miss Bapsot (referencing Jisoo's meme of herself and her rice cooker)."
+      },
+      {
+        "text": "지수 없다면 나는 안돼 (Jisoo eopdamyeon naneun andwae)",
+        "meaning_ja": "ジスがいなければ私はダメ (Jisu ga inakereba watashi wa dame)",
+        "meaning_en": "I can't live without Jisoo / I can't function without her."
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "영사해 뿅",
+        "meaning_ja": "永遠に愛してる、뿅！",
+        "meaning_en": "Love you forever, pyong! (Sound of a heart)"
+      },
+      {
+        "text": "지수 꽃길만 걸어",
+        "meaning_ja": "ジス、花の道だけを歩んで",
+        "meaning_en": "Jisoo, walk only on flower paths! (Wishing success & happiness)"
+      },
+      {
+        "text": "내 맘속에 저장",
+        "meaning_ja": "私の心に保存",
+        "meaning_en": "Save it in my heart (Expressing deep affection)"
+      },
+      {
+        "text": "언제나 Jisoo 편",
+        "meaning_ja": "いつでもJisooの味方",
+        "meaning_en": "Always on Jisoo's side (Expressing unwavering support)"
+      },
+      {
+        "text": "Jisoo 없인 못 살아",
+        "meaning_ja": "Jisooなしでは生きられない",
+        "meaning_en": "I can't live without Jisoo (Expressing extreme devotion)"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "츄탄절!",
+        "meaning_ja": "チュウたん誕生日！(Jisooの誕生日！)",
+        "meaning_en": "Choo-day! (Jisoo's Birthday!)"
+      },
+      {
+        "text": "지수 꽃길만 걸어!",
+        "meaning_ja": "ジス、花の道だけを歩んで！",
+        "meaning_en": "Jisoo, only walk the flower path! (Wishing her only the best)"
+      },
+      {
+        "text": "지수 is 뭔들!",
+        "meaning_ja": "ジスは何でも最高！",
+        "meaning_en": "Jisoo is perfect no matter what! (Jisoo can do no wrong)"
+      },
+      {
+        "text": "만수무강 지수!",
+        "meaning_ja": "長生きしてね、ジス！",
+        "meaning_en": "Long live Jisoo! (Wishing her health and longevity)"
+      },
+      {
+        "text": "오늘도 지수력 풀파워!",
+        "meaning_ja": "今日もジスパワー全開！",
+        "meaning_en": "Jisoo power at full power today too! (She's radiating awesomeness today!)"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "만찢지수",
+        "meaning_ja": "まんがから飛び出たジス",
+        "meaning_en": "Jisoo, straight out of a manga! (Referring to her beauty)"
+      },
+      {
+        "text": "지수 is 뭔들",
+        "meaning_ja": "ジスは何をしても最高",
+        "meaning_en": "Jisoo is amazing no matter what she does!"
+      },
+      {
+        "text": "지수꽃이 피었습니다",
+        "meaning_ja": "ジスという花が咲きました",
+        "meaning_en": "The flower called Jisoo has bloomed! (A playful twist on a children's game)"
+      },
+      {
+        "text": "츄냥이",
+        "meaning_ja": "チュウ猫ちゃん",
+        "meaning_en": "Chu-nyangi (Cute nickname combining her nickname \"Chu\" with \"nyang,\" the sound a cat makes. Implies she is cute like a cat.)"
+      },
+      {
+        "text": "비주얼 여신 강림",
+        "meaning_ja": "ビジュアル女神降臨",
+        "meaning_en": "Visual goddess descends! (Expressing awe at her beauty)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "츄냥이",
+        "meaning_ja": "チュニャンイ (かわいすぎる猫)",
+        "meaning_en": "Chu-nyangie (So cute like a kitten - referring to Jisoo's nickname Chu + Nyangie which means meow)"
+      },
+      {
+        "text": "만찢비",
+        "meaning_ja": "漫画から飛び出た美貌",
+        "meaning_en": "Beauty that jumped out of a comic book (perfect visuals)"
+      },
+      {
+        "text": "지수is뭔들",
+        "meaning_ja": "ジスis何でもOK",
+        "meaning_en": "Jisoo is perfect no matter what (Jisoo is always right)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔が福祉だ",
+        "meaning_en": "Her face is welfare (Her beauty is enough to make us happy.)"
+      },
+      {
+        "text": "갭차이 여신",
+        "meaning_ja": "ギャップ差の女神",
+        "meaning_en": "Goddess of contrasting charms (Referring to her duality - elegance and silliness)"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉",
+        "meaning_en": "Her face is welfare (meaning her beauty is beneficial to all)"
+      },
+      {
+        "text": "미모가 국보급",
+        "meaning_ja": "美貌が国宝級",
+        "meaning_en": "Her beauty is a national treasure level"
+      },
+      {
+        "text": "비주얼 천재 만재",
+        "meaning_ja": "ビジュアル天才万歳",
+        "meaning_en": "Visual genius, hurray!"
+      },
+      {
+        "text": "인간 디올",
+        "meaning_ja": "人間ディオール",
+        "meaning_en": "Human Dior (because she perfectly embodies the brand's elegance)"
+      },
+      {
+        "text": "여신 강림",
+        "meaning_ja": "女神降臨",
+        "meaning_en": "Goddess has descended (referring to her arrival/appearance)"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴천재 김지수",
+        "meaning_ja": "顔面天才キム・ジス",
+        "meaning_en": "Face Genius Kim Jisoo (referring to her unbelievably beautiful face)"
+      },
+      {
+        "text": "지수 is 뭔들",
+        "meaning_ja": "ジスは何でも似合う",
+        "meaning_en": "Jisoo looks good in anything/Jisoo can pull off anything."
+      },
+      {
+        "text": "비주얼 폭발",
+        "meaning_ja": "ビジュアル爆発",
+        "meaning_en": "Visual Explosion (describing her stunning visuals)"
+      },
+      {
+        "text": "넘사벽 미모",
+        "meaning_ja": "越えられない壁の美貌",
+        "meaning_en": "Unattainable beauty / Beauty that's on another level."
+      },
+      {
+        "text": "미모 미쳤다",
+        "meaning_ja": "美貌がおかしい",
+        "meaning_en": "Her beauty is insane/crazy (in a good way)."
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "츄냥이 지수",
+        "meaning_ja": "チュニャンイ ジス (可愛い猫のジス)",
+        "meaning_en": "Cutie Cat Jisoo (referring to Jisoo's cute cat-like image)"
+      },
+      {
+        "text": "만찢지수",
+        "meaning_ja": "漫画から飛び出してきたようなジス",
+        "meaning_en": "Jisoo, straight out of a manga! (Complimenting her beauty as unreal)"
+      },
+      {
+        "text": "지수 is 뭔들",
+        "meaning_ja": "ジスは何でも最高",
+        "meaning_en": "Jisoo is perfect no matter what she does! (Expressing unwavering support)"
+      },
+      {
+        "text": "비주얼 천재 지수",
+        "meaning_ja": "ビジュアル天才ジス",
+        "meaning_en": "Visual Genius Jisoo! (Focusing on her stunning visuals)"
+      },
+      {
+        "text": "지수 꽃길만 걸어",
+        "meaning_ja": "ジス、花の道だけを歩んで",
+        "meaning_en": "Jisoo, only walk on flower paths! (Wishing her a future full of happiness and success)"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "밥 잘 챙겨, 츄!",
+        "meaning_ja": "ご飯ちゃんと食べてね、チュウ！",
+        "meaning_en": "Make sure to eat well, Chu! (츄 is a cute nickname for Jisoo referencing her nickname)"
+      },
+      {
+        "text": "꽃길만 걸어, 지수야!",
+        "meaning_ja": "花道だけを歩んでね、ジス야！",
+        "meaning_en": "Only walk on flower paths, Jisoo! (Meaning: Only experience good things)"
+      },
+      {
+        "text": "행복길만 걷자, 쮸!",
+        "meaning_ja": "幸せな道だけを歩もう、チュ！",
+        "meaning_en": "Let's only walk on happy paths, Jju! (Another cute nickname, same meaning as above)"
+      },
+      {
+        "text": "아프지망고, 지수!",
+        "meaning_ja": "病気にならないでね、ジス！",
+        "meaning_en": "Don't get sick, Jisoo! (Wordplay on \"apuji mango\" - don't be sick. Mango is added for fun)."
+      },
+      {
+        "text": "맛있는 거 많이 먹고 힘내, 쮸야!",
+        "meaning_ja": "美味しいものをたくさん食べて頑張ってね、チュヤ！",
+        "meaning_en": "Eat lots of delicious food and cheer up, Jju-ya! (Emphasis on eating well for energy, referencing the original intent)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "츄냥이 감기 앙대!",
+        "meaning_ja": "チュニャン、風邪はダメ！",
+        "meaning_en": "Chu-Nyang, don't catch a cold! (츄냥이 is a nickname for Jisoo, emphasizing her cuteness. 앙대 is slang for \"no way!\")"
+      },
+      {
+        "text": "건강좌 갓지수!",
+        "meaning_ja": "健康の神、ゴッドジス！",
+        "meaning_en": "Health Goddess, God Jisoo! (건강좌 emphasizes health, and 갓 (God) is used to praise her.)"
+      },
+      {
+        "text": "아프지망고, 지수!",
+        "meaning_ja": "病気にならないでマンゴー、ジス！",
+        "meaning_en": "Don't get sick, Mango Jisoo! (아프지망고 is a pun, replacing \"don't be sick\" with \"mango,\" and Jisoo's nickname is added.)"
+      },
+      {
+        "text": "꽃지수, 건강길만 걸어!",
+        "meaning_ja": "花ジス、健康な道だけを歩んで！",
+        "meaning_en": "Flower Jisoo, only walk the path of health! (꽃지수 describes her beauty like a flower, and emphasizes a healthy path in life.)"
+      },
+      {
+        "text": "지수언니, 아프면 혼난다!",
+        "meaning_ja": "ジスお姉さん、病気になったらダメ！",
+        "meaning_en": "Jisoo Unnie, if you get sick, you're in trouble! (A playful, teasing way of expressing concern. 언니 is used for female fans expressing affection and respect towards an older female celebrity. Mixed honorifics/formality for natural-sounding fan speech.)"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "츄냥이 최고다!",
+        "meaning_ja": "チュニャンイ最高だ！",
+        "meaning_en": "Chu-nyangie is the best! (Chu from Jisoo's name + nyangie, cute cat sound)"
+      },
+      {
+        "text": "지수 is 뭔들!",
+        "meaning_ja": "ジスは何でも最高！",
+        "meaning_en": "Jisoo is perfect no matter what! (Literally \"Jisoo is what, even!\" meaning she's great in everything.)"
+      },
+      {
+        "text": "만찢지수!",
+        "meaning_ja": "漫画から飛び出たジス！",
+        "meaning_en": "Jisoo is like a character who jumped out of a comic book! (meaning extremely beautiful)"
+      },
+      {
+        "text": "지수꽃길만 걸어!",
+        "meaning_ja": "ジス、花の道だけを歩んで！",
+        "meaning_en": "Jisoo, only walk on flower paths! (Wishing her only happiness and success)"
+      },
+      {
+        "text": "So Hot! So Cool! 지수!",
+        "meaning_ja": "So Hot! So Cool! ジス！",
+        "meaning_en": "So Hot! So Cool! Jisoo! (This is straightforward but still used as a hype phrase.)"
+      }
+    ]
+  },
+  "Jennie": {
+    "LOVE_GENERAL": [
+      {
+        "text": "젠득이 귀여워",
+        "meaning_ja": "ジェンドゥギ可愛い",
+        "meaning_en": "Jennie is so cute! (젠득이 is a cute nickname for Jennie)"
+      },
+      {
+        "text": "만두 젠",
+        "meaning_ja": "まんじゅうジェン",
+        "meaning_en": "Dumpling Jennie (Referring to Jennie's cute dumpling-like cheeks)"
+      },
+      {
+        "text": "인간 샤넬 퀸 제니",
+        "meaning_ja": "人間シャネル クイーン ジェニ",
+        "meaning_en": "Human Chanel, Queen Jennie (Referring to Jennie's status as Chanel's ambassador)"
+      },
+      {
+        "text": "넘사벽 제니",
+        "meaning_ja": "越えられない壁 ジェニ",
+        "meaning_en": "Jennie, the insurmountable wall (meaning she's on a completely different level)"
+      },
+      {
+        "text": "제니 is 뭔들",
+        "meaning_ja": "ジェニは何でも",
+        "meaning_en": "Jennie can do anything! (Expressing that Jennie looks good/excels at anything)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "젠득이 맘",
+        "meaning_ja": "ジェンドゥギの心",
+        "meaning_en": "Jennie's heart (meaning I love Jennie with all my heart)"
+      },
+      {
+        "text": "옌냥이 최고존엄",
+        "meaning_ja": "イェンニャン最高尊厳",
+        "meaning_en": "Yennie (Jennie's nickname) is the ultimate queen!"
+      },
+      {
+        "text": "젠장해",
+        "meaning_ja": "ジェン愛してる",
+        "meaning_en": "Jen-I love you! (combining Jennie's name with \"saranghae\" - I love you)"
+      },
+      {
+        "text": "인간 샤넬 갓제니",
+        "meaning_ja": "人間シャネル 神ジェニ",
+        "meaning_en": "Human Chanel, God Jennie!"
+      },
+      {
+        "text": "젠냥 is 뭔들",
+        "meaning_ja": "ジェンニャンは何でもあり",
+        "meaning_en": "Jennie is perfect no matter what she does!"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "젠득이 내꼬얌",
+        "meaning_ja": "ジェンドゥギは私のもの！",
+        "meaning_en": "Jennie is mine! (Possessive and cute)"
+      },
+      {
+        "text": "젠총무 결혼해줘",
+        "meaning_ja": "ジェニー会計、結婚して！",
+        "meaning_en": "Jennie treasurer, marry me! (Plays on her perceived \"responsible\" image, and directly asks for marriage)"
+      },
+      {
+        "text": "만두냥이랑 결혼하자",
+        "meaning_ja": "餃子猫ちゃんと結婚しよう！",
+        "meaning_en": "Let's marry the dumpling cat! (Refers to her dumpling cheeks and cat-like visuals, and directly asks for marriage)"
+      },
+      {
+        "text": "샤넬인간이랑 백년해로",
+        "meaning_ja": "シャネル人間と末永く一緒に！",
+        "meaning_en": "Forever together with the Chanel human! (Referring to her as \"Chanel Human\" due to her brand ambassadorship, and wishing to be together forever)"
+      },
+      {
+        "text": "젠냥이 내 인생 책임져",
+        "meaning_ja": "ジェニャンコ、私の人生に責任取って！",
+        "meaning_en": "Jennie, take responsibility for my life! (Playfully demanding she takes responsibility, implying she has stolen the fan's heart)"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "젠득이 보고싶어 ㅠㅠ",
+        "meaning_ja": "ジェンドゥギ会いたいよマジ泣ける",
+        "meaning_en": "I miss Jendeukie so much, I'm gonna cry ㅠㅠ"
+      },
+      {
+        "text": "젠냥이 어디야! ㅠㅠ",
+        "meaning_ja": "ジェニャンはどこにいるの！泣",
+        "meaning_en": "Jenniecat, where are you?! 😭"
+      },
+      {
+        "text": "컴백 언제야! 젠장!",
+        "meaning_ja": "カムバックはいつなの！くそ！",
+        "meaning_en": "When is the comeback?! Damn! (missing her performances)"
+      },
+      {
+        "text": "젠 스타일 너무 그리워 ㅠ",
+        "meaning_ja": "ジェニのスタイルが恋しいよ 泣",
+        "meaning_en": "I miss Jennie's style so much ㅠ"
+      },
+      {
+        "text": "인간 샤넬 보고 싶다구!",
+        "meaning_ja": "人間シャネルに会いたいってば！",
+        "meaning_en": "I wanna see Human Chanel (Jennie) so bad!"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "젠득아 곁에 쭈욱",
+        "meaning_ja": "ジェンドゥク、ずっとそばにいるよ",
+        "meaning_en": "Jennie-deuk, I'll always be by your side."
+      },
+      {
+        "text": "젠냥이 꽃길만 걸어",
+        "meaning_ja": "ジェニャンイ、花の道だけを歩んで",
+        "meaning_en": "Jennie-nyangi, only walk the flower path (only good things happen to you)."
+      },
+      {
+        "text": "젠또배기 영원히 사랑해",
+        "meaning_ja": "ジェントベギ、永遠に愛してる",
+        "meaning_en": "Jenttobaegi, I will love you forever. (젠또배기 - a genuine, real Jennie)"
+      },
+      {
+        "text": "젠뭉이 덕분에 행복해 쭉",
+        "meaning_ja": "ジェンムンイのおかげでずっと幸せ",
+        "meaning_en": "Thanks to Jen-mung-i, I'm happy forever. (젠뭉이 - Jennie baby)"
+      },
+      {
+        "text": "젠 세상 전부 💖",
+        "meaning_ja": "ジェンは私の全て 💖",
+        "meaning_en": "Jennie is my whole world 💖"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "젠득이 생일 츄카포카!",
+        "meaning_ja": "ジェンドゥギ、誕生日おめでとう、チュカポカ！",
+        "meaning_en": "Jennie-deuk, Happy Birthday, Chuka Poka! (Chuka Poka is a cute way of saying congratulations)"
+      },
+      {
+        "text": "젠냥이 생일 햅삐절!",
+        "meaning_ja": "ジェンニャンイ、誕生日ハッピー節！",
+        "meaning_en": "Jen-Nyangie, Happy Birthday festive! (Nyangie refers to a cat)"
+      },
+      {
+        "text": "젠장미, 오늘 젤 예뻐!",
+        "meaning_ja": "ジェンバラ、今日が一番可愛い！",
+        "meaning_en": "Jen-Rose, you're the prettiest today! (장미 means rose)"
+      },
+      {
+        "text": "만두젠, 생일 꽃길만 걷자!",
+        "meaning_ja": "マンドゥジェン、誕生日、花の道だけを歩こう！",
+        "meaning_en": "Mandu-Jen, let's walk only the flower path on your birthday! (Mandu is a dumpling, used affectionately)"
+      },
+      {
+        "text": "옌젤, 오늘 파티 투나잇!",
+        "meaning_ja": "イェンジェル、今日パーティーTonight!",
+        "meaning_en": "Yen-Angel, party tonight! (옌젤 is another way of saying Angel)"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "젠득이 최고존엄!",
+        "meaning_ja": "ジェンドゥギ、マジ神！",
+        "meaning_en": "Jennie, you're absolutely legendary! (Implies perfection & ultimate respect)"
+      },
+      {
+        "text": "인간 샤넬 갓제니",
+        "meaning_ja": "人間シャネル、マジ神ジェニ",
+        "meaning_en": "Human Chanel, God Jennie! (Highlights her fashion icon status and near-divine beauty)"
+      },
+      {
+        "text": "젠장력 풀파워!",
+        "meaning_ja": "ジェニパワー全開！",
+        "meaning_en": "Jennie power at full blast! (Focuses on her stage presence and charisma)"
+      },
+      {
+        "text": "젠냥이 내 심장 박살 ㅠㅠ",
+        "meaning_ja": "ジェニニャン、私の心臓を粉砕ㅠㅠ",
+        "meaning_en": "Jennie-nyang, you're shattering my heart ㅠㅠ (Emphasizes her cute, cat-like charm and the fan's overwhelming adoration)"
+      },
+      {
+        "text": "냉탕온탕 젠득이!",
+        "meaning_ja": "冷たいお湯と熱いお湯を行き来するジェンドゥギ！",
+        "meaning_en": "Ice queen, hot queen Jennie! (Highlights her duality, switching between cool and sexy to cute and adorable.)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "젠득이 is 뭔들",
+        "meaning_ja": "ジェンドゥギは何でも最高",
+        "meaning_en": "Jennie is amazing no matter what she does."
+      },
+      {
+        "text": "만두냥 최고존엄",
+        "meaning_ja": "マンドゥニャン最高尊厳",
+        "meaning_en": "Dumpling Cat, the Ultimate Supreme Being! (Referring to Jennie's nickname and praising her as the highest authority/best)"
+      },
+      {
+        "text": "인간 샤넬 갓제니",
+        "meaning_ja": "人間シャネル神ジェニ",
+        "meaning_en": "Human Chanel, God Jennie!"
+      },
+      {
+        "text": "넘사벽 퀸제니",
+        "meaning_ja": "越えられない壁クイーンジェニ",
+        "meaning_en": "An insurmountable wall, Queen Jennie! (Implying she's unmatched)"
+      },
+      {
+        "text": "젠장 꾸뛰르",
+        "meaning_ja": "ジェニちゃんクチュール",
+        "meaning_en": "Jennie is Couture! (Playing on \"젠장\" which can mean \"damn!\" in a cool/stylish way, implying Jennie IS high fashion itself)"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "젠득이 짱!",
+        "meaning_ja": "ジェンドゥギ最高！",
+        "meaning_en": "Jendeukie is the best! (Expressing love for Jennie's nickname and how awesome she is)"
+      },
+      {
+        "text": "인간 샤넬 갓제니!",
+        "meaning_ja": "人間シャネル、神ジェニ！",
+        "meaning_en": "Human Chanel, God Jennie! (Acknowledging her Chanel ambassadorship and goddess-like status)"
+      },
+      {
+        "text": "젠 스타일 이즈 뭔들!",
+        "meaning_ja": "ジェニスタイルは何でも最高！",
+        "meaning_en": "Jennie style is perfect no matter what! (Celebrating her iconic fashion sense)"
+      },
+      {
+        "text": "만두젠 귀여워 쥬금!",
+        "meaning_ja": "餃子ジェニ可愛すぎて死ぬ！",
+        "meaning_en": "Mandu Jennie is so cute I'm dying! (Referring to her cute cheeks and saying she is too adorable)"
+      },
+      {
+        "text": "넘사벽 제니 솔로 퀸!",
+        "meaning_ja": "越えられない壁、ジェニソロクイーン！",
+        "meaning_en": "Unreachable wall, Jennie Solo Queen! (Highlighting her irreplaceable solo status and amazing talent)"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "젠득이 is 뭔들",
+        "meaning_ja": "ジェンドゥギは何でも正義",
+        "meaning_en": "Jennie is always right (literally, \"Whatever Jennie does is right\")."
+      },
+      {
+        "text": "인간 샤넬",
+        "meaning_ja": "人間シャネル",
+        "meaning_en": "Human Chanel (referencing her brand ambassadorship and effortless style)."
+      },
+      {
+        "text": "넘사벽 비주얼",
+        "meaning_ja": "越えられない壁のビジュアル",
+        "meaning_en": "An untouchable visual (her beauty is unmatched)."
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉",
+        "meaning_en": "Her face is a form of welfare (meaning her beauty is a gift to the world)."
+      },
+      {
+        "text": "만두 깅",
+        "meaning_ja": "まんじゅうギャング",
+        "meaning_en": "Dumpling Gang (a cute, affectionate nickname referencing her cheekiness and baby dumpling-like face)."
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "젠득이 짱!",
+        "meaning_ja": "ジェンドゥギ最高！",
+        "meaning_en": "Jendeukie (Jennie) is the best!"
+      },
+      {
+        "text": "만두냥!",
+        "meaning_ja": "まんじゅうニャン！",
+        "meaning_en": "Dumpling Nya! (Refers to Jennie's cute dumpling cheeks)"
+      },
+      {
+        "text": "젠 스타일!",
+        "meaning_ja": "ジェン スタイル！",
+        "meaning_en": "Jen Style! (Referring to Jennie's fashion sense and overall swag)"
+      },
+      {
+        "text": "인간 샤넬!",
+        "meaning_ja": "人間シャネル！",
+        "meaning_en": "Human Chanel! (Referring to Jennie being the face of Chanel)"
+      },
+      {
+        "text": "넘사벽 젠!",
+        "meaning_ja": "越えられない壁 ジェン！",
+        "meaning_en": "An Unreachable Wall, Jen! (Highlighting Jennie's unique talent and visuals that others can't easily replicate)"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "젠냥이 맘마 시간!",
+        "meaning_ja": "ジェニちゃん、ご飯の時間だよ！",
+        "meaning_en": "Jennie-nyang's meal time! (Emphasizing cuteness and meal time)"
+      },
+      {
+        "text": "젠득이 냠냠해!",
+        "meaning_ja": "ジェンドゥギ、モグモグしてね！",
+        "meaning_en": "Jendeukie, munch well! (Using her nickname and encouraging her to eat)"
+      },
+      {
+        "text": "밥길만 걸어, 제니야!",
+        "meaning_ja": "ご飯の道だけを歩んで、ジェニ！",
+        "meaning_en": "Only walk the path of good food, Jennie! (Wishing her happiness and good food experiences)"
+      },
+      {
+        "text": "인간 샤넬, 밥도 명품으로!",
+        "meaning_ja": "人間シャネル、ご飯もブランド物で！",
+        "meaning_en": "Human Chanel, eat gourmet food too! (Playfully linking her fashion icon status to food)"
+      },
+      {
+        "text": "제니 is 뭔들! 맛있는 거 먹고 힘내!",
+        "meaning_ja": "ジェニは何でも最高！美味しいもの食べて頑張って！",
+        "meaning_en": "Jennie is perfect no matter what! Eat something delicious and cheer up! (General support and encouragement to eat well)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "젠득 감기 뚝!",
+        "meaning_ja": "ジェンドゥク、風邪なんか飛んでけ！",
+        "meaning_en": "Jennie, kick that cold away! (Jeondeuk is a nickname for Jennie)"
+      },
+      {
+        "text": "젠냥이 아프지망고!",
+        "meaning_ja": "ジェニャンイ、辛いのはダメ！",
+        "meaning_en": "Jen-nyangie, don't be sick! (Jen-nyangie combines Jennie with \"nyangie\" like a cat sound)"
+      },
+      {
+        "text": "김제니 꽃길만 걸어, 건강길도!",
+        "meaning_ja": "キム・ジェニ、花の道だけを歩こう、健康の道も！",
+        "meaning_en": "Kim Jennie, walk only flower paths, and healthy paths too! (Typical idiom for wishing the best, adding \"healthy path\")"
+      },
+      {
+        "text": "젠젠, 아프면 쓰앵님!",
+        "meaning_ja": "ジェンジェン、具合が悪かったら先生に相談！",
+        "meaning_en": "JenJen, if you're sick, go see a doctor! (JenJen is a repeated nickname, and \"쓰앵님\" is a cute, slightly baby-like way to say \"teacher/doctor\" which comes from a meme)"
+      },
+      {
+        "text": "젠뭉이 건강 풀파워 충전!",
+        "meaning_ja": "ジェンムンイ、元気フルパワーチャージ！",
+        "meaning_en": "Jen-moongie, health full power charge! (Jen-moongie combines Jennie with \"moongie\" which is an affectionate word. This is like powering up in a video game)"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "젠득이 최고!",
+        "meaning_ja": "ジェンドゥギ最高！(マジ最高！)",
+        "meaning_en": "Jennie is the best! (Seriously the best!)"
+      },
+      {
+        "text": "인간 샤넬 퀸 제니!",
+        "meaning_ja": "人間シャネル クイーン ジェニ！",
+        "meaning_en": "Human Chanel, Queen Jennie!"
+      },
+      {
+        "text": "오늘도 젠냥이 덕분에 힐링!",
+        "meaning_ja": "今日もジェニャンイのおかげで癒し！",
+        "meaning_en": "Feeling healed thanks to Jennie today! (Like a cat)"
+      },
+      {
+        "text": "무대 찢었다, 제니야!",
+        "meaning_ja": "ステージを破った、ジェニ！",
+        "meaning_en": "You slayed the stage, Jennie! (Ripped it up)"
+      },
+      {
+        "text": "제니 is 뭔들!",
+        "meaning_ja": "ジェニ is 何でも！(何でもあり！)",
+        "meaning_en": "Jennie can do anything! (Whatever she does is great!)"
+      }
+    ]
+  },
+  "Rosé": {
+    "LOVE_GENERAL": [
+      {
+        "text": "Chaeng-ah kkul-bo-ssu! (챙아 꿀보이스!)",
+        "meaning_ja": "チェヨン、ハチミツボイス！",
+        "meaning_en": "Chaeyoung (Rosé's real name), Honey Voice! (Referring to her sweet vocals)"
+      },
+      {
+        "text": "Park Rose, Gae-ye-ppeu-da! (박로제, 개예쁘다!)",
+        "meaning_ja": "パクロゼ、超可愛い！",
+        "meaning_en": "Park Rosé, Super Pretty! (개 (gae) emphasizes \"very\" or \"super\")"
+      },
+      {
+        "text": "Rosé-yah, in-saeng-chae-go! (로제야, 인생최고!)",
+        "meaning_ja": "ロゼ、人生最高！",
+        "meaning_en": "Rosé, You're the best thing in my life! (Literally: \"Rosé, life's best!\")"
+      },
+      {
+        "text": "Rosé heol-ree-woo-deul-reok! (로제 헐리웃 들억!)",
+        "meaning_ja": "ロゼ、ハリウッドデビューしちゃえ！",
+        "meaning_en": "Rosé, Hollywood Debut! (Expressing hope for her to succeed in Hollywood) 들억 (deul-eok) is a playful way to say she should go for it."
+      },
+      {
+        "text": "Rosé, eon-ni-man 믿고 가! (로제, 언니만 믿고 가!)",
+        "meaning_ja": "ロゼ、オンニだけ信じて進め！",
+        "meaning_en": "Rosé, Trust only unnie (me) and go! (Encouraging her to trust in her fans.)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "믿.보.로",
+        "meaning_ja": "絶対的信頼のロゼ",
+        "meaning_en": "Trust Rosé unconditionally. (Literally: \"Believe. See. Rosé.\")"
+      },
+      {
+        "text": "댕댕이 로제",
+        "meaning_ja": "ワンコみたいに可愛いロゼ",
+        "meaning_en": "Rosé, cute like a puppy!"
+      },
+      {
+        "text": "로제 is 뭔들",
+        "meaning_ja": "ロゼは何しても最高",
+        "meaning_en": "Rosé is great no matter what! (\"Whatever she does is good\" - a very common saying)"
+      },
+      {
+        "text": "로제 꽃길만 걸어",
+        "meaning_ja": "ロゼ、花の道だけを歩んで",
+        "meaning_en": "Rosé, walk only on flower paths! (meaning wishing only good things)"
+      },
+      {
+        "text": "로제 맘찍튀",
+        "meaning_ja": "ロゼにいいね逃げ",
+        "meaning_en": "\"Heart-attackingly beautiful Rosé!\" (Implies someone is so stunned by Rosé's beauty they give a \"like\" and run)"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "챙랑해!",
+        "meaning_ja": "ロゼと結婚したい！",
+        "meaning_en": "Marry Rosé! (Direct but endearing)"
+      },
+      {
+        "text": "박로제 내꺼!",
+        "meaning_ja": "パクロゼは私のもの！",
+        "meaning_en": "Park Chaeyoung is mine! (Possessive, but playful)"
+      },
+      {
+        "text": "로제 없인 못 살아!",
+        "meaning_ja": "ロゼなしでは生きられない！",
+        "meaning_en": "I can't live without Rosé! (Dramatic and devoted)"
+      },
+      {
+        "text": "로제 is 뭔들!",
+        "meaning_ja": "ロゼは何でも最高！",
+        "meaning_en": "Rosé is perfect no matter what! (She's amazing in every way)"
+      },
+      {
+        "text": "내 심장 로제한테 저격당함!",
+        "meaning_ja": "私の心はロゼに撃ち抜かれた！",
+        "meaning_en": "My heart was shot by Rosé! (Love at first sight)"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "로제 보고싶소!",
+        "meaning_ja": "ロゼに会いたか! (ちょっぴり時代劇風)",
+        "meaning_en": "Rosé, I miss you so bad! (With a slightly old-fashioned/dramatic flair)"
+      },
+      {
+        "text": "챙이 보고파 🥺",
+        "meaning_ja": "チェヨンに会いたい 🥺 (絵文字付きで可愛い)",
+        "meaning_en": "Miss you, Chaeyoung 🥺 (Cute with emoji)"
+      },
+      {
+        "text": "로제 앓이 중",
+        "meaning_ja": "ロゼシック中",
+        "meaning_en": "Rosé-sick (Currently suffering from Rosé withdrawal)"
+      },
+      {
+        "text": "존예 로제 보구싶다!",
+        "meaning_ja": "超可愛いロゼに会いたい！",
+        "meaning_en": "I wanna see gorgeous Rosé!"
+      },
+      {
+        "text": "롮랑해! (보고싶롮)",
+        "meaning_ja": "ロゼ愛してる! (会いたいロゼ)",
+        "meaning_en": "Rosé, I love you! (Miss you Rosé)"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "핑프 (핑거 프린세스)",
+        "meaning_ja": "指先のお姫様 (自分で調べない人)",
+        "meaning_en": "Finger Princess (Someone who expects others to do everything for them)"
+      },
+      {
+        "text": "롬곡옾눞 (눈물 거꾸로)",
+        "meaning_ja": "逆さ涙 (号泣)",
+        "meaning_en": "Upside-down tears (Crying a lot)"
+      },
+      {
+        "text": "인싸템",
+        "meaning_ja": "イケてるアイテム (流行りのもの)",
+        "meaning_en": "Insider Item (Popular item)"
+      },
+      {
+        "text": "갑분싸",
+        "meaning_ja": "場の空気一変 (急にシーンとなる)",
+        "meaning_en": "Suddenly the atmosphere cools down (Abruptly awkward silence)"
+      },
+      {
+        "text": "ㅇㄱㄹㅇ (이거 레알)",
+        "meaning_ja": "マジでそれ (本当にそう)",
+        "meaning_en": "This is real (For real)"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "댕댕이 로제",
+        "meaning_ja": "わんこロゼ (可愛いロゼ)",
+        "meaning_en": "Puppy Rosé (Cute Rosé)"
+      },
+      {
+        "text": "째앵 로제",
+        "meaning_ja": "キラキラロゼ (輝くロゼ)",
+        "meaning_en": "Jjaeng Rosé (Sparkling/Dazzling Rosé)"
+      },
+      {
+        "text": "롬곡옘똠",
+        "meaning_ja": "涙ちょちょぎれる (泣けるほど感動)",
+        "meaning_en": "I'm crying waterfalls (So touching)"
+      },
+      {
+        "text": "갓로제",
+        "meaning_ja": "神ロゼ (神のようなロゼ)",
+        "meaning_en": "God Rosé (Goddess Rosé)"
+      },
+      {
+        "text": "Rosé is 뭔들",
+        "meaning_ja": "ロゼは何でも良い (ロゼなら何でもOK)",
+        "meaning_en": "Rosé is \"whatever\" (Rosé can do anything/is good at everything)"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "️ 갓로제",
+        "meaning_ja": "神ロゼ様",
+        "meaning_en": "God Rosé"
+      },
+      {
+        "text": "️ 롬곡옾눞",
+        "meaning_ja": "号泣 (大泣きする様子)",
+        "meaning_en": "Crying a river (expression of extreme sadness/joy)"
+      },
+      {
+        "text": "️ 로제 is 뭔들",
+        "meaning_ja": "ロゼは何でも最高",
+        "meaning_en": "Rosé can do no wrong"
+      },
+      {
+        "text": "️ 핵인싸 로제",
+        "meaning_ja": "超人気者ロゼ",
+        "meaning_en": "Super popular Rosé"
+      },
+      {
+        "text": "️ 로제 하고 싶은 거 다 해",
+        "meaning_ja": "ロゼ、やりたいこと全部やって！",
+        "meaning_en": "Rosé, do whatever you want!"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "Chaeyoung-ah, 끼절!",
+        "meaning_ja": "チェヨンちゃん、マジ尊い！(気絶しそうなくらい可愛い！)",
+        "meaning_en": "Chaeyoung, you're so amazing, I'm dying! (lit. dying from your coolness/cuteness)"
+      },
+      {
+        "text": "만찢로제!",
+        "meaning_ja": "まんがから飛び出してきたロゼ！(美しすぎる！)",
+        "meaning_en": "Rosé, you look like you came straight out of a manga! (You're too beautiful!)"
+      },
+      {
+        "text": "Rosé is 뭔들!",
+        "meaning_ja": "Roséはマジ何でも似合う！",
+        "meaning_en": "Rosé looks good in anything! (lit. Whatever Rosé does is right/perfect.)"
+      },
+      {
+        "text": "로제 is 뭔들, 반박불가!",
+        "meaning_ja": "ロゼは何でも似合う、反論は認めない！",
+        "meaning_en": "Rosé looks good in anything, and that's a fact! (lit. Whatever Rosé does is right, no arguments allowed!)"
+      },
+      {
+        "text": "인생은 로제처럼!",
+        "meaning_ja": "人生はロゼのように！（輝いて生きよう！）",
+        "meaning_en": "Live life like Rosé! (Live life brilliantly!)"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "넘사벽 로제",
+        "meaning_ja": "超えられない壁ロゼ (尊い)",
+        "meaning_en": "Rosé: The Unreachable Wall (So precious/divine!)"
+      },
+      {
+        "text": "얼굴이 복지다 로제",
+        "meaning_ja": "顔面が福祉だロゼ (尊い)",
+        "meaning_en": "Rosé's face is welfare (Her beauty is a blessing!)"
+      },
+      {
+        "text": "로제 is 뭔들",
+        "meaning_ja": "ロゼ is 何でも良い (尊い)",
+        "meaning_en": "Rosé is good in everything (She's perfect in everything she does!)"
+      },
+      {
+        "text": "갓로제",
+        "meaning_ja": "神ロゼ (尊い)",
+        "meaning_en": "God Rosé (Divine Rosé!)"
+      },
+      {
+        "text": "로제 사랑둥이",
+        "meaning_ja": "ロゼ 愛されっ子 (尊い)",
+        "meaning_en": "Rosé, the darling (Rosé, the beloved one!)"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "*   얼굴천재",
+        "meaning_ja": "顔面天才 (がんめんてんさい)",
+        "meaning_en": "Face genius (naturally beautiful)"
+      },
+      {
+        "text": "*   넘사벽 미모",
+        "meaning_ja": "越えられない壁の美貌 (こえられないかべのびぼう)",
+        "meaning_en": "Beauty that's beyond reach"
+      },
+      {
+        "text": "*   인간 로제",
+        "meaning_ja": "人間ロゼ (にんげんロゼ)",
+        "meaning_en": "Human Rosé (Rosé incarnate)"
+      },
+      {
+        "text": "*   미모 미쳤다",
+        "meaning_ja": "美貌が狂ってる (びぼうがくるってる)",
+        "meaning_en": "Her beauty is insane"
+      },
+      {
+        "text": "*   리즈 갱신",
+        "meaning_ja": "全盛期更新 (ぜんせいきこうしん)",
+        "meaning_en": "Peak beauty renewed (getting more beautiful)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "챙이즈뭔들",
+        "meaning_ja": "チェヨンイズモンﾄﾞｩﾙ (何でもチェヨンは最高)",
+        "meaning_en": "Chaeyoung is good at everything / Whatever Chaeyoung does is amazing. (Implies adoration and that she can't do wrong.)"
+      },
+      {
+        "text": "로제는_사랑입니다",
+        "meaning_ja": "ロゼは愛です",
+        "meaning_en": "Rosé is love. (Simple and direct expression of affection.)"
+      },
+      {
+        "text": "핑머박제_로제",
+        "meaning_ja": "ピンク髪保存_ロゼ",
+        "meaning_en": "Preserve Rosé's pink hair! (A plea to keep a specific iconic hairstyle.)"
+      },
+      {
+        "text": "로제_얼굴이_복지다",
+        "meaning_ja": "ロゼの顔は福祉だ",
+        "meaning_en": "Rosé's face is welfare. (Meaning her beauty is a blessing, fulfilling, and makes you happy.)"
+      },
+      {
+        "text": "로제 is 뭔들, 손민수 가즈아!",
+        "meaning_ja": "ロゼ is 何でも、ソンミンス行こう!",
+        "meaning_en": "Rosé is amazing at everything, Let's 손민수 (copy her)! (손민수 means to copy/follow what your favorite celebrity does or wears.)"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "밥 잘 챙겨 (밥챙)",
+        "meaning_ja": "ご飯ちゃんと食べてね！",
+        "meaning_en": "Make sure you eat well! (lit. Take care of your meals)"
+      },
+      {
+        "text": "맛잘알 로제",
+        "meaning_ja": "美味しいもの知り尽くしてるロゼ！",
+        "meaning_en": "Rosé knows all the best food! (lit. Rosé who knows delicious things well)"
+      },
+      {
+        "text": "쩝쩝박사 로제",
+        "meaning_ja": "もぐもぐ博士ロゼ！",
+        "meaning_en": "Rosé, the \"Eating Expert\" ! (lit. Chewing/slurping Dr. Rosé - playful)"
+      },
+      {
+        "text": "로제 냠냠굿",
+        "meaning_ja": "ロゼ、もぐもぐいいね！",
+        "meaning_en": "Rosé, your eating is good good! (nyam nyam = onomatopoeia for eating)"
+      },
+      {
+        "text": "탄수화물길만 걸어, 로제야!",
+        "meaning_ja": "炭水化物の道だけを歩んで、ロゼ！",
+        "meaning_en": "Only walk the path of carbs, Rosé! (Meaning: eat whatever you want and be happy)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "챙이 감기 조심!",
+        "meaning_ja": "チェヨンの風邪に気をつけて！",
+        "meaning_en": "Chaeyoung, be careful not to catch a cold! (This is a slightly more endearing way to say Rosé - Chaeyoung's name)"
+      },
+      {
+        "text": "챙바! 아프지망고!",
+        "meaning_ja": "チェンバ！痛くないで！",
+        "meaning_en": "Chaeng-ba! Don't be sick/hurt! (\"Chaeng-ba\" is a shortened, cute way to refer to Rosé. \"아프지망고\" is a playful way to say \"don't get sick\" replacing 말다(malda) with mango)"
+      },
+      {
+        "text": "로제누나 건강 챙겨!",
+        "meaning_ja": "ロゼお姉さん、健康に気をつけてね！",
+        "meaning_en": "Rosé *nuna*, take care of your health! (*Nuna* is used by male fans towards Rosé.)"
+      },
+      {
+        "text": "로제 아프면 맴찢!",
+        "meaning_ja": "ロゼが痛いと心が痛む！",
+        "meaning_en": "My heart hurts when Rosé is sick! (맴찢 - *maemjjit* is like \"heart ripped\", a popular term for feeling deeply saddened)"
+      },
+      {
+        "text": "박로제 꽃길만 걸어! 감기 조심!",
+        "meaning_ja": "パクロゼ、花道だけを歩いて！風邪に気をつけて！",
+        "meaning_en": "Park Rosé, only walk the flower path! And be careful of colds! (꽃길만 걸어 - *Kkotgilman georeo* means only walk a flowery path - a wish for all good things and no troubles)"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "Chaeyoung-ah, 길만 걸어!",
+        "meaning_ja": "チェヨンちゃん、花道だけを歩んで！",
+        "meaning_en": "Chaeyoung, walk only on flower paths! (Meaning: Only good things happen to you!)"
+      },
+      {
+        "text": "Rosé is 뭔들!",
+        "meaning_ja": "Roséはマジで何でも似合う！",
+        "meaning_en": "Rosé looks good in anything/can pull off anything! (Meaning: She's so talented and beautiful, anything suits her)"
+      },
+      {
+        "text": "Rosé, 덕분에 힐링!",
+        "meaning_ja": "Roséのおかげで癒される！",
+        "meaning_en": "Rosé, you heal me/I get healed thanks to you!"
+      },
+      {
+        "text": "Chaeyoung, 내 심장 훔쳐 갔어!",
+        "meaning_ja": "チェヨン、私の心を盗んで行った！",
+        "meaning_en": "Chaeyoung, you stole my heart!"
+      },
+      {
+        "text": "Rosé, 존재 자체가 예술!",
+        "meaning_ja": "Rosé、存在そのものが芸術！",
+        "meaning_en": "Rosé, your existence is art itself!"
+      }
+    ]
+  },
+  "Lisa": {
+    "LOVE_GENERAL": [
+      {
+        "text": "롬곡옘뇸",
+        "meaning_ja": "涙をこぼす (泣くほど好き)",
+        "meaning_en": "Crying tears of love (So good it makes you cry)"
+      },
+      {
+        "text": "만찢 비주얼",
+        "meaning_ja": "漫画から出てきたビジュアル (美しすぎる)",
+        "meaning_en": "Visuals ripped from the comics (Unbelievably beautiful)"
+      },
+      {
+        "text": "입덕 부정기",
+        "meaning_ja": "ファンになるのを否定する時期 (でももう好き)",
+        "meaning_en": "Denial stage of becoming a fan (But I already love her)"
+      },
+      {
+        "text": "존예보스",
+        "meaning_ja": "めちゃくちゃ可愛いボス (最高に美しい)",
+        "meaning_en": "Super pretty boss (Extremely beautiful)"
+      },
+      {
+        "text": "내 심장 훔쳐간 도둑",
+        "meaning_ja": "私の心を盗んだ泥棒 (心を奪われた)",
+        "meaning_en": "Thief who stole my heart (Heart stolen)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "*   롬곡옾눞 (롬곡을 엎드려 눕다)",
+        "meaning_ja": "号泣して倒れる",
+        "meaning_en": "Crying so hard I'm collapsing (exaggerated emotion)"
+      },
+      {
+        "text": "*   인생네컷 리사",
+        "meaning_ja": "人生最高の四分割リサ (人生最高の瞬間)",
+        "meaning_en": "Lisa in 4-cut photo booth = the best moment of my life"
+      },
+      {
+        "text": "*   심장이 리사리사해",
+        "meaning_ja": "心臓がリサリサしてる (ドキドキする)",
+        "meaning_en": "My heart is Lisa-Lisa-ing (beating fast because of Lisa)"
+      },
+      {
+        "text": "*   리사 없인 못 살아",
+        "meaning_ja": "リサなしでは生きられない",
+        "meaning_en": "I can't live without Lisa"
+      },
+      {
+        "text": "*   내 통장 리사꺼",
+        "meaning_ja": "私の口座はリサのもの",
+        "meaning_en": "My bank account belongs to Lisa"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "​ 젠장, 리사 내 아내!",
+        "meaning_ja": "くそ、リサは俺の妻！",
+        "meaning_en": "Damn it, Lisa is my wife! (Playful declaration)"
+      },
+      {
+        "text": "​ 리사야, 내 심장 받아랏! (결혼해줘!)",
+        "meaning_ja": "リサ、私の心を受け取って！（結婚して！）",
+        "meaning_en": "Lisa, take my heart! (Marry me!) (Direct with a heart gesture)"
+      },
+      {
+        "text": "​ 리사 is 뭔들, 내 신부 뭔들!",
+        "meaning_ja": "リサは何でも、私の花嫁は何でも！",
+        "meaning_en": "Lisa is anything, my bride is anything! (Play on \"뭔들\" meaning \"everything\" is good, applying to her as a future bride)"
+      },
+      {
+        "text": "​ 리사야, 꽃길만 걷자 (내 결혼식장으로)!",
+        "meaning_ja": "リサ、花の道だけを歩こう（私の結婚式場へ）！",
+        "meaning_en": "Lisa, let's only walk on flower paths (to my wedding venue)! (Romantic twist on the common \"flower path\" phrase)"
+      },
+      {
+        "text": "​ 리사 없인 못 살아, 결혼해줘 제발!",
+        "meaning_ja": "リサなしでは生きられない、結婚してくれ、お願い！",
+        "meaning_en": "I can't live without Lisa, please marry me! (Dramatic & pleading!)"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "리사 보고 시포🥺",
+        "meaning_ja": "リサに会いたい🥺 (Risa ni aitai🥺)",
+        "meaning_en": "Lisa, I miss you so much🥺"
+      },
+      {
+        "text": "Lisa 없인 못 살아 😭",
+        "meaning_ja": "Lisaなしでは生きられない😭 (Lisa nashi dewa ikirarenai😭)",
+        "meaning_en": "I can't live without Lisa😭"
+      },
+      {
+        "text": "내 마음속에 리사 저장💾",
+        "meaning_ja": "私の心の中にリサ保存💾 (Watashi no kokoro no naka ni Risa hozon💾)",
+        "meaning_en": "Saving Lisa in my heart💾"
+      },
+      {
+        "text": "리사 is 뭔들 💖",
+        "meaning_ja": "リサは何でも素晴らしい💖 (Risa wa nandemo subarashii💖)",
+        "meaning_en": "Everything Lisa does is amazing💖 (meaning you miss her no matter what she's doing)"
+      },
+      {
+        "text": "리사 스릉흔드…✨",
+        "meaning_ja": "リサ、愛してる…✨ (Risa, aishiteru…✨)",
+        "meaning_en": "Lisa, I love you…✨ (a cute, slightly exaggerated way to say \"I love you\" - implies missing her so much)"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "리사 맘모스",
+        "meaning_ja": "リサをマンモス愛してる！(ずっと大好き！)",
+        "meaning_en": "Lisa, I love you mammoth-ly! (Love you forever!)"
+      },
+      {
+        "text": "리사 꽃길만 걸어",
+        "meaning_ja": "リサ、花の道だけを歩んでね！(いつも応援してる！)",
+        "meaning_en": "Lisa, walk only on flower paths! (Always supporting you!)"
+      },
+      {
+        "text": "맂냥이 영원히",
+        "meaning_ja": "リサニャン、永遠に一緒！",
+        "meaning_en": "Lisan-nyang forever! (Together forever!) *맂냥이 is Lisa + Nyan (cat sound), a cute nickname*"
+      },
+      {
+        "text": "리사 덕분에 숨쉰다",
+        "meaning_ja": "リサのおかげで息ができる。(あなたなしでは生きられない。)",
+        "meaning_en": "I breathe thanks to Lisa. (I can't live without you.)"
+      },
+      {
+        "text": "내 통장은 리사꺼",
+        "meaning_ja": "私の口座はリサのもの。(リサのためなら何でもする！)",
+        "meaning_en": "My bank account is Lisa's. (I'll do anything for Lisa!)"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "롬곡옘뇸 (롬곡): 폭풍눈물 ㅠㅠ",
+        "meaning_ja": "号泣 (ごうきゅう)",
+        "meaning_en": "Bawling my eyes out (crying a lot) - *Expressing overwhelming emotion, like happy tears on her birthday.*"
+      },
+      {
+        "text": "인싸력 만렙 (인싸력): コミュ力 (こみゅりょく) 頂点 (ちょうてん)",
+        "meaning_ja": "Top-tier social skills",
+        "meaning_en": "Max level of being an \"insider\" (popular/social) - *Celebrating her charisma and popularity.*"
+      },
+      {
+        "text": "존예보스 (존예): 超 (ちょう) 美人 (びじん) ボス",
+        "meaning_ja": "Super beautiful boss",
+        "meaning_en": "Ultimate beauty boss - *Complimenting her stunning looks and powerful stage presence.*"
+      },
+      {
+        "text": "덕질각 (덕질): 推 (お) し活 (かつ) するタイミング！",
+        "meaning_ja": "Time to stan hard!",
+        "meaning_en": "Time to fangirl/fanboy! - *Encouraging fellow fans to show their support.*"
+      },
+      {
+        "text": "입덕 부정기 (입덕): ファンになるのを否定 (ひてい) する時期 (じき)",
+        "meaning_ja": "Time of denying being a fan",
+        "meaning_en": "The period of denying that you're becoming a fan - *Humorously referencing the initial resistance to falling for her charm.*"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "*   롬곡옘똠",
+        "meaning_ja": "涙がちょちょぎれる",
+        "meaning_en": "Crying my eyes out (so touched/sad)"
+      },
+      {
+        "text": "*   인싸력 만렙",
+        "meaning_ja": "コミュ力最強レベル",
+        "meaning_en": "Max level of social skills (ultimate social butterfly)"
+      },
+      {
+        "text": "*   넘사벽 리사",
+        "meaning_ja": "超えられない壁のリサ",
+        "meaning_en": "Lisa, an insurmountable wall (Lisa is unmatched)"
+      },
+      {
+        "text": "*   덕질은 나의 힘",
+        "meaning_ja": "オタ活は私の力",
+        "meaning_en": "Fangirling/Fanboying is my power"
+      },
+      {
+        "text": "*   계탔다! 리사 영접!",
+        "meaning_ja": "まじ幸運！リサに会えた！",
+        "meaning_en": "Hit the jackpot! I met Lisa!"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "인생네컷 리사",
+        "meaning_ja": "人生最高のリサ (Jinsei saikou no Risa)",
+        "meaning_en": "Lisa, the best thing that ever happened to my life! (Life Four Cuts Lisa - meaning she's perfect like a perfect photo booth pic)"
+      },
+      {
+        "text": "롬곡옘뇸뇸 리사",
+        "meaning_ja": "涙も全部可愛いリサ (Namida mo zenbu kawaii Risa)",
+        "meaning_en": "Lisa, even her tears are cute! (Romgok yemnyomnyom is crying spelled backwards, onomatopoeia for crying)"
+      },
+      {
+        "text": "핵인싸 리사",
+        "meaning_ja": "超人気者リサ (Chou ninkimono Risa)",
+        "meaning_en": "Lisa, the ultimate social butterfly! (Hae-ginssa - super popular)"
+      },
+      {
+        "text": "갑분리사",
+        "meaning_ja": "突然のリサ (Totsuzen no Risa)",
+        "meaning_en": "Lisa, a sudden burst of happiness! (Gapbun Lisa - suddenly Lisa)"
+      },
+      {
+        "text": "존예보스 리사",
+        "meaning_ja": "超絶可愛いボスリサ (Chouzetsu kawaii bosu Risa)",
+        "meaning_en": "Lisa, the ultimate beautiful boss! (Jonye-boseu - super pretty boss)"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "인간 명품",
+        "meaning_ja": "歩く宝石(ブランド)",
+        "meaning_en": "Human embodiment of luxury (brand)"
+      },
+      {
+        "text": "얼굴이 개연성",
+        "meaning_ja": "顔面が説得力",
+        "meaning_en": "Her face justifies everything (literally, her face is the reason/logic)"
+      },
+      {
+        "text": "무대 뿌셔",
+        "meaning_ja": "ステージ破壊",
+        "meaning_en": "Destroy the stage! (Referring to her performance)"
+      },
+      {
+        "text": "갓리사",
+        "meaning_ja": "神リサ",
+        "meaning_en": "God Lisa"
+      },
+      {
+        "text": "넘사벽 리사",
+        "meaning_ja": "超えられない壁リサ",
+        "meaning_en": "Lisa, the insurmountable wall (meaning she's unmatched)"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉",
+        "meaning_en": "Her face is welfare (meaning it provides happiness and comfort)"
+      },
+      {
+        "text": "얼굴 천재 만재",
+        "meaning_ja": "顔面天才万歳",
+        "meaning_en": "Face genius, hooray!"
+      },
+      {
+        "text": "얼굴로 국위선양",
+        "meaning_ja": "顔面で国威発揚",
+        "meaning_en": "Raising national prestige with her face"
+      },
+      {
+        "text": "인간 디올",
+        "meaning_ja": "人間ディオール",
+        "meaning_en": "Human Dior (meaning she embodies the Dior brand perfectly)"
+      },
+      {
+        "text": "태쁘리사",
+        "meaning_ja": "生まれつき美しいリサ",
+        "meaning_en": "Born Beautiful Lisa (combining \"태\" from \"태어나다\" - to be born - with \"쁘\" from \"예쁘다\" - to be pretty, and Lisa's name)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "리사 맘찍!",
+        "meaning_ja": "リサにいいね！",
+        "meaning_en": "Lisa, I'm hitting that like button! (Indicating strong approval & love)"
+      },
+      {
+        "text": "리사 폼 미쳤다!💖",
+        "meaning_ja": "リサ、マジ最高！💖",
+        "meaning_en": "Lisa, you're absolutely killing it!💖 (Expressing admiration for her performance and visuals)"
+      },
+      {
+        "text": "인간 명품 리사✨",
+        "meaning_ja": "人間シャネル リサ✨",
+        "meaning_en": "Human Chanel Lisa✨ (Referring to her status as a luxury brand ambassador and overall elegant presence)"
+      },
+      {
+        "text": "리사 때문에 내 심장 웅냥냥!",
+        "meaning_ja": "リサのせいで私の心臓がドキドキ！",
+        "meaning_en": "Lisa, you make my heart go boom boom! (Expressing a fluttery, excited feeling)"
+      },
+      {
+        "text": "만찢 비주얼 리사!",
+        "meaning_ja": "漫画から出てきたようなビジュアルのリサ！",
+        "meaning_en": "Lisa, your visuals are straight out of a manga! (Complimenting her stunning looks)"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "밥 리사!",
+        "meaning_ja": "ご飯リサ！(ちゃんと食べてね！)",
+        "meaning_en": "Rice Lisa! (Eat Well!) - Play on words with her name, urging her to eat heartily."
+      },
+      {
+        "text": "만두 리사, 만수무강!",
+        "meaning_ja": "餃子リサ、末永く健康で！",
+        "meaning_en": "Dumpling Lisa, long life and health! - Using \"mandu\" (dumpling) as a cute nickname and wishing her good health and longevity, focusing on well-being."
+      },
+      {
+        "text": "맛잘알 리사, 냠냠긋!",
+        "meaning_ja": "美味しいものよく知ってるリサ、もぐもぐいいね！",
+        "meaning_en": "Foodie Lisa, nom nom good! - Praising her good taste in food and encouraging her to enjoy eating delicious things."
+      },
+      {
+        "text": "인생은 리사처럼, 식사는 꿀처럼!",
+        "meaning_ja": "人生はリサのように、食事は蜜のように！",
+        "meaning_en": "Life like Lisa, meals like honey! - This expresses a desire for a sweet and enjoyable eating experience, comparing it to Lisa's successful life."
+      },
+      {
+        "text": "행복 리사, 맛점하세요!",
+        "meaning_ja": "幸せリサ、美味しいランチを！",
+        "meaning_en": "Happy Lisa, enjoy your delicious lunch! -  A simple wish for her to have a happy and tasty lunch, associating her with happiness."
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "리사 겅듀, 아프지망고!",
+        "meaning_ja": "リサ姫、痛いのはダメだよ！ (痛くないでね！)",
+        "meaning_en": "Lisa Princess, don't be sick! (Don't be in pain!)"
+      },
+      {
+        "text": "리사야, 꽃길만 걷자! 감기 조심!",
+        "meaning_ja": "リサ、花道だけを歩こう！風邪に気をつけて！",
+        "meaning_en": "Lisa, let's only walk on flower paths! Be careful of colds!"
+      },
+      {
+        "text": "내 가수 리사, 건강이 쵝오시다!",
+        "meaning_ja": "私の歌手リサ、健康が一番最高だ！",
+        "meaning_en": "My singer Lisa, health is the absolute best! (Health is the most important!)"
+      },
+      {
+        "text": "인싸 리사, 아프면 핵인싸 손해!",
+        "meaning_ja": "インサイダーリサ、病気になったら超インサイダーの損失！",
+        "meaning_en": "Insider Lisa, if you get sick, it's a loss for the ultimate insider! (You're too popular to get sick!)"
+      },
+      {
+        "text": "넘사벽 리사, 건강 챙겨!",
+        "meaning_ja": "越えられない壁のリサ、健康に気を付けて！",
+        "meaning_en": "Lisa, the one beyond reach, take care of your health!"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "롬곡옘뫄 (롬곡+옘병+오열)",
+        "meaning_ja": "号泣大爆発 (ごうきゅうだいばくはつ)",
+        "meaning_en": "Crying a river (Literally: Explosion of Tears) - *Used to express extreme emotion, often in a humorous way. Perfect for when Lisa absolutely slays a performance.*"
+      },
+      {
+        "text": "인싸력 만렙 (인싸+레벨)",
+        "meaning_ja": "コミュ力カンスト (コミュりょくかんすと)",
+        "meaning_en": "Max level social skills (Insider Power Max Level) - *Highlighting Lisa's charisma and popularity.*"
+      },
+      {
+        "text": "존예보스 (존나+예쁘다+보스)",
+        "meaning_ja": "超絶綺麗ボス (ちょうぜつきれいボス)",
+        "meaning_en": "Seriously Pretty Boss (Extremely Beautiful Boss) - *A direct and powerful way to compliment Lisa's beauty and stage presence.*"
+      },
+      {
+        "text": "덕질은 나의 힘 (덕질+힘)",
+        "meaning_ja": "推し活は私の力 (おしかつはわたしのちから)",
+        "meaning_en": "Staning is my power (My love for Lisa is my strength) - *Expressing how Lisa inspires and energizes you.*"
+      },
+      {
+        "text": "오조오억번 (오조+오억+번)",
+        "meaning_ja": "無限回 (むげんかい)",
+        "meaning_en": "Infinite times (Countless times) - *Meaning \"I love you/support you a million times over.\" Used for expressing overwhelming affection.*"
+      }
+    ]
+  }
+}
