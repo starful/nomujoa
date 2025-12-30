@@ -71,7 +71,7 @@ INTENTS = [(jp, key) for jp, key in MAPPINGS.items()]
 # ---------------------------------------------------------
 def generate_slang_list(group_name, member_name, intent_jp, intent_key):
     # 유료 API 사용 시 1.5-flash 모델 권장 (속도/비용 최적)
-    model = genai.GenerativeModel('gemini-2.5-flash')
+    model = genai.GenerativeModel('gemini-2.0-flash')
     
     target_desc = f"group '{group_name}'"
     if member_name != "All":
