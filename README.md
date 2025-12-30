@@ -1,6 +1,3 @@
-### 📝 README.md
-
-````markdown
 # 🇰🇷 Nomujoa (K-POP Cheering Board Maker)
 
 **Nomujoa** (derived from the Korean phrase "너무 좋아" meaning "I like it so much") is a web application designed for global K-POP fans. It empowers users to create professional-grade concert slogans, LED boards, and "Uchiwas" (fans) using authentic Korean fandom slang, even without knowing the language.
@@ -72,9 +69,6 @@ nomujoa/
 ├── cloudbuild.yaml          # CI/CD Configuration for Google Cloud
 └── run.py                   # Local Development Entry Point
 ```
-````
-
----
 
 ## 🚀 Getting Started (Local Development)
 
@@ -160,7 +154,3 @@ Sticker assets and fonts used may have their own licenses.
 ---
 
 **Made with ❤️ for K-POP Fans.**
-
-```
-
-```
