@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>K-POP Term Wiki - Nomujoa</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { font-family: sans-serif; padding: 20px; background: #f9f9f9; }
+        .container { max-width: 600px; margin: 0 auto; }
+        .card { background: white; padding: 15px; margin-bottom: 10px; border-radius: 10px; border: 1px solid #eee; }
+        a { text-decoration: none; color: #333; }
+        h1 { text-align: center; color: #ff4081; }
+        /* 구글 번역기 상단 프레임 제거 */
+        .goog-te-banner-frame.skiptranslate { display: none !important; }
+        body { top: 0px !important; }
+
+        /* 번역기 아이콘/텍스트 스타일 */
+        .goog-te-gadget { font-size: 0px !important; } /* 'Google 제공' 텍스트 숨김 */
+        .goog-te-gadget span { display: none !important; }
+    </style>
+</head>
+<body>
+    <!-- 구글 번역기 위젯 -->
+    <div id="google_translate_element" style="text-align: right; margin-bottom: 10px;"></div>
+
+    <script type="text/javascript">
+    function googleTranslateElementInit() {
+    new google.translate.TranslateElement({
+        pageLanguage: 'en', 
+        includedLanguages: 'ja,ko,zh-CN,en', // 필요한 언어만 노출
+        layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+    }, 'google_translate_element');
+    }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+    <div class="container">
+        <h1>📚 K-POP Wiki</h1>
+        <a href="/" style="display:inline-block; margin-bottom:20px; color:#666; text-decoration:none;">← Back to Home</a>
+        {% for post in posts %}
+        <a href="/wiki/{{ post.slug }}">
+            <div class="card">
+                <h3>{{ post.title }}</h3>
+                <p style="font-size:12px; color:#666;">{{ post.summary }}</p>
+            </div>
+        </a>
+        {% endfor %}
+    </div>
+</body>
+</html>

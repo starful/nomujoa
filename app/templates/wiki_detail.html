@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ post.title }} - Nomujoa Wiki</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{ post.summary }}">
+    <style>
+        body { font-family: -apple-system, sans-serif; padding: 20px; line-height: 1.6; color: #333; }
+        .container { max-width: 700px; margin: 0 auto; background: white; padding: 30px; border-radius: 15px; }
+        h1 { color: #ff4081; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        h2 { margin-top: 30px; font-size: 20px; }
+        .tag { background: #eee; padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-right: 5px; }
+        .back-btn { display: inline-block; margin-bottom: 20px; text-decoration: none; color: #666; }
+        /* 구글 번역기 상단 프레임 제거 */
+        .goog-te-banner-frame.skiptranslate { display: none !important; }
+        body { top: 0px !important; }
+
+        /* 번역기 아이콘/텍스트 스타일 */
+        .goog-te-gadget { font-size: 0px !important; } /* 'Google 제공' 텍스트 숨김 */
+        .goog-te-gadget span { display: none !important; }
+    </style>
+</head>
+<body>
+<!-- 구글 번역기 위젯 -->
+    <div id="google_translate_element" style="text-align: right; margin-bottom: 10px;"></div>
+
+    <script type="text/javascript">
+    function googleTranslateElementInit() {
+    new google.translate.TranslateElement({
+        pageLanguage: 'en', 
+        includedLanguages: 'ja,ko,zh-CN,en', // 필요한 언어만 노출
+        layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+    }, 'google_translate_element');
+    }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+    <div class="container">
+        <a href="/wiki" class="back-btn">← Back to Wiki</a>
+        
+        <span class="tag">{{ post.category }}</span>
+        <h1>{{ post.title }}</h1>
+        
+        <div>
+            {{ content | safe }}
+        </div>
+
+        <div style="margin-top: 50px; text-align: center; border-top: 1px solid #eee; padding-top: 20px;">
+            <p>Want to make a slogan with this word?</p>
+            <a href="/" style="background: #ff4081; color: white; padding: 12px 25px; border-radius: 30px; text-decoration: none; font-weight: bold;">Go to Maker 🎨</a>
+        </div>
+    </div>
+</body>
+</html>

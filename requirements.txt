@@ -6,3 +6,5 @@ requests
 flask-compress
 tweepy
 Pillow
+python-frontmatter
+markdown

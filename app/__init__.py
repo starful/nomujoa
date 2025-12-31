@@ -1,8 +1,11 @@
 from flask import Flask, render_template, request, jsonify, send_from_directory
 from flask_compress import Compress
+from flask import Response
 from app.gemini_client import translate_to_kpop_slang
 import os
-import json # [중요] json 모듈 추가
+import json
+import frontmatter
+import markdown
 
 app = Flask(__name__)
 
@@ -64,18 +67,39 @@ def load_groups():
 
 @app.route('/')
 def index():
-    # 1. URL 파라미터에서 언어 가져오기 (기본값: ja)
     lang = request.args.get('lang', 'ja')
     
     group_data = load_groups()
     translations = load_translations()
     
-    # 2. current_lang 변수를 추가해서 HTML로 전달
+    # [추가] 최신 위키 글 3개 가져오기
+    wiki_dir = os.path.join(app.root_path, 'content', 'wiki')
+    recent_wiki = []
+    
+    if os.path.exists(wiki_dir):
+        files = [f for f in os.listdir(wiki_dir) if f.endswith('.md')]
+        # 파일 생성 시간 역순 정렬 (최신순)
+        files.sort(key=lambda x: os.path.getmtime(os.path.join(wiki_dir, x)), reverse=True)
+        
+        for filename in files[:4]:  # 최신 4개만
+            try:
+                with open(os.path.join(wiki_dir, filename), 'r', encoding='utf-8') as f:
+                    post = frontmatter.load(f)
+                    recent_wiki.append({
+                        'title': post.get('title', 'No Title'),
+                        'slug': filename.replace('.md', ''),
+                        'summary': post.get('summary', '')[:60] + '...',
+                        'category': post.get('category', 'General')
+                    })
+            except: pass
+
+    # recent_wiki 변수 전달
     return render_template(
         'index.html', 
         group_data=group_data, 
         translations=translations, 
-        current_lang=lang  # <--- 이 부분이 추가되어야 합니다!
+        current_lang=lang,
+        recent_wiki=recent_wiki  # <--- 여기 추가!
     )
 
 @app.route('/guide')
@@ -94,7 +118,37 @@ def robots():
 
 @app.route('/sitemap.xml')
 def sitemap():
-    return send_from_directory(app.static_folder, 'sitemap.xml')
+    base_url = "https://nomujoa.com"
+    pages = [
+        {'loc': base_url + '/', 'priority': '1.0'},
+        {'loc': base_url + '/guide', 'priority': '0.8'},
+        {'loc': base_url + '/privacy', 'priority': '0.5'},
+        {'loc': base_url + '/wiki', 'priority': '0.9'}
+    ]
+    
+    # 위키 파일들 추가
+    wiki_dir = os.path.join(app.root_path, 'content', 'wiki')
+    if os.path.exists(wiki_dir):
+        for filename in os.listdir(wiki_dir):
+            if filename.endswith('.md'):
+                slug = filename.replace('.md', '')
+                pages.append({
+                    'loc': f"{base_url}/wiki/{slug}",
+                    'priority': '0.7'
+                })
+
+    # XML 생성
+    xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
+    xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+    for page in pages:
+        xml += '  <url>\n'
+        xml += f'    <loc>{page["loc"]}</loc>\n'
+        xml += '    <changefreq>daily</changefreq>\n'
+        xml += f'    <priority>{page["priority"]}</priority>\n'
+        xml += '  </url>\n'
+    xml += '</urlset>'
+    
+    return Response(xml, mimetype='application/xml')
 
 @app.route('/api/translate', methods=['POST'])
 def api_translate():
@@ -121,3 +175,35 @@ def add_header(response):
         response.cache_control.max_age = 86400
         response.cache_control.public = True
     return response
+
+# [Wiki 목록 페이지]
+@app.route('/wiki')
+def wiki_list():
+    wiki_dir = os.path.join(app.root_path, 'content', 'wiki')
+    posts = []
+    
+    if os.path.exists(wiki_dir):
+        for filename in os.listdir(wiki_dir):
+            if filename.endswith('.md'):
+                with open(os.path.join(wiki_dir, filename), 'r', encoding='utf-8') as f:
+                    post = frontmatter.load(f)
+                    posts.append({
+                        'title': post['title'],
+                        'summary': post['summary'],
+                        'slug': filename.replace('.md', ''),
+                        'tags': post['tags']
+                    })
+    return render_template('wiki_list.html', posts=posts)
+
+# [Wiki 상세 페이지]
+@app.route('/wiki/<slug>')
+def wiki_detail(slug):
+    filepath = os.path.join(app.root_path, 'content', 'wiki', f'{slug}.md')
+    if not os.path.exists(filepath):
+        return "Page not found", 404
+        
+    with open(filepath, 'r', encoding='utf-8') as f:
+        post = frontmatter.load(f)
+        content_html = markdown.markdown(post.content)
+        
+    return render_template('wiki_detail.html', post=post, content=content_html)
