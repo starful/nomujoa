@@ -24,7 +24,15 @@
         "footer_home": "Home",
         "footer_guide": "How to Use",
         "footer_privacy": "Privacy Policy",
-        "footer_contact": "Contact"
+        "footer_contact": "Contact",
+
+        "desc": "AIが韓国語のファン用語(スラング)に翻訳します✨",
+        "label_group": "1. グループ & メンバー (Group)",
+        "label_member": "2. 推しメン選択 (Member)",
+        "label_quick": "おすすめ (Quick Pick)",
+        "label_msg": "3. メッセージ (Message)",
+        "placeholder_msg": "例: 大好き、結婚して",
+        "btn_gen": "✨ AIに翻訳を頼む"
     },
     "en": {
         "guide_title": "🎤 How to use Nomujoa",
@@ -40,6 +48,14 @@
         "guide_tip1": "<strong>Print:</strong> Print the saved image on A4 paper for instant cheering boards.",
         "guide_tip2": "<strong>Quick Pick:</strong> Use 'Quick Pick' for recommended phrases.",
         "btn_back": "← Back to Home",
+
+        "desc": "AI translates your text into Korean fandom slang ✨",
+        "label_group": "1. Group & Member",
+        "label_member": "2. Select Member",
+        "label_quick": "Quick Pick",
+        "label_msg": "3. Your Message",
+        "placeholder_msg": "e.g. I love you, Marry me",
+        "btn_gen": "✨ Translate with AI",
 
         "footer_home": "Home",
         "footer_guide": "How to Use",
@@ -61,6 +77,14 @@
         "guide_tip2": "<strong>추천 문구:</strong> '빠른 선택' 탭에서 상황별 멘트를 골라보세요.",
         "btn_back": "← 메인으로 돌아가기",
 
+        "desc": "AI가 당신의 마음을 K-POP 팬덤 용어로 번역해 드립니다 ✨",
+        "label_group": "1. 그룹 & 멤버 선택",
+        "label_member": "2. 최애 선택",
+        "label_quick": "추천 문구 (빠른 선택)",
+        "label_msg": "3. 메시지 입력",
+        "placeholder_msg": "예: 사랑해, 결혼해줘",
+        "btn_gen": "✨ AI 번역 시작",
+
         "footer_home": "홈",
         "footer_guide": "사용법",
         "footer_privacy": "개인정보처리방침",
@@ -80,6 +104,14 @@
         "guide_tip1": "<strong>打印:</strong> 保存的图片适合A4尺寸打印。",
         "guide_tip2": "<strong>推荐:</strong> 使用'推荐语句'快速制作。",
         "btn_back": "← 返回首页",
+
+        "desc": "AI 将您的信息翻译成韩流粉丝术语 ✨",
+        "label_group": "1. 选择组合和成员",
+        "label_member": "2. 选择成员",
+        "label_quick": "推荐语句",
+        "label_msg": "3. 输入信息",
+        "placeholder_msg": "例如: 我爱你, 嫁给我",
+        "btn_gen": "✨ AI 翻译",
 
         "footer_home": "首页",
         "footer_guide": "使用指南",
