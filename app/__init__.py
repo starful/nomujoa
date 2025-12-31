@@ -72,34 +72,43 @@ def index():
     group_data = load_groups()
     translations = load_translations()
     
-    # [추가] 최신 위키 글 3개 가져오기
+    # [수정된 부분] 최신 위키 글 가져오기
     wiki_dir = os.path.join(app.root_path, 'content', 'wiki')
     recent_wiki = []
     
     if os.path.exists(wiki_dir):
         files = [f for f in os.listdir(wiki_dir) if f.endswith('.md')]
-        # 파일 생성 시간 역순 정렬 (최신순)
         files.sort(key=lambda x: os.path.getmtime(os.path.join(wiki_dir, x)), reverse=True)
         
-        for filename in files[:4]:  # 최신 4개만
+        for filename in files[:4]:
             try:
                 with open(os.path.join(wiki_dir, filename), 'r', encoding='utf-8') as f:
                     post = frontmatter.load(f)
+                    
+                    # [핵심] Summary 글자 수 자르기 (30자 + 단어 단위)
+                    raw_summary = post.get('summary', '')
+                    if len(raw_summary) > 30:
+                        # 30자 근처에서 가장 가까운 공백을 찾음
+                        cut_index = raw_summary.rfind(' ', 0, 30)
+                        summary = raw_summary[:cut_index] + '...' if cut_index != -1 else raw_summary[:30] + '...'
+                    else:
+                        summary = raw_summary
+
                     recent_wiki.append({
                         'title': post.get('title', 'No Title'),
                         'slug': filename.replace('.md', ''),
-                        'summary': post.get('summary', '')[:60] + '...',
+                        'summary': summary, # 잘린 summary 적용
                         'category': post.get('category', 'General')
                     })
-            except: pass
+            except Exception as e:
+                print(f"Error processing wiki file {filename}: {e}") # 에러 로그 추가
 
-    # recent_wiki 변수 전달
     return render_template(
         'index.html', 
         group_data=group_data, 
         translations=translations, 
         current_lang=lang,
-        recent_wiki=recent_wiki  # <--- 여기 추가!
+        recent_wiki=recent_wiki
     )
 
 @app.route('/guide')

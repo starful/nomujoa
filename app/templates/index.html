@@ -289,14 +289,28 @@
                         <div style="background: white; padding: 15px; border-radius: 12px; border: 1px solid #eee; box-shadow: 0 2px 5px rgba(0,0,0,0.03); transition: transform 0.2s;">
                             <span style="font-size: 10px; color: #ff4081; background: #fff0f5; padding: 3px 6px; border-radius: 4px;">{{ post.category }}</span>
                             <h4 style="font-size: 14px; margin: 8px 0 5px 0; font-weight: bold; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">{{ post.title }}</h4>
-                            <p style="font-size: 11px; color: #888; margin: 0; line-height: 1.4; height: 32px; overflow: hidden;">{{ post.summary }}</p>
+                            
+                            <!-- [수정된 부분] 두 줄 제한을 더 강력하게 적용 -->
+                            <p style="
+                                font-size: 11px; 
+                                color: #888; 
+                                margin: 0; 
+                                line-height: 1.5; 
+                                max-height: 33px; /* 11px * 1.5 * 2줄 = 33px */
+                                overflow: hidden; 
+                                text-overflow: ellipsis; 
+                                display: -webkit-box; 
+                                -webkit-line-clamp: 2; 
+                                -webkit-box-orient: vertical;
+                            ">{{ post.summary }}</p>
+                            
                         </div>
                     </a>
                     {% endfor %}
                 </div>
             </section>
             {% endif %}
-            
+
         </main>
 
         <footer class="site-footer">
