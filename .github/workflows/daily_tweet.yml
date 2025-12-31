@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install tweepy Pillow
+          pip install tweepy python-dotenv
 
       - name: Run Tweet Script
         env:
