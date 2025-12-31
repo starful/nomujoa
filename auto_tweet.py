@@ -5,29 +5,38 @@ import tweepy
 from dotenv import load_dotenv
 
 # ==========================================
-# 1. 설정
+# 1. 설정 (경로 계산 로직 수정!)
 # ==========================================
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) # nomujoa/
+# 이 스크립트 파일(auto_tweet.py)이 있는 폴더가 바로 프로젝트 루트입니다.
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 load_dotenv(os.path.join(BASE_DIR, '.env'))
 
+# 정확한 데이터 폴더 경로
 DICT_DIR = os.path.join(BASE_DIR, 'app', 'data', 'dicts')
+
+# 트위터 API 키
 API_KEY = os.getenv("TWITTER_API_KEY")
 API_SECRET = os.getenv("TWITTER_API_SECRET")
 ACCESS_TOKEN = os.getenv("TWITTER_ACCESS_TOKEN")
 ACCESS_SECRET = os.getenv("TWITTER_ACCESS_SECRET")
 
 # ==========================================
-# 2. 함수 정의
+# 2. 함수 정의 (디버깅 강화)
 # ==========================================
 def get_random_slang():
-    if not os.path.exists(DICT_DIR): return None
+    # [수정] 모든 실패 경로에 print문 추가
+    if not os.path.exists(DICT_DIR):
+        print(f"❌ [DEBUG] 데이터 폴더를 찾을 수 없습니다! 경로: {DICT_DIR}")
+        return None
+        
     files = [f for f in os.listdir(DICT_DIR) if f.endswith('.json')]
-    if not files: return None
+    if not files:
+        print(f"✅ [DEBUG] 폴더는 찾았지만, 안에 JSON 파일이 없습니다. 경로: {DICT_DIR}")
+        return None
     
     random_file = random.choice(files)
     group_name = random_file.replace('.json', '')
     
-    # [수정] 에러를 숨기지 않고, 정확한 원인을 출력하도록 변경
     try:
         filepath = os.path.join(DICT_DIR, random_file)
         with open(filepath, 'r', encoding='utf-8') as f:
@@ -38,25 +47,16 @@ def get_random_slang():
             return None
 
         keys = list(data.keys())
-        if not keys:
-            print(f"   ⚠️ 경고: {random_file} 파일에 멤버 키가 없습니다.")
-            return None
+        if not keys: return None
         random_member = random.choice(keys)
         
-        if not data[random_member]:
-            print(f"   ⚠️ 경고: {random_file} 파일의 '{random_member}' 항목이 비어있습니다.")
-            return None
-
+        if not data[random_member]: return None
         intent_keys = list(data[random_member].keys())
-        if not intent_keys:
-             print(f"   ⚠️ 경고: {random_file} 파일의 '{random_member}' 항목에 인텐트가 없습니다.")
-             return None
+        if not intent_keys: return None
         random_intent = random.choice(intent_keys)
         
         slang_list = data[random_member][random_intent]
-        if not slang_list:
-             print(f"   ⚠️ 경고: {random_file}의 '{random_member}'-'{random_intent}' 목록이 비어있습니다.")
-             return None
+        if not slang_list: return None
         slang_item = random.choice(slang_list)
         
         korean = slang_item.get('text', '') if isinstance(slang_item, dict) else slang_item
@@ -65,22 +65,16 @@ def get_random_slang():
         if not meaning_ja and isinstance(slang_item, dict):
             meaning_ja = slang_item.get('meaning', 'K-POP Slang')
 
-        return {
-            "group": group_name,
-            "korean": korean,
-            "meaning_ja": meaning_ja
-        }
+        return { "group": group_name, "korean": korean, "meaning_ja": meaning_ja }
     except Exception as e:
-        # [핵심] 어떤 에러가 났는지 출력!
-        print(f"❌ 단어 추출 중 심각한 에러 발생: {e}")
-        print(f"   (파일: {random_file})")
+        print(f"❌ 단어 추출 중 에러: {e} (파일: {random_file})")
         return None
 
 def post_to_twitter():
     print("🚀 텍스트 전용 봇 실행")
     slang = get_random_slang()
-    if not slang:
-        print("❌ 포스팅할 단어 없음")
+    if not slang or not slang.get('korean'): # 단어가 비어있는 경우도 체크
+        print("❌ 포스팅할 단어를 찾지 못했습니다. (get_random_slang 반환값 확인 필요)")
         return
 
     try:
