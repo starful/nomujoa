@@ -7,3 +7,4 @@ flask-compress
 tweepy
 python-frontmatter
 markdown
+python-dotenv
