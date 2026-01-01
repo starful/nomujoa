@@ -1,7 +1,7 @@
 ---
 {
   "layout": "wiki",
-  "title": "Ch общемgong (총공)",
+  "title": "chonggong(총공)",
   "category": "Activity",
   "tags": [
     "K-pop",
