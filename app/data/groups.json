@@ -1,35 +1,451 @@
 {
-  "General": { "members": [], "colors": ["#ff007f", "#000000"] },
-  "BTS": { 
-    "members": ["RM", "Jin", "Suga", "J-Hope", "Jimin", "V", "Jungkook"],
-    "colors": ["#A286B6", "#000000"] 
+  "General": {
+    "members": [],
+    "colors": [
+      "#ff007f",
+      "#000000"
+    ]
   },
-  "SEVENTEEN": { 
-    "members": ["S.COUPS", "Jeonghan", "Joshua", "Jun", "Hoshi", "Wonwoo", "Woozi", "The8", "Mingyu", "DK", "Seungkwan", "Vernon", "Dino"],
-    "colors": ["#F7CAC9", "#92A8D1"] 
+  "BTS": {
+    "members": [
+      "RM",
+      "Jin",
+      "Suga",
+      "J-Hope",
+      "Jimin",
+      "V",
+      "Jungkook"
+    ],
+    "colors": [
+      "#A286B6",
+      "#000000"
+    ]
   },
-  "TWICE": { 
-    "members": ["Nayeon", "Jeongyeon", "Momo", "Sana", "Jihyo", "Mina", "Dahyun", "Chaeyoung", "Tzuyu"],
-    "colors": ["#FF5FA2", "#ECCBA6"] 
+  "SEVENTEEN": {
+    "members": [
+      "S.COUPS",
+      "Jeonghan",
+      "Joshua",
+      "Jun",
+      "Hoshi",
+      "Wonwoo",
+      "Woozi",
+      "The8",
+      "Mingyu",
+      "DK",
+      "Seungkwan",
+      "Vernon",
+      "Dino"
+    ],
+    "colors": [
+      "#F7CAC9",
+      "#92A8D1"
+    ]
   },
-  "Stray Kids": { 
-    "members": ["Bang Chan", "Lee Know", "Changbin", "Hyunjin", "Han", "Felix", "Seungmin", "I.N"],
-    "colors": ["#000000", "#FF0000"] 
+  "TWICE": {
+    "members": [
+      "Nayeon",
+      "Jeongyeon",
+      "Momo",
+      "Sana",
+      "Jihyo",
+      "Mina",
+      "Dahyun",
+      "Chaeyoung",
+      "Tzuyu"
+    ],
+    "colors": [
+      "#FF5FA2",
+      "#ECCBA6"
+    ]
   },
-  "IVE": { 
-    "members": ["Yujin", "Gaeul", "Rei", "Wonyoung", "Liz", "Leeseo"],
-    "colors": ["#FF0055"] 
+  "Stray Kids": {
+    "members": [
+      "Bang Chan",
+      "Lee Know",
+      "Changbin",
+      "Hyunjin",
+      "Han",
+      "Felix",
+      "Seungmin",
+      "I.N"
+    ],
+    "colors": [
+      "#000000",
+      "#FF0000"
+    ]
   },
-  "NewJeans": { 
-    "members": ["Minji", "Hanni", "Danielle", "Haerin", "Hyein"],
-    "colors": ["#0058C6", "#FFFFFF"] 
+  "IVE": {
+    "members": [
+      "Yujin",
+      "Gaeul",
+      "Rei",
+      "Wonyoung",
+      "Liz",
+      "Leeseo"
+    ],
+    "colors": [
+      "#FF0055",
+      "#FFFFFF"
+    ]
   },
-  "aespa": { 
-    "members": ["Karina", "Giselle", "Winter", "Ningning"],
-    "colors": ["#9DE6F5", "#5C5C9F"] 
+  "NewJeans": {
+    "members": [
+      "Minji",
+      "Hanni",
+      "Danielle",
+      "Haerin",
+      "Hyein"
+    ],
+    "colors": [
+      "#0058C6",
+      "#FFFFFF"
+    ]
   },
-  "BLACKPINK": { 
-    "members": ["Jisoo", "Jennie", "Rosé", "Lisa"], 
-    "colors": ["#FF69B4", "#000000"] 
+  "aespa": {
+    "members": [
+      "Karina",
+      "Giselle",
+      "Winter",
+      "Ningning"
+    ],
+    "colors": [
+      "#9DE6F5",
+      "#5C5C9F"
+    ]
+  },
+  "BLACKPINK": {
+    "members": [
+      "Jisoo",
+      "Jennie",
+      "Rosé",
+      "Lisa"
+    ],
+    "colors": [
+      "#FF69B4",
+      "#000000"
+    ]
+  },
+  "RIIZE": {
+    "members": [
+      "Shotaro",
+      "Eunseok",
+      "Sungchan",
+      "Wonbin",
+      "Sohee",
+      "Anton"
+    ],
+    "colors": [
+      "#FF7A2E",
+      "#00BFFF"
+    ]
+  },
+  "ZEROBASEONE": {
+    "members": [
+      "Sung Han Bin",
+      "Kim Ji Woong",
+      "Zhang Hao",
+      "Seok Matthew",
+      "Kim Tae Rae",
+      "Ricky",
+      "Kim Gyu Vin",
+      "Park Gun Wook",
+      "Han Yu Jin"
+    ],
+    "colors": [
+      "#3498DB",
+      "#E0E0E0"
+    ]
+  },
+  "NCT 127": {
+    "members": [
+      "Taeil",
+      "Johnny",
+      "Taeyong",
+      "Yuta",
+      "Doyoung",
+      "Jaehyun",
+      "Jungwoo",
+      "Mark",
+      "Haechan"
+    ],
+    "colors": [
+      "#7FFF00",
+      "#FFFFFF"
+    ]
+  },
+  "NCT DREAM": {
+    "members": [
+      "Mark",
+      "Renjun",
+      "Jeno",
+      "Haechan",
+      "Jaemin",
+      "Chenle",
+      "Jisung"
+    ],
+    "colors": [
+      "#7FFF00",
+      "#FFFFFF"
+    ]
+  },
+  "TXT": {
+    "members": [
+      "Soobin",
+      "Yeonjun",
+      "Beomgyu",
+      "Taehyun",
+      "Huening Kai"
+    ],
+    "colors": [
+      "#0E4C92",
+      "#FFD700"
+    ]
+  },
+  "ENHYPEN": {
+    "members": [
+      "Heeseung",
+      "Jay",
+      "Jake",
+      "Sunghoon",
+      "Sunoo",
+      "Jungwon",
+      "Ni-ki"
+    ],
+    "colors": [
+      "#DA251D",
+      "#00A2FF"
+    ]
+  },
+  "LE SSERAFIM": {
+    "members": [
+      "Sakura",
+      "Kim Chae-won",
+      "Huh Yun-jin",
+      "Kazuha",
+      "Hong Eun-chae"
+    ],
+    "colors": [
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  "(G)I-DLE": {
+    "members": [
+      "Miyeon",
+      "Minnie",
+      "Soyeon",
+      "Yuqi",
+      "Shuhua"
+    ],
+    "colors": [
+      "#C40E62",
+      "#E3A7C0"
+    ]
+  },
+  "ITZY": {
+    "members": [
+      "Yeji",
+      "Lia",
+      "Ryujin",
+      "Chaeryeong",
+      "Yuna"
+    ],
+    "colors": [
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  "ATEEZ": {
+    "members": [
+      "Hongjoong",
+      "Seonghwa",
+      "Yunho",
+      "Yeosang",
+      "San",
+      "Mingi",
+      "Wooyoung",
+      "Jongho"
+    ],
+    "colors": [
+      "#000000",
+      "#FFD700"
+    ]
+  },
+  "THE BOYZ": {
+    "members": [
+      "Sangyeon",
+      "Jacob",
+      "Younghoon",
+      "Hyunjae",
+      "Juyeon",
+      "Kevin",
+      "New",
+      "Q",
+      "Ju Haknyeon",
+      "Sunwoo",
+      "Eric"
+    ],
+    "colors": [
+      "#FFFFFF",
+      "#FF0000"
+    ]
+  },
+  "TREASURE": {
+    "members": [
+      "Choi Hyun-suk",
+      "Jihoon",
+      "Yoshi",
+      "Junkyu",
+      "Yoon Jae-hyuk",
+      "Asahi",
+      "Doyoung",
+      "Haruto",
+      "Park Jeong-woo",
+      "So Jung-hwan"
+    ],
+    "colors": [
+      "#87CEEB",
+      "#000000"
+    ]
+  },
+  "Red Velvet": {
+    "members": [
+      "Irene",
+      "Seulgi",
+      "Wendy",
+      "Joy",
+      "Yeri"
+    ],
+    "colors": [
+      "#FF69B4",
+      "#FFFFFF"
+    ]
+  },
+  "NMIXX": {
+    "members": [
+      "Lily",
+      "Haewon",
+      "Sullyoon",
+      "Bae",
+      "Jiwoo",
+      "Kyujin"
+    ],
+    "colors": [
+      "#FFFFFF",
+      "#FF0000"
+    ]
+  },
+  "STAYC": {
+    "members": [
+      "Sumin",
+      "Sieun",
+      "Isa",
+      "Seeun",
+      "Yoon",
+      "J"
+    ],
+    "colors": [
+      "#FFC0CB",
+      "#FFFFFF"
+    ]
+  },
+  "SHINee": {
+    "members": [
+      "Onew",
+      "Key",
+      "Minho",
+      "Taemin"
+    ],
+    "colors": [
+      "#88D8C0",
+      "#FFFFFF"
+    ]
+  },
+  "EXO": {
+    "members": [
+      "Suho",
+      "Xiumin",
+      "Baekhyun",
+      "Chen",
+      "Chanyeol",
+      "D.O.",
+      "Kai",
+      "Sehun"
+    ],
+    "colors": [
+      "#FFFFFF",
+      "#000000"
+    ]
+  },
+  "Monsta X": {
+    "members": [
+      "Shownu",
+      "Minhyuk",
+      "Kihyun",
+      "Hyungwon",
+      "Joohoney",
+      "I.M"
+    ],
+    "colors": [
+      "#964B00",
+      "#FFFFFF"
+    ]
+  },
+  "BOYNEXTDOOR": {
+    "members": [
+      "Sungho",
+      "Riwoo",
+      "Jaehyun",
+      "Taesan",
+      "Leehan",
+      "Woonhak"
+    ],
+    "colors": [
+      "#FFFFFF",
+      "#00BFFF"
+    ]
+  },
+  "TWS": {
+    "members": [
+      "Shinyu",
+      "Dohoon",
+      "Youngjae",
+      "Hanjin",
+      "Jihoon",
+      "Kyungmin"
+    ],
+    "colors": [
+      "#ADD8E6",
+      "#FFFFFF"
+    ]
+  },
+  "ILLIT": {
+    "members": [
+      "Yunah",
+      "Minju",
+      "Moka",
+      "Wonhee",
+      "Iroha"
+    ],
+    "colors": [
+      "#F5B4C9",
+      "#FFFFFF"
+    ]
+  },
+  "BABYMONSTER": {
+    "members": [
+      "Ruka",
+      "Pharita",
+      "Asa",
+      "Ahyeon",
+      "Rami",
+      "Rora",
+      "Chiquita"
+    ],
+    "colors": [
+      "#000000",
+      "#FFFFFF```"
+    ]
   }
 }

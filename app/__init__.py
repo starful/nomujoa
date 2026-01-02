@@ -69,46 +69,26 @@ def load_groups():
 def index():
     lang = request.args.get('lang', 'ja')
     
-    group_data = load_groups()
+    # 1. 원본 그룹 데이터 로드
+    all_groups = load_groups() 
     translations = load_translations()
     
-    # [수정된 부분] 최신 위키 글 가져오기
-    wiki_dir = os.path.join(app.root_path, 'content', 'wiki')
-    recent_wiki = []
+    # 2. [핵심] dicts 폴더에 파일이 존재하는 그룹만 필터링
+    dicts_dir = os.path.join(app.root_path, 'data', 'dicts')
+    available_groups = {}
     
-    if os.path.exists(wiki_dir):
-        files = [f for f in os.listdir(wiki_dir) if f.endswith('.md')]
-        files.sort(key=lambda x: os.path.getmtime(os.path.join(wiki_dir, x)), reverse=True)
-        
-        for filename in files[:4]:
-            try:
-                with open(os.path.join(wiki_dir, filename), 'r', encoding='utf-8') as f:
-                    post = frontmatter.load(f)
-                    
-                    # [핵심] Summary 글자 수 자르기 (30자 + 단어 단위)
-                    raw_summary = post.get('summary', '')
-                    if len(raw_summary) > 30:
-                        # 30자 근처에서 가장 가까운 공백을 찾음
-                        cut_index = raw_summary.rfind(' ', 0, 30)
-                        summary = raw_summary[:cut_index] + '...' if cut_index != -1 else raw_summary[:30] + '...'
-                    else:
-                        summary = raw_summary
-
-                    recent_wiki.append({
-                        'title': post.get('title', 'No Title'),
-                        'slug': filename.replace('.md', ''),
-                        'summary': summary, # 잘린 summary 적용
-                        'category': post.get('category', 'General')
-                    })
-            except Exception as e:
-                print(f"Error processing wiki file {filename}: {e}") # 에러 로그 추가
-
+    if os.path.exists(dicts_dir):
+        for group_name, group_info in all_groups.items():
+            dict_file = f"{group_name}.json"
+            if os.path.exists(os.path.join(dicts_dir, dict_file)):
+                available_groups[group_name] = group_info
+    
+    # 3. 필터링된 그룹 데이터만 HTML로 전달
     return render_template(
         'index.html', 
-        group_data=group_data, 
+        group_data=available_groups,  # <--- all_groups 대신 available_groups 전달
         translations=translations, 
-        current_lang=lang,
-        recent_wiki=recent_wiki
+        current_lang=lang
     )
 
 @app.route('/guide')

@@ -1,0 +1,2622 @@
+{
+  "All": {
+    "LOVE_GENERAL": [
+      {
+        "text": "맂깅이들 맘찍💖",
+        "meaning_ja": "RIIZEちゃんたちにハートをポチる💖 (RIIZE-chantachi ni haato o pochi-ru💖)",
+        "meaning_en": "Heart clicks for our RIIZE!💖 (Meaning we're showering them with love & support online)"
+      },
+      {
+        "text": "맂며들다 🥰",
+        "meaning_ja": "RIIZEにハマっちゃった 🥰 (RIIZE ni hamacchata 🥰)",
+        "meaning_en": "Falling deep into RIIZE 🥰 (Expressing being completely addicted to RIIZE)"
+      },
+      {
+        "text": "내 심장 RIIZE로 풀착장 🎽",
+        "meaning_ja": "私の心臓はRIIZEでフル装備🎽 (Watashi no shinzou wa RIIZE de furu soubi🎽)",
+        "meaning_en": "My heart is fully geared up with RIIZE 🎽 (Meaning RIIZE is everything to me)"
+      },
+      {
+        "text": "RIIZE 없인 못살앙 😭",
+        "meaning_ja": "RIIZEなしでは生きられない😭 (RIIZE nashi dewa ikirarenai😭)",
+        "meaning_en": "Can't live without RIIZE 😭 (Exaggerated expression of dependence on RIIZE for happiness)"
+      },
+      {
+        "text": "광야 말고 맂즈락 🛤️",
+        "meaning_ja": "荒野じゃなくて、RIIZEロック🛤️ (Kouya janakute, RIIZE rokku 🛤️)",
+        "meaning_en": "Not Kwangya, but RIIZE Rock 🛤️ (A playful slogan referencing SM Entertainment's \"Kwangya\" universe and playfully switching it to RIIZE, showing devotion)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "‎라뷰리즈",
+        "meaning_ja": "ラビューリーズ (愛してるよ)",
+        "meaning_en": "Luv-RIiZE (We love you)"
+      },
+      {
+        "text": "‎숨멎RISE",
+        "meaning_ja": "息をのむRISE (美しすぎて息が止まる)",
+        "meaning_en": "Breathtaking RIIZE (So beautiful it takes my breath away)"
+      },
+      {
+        "text": "‎심장폭격RISE",
+        "meaning_ja": "心臓爆撃RISE (心臓を撃ち抜かれた)",
+        "meaning_en": "Heart Attack RIIZE (You gave us a heart attack)"
+      },
+      {
+        "text": "‎ Bronly 최고존엄",
+        "meaning_ja": "Bronly 最高尊厳 (マジで最高)",
+        "meaning_en": "Bronly, ultimate best (Truly the best) *Note: 'Bronly' is a playful way to say brotherly, implying a close and positive relationship*"
+      },
+      {
+        "text": "‎ 덕분에 RISE",
+        "meaning_ja": "おかげでRISE (あなたのおかげ)",
+        "meaning_en": "Thanks to you, RISE (RISE because of you)"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "라떼는 말이야, RIIZE",
+        "meaning_ja": "あの頃はね、RIIZE（過去形だけど今も好き）",
+        "meaning_en": "Back in my day...RIIZE (implying they've been a fan for a long time but still love them)"
+      },
+      {
+        "text": "RIIZE 없인 못 살아",
+        "meaning_ja": "RIIZEなしでは生きられない",
+        "meaning_en": "I can't live without RIIZE"
+      },
+      {
+        "text": "심장이 RIIZE RIIZE해",
+        "meaning_ja": "心臓がRIIZE RIIZEする(ドキドキ)",
+        "meaning_en": "My heart goes RIIZE RIIZE (a play on words referring to heart pounding)"
+      },
+      {
+        "text": "덕분에 RIIZE 웃는다",
+        "meaning_ja": "おかげでRIIZE笑う",
+        "meaning_en": "Thanks to (you), RIIZE smiles (implying because of their support)"
+      },
+      {
+        "text": "RIIZE랑 결혼",
+        "meaning_ja": "RIIZEと結婚したい",
+        "meaning_en": "I want to marry RIIZE"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "앓앓앓 (앓리즈앓)",
+        "meaning_ja": "앓앓앓(ライズ앓) - 恋しくてたまらない！",
+        "meaning_en": "Aww Aww Aww (RIIZE Aww) - Missing you so much it hurts! (Plays on the sound of someone groaning in pain or longing, incorporating RIIZE's name)."
+      },
+      {
+        "text": "보고파치 (보고파 RIIZE + -치)",
+        "meaning_ja": "会いたいなっち(会いたいRIIZE + -っち)",
+        "meaning_en": "Miss you-chi! (Miss RIIZE + -chi) (Cute slang combining \"보고파 - miss you\" with RIIZE and the suffix -치/-っち used for cuteness)."
+      },
+      {
+        "text": "숨멎리즈 (숨멎 + RIIZE)",
+        "meaning_ja": "息が止まるライズ",
+        "meaning_en": "Breathtaking RIIZE (Meaning RIIZE is so amazing you can't breathe, implying intense longing/missing them)."
+      },
+      {
+        "text": "리즈결핍 (RIIZE + 결핍)",
+        "meaning_ja": "ライズ欠乏症",
+        "meaning_en": "RIIZE deficiency (Suggests a craving or withdrawal because you miss RIIZE so much, you're suffering from a \"deficiency\" of them)."
+      },
+      {
+        "text": "웅냥리즈 (웅냥 + RIIZE)",
+        "meaning_ja": "むにゃむにゃライズ",
+        "meaning_en": "Oongnyang RIIZE (Oongnyang is a cute onomatopoeia like \"mumbling,\" suggesting you're dreamily thinking and mumbling about RIIZE because you miss them)."
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "맂메이트 영원히",
+        "meaning_ja": "RIIZEメイト永遠に (RIIZE meito eien ni)",
+        "meaning_en": "RIIZE-mate Forever"
+      },
+      {
+        "text": "라잉즈 곁에 쭈욱",
+        "meaning_ja": "RIIZEのそばにずっと (RIIZE no soba ni zutto)",
+        "meaning_en": "Always by RIIZE's side"
+      },
+      {
+        "text": "엔젤라이즈 함께가자",
+        "meaning_ja": "エンジェルRIIZE一緒にいこう (Enjeru RIIZE issho ni ikou)",
+        "meaning_en": "Angel RIIZE, let's go together"
+      },
+      {
+        "text": "브리즈랑 영원히 함께",
+        "meaning_ja": "BRIIZEと永遠に共に (BRIIZE to eien ni tomoni)",
+        "meaning_en": "Forever Together with BRIIZE"
+      },
+      {
+        "text": "랒뽕 맞아 평생 함께",
+        "meaning_ja": "RIIZE愛に夢中で一生一緒 (RIIZE ai ni muchuu de isshou issho)",
+        "meaning_en": "Addicted to RIIZE, together for life"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "맂뽕에 취한다!",
+        "meaning_ja": "RIIZEハイになる！",
+        "meaning_en": "Getting high on RIIZE! (Intoxicated by RIIZE's awesomeness)"
+      },
+      {
+        "text": "리즈천재만재!",
+        "meaning_ja": "RIIZE天才万歳！",
+        "meaning_en": "RIIZE genius, hooray! (RIIZE is full of genius, all hail!)"
+      },
+      {
+        "text": "심장이 맂쿵!",
+        "meaning_ja": "心臓がRIIZEキュン！",
+        "meaning_en": "My heart goes *RIIZE-thump*! (My heart flutters because of RIIZE)"
+      },
+      {
+        "text": "입덕 부정은 없다!",
+        "meaning_ja": "入徳否定はない！",
+        "meaning_en": "There's no denying being a fan! (Accept you're a fan!)"
+      },
+      {
+        "text": "얼굴이 복지다!",
+        "meaning_ja": "顔面が福祉だ！",
+        "meaning_en": "Their faces are welfare! (Their faces bring happiness!)"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "심장이 RIIZE해 (Simjangi RIIZEhae)",
+        "meaning_ja": "心臓がRIIZEする (Kinzou ga RIIZE suru)",
+        "meaning_en": "My heart RIIZEs! (My heart is fluttering because of RIIZE!)"
+      },
+      {
+        "text": "오구오구 RIIZE (Oguogu RIIZE)",
+        "meaning_ja": "よしよし RIIZE (Yoshiyoshi RIIZE)",
+        "meaning_en": "Good job RIIZE! (Similar to \"Good job,\" often used to praise someone cute)."
+      },
+      {
+        "text": "RIIZE 폼 미쳤다! (RIIZE pom michyeotta!)",
+        "meaning_ja": "RIIZE 最高にイケてる！(RIIZE Saikou ni iketeru!)",
+        "meaning_en": "RIIZE is absolutely killing it! (RIIZE is insanely cool!)"
+      },
+      {
+        "text": "RIIZE 밖에 몰라 (RIIZE bakke molla)",
+        "meaning_ja": "RIIZEしか知らない (RIIZE shika shiranai)",
+        "meaning_en": "I only know RIIZE! (I only care about RIIZE!)"
+      },
+      {
+        "text": "덕분에 RIIZE 한다 (Deokbune RIIZE handa)",
+        "meaning_ja": "おかげでRIIZEする (Okage de RIIZE suru)",
+        "meaning_en": "Thanks to you, I RIIZE! (I'm inspired/energized by RIIZE)."
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "✨갓이즈✨",
+        "meaning_ja": "神ライズ (Kami Raizu)",
+        "meaning_en": "God RIIZE (Implies RIIZE is god-like)"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "잘생쁨 RIIZE",
+        "meaning_ja": "イケメン可愛いRIIZE",
+        "meaning_en": "Handsome and Pretty RIIZE (a combination of handsome and pretty)"
+      },
+      {
+        "text": "얼굴천재 RIIZE",
+        "meaning_ja": "顔面天才RIIZE",
+        "meaning_en": "Visual Genius RIIZE"
+      },
+      {
+        "text": "무대찢었다 RIIZE",
+        "meaning_ja": "ステージを破ったRIIZE",
+        "meaning_en": "RIIZE Slayed the Stage (meaning they did an amazing performance)"
+      },
+      {
+        "text": "입덕 부정기 없어 RIIZE",
+        "meaning_ja": "ファンになるのを否定する時期はないRIIZE",
+        "meaning_en": "No period of denying falling for RIIZE (meaning they're instantly lovable)"
+      },
+      {
+        "text": "청량하다 RIIZE",
+        "meaning_ja": "爽やかだRIIZE",
+        "meaning_en": "RIIZE is Refreshing"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴천재 만만세!",
+        "meaning_ja": "顔面天才万歳！",
+        "meaning_en": "Visual genius, hooray!"
+      },
+      {
+        "text": "웅냥냥 라이즈 귀여워!",
+        "meaning_ja": "うにゃにゃん RIIZE かわいい！",
+        "meaning_en": "Ungnyangnyang, RIIZE is so cute! (Ungnyangnyang is baby-like speech, often used to express overwhelming cuteness)"
+      },
+      {
+        "text": "라이즈 미모가 국보급!",
+        "meaning_ja": "RIIZEの美貌が国宝級！",
+        "meaning_en": "RIIZE's beauty is national treasure level!"
+      },
+      {
+        "text": "입덕 부정은 시간문제!",
+        "meaning_ja": "ファンになるのを否定しても時間の問題！",
+        "meaning_en": "Denying that you're becoming a fan is just a matter of time! (Meaning RIIZE will win you over eventually)"
+      },
+      {
+        "text": "브리즈 심장 폭격기 라이즈!",
+        "meaning_ja": "BRIIZEの心臓爆撃機 RIIZE！",
+        "meaning_en": "BRIIZE's heart-bombers, RIIZE! (Meaning RIIZE steals BRIIZEs hearts.)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "심쿵 하트",
+        "meaning_ja": "ドキドキハート",
+        "meaning_en": "Heart-fluttering heart (Describes the feeling of excitement/love)"
+      },
+      {
+        "text": "손민수 하트",
+        "meaning_ja": "お揃いハート",
+        "meaning_en": "Matching hearts (Like wanting to copy RIIZE's style and share the love)"
+      },
+      {
+        "text": "브리즈 하트",
+        "meaning_ja": "Breeze ハート",
+        "meaning_en": "Breeze heart (Referring to RIIZE's fandom name, BRIIZE, and showering them with love)"
+      },
+      {
+        "text": "입덕 하트",
+        "meaning_ja": "ファンになるハート",
+        "meaning_en": "Fangirling/Fanboying heart (The heart you give when you become a RIIZE stan)"
+      },
+      {
+        "text": "엔딩 포즈 하트",
+        "meaning_ja": "エンディングポーズハート",
+        "meaning_en": "Ending pose heart (The finger heart at the end of the performance)"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "밥길만 걷자",
+        "meaning_ja": "美味しいご飯の道だけを歩もう",
+        "meaning_en": "Let's only walk the path paved with delicious food!"
+      },
+      {
+        "text": "영양제 필참!",
+        "meaning_ja": "栄養剤は必須！",
+        "meaning_en": "Nutritional supplements are a must!"
+      },
+      {
+        "text": "위장 튼튼!",
+        "meaning_ja": "胃腸よ丈夫であれ！",
+        "meaning_en": "May your stomach be strong!"
+      },
+      {
+        "text": "맛잘알 리즈!",
+        "meaning_ja": "美味しいものをよく知ってるRIIZE！",
+        "meaning_en": "RIIZE knows what tastes good! (Lit: \"RIIZE knows the taste well!\")"
+      },
+      {
+        "text": "굶지마, 브리즈!",
+        "meaning_ja": "お腹を空かせないで、BRIIZE！",
+        "meaning_en": "Don't starve, BRIIZE!"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "앓앓앓 말고 슝!",
+        "meaning_ja": "ズルズルしないでシュン！",
+        "meaning_en": "No more sniffles, just swoosh! (Like shooting hoops, implying health!)"
+      },
+      {
+        "text": "즈니 아프면 지구 멸망",
+        "meaning_ja": "ズニが病気なら地球滅亡",
+        "meaning_en": "If BRIIZE are sick, the world ends! (Exaggerated expression of concern)"
+      },
+      {
+        "text": "건강해야 Get A Guitar!",
+        "meaning_ja": "健康じゃないとGet A Guitarできない！",
+        "meaning_en": "Gotta be healthy to Get A Guitar! (Connecting health to their debut song)"
+      },
+      {
+        "text": "몸보신 Max Level!",
+        "meaning_ja": "体に良いものをMax Levelで！",
+        "meaning_en": "Max Level body care! (Encouraging high level health maintenance)"
+      },
+      {
+        "text": "에너제틱하게 붐붐베이스! 아프지마!",
+        "meaning_ja": "エネルギッシュにブンブンベース！病気にならないで！",
+        "meaning_en": "Energetically Boom Boom Bass! Don't get sick! (Referencing the energetic vibes with an added reminder to stay healthy)"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "덮리즈",
+        "meaning_ja": "リズに夢中",
+        "meaning_en": "Obsessed with RIIZE (Literally, \"Cover RIIZE\" implying full of RIIZE)"
+      },
+      {
+        "text": "오구오구 잘한다",
+        "meaning_ja": "よしよし、上手だね！",
+        "meaning_en": "Good job, good job! (patting on the back)"
+      },
+      {
+        "text": "웅냥냥",
+        "meaning_ja": "ふにゃふにゃ",
+        "meaning_en": "Mwah mwah (Cute sound of affection/kissing)"
+      },
+      {
+        "text": "얼빡 최고",
+        "meaning_ja": "アップ最高",
+        "meaning_en": "Close-up is the best! (Referring to a close-up shot of a member)"
+      },
+      {
+        "text": "입덕 부정기 끝",
+        "meaning_ja": "ファンになることを認めた",
+        "meaning_en": "End of the denial stage of becoming a fan! (Finally admitting you're a fan)"
+      }
+    ]
+  },
+  "Shotaro": {
+    "LOVE_GENERAL": [
+      {
+        "text": "‎샷타로 내 맘에 🌟저장🌟",
+        "meaning_ja": "将太郎、私の心に保存！(大好き！)",
+        "meaning_en": "Shotaro, saving you in my heart! (I love you!)"
+      },
+      {
+        "text": "‎‎샷프린세스💖",
+        "meaning_ja": "ショタプリンセス💖 (愛しいお姫様💖)",
+        "meaning_en": "Shotaro Princess 💖 (Beloved Princess💖)"
+      },
+      {
+        "text": "‎‎‎샷랑둥이😍",
+        "meaning_ja": "ショタ可愛い子ちゃん😍 (愛しい子😍)",
+        "meaning_en": "Shotaro darling 😍 (Sweetheart 😍)"
+      },
+      {
+        "text": "‎‎‎‎심장이 샷타로 풀베팅 ❤️‍🔥",
+        "meaning_ja": "心臓を将太郎にフルベット❤️‍🔥 (心臓を捧げる❤️‍🔥)",
+        "meaning_en": "My heart is all-in on Shotaro ❤️‍🔥 (I'm devoting my heart ❤️‍🔥)"
+      },
+      {
+        "text": "‎‎‎‎‎샷타로 없인 못 살아😭",
+        "meaning_ja": "将太郎なしでは生きられない😭 (将太郎がいないと生きていけない😭)",
+        "meaning_en": "I can't live without Shotaro 😭 (I can't go on without Shotaro😭)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "쩟타로 맘찍💖",
+        "meaning_ja": "将太郎にいいね爆撃💖 (Shotaro ni ii ne bōgeki)",
+        "meaning_en": "Shotaro, I'm gonna spam you with likes!💖 (Expressing overwhelming affection by associating it with liking all his posts)"
+      },
+      {
+        "text": "샷타로깅 🐶",
+        "meaning_ja": "ショウタロウわんこ 🐶 (Shotaro wanko)",
+        "meaning_en": "Shotaro, you're my puppy! 🐶 (Expressing endearment, seeing him as cute and lovable like a puppy)"
+      },
+      {
+        "text": "울 샷타로 최고존엄✨",
+        "meaning_ja": "うちの将太郎、マジ神✨ (Uchi no Shotaro, maji kami)",
+        "meaning_en": "Our Shotaro is the ultimate GOD! ✨ (Exaggerated expression of admiration and love)"
+      },
+      {
+        "text": "샷타로 is 뭔들 💖",
+        "meaning_ja": "ショウタロウは何でも正義💖 (Shotaro wa nandemo seigi)",
+        "meaning_en": "Everything Shotaro does is right! 💖 (Implies that whatever Shotaro does is perfect and lovable)"
+      },
+      {
+        "text": "샷타로 내 심장에 무리 💘",
+        "meaning_ja": "ショウタロウ、私の心臓に負担 💘 (Shotaro, watashi no shinzou ni futan)",
+        "meaning_en": "Shotaro, you're straining my heart! 💘 (Expressing being overwhelmed by his charm, to the point of it affecting their heart.)"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "‎ 쫂❤️‍🔥",
+        "meaning_ja": "最高！結婚して！",
+        "meaning_en": "The best! Marry me!"
+      },
+      {
+        "text": "‎ 심장이 웅웅 울려",
+        "meaning_ja": "心臓がドキドキ鳴り止まない。結婚したい！",
+        "meaning_en": "My heart is pounding like crazy. I want to marry you!"
+      },
+      {
+        "text": "‎ 갓기야, 내게 와라",
+        "meaning_ja": "天使ちゃん、私のものになって。結婚しよう！",
+        "meaning_en": "Baby angel, come to me. Let's get married!"
+      },
+      {
+        "text": "‎ 얼굴이 복지다",
+        "meaning_ja": "顔が福祉だわ。結婚して、国を救おう！",
+        "meaning_en": "Your face is welfare. Marry me and let's save the country! (Implying his beauty is enough to help the nation)"
+      },
+      {
+        "text": "‎ 답은 정해져 있어, 넌  Шотаро밖에 몰라",
+        "meaning_ja": "答えは決まっている。あなたはショウタロウしか知らない。結婚して！",
+        "meaning_en": "The answer is already decided. You only know Shotaro. Marry me!"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "‎쇼타로 앓이",
+        "meaning_ja": "ショウタロウ病 (ショウタロウびょう)",
+        "meaning_en": "Shotaro Sickness (missing Shotaro badly)"
+      },
+      {
+        "text": "‎오구오구 내새끼",
+        "meaning_ja": "よしよし、うちの子 (よしよし、うちのこ)",
+        "meaning_en": "Aww, my baby (expressing affection and missing him like a child)"
+      },
+      {
+        "text": "‎보고잡다",
+        "meaning_ja": "会いたいよ (あいたいよ)",
+        "meaning_en": "Wanna see you (intensely missing him)"
+      },
+      {
+        "text": "‎입덕 부정기",
+        "meaning_ja": "ファンになるのを否定する時期 (ファンになるのをひていするじき)",
+        "meaning_en": "Denial stage of becoming a fan (humorously referencing the initial resistance to falling for Shotaro)"
+      },
+      {
+        "text": "‎존잘탱",
+        "meaning_ja": "超イケメン (ちょうイケメン)",
+        "meaning_en": "Extremely handsome (admiring his visuals and implying you miss seeing them)"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "샇랑해 (Shotaro+사랑해)",
+        "meaning_ja": "しょうたろう愛してる",
+        "meaning_en": "I Love you, Shotaro!"
+      },
+      {
+        "text": "석타로밖에 몰라",
+        "meaning_ja": "しょうたろうしか勝たん",
+        "meaning_en": "I only care about Shotaro"
+      },
+      {
+        "text": "탈덕은 없다!",
+        "meaning_ja": "降りることはない！",
+        "meaning_en": "No way I'm quitting being a fan!"
+      },
+      {
+        "text": "석타로 꽃길만 걸어",
+        "meaning_ja": "しょうたろう、幸せな道だけを歩んで",
+        "meaning_en": "May Shotaro only walk a flower path (of happiness)"
+      },
+      {
+        "text": "영원히 섻타로 편",
+        "meaning_ja": "永遠にしょうたろうの味方",
+        "meaning_en": "Forever on Shotaro's side."
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "쫂타로!",
+        "meaning_ja": "最高たろう！(Saikou Tarou! - Best Taro!)",
+        "meaning_en": "Shotaro is the best! (Playing on his name and \"best\")"
+      },
+      {
+        "text": "샷타로 럽 (Shotaro Luv)",
+        "meaning_ja": "承太郎ラブ (Jotaro rabu - Jotaro Love)",
+        "meaning_en": "Shotaro, we love you! (Referencing JoJo's Bizarre Adventure, a common reference point)"
+      },
+      {
+        "text": "만반잘부 샷타로! (Manbanjalbu Shotaro!)",
+        "meaning_ja": "万端잘부 (Bantan jalbu - wishing you all the best)",
+        "meaning_en": "Wishing Shotaro all the best! (Combining Korean internet slang with his name)"
+      },
+      {
+        "text": "샷타로 내꼬해 (Shotaro naekko hae)!",
+        "meaning_ja": "承太郎、私のものにして！(Jotaro, watashi no mono ni shite! - Jotaro, make me yours!)",
+        "meaning_en": "Shotaro, be mine! (A playful declaration of affection)"
+      },
+      {
+        "text": "샷타로 꽃길만 걷자 (Shotaro kkotgilman geotja)!",
+        "meaning_ja": "承太郎、花の道だけを歩こう (Jotaro, hana no michi dake wo arukou - Jotaro, let's only walk on flower paths)",
+        "meaning_en": "Shotaro, let's walk only on flower paths (i.e. only experience good things)!"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "존잘탱",
+        "meaning_ja": "超イケメン",
+        "meaning_en": "Seriously Handsome/Extremely Good-Looking"
+      },
+      {
+        "text": "웅냥냥",
+        "meaning_ja": "うにゃにゃん (可愛い)",
+        "meaning_en": "Meow Meow (Cute/Adorable) - Used to express overwhelming cuteness"
+      },
+      {
+        "text": "입덕 부정기",
+        "meaning_ja": "ファンになるのを否定する時期",
+        "meaning_en": "Denial Phase of Becoming a Fan (Resisting Falling for Shotaro)"
+      },
+      {
+        "text": "심멎",
+        "meaning_ja": "心臓が止まる (マジかっこいい!)",
+        "meaning_en": "Heart Stop (So Cool/Handsome!) - Figuratively meaning breathless from his charisma"
+      },
+      {
+        "text": "갓타로",
+        "meaning_ja": "神太郎",
+        "meaning_en": "God-taro (God + Shotaro) - Used to express admiration for his talent and visuals."
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "갓타로",
+        "meaning_ja": "神太郎 (かみ たろう)",
+        "meaning_en": "Godtaro (God + Shotaro) - Directly states Shotaro is God-like."
+      },
+      {
+        "text": "존잘신",
+        "meaning_ja": "超絶イケメン神 (ちょうぜつイケメンかみ)",
+        "meaning_en": "Super Handsome God - Highlights Shotaro's visuals and elevates him to a divine level."
+      },
+      {
+        "text": "넘사벽 타로",
+        "meaning_ja": "超えられない壁 太郎 (こえられないかべ たろう)",
+        "meaning_en": "An Unsurpassable Wall Shotaro - Implies that Shotaro's talent and presence are unmatched, like a wall that can't be climbed."
+      },
+      {
+        "text": "타로 is 뭔들",
+        "meaning_ja": "太郎は何でも (たろうはなんでも)",
+        "meaning_en": "Shotaro is good at everything - Expresses admiration for Shotaro's skills, implying he can do anything perfectly."
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔が福祉 (かおがふくし)",
+        "meaning_en": "His face is welfare - This popular slang phrase suggests that Shotaro's visual itself is comforting and provides happiness to fans. This fits the \"you are God\" theme because it implies he is a blessing."
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "갓기 쇼타로",
+        "meaning_ja": "神の子ショウタロウ",
+        "meaning_en": "Baby Shotaro is a God! (Implies so perfect and precious like a baby)"
+      },
+      {
+        "text": "존잘탱 쇼타로",
+        "meaning_ja": "超イケメンショウタロウ",
+        "meaning_en": "Shotaro is ridiculously handsome! (Emphasizes his stunning visuals)"
+      },
+      {
+        "text": "내 심장 훔쳐간 쇼타로",
+        "meaning_ja": "私の心を盗んだショウタロウ",
+        "meaning_en": "Shotaro stole my heart! (Expresses deep affection)"
+      },
+      {
+        "text": "쇼타로 없인 못 살아",
+        "meaning_ja": "ショウタロウなしでは生きられない",
+        "meaning_en": "I can't live without Shotaro! (Highlights his importance in the fan's life)"
+      },
+      {
+        "text": "오구오구 우리 쇼타로",
+        "meaning_ja": "よしよし、うちのショウタロウ",
+        "meaning_en": "Aww, our precious Shotaro! (Expresses the feeling of wanting to baby and adore him)"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴천재 쇼타로!",
+        "meaning_ja": "顔面天才ショウタロウ！",
+        "meaning_en": "Face Genius Shotaro!"
+      },
+      {
+        "text": "비주얼 미쳤다!",
+        "meaning_ja": "ビジュアル狂った！",
+        "meaning_en": "His visuals are insane!"
+      },
+      {
+        "text": "심장아 나대지마, 쇼타로 때문에!",
+        "meaning_ja": "心臓よ、騒がないで。ショウタロウのせいで！",
+        "meaning_en": "Heart, calm down, because of Shotaro!"
+      },
+      {
+        "text": "갓지컬 쇼타로!",
+        "meaning_ja": "神フィジカル ショウタロウ！",
+        "meaning_en": "Godly Physical Shotaro! (referring to his amazing physique/dance)"
+      },
+      {
+        "text": "쇼타로 is 뭔들",
+        "meaning_ja": "ショウタロウ is 何でも良い",
+        "meaning_en": "Shotaro is good at everything (a play on \"what isn't good\" with his name)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "쇼타로 🫶 내 맘에 큐피트",
+        "meaning_ja": "将太郎🫶私の心にキューピット",
+        "meaning_en": "Shotaro 🫶 Cupid in my heart"
+      },
+      {
+        "text": "쇼타로 보고 심쿵사",
+        "meaning_ja": "将太郎を見て胸キュン死",
+        "meaning_en": "Died of heart flutter seeing Shotaro"
+      },
+      {
+        "text": "쇼타로 윙크에 정신 혼미",
+        "meaning_ja": "将太郎のウィンクに精神混迷",
+        "meaning_en": "Mind blown by Shotaro's wink"
+      },
+      {
+        "text": "샷타로 is 뭔들",
+        "meaning_ja": "ショウタロウ is 何でも良い",
+        "meaning_en": "Shotaro is good at everything (Anything Shotaro does is great)"
+      },
+      {
+        "text": "얼굴이 복지다 쇼타로",
+        "meaning_ja": "顔が福祉だショウタロウ",
+        "meaning_en": "Shotaro, your face is welfare (Shotaro's beauty is a blessing)"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "맛잘알 쇼타로",
+        "meaning_ja": "美味しいものをよく知ってるショウタロウ",
+        "meaning_en": "Shotaro knows his delicious food well! (Implies Shotaro has great taste in food)"
+      },
+      {
+        "text": "밥 쇼타로길만 걸어",
+        "meaning_ja": "ご飯ショウタロウ道だけを歩んで",
+        "meaning_en": "Only walk the \"Shotaro eating rice\" path! (Wishing him only good, delicious things in life)"
+      },
+      {
+        "text": "위장 풀파워 쇼타로",
+        "meaning_ja": "胃腸フルパワーショウタロウ",
+        "meaning_en": "May Shotaro's stomach be at full power! (Wishing him good digestion so he can enjoy food)"
+      },
+      {
+        "text": "먹잘알 쇼타로 최고",
+        "meaning_ja": "食べるのを知ってるショウタロウ最高！",
+        "meaning_en": "Shotaro, who knows how to eat well, is the best! (Complimenting his good eating habits)"
+      },
+      {
+        "text": "쇼타로 쩝쩝박사",
+        "meaning_ja": "ショウタロウ　もぐもぐ博士",
+        "meaning_en": "Shotaro, the \"Munch Munch\" Doctor! (Referring to someone who is an expert in eating deliciously)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "아프지마로 (Apujimaro)",
+        "meaning_ja": "病気にならないで (Byouki ni naranaide)",
+        "meaning_en": "Don't get sick!"
+      },
+      {
+        "text": "꽃길만 걸어, 쇼타로! (Kkotgilman georeo, Shotaro!)",
+        "meaning_ja": "花道だけを歩んで, ショウタロウ！ (Hanamichi dake wo ayunde, Shotaro!)",
+        "meaning_en": "Only walk on the flower path, Shotaro! (May only good things happen to you, Shotaro!)"
+      },
+      {
+        "text": "무지개길만 걷자! (Mujigaegilman geotja!)",
+        "meaning_ja": "虹の道だけを歩こう！ (Niji no michi dake wo arukou!)",
+        "meaning_en": "Let's only walk on the rainbow road! (Wishing you a bright and colourful future!)"
+      },
+      {
+        "text": "내 심장 조준! 빵야빵야! (Nae simjang jojun! ppangya ppangya!)",
+        "meaning_ja": "私の心臓を狙い撃ち！バンバン！ (Watashi no shinzou wo neraiuchi! Ban ban!)",
+        "meaning_en": "Aim for my heart! Bang bang! (You stole my heart!) (Used in a joking way to express adoration)"
+      },
+      {
+        "text": "힘내샤샤샤 (Himnae Shyashyashya)",
+        "meaning_ja": "元気出してシャシャシャ (Genki dashite shashasha)",
+        "meaning_en": "Cheer up Shyashyashya! (Cute way to tell him to cheer up, referencing Twice's Sana's 'Shyashyashya' from Cheer Up)"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "쇼타로 폼 미쳤다!",
+        "meaning_ja": "ショウタロウ、マジ最高！",
+        "meaning_en": "Shotaro, you're killing it! (Lit: Shotaro's form is crazy good!)"
+      },
+      {
+        "text": "갓타로!",
+        "meaning_ja": "神太郎！",
+        "meaning_en": "God-taro! (Referring to Shotaro as a \"god\" level performer)"
+      },
+      {
+        "text": "쇼타로 때문에 심장이 뛴다",
+        "meaning_ja": "ショウタロウのせいで胸がドキドキする",
+        "meaning_en": "Shotaro makes my heart race!"
+      },
+      {
+        "text": "얼굴이 복지다, 쇼타로!",
+        "meaning_ja": "顔面が福祉だ、ショウタロ！",
+        "meaning_en": "Shotaro, your face is welfare! (Meaning: Your face is so good, it's like a public service)"
+      },
+      {
+        "text": "쇼타로, 내 맘속에 저-장!",
+        "meaning_ja": "ショウタロウ、私の心に保存！",
+        "meaning_en": "Shotaro, saving you in my heart!"
+      }
+    ]
+  },
+  "Eunseok": {
+    "LOVE_GENERAL": [
+      {
+        "text": "웅냥냥 은석!",
+        "meaning_ja": "ウンニャンニャンウンソク！(かわいすぎる！)",
+        "meaning_en": "Woongnyangnyang Eunseok! (So cute!) *Note: Woongnyangnyang is used to express extreme cuteness.*"
+      },
+      {
+        "text": "은석 is 뭔들!",
+        "meaning_ja": "ウンソクis何でも(かっこいい！)",
+        "meaning_en": "Eunseok is 뭔들! (He's amazing no matter what!) *Note: \"뭔들\" (mwondeul) literally means \"anything\" but implies that everything they do is great.*"
+      },
+      {
+        "text": "심장이 은석쿵!",
+        "meaning_ja": "心臓がウンソクドゥクン！(ときめき！)",
+        "meaning_en": "My heart goes Eunseok-thump! (Heart-fluttering!) *Note: 심쿵 (simkung) is the sound of your heart skipping a beat due to excitement or love.*"
+      },
+      {
+        "text": "은며들다 은석!",
+        "meaning_ja": "ウン며들다ウンソク！(ハマっちゃった！)",
+        "meaning_en": "Eumyeodeulda Eunseok! (I'm falling for Eunseok!) *Note: ~며들다 (~myeodeulda) means to gradually become obsessed or infatuated with something.*"
+      },
+      {
+        "text": "은석아, 내 맘에 큐!",
+        "meaning_ja": "ウンソク、私の心にキュー！(きゅんです！)",
+        "meaning_en": "Eunseok, Q in my heart! (Kyun desu!) *Note: \"Q\" refers to the cute hand gesture and the Japanese term \"kyun desu\" which expresses a feeling of sweetness and affection.*"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "은석 is 뭔들",
+        "meaning_ja": "ウンソクは何でも最高 (ウンソクはナニデモサイコウ)",
+        "meaning_en": "Eunseok is perfect no matter what (Eunseok can do no wrong)"
+      },
+      {
+        "text": "심장이 은석해",
+        "meaning_ja": "心臓がウンソクしてる (シンゾウガ ウンソクシテル)",
+        "meaning_en": "My heart is Eunseok-ing (My heart is beating fast because of Eunseok) - *Implies being overwhelmed by love and excitement.*"
+      },
+      {
+        "text": "은며들다",
+        "meaning_ja": "ウンソクに染まる (ウンソクニ ソマル)",
+        "meaning_en": "To become dyed in Eunseok (To gradually fall deeply in love with Eunseok)"
+      },
+      {
+        "text": "웅냥냥 은석",
+        "meaning_ja": "うにゃにゃん ウンソク (UNYANNYAN UNSEOKU)",
+        "meaning_en": "Meow Meow Eunseok (Cute Eunseok) - *Implying that Eunseok is so cute you want to hug him and make cat noises*"
+      },
+      {
+        "text": "은스윗",
+        "meaning_ja": "ウン・スイート (UN SUWIITO)",
+        "meaning_en": "Eun-Sweet (Eunseok is so sweet/endearing) - *A play on words combining \"Eunseok\" with \"sweet.\"*"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "은석아, 내 심장에 입주해",
+        "meaning_ja": "ウンソク、私の心臓に引っ越してきて！ (結婚して！)",
+        "meaning_en": "Eunseok, move into my heart! (Marry me!)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔が福祉！ (結婚したい！)",
+        "meaning_en": "Your face is welfare! (I want to marry you!)"
+      },
+      {
+        "text": "은석이 is 뭔들",
+        "meaning_ja": "ウンソクは何でも最高！(結婚して！)",
+        "meaning_en": "Eunseok is good no matter what! (Marry me!)"
+      },
+      {
+        "text": "프린스 은석, 내 왕관 써줘",
+        "meaning_ja": "プリンスウンソク、私の王冠を被って！(結婚して！)",
+        "meaning_en": "Prince Eunseok, wear my crown! (Marry me!)"
+      },
+      {
+        "text": "웅냥냥 은석이랑 결혼할래",
+        "meaning_ja": "ウンニャンニャン、ウンソクと結婚したい！",
+        "meaning_en": "Woongnyangnyang, I want to marry Eunseok!"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "은석 is 뭔들",
+        "meaning_ja": "ウンソクは何でも (最高)",
+        "meaning_en": "Eunseok is perfect no matter what. (Expressing that everything Eunseok does is amazing and you miss that perfection)"
+      },
+      {
+        "text": "은며들다",
+        "meaning_ja": "ウンソクに染み込む",
+        "meaning_en": "Slowly falling for Eunseok. (Missing that feeling of getting to know and adore him)"
+      },
+      {
+        "text": "(은석) 보고싶DaBomb",
+        "meaning_ja": "(ウンソク) 会いたくて爆発寸前",
+        "meaning_en": "Miss you so much, I'm about to explode! (Hyperbolic expression of missing him)"
+      },
+      {
+        "text": "심장이 은석 은석해",
+        "meaning_ja": "心臓がウンソクウンソクしてる",
+        "meaning_en": "My heart is beating for Eunseok. (Describing the feeling of longing)"
+      },
+      {
+        "text": "‎웅냥냥 은석",
+        "meaning_ja": "うにゃにゃん ウンソク",
+        "meaning_en": "Oongnyangnyang Eunseok (Cute sound effect - means I miss Eunseok's cuteness / adorable side. \"Oongnyangnyang\" is a recent, trendy, and versatile onomatopoeia that suggests cuteness, softness and slight affection or wanting)"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "석이 맘 навсегда! (Seogi mam навсегда!)",
+        "meaning_ja": "ウンソクの気持ちは永遠に！(Unseok no kimochi wa eien ni!)",
+        "meaning_en": "Eunseok's heart forever! (Like, forever in our hearts)"
+      },
+      {
+        "text": "은스톤 영원히 빛나리 (Eunseuton yeongwonhi bitnari)",
+        "meaning_ja": "ウンソクは永遠に輝く (Unseok wa eien ni kagayaku)",
+        "meaning_en": "Eunseok will shine forever (stone + 은석 = 은스톤)"
+      },
+      {
+        "text": "밥알탄 영원히! (Babal-tan yeongwonhi!)",
+        "meaning_ja": "米粒団永遠に！(Kome-tsubu dan eien ni!)",
+        "meaning_en": "Rice grain squad forever! (Referencing RIIZE fandom name, showing unity)"
+      },
+      {
+        "text": "븹석 (Bwip-seok) 쭉가자! (Jjuk gaja!)",
+        "meaning_ja": "ビップソク、ずっと行こう！(Bippu-soku, zutto ikou!)",
+        "meaning_en": "VIP-seok (VIP Eunseok), let's go on forever! (Plays on VIP seating & Eunseok's name)"
+      },
+      {
+        "text": "석랑해 (Seok-ranghae) 영원히 함께! (yeongwonhi hamkke!)",
+        "meaning_ja": "ウンソク愛してる、永遠に一緒に！(Unseok aishiteru, eien ni issho ni!)",
+        "meaning_en": "I Seok-love-you, forever together! (Portmanteau of Eunseok and 'saranghae')"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "은석 is 뭔들",
+        "meaning_ja": "ウンソクは何でも最高！",
+        "meaning_en": "Anything Eunseok does is amazing! (Lit: \"Whatever Eunseok does is [good]\")"
+      },
+      {
+        "text": "얼굴이 복지다, 은석",
+        "meaning_ja": "顔面が福祉だ、ウンソク",
+        "meaning_en": "Eunseok, your face is welfare! (Meaning: Your visuals are a blessing/benefit.)"
+      },
+      {
+        "text": "은석이 짱이다",
+        "meaning_ja": "ウンソクが最高だよ！",
+        "meaning_en": "Eunseok is the best! (짱 = Jjang = the best)"
+      },
+      {
+        "text": "심장이 은석해",
+        "meaning_ja": "心臓がウンソクしてる！",
+        "meaning_en": "My heart is doing Eunseok! (Meaning: My heart beats for/is all about Eunseok)"
+      },
+      {
+        "text": "은스톤 데이",
+        "meaning_ja": "ウンストーンデー！",
+        "meaning_en": "Eunstone Day! (Play on his name - like \"stone\" - and the day, creating a special \"day\" for him.)"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "꺄르르 은석!",
+        "meaning_ja": "キャルル 銀碩！(笑い声)",
+        "meaning_en": "Kyaruru Eunseok! (Sound of laughter/joy)"
+      },
+      {
+        "text": "은석아 누나 미쳐!",
+        "meaning_ja": "銀碩、お姉さん狂っちゃう！",
+        "meaning_en": "Eunseok-ah, Noona's going crazy!"
+      },
+      {
+        "text": "은석 짱!",
+        "meaning_ja": "銀碩 最高！",
+        "meaning_en": "Eunseok Jjang! (Eunseok is the best!)"
+      },
+      {
+        "text": "은석이 덕분에 행복행",
+        "meaning_ja": "銀碩のおかげで幸せ",
+        "meaning_en": "I'm happy thanks to Eunseok."
+      },
+      {
+        "text": "은석 파이팅! 내 하트 다 가져가!",
+        "meaning_ja": "銀碩 ファイティン！私のハート全部持ってって！",
+        "meaning_en": "Eunseok fighting! Take all my heart!"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "은석 is 뭔들",
+        "meaning_ja": "ウンソクは何でも神",
+        "meaning_en": "Eunseok can do no wrong (Everything Eunseok does is god-like)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔が福祉です",
+        "meaning_en": "Your face is welfare (Your beauty is a blessing to us all)"
+      },
+      {
+        "text": "은석 is 내 세상",
+        "meaning_ja": "ウンソクは私の世界",
+        "meaning_en": "Eunseok is my world"
+      },
+      {
+        "text": "은석렐루야",
+        "meaning_ja": "ウンソクハレルヤ",
+        "meaning_en": "Eunseok Hallelujah!"
+      },
+      {
+        "text": "갓은석",
+        "meaning_ja": "神ウンソク",
+        "meaning_en": "God Eunseok"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "은석 is 뭔들",
+        "meaning_ja": "ウンソクは何でも最高 (Eunseok wa nandemo saikou)",
+        "meaning_en": "Everything Eunseok does is amazing. (Literally: \"Eunseok is whatever (you give him), he'll make it great\")"
+      },
+      {
+        "text": "얼굴이 복지다, 은석",
+        "meaning_ja": "顔が福祉だ、ウンソク (Kao ga fukushi da, Eunseok)",
+        "meaning_en": "Your face is welfare, Eunseok! (Meaning: Your visuals are a blessing!)"
+      },
+      {
+        "text": "은석이는 걍 천사임",
+        "meaning_ja": "ウンソクはただの天使 (Eunseok wa tada no tenshi)",
+        "meaning_en": "Eunseok is just an angel. (Emphasis on pure, innocent visuals.)"
+      },
+      {
+        "text": "은석이 때문에 산다",
+        "meaning_ja": "ウンソクのおかげで生きている (Eunseok no okage de ikiteiru)",
+        "meaning_en": "I live because of Eunseok. (Expressing strong devotion.)"
+      },
+      {
+        "text": "갓기 은석",
+        "meaning_ja": "神赤ちゃんウンソク (Kami akachan Eunseok)",
+        "meaning_en": "God baby Eunseok"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴천재 은석",
+        "meaning_ja": "顔面天才ウンソク (Ganmen Tensai Eunseok)",
+        "meaning_en": "Face Genius Eunseok"
+      },
+      {
+        "text": "조각미남 은석",
+        "meaning_ja": "彫刻美男ウンソク (Choukoku Binan Eunseok)",
+        "meaning_en": "Sculptural beauty Eunseok"
+      },
+      {
+        "text": "비주얼 폭발",
+        "meaning_ja": "ビジュアル爆発 (Bijuaru Bakuhatsu)",
+        "meaning_en": "Visual Explosion"
+      },
+      {
+        "text": "은석 is 뭔들",
+        "meaning_ja": "ウンソク is 何でも素敵 (Eunseok is Nandemo Suteki)",
+        "meaning_en": "Eunseok is good at everything"
+      },
+      {
+        "text": "넘사벽 은석",
+        "meaning_ja": "越えられない壁ウンソク (Koe rarenai kabe Eunseok)",
+        "meaning_en": "Eunseok, the insurmountable wall (meaning his beauty is unmatched)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "은석 is 뭔들, 손 MinI 하트",
+        "meaning_ja": "ウンソクは何でも、指ハート添え",
+        "meaning_en": "Eunseok can do anything, especially with a finger heart! (Implies anything Eunseok does is great, especially when he does a finger heart)"
+      },
+      {
+        "text": "녤덬 아니고 은덬, 손하트 뿅뿅",
+        "meaning_ja": "ニエルペンじゃなくてウンソクペン、指ハートぴょんぴょん",
+        "meaning_en": "Not a Daniel stan, but an Eunseok stan, sending finger hearts! (Play on words using a popular idol's name. Implies a fan only support Eunseok with love.)"
+      },
+      {
+        "text": "얼굴이 복지, 손하트가 특혜",
+        "meaning_ja": "顔が福祉、指ハートが特権",
+        "meaning_en": "His face is welfare, his finger hearts are a privilege! (His beauty itself makes someone happy.)"
+      },
+      {
+        "text": "은석 손민수템 = 내 심장, 손하트 발사",
+        "meaning_ja": "ウンソクがお揃いの物=私の心臓、指ハート発射",
+        "meaning_en": "To have the same item as Eunseok = my heart, finger heart fired! (Means it is great to have the same thing that Eunseok owns.)"
+      },
+      {
+        "text": "브리즈 맘 = 은석 손하트 무한 저장",
+        "meaning_ja": "BRIIZEママ = ウンソクの指ハート無限保存",
+        "meaning_en": "BRIIZE Mom = Eunseok's finger hearts are saved infinitely! (Moms who are BRIIZE want to keep any version of Eunseok. )"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "밥 잘 챙겨, 은석!",
+        "meaning_ja": "ご飯しっかり食べてね、ウンソク！",
+        "meaning_en": "Take care and eat well, Eunseok! (Very common and caring)"
+      },
+      {
+        "text": "은식이 맛잘알!",
+        "meaning_ja": "ウンソクは美味しいもの知りすぎ！",
+        "meaning_en": "Eunseok is a foodie who knows good taste! (Playful, referencing his good taste)"
+      },
+      {
+        "text": "삼시세끼 은석하세요!",
+        "meaning_ja": "三食ウンソクしてください！",
+        "meaning_en": "Do Eunseok and eat three meals a day! (Playful, connecting his name to the idea of eating well)"
+      },
+      {
+        "text": "위장 풀파워! 은석!",
+        "meaning_ja": "胃袋フルパワー！ウンソク！",
+        "meaning_en": "Stomach full power! Eunseok! (Encouraging him to eat heartily)"
+      },
+      {
+        "text": "밥길만 걸어, 은석아!",
+        "meaning_ja": "美味しいものばかり食べてね、ウンソク！",
+        "meaning_en": "Only walk the path of delicious food, Eunseok! (Wishing him a life full of good food)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "돌멩아프지망고!",
+        "meaning_ja": "石ころ、病気にならないでマンゴー！",
+        "meaning_en": "Little stone, don't get sick, mango! (Using \"돌멩이\" endearingly + combining \"아프지마\" (don't be sick) with \"망고\" (mango) for a playful rhyme)"
+      },
+      {
+        "text": "은서기 감기 뿌셔!",
+        "meaning_ja": "ウンソク、風邪をぶっ壊せ！",
+        "meaning_en": "Eunseok, crush that cold! (Using \"뿌셔\" which means to destroy/crush something)"
+      },
+      {
+        "text": "아프면 맴찢 ㅠㅠ",
+        "meaning_ja": "具合が悪かったら心が痛む ㅠㅠ",
+        "meaning_en": "If you're sick, my heart hurts ㅠㅠ (맴찢 expresses heartbreak, and ㅠㅠ represents crying faces)"
+      },
+      {
+        "text": "건강길만 걸어, 은서가!",
+        "meaning_ja": "健康の道だけを歩んで、ウンソク！",
+        "meaning_en": "Only walk the path of health, Eunseok! (건강길만 걸어 means \"only walk the path of health\")"
+      },
+      {
+        "text": "아프지 말고 누워서 돈 세자!",
+        "meaning_ja": "病気にならないで寝てお金数えよう！",
+        "meaning_en": "Don't be sick, let's lie down and count money! (A playful wish for Eunseok to be healthy enough to enjoy wealth)"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "넘잘했어, 은석!",
+        "meaning_ja": "めちゃくちゃ頑張ったね、ウンソク！",
+        "meaning_en": "You did so well, Eunseok! (Emphasizes \"so well\" with excitement)"
+      },
+      {
+        "text": "은석이 찢었다!",
+        "meaning_ja": "ウンソク、最高だったよ！",
+        "meaning_en": "Eunseok, you killed it! (Implies he did an amazing job)"
+      },
+      {
+        "text": "무대 뿌셔! 은석이 다 해!",
+        "meaning_ja": "ステージを壊せ！ウンソクが全部やる！",
+        "meaning_en": "Break the stage! Eunseok does it all! (Exaggerated praise, common in fandoms)"
+      },
+      {
+        "text": "은석 is 뭔들!",
+        "meaning_ja": "ウンソクは何でも素晴らしい！",
+        "meaning_en": "Everything Eunseok does is amazing! (Short for \"Eunseok is 뭔들 안 예쁘겠어?\" meaning \"Everything Eunseok does is beautiful/amazing\")"
+      },
+      {
+        "text": "갓은석!",
+        "meaning_ja": "神ウンソク！",
+        "meaning_en": "God Eunseok! (Used to express admiration for Eunseok.)"
+      }
+    ]
+  },
+  "Sungchan": {
+    "LOVE_GENERAL": [
+      {
+        "text": "성찬 is 뭔들",
+        "meaning_ja": "ソンチャンは何でも(最高)",
+        "meaning_en": "Sungchan is good at everything (He's perfect!)"
+      },
+      {
+        "text": "성찬 사랑둥이",
+        "meaning_ja": "ソンチャン大好きっ子",
+        "meaning_en": "Sungchan, the sweetheart"
+      },
+      {
+        "text": "심장이 성찬성찬",
+        "meaning_ja": "心臓がソンチャンソンチャン(ドキドキ)",
+        "meaning_en": "My heart is Sungchan Sungchan (thumping)"
+      },
+      {
+        "text": "성찬 밖에 몰라",
+        "meaning_ja": "ソンチャンしか知らない",
+        "meaning_en": "I only know Sungchan"
+      },
+      {
+        "text": "성며들다",
+        "meaning_ja": "ソンチャンに染まる",
+        "meaning_en": "I'm becoming Sungchan-fied (I'm obsessed with Sungchan)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "성찬 is 뭔들",
+        "meaning_ja": "ソンチャンは何でも最高",
+        "meaning_en": "Sungchan is good at everything (Sungchan can do no wrong)"
+      },
+      {
+        "text": "성찬 없인 못 살아",
+        "meaning_ja": "ソンチャンなしでは生きられない",
+        "meaning_en": "I can't live without Sungchan"
+      },
+      {
+        "text": "심장이 성찬해",
+        "meaning_ja": "心臓がソンチャンしてる",
+        "meaning_en": "My heart is all about Sungchan (My heart beats for Sungchan)"
+      },
+      {
+        "text": "성찬 is 내 전부",
+        "meaning_ja": "ソンチャンは私のすべて",
+        "meaning_en": "Sungchan is my everything"
+      },
+      {
+        "text": "성찬 때문에 산다",
+        "meaning_ja": "ソンチャンのおかげで生きる",
+        "meaning_en": "I live because of Sungchan"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "성찬아 나 꾸며또!",
+        "meaning_ja": "ソンチャン、私を飾って！",
+        "meaning_en": "Sungchan, adorn me (with love/marriage)! (Playful request for attention/affection)"
+      },
+      {
+        "text": "성찬 is 뭔들",
+        "meaning_ja": "ソンチャンは何でも最高",
+        "meaning_en": "Sungchan is perfect no matter what! (Expressing total admiration)"
+      },
+      {
+        "text": "럽셍 is 과학",
+        "meaning_ja": "ラブセンは科学",
+        "meaning_en": "Love for Sungchan is science/a proven fact. (Humorous way of saying love for Sungchan is undeniable)"
+      },
+      {
+        "text": "심장이 성찬거",
+        "meaning_ja": "心臓がソンチャン",
+        "meaning_en": "My heart belongs to Sungchan. (Direct declaration of love/devotion)"
+      },
+      {
+        "text": "성찬없인 못 살아",
+        "meaning_ja": "ソンチャンなしでは生きられない",
+        "meaning_en": "I can't live without Sungchan. (Dramatic expression of needing Sungchan in your life)"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "성찬 is 뭔들",
+        "meaning_ja": "ソンチャンは何でも(最高)",
+        "meaning_en": "Sungchan can do no wrong (Everything Sungchan does is amazing)"
+      },
+      {
+        "text": "보고파 뿅",
+        "meaning_ja": "会いたいぴょん(擬音)",
+        "meaning_en": "Missing you, pyong! (Sound effect for cute affection)"
+      },
+      {
+        "text": "햇살보다 성찬",
+        "meaning_ja": "日差しよりソンチャン",
+        "meaning_en": "Sungchan is brighter than the sunshine (Missing his radiant presence)"
+      },
+      {
+        "text": "성찬 때문에 현기증",
+        "meaning_ja": "ソンチャンのせいでめまい",
+        "meaning_en": "Sungchan makes me dizzy (over his attractiveness/impact)"
+      },
+      {
+        "text": "성찬앓이 중",
+        "meaning_ja": "ソンチャン病中",
+        "meaning_en": "Suffering from Sungchan sickness (Missing him badly; can't get him off my mind)"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "성찬 is 뭔들",
+        "meaning_ja": "ソンチャンは何でも (ソンチャンなら何でもいい)",
+        "meaning_en": "Sungchan can do no wrong (Everything Sungchan does is amazing)."
+      },
+      {
+        "text": "성며들다",
+        "meaning_ja": "ソンチャンに染まる (ソンチャンに夢中になる)",
+        "meaning_en": "To be \"Sungchan-ified\" (To fall deeply in love with Sungchan)."
+      },
+      {
+        "text": "오대오? ㄴㄴ 성찬 is 뭔들",
+        "meaning_ja": "五分五分？違う！ソンチャンは何でも (五分五分？違う！ソンチャンなら何でもいい)",
+        "meaning_en": "50/50 chance? Nah! Sungchan is everything (50/50 chance of something? Forget it, everything is Sungchan)."
+      },
+      {
+        "text": "성며들게 냅둬",
+        "meaning_ja": "ソンチャンに染まらせて (ソンチャンに夢中にさせて)",
+        "meaning_en": "Let me be Sungchan-ified (Let me fall for Sungchan)."
+      },
+      {
+        "text": "브리즈는 성찬편",
+        "meaning_ja": "BRIIZEはソンチャン側 (BRIIZEはソンチャン寄り)",
+        "meaning_en": "BRIIZE is on Sungchan's side (BRIIZE supports Sungchan)."
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "성찬시",
+        "meaning_ja": "聖餐式 (Seishansiki - Sei: holy, Shan: Sungchan, Shiki: ceremony)",
+        "meaning_en": "Sungchan O'Clock (referring to the time and celebration of Sungchan's birthday)"
+      },
+      {
+        "text": "성프린스",
+        "meaning_ja": "聖プリンス (Sei Purinsu - Sei: Holy, Purinsu: Prince)",
+        "meaning_en": "Holy Prince Sungchan (exaggerated praise for Sungchan's visuals and aura)"
+      },
+      {
+        "text": "입덕 부정기 뚝스딱스!",
+        "meaning_ja": "ファンになることを否定する時期、トックスタックス! (Fan ni naru koto o hitei suru jiki, tokkusu takkusu!)",
+        "meaning_en": "No More Denial Era, Ttukseuttakseu! (referring to fans falling in love instantly with Sungchan despite initial resistance - 'Ttukseuttakseu' is an onomatopoeia for quickly overcoming something)"
+      },
+      {
+        "text": "성며들다",
+        "meaning_ja": "聖(なる)に染み込む (Sei (naru) ni shimikomu)",
+        "meaning_en": "To be completely imbued with Sungchan (meaning to be deeply and completely influenced by Sungchan's charm)."
+      },
+      {
+        "text": "오구오구 울 성찬!",
+        "meaning_ja": "よしよし、うちのソンチャン！(Yoshi yoshi, uchi no Sonchan!)",
+        "meaning_en": "Aww Aww, our Sungchan! (A cute way to dote on Sungchan, like saying \"Good boy, good boy!\")"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "성찬 is 뭔들",
+        "meaning_ja": "ソンチャンは何でも (尊い)",
+        "meaning_en": "Sungchan is perfect no matter what (precious)"
+      },
+      {
+        "text": "성찬맘 행복회로 풀가동",
+        "meaning_ja": "ソンチャンオタ幸せ回路フル稼働",
+        "meaning_en": "Sungchan stan's happy delusion circuits are at full speed"
+      },
+      {
+        "text": "얼굴이 복지다 성찬",
+        "meaning_ja": "顔面が福祉だソンチャン",
+        "meaning_en": "Sungchan's face is welfare (his visuals are a blessing)"
+      },
+      {
+        "text": "성찬 때문에 내 광대가 승천한다",
+        "meaning_ja": "ソンチャンのおかげで私の頬骨が昇天する",
+        "meaning_en": "My cheekbones are ascending to heaven because of Sungchan"
+      },
+      {
+        "text": "킹찬 제너럴 갓찬 엠페러 찬",
+        "meaning_ja": "キングチャン ジェネラル ゴッドチャン エンペラー チャン",
+        "meaning_en": "King Chan, General God Chan, Emperor Chan (over-the-top praise)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "갓성찬 (Gat Seongchan)",
+        "meaning_ja": "まさに神、ソンチャン！ (Masani Kami, Songchan!)",
+        "meaning_en": "God Sungchan! (Implies he's perfect/divine)"
+      },
+      {
+        "text": "성멘 (Sungmen)",
+        "meaning_ja": "ソンメン！(アーメンのように使う) (Songmen! (A-men no youni tsukau))",
+        "meaning_en": "Sungmen! (Used like \"Amen\" - an affirmation of belief/praise)"
+      },
+      {
+        "text": "얼굴이 복지다 (Eolguli bokjida)",
+        "meaning_ja": "顔面国宝 (Ganmen Kokuhou)",
+        "meaning_en": "Visual Welfare (His face is national treasure-level blessing)"
+      },
+      {
+        "text": "천상계 비주얼 (Cheonsanggye Bijueol)",
+        "meaning_ja": "天上界ビジュアル (Tenjoukai Bijuaru)",
+        "meaning_en": "Heavenly Realm Visuals (His visuals are otherworldly)"
+      },
+      {
+        "text": "성찬 is 뭔들 (Sungchan is Mwondeul)",
+        "meaning_ja": "ソンチャンは何でも最高 (Songchan wa nandemo saikou)",
+        "meaning_en": "Sungchan is perfect no matter what he does (Even if he does something unconventional, it's still amazing because it's Sungchan)"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "성찬 is 뭔들",
+        "meaning_ja": "ソンチャンは何でも尊い (Sonchan wa nandemo toutoi)",
+        "meaning_en": "Sungchan can do no wrong / Everything Sungchan does is precious."
+      },
+      {
+        "text": "성찬マジ天使 (성찬 마지 텐시)",
+        "meaning_ja": "ソンチャンマジ天使 (Sonchan maji tenshi)",
+        "meaning_en": "Sungchan is seriously an angel."
+      },
+      {
+        "text": "얼굴이 복지다 성찬!",
+        "meaning_ja": "顔面が福祉だソンチャン！(Ganmen ga fukushi da Sonchan!)",
+        "meaning_en": "Sungchan, your face is welfare itself! (Meaning: Your visuals are a blessing)"
+      },
+      {
+        "text": "성찬 is 뭔들 is 뭔들 is 뭔들",
+        "meaning_ja": "ソンチャンイズモンデイズモンデイズモンデル (Sonchan izu monde izu monde izu monderu)",
+        "meaning_en": "Sungchan is something something something. (An emphatic way of saying Sungchan is everything)"
+      },
+      {
+        "text": "성찬 때문에 살아",
+        "meaning_ja": "ソンチャンのおかげで生きてる (Sonchan no okage de ikiteru)",
+        "meaning_en": "I live because of Sungchan."
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴천재 성찬!",
+        "meaning_ja": "顔面天才 ソンチャン！(Ganmaru tensai Sonchan!)",
+        "meaning_en": "Face Genius Sungchan!"
+      },
+      {
+        "text": "조각미남 성찬!",
+        "meaning_ja": "彫刻美男 ソンチャン！(Choukoku binan Sonchan!)",
+        "meaning_en": "Sculpted Beauty Sungchan!"
+      },
+      {
+        "text": "성찬 비주얼 미쳤다리!",
+        "meaning_ja": "ソンチャンのビジュアルマジヤバい！(Sonchan no bijuaru maji yabai!)",
+        "meaning_en": "Sungchan's visuals are seriously crazy!"
+      },
+      {
+        "text": "성찬 is 뭔들!",
+        "meaning_ja": "ソンチャンは何でも最高！(Sonchan wa nandemo saikou!)",
+        "meaning_en": "Sungchan is good at anything! (Implies he looks good doing anything)"
+      },
+      {
+        "text": "무대찢었다 성찬!",
+        "meaning_ja": "ステージぶっ壊した ソンチャン！(Suteeji bukkowashita Sonchan!)",
+        "meaning_en": "Sungchan slayed the stage! (Lit. Sungchan ripped the stage)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "성찬 is 뭔들 (REQ_HEART)",
+        "meaning_ja": "ソンチャンは何でも (指ハート)",
+        "meaning_en": "Sungchan can do anything (finger heart)"
+      },
+      {
+        "text": "성찬 사랑둥이 (REQ_HEART)",
+        "meaning_ja": "ソンチャン 愛されっ子 (指ハート)",
+        "meaning_en": "Sungchan, sweetheart (finger heart)"
+      },
+      {
+        "text": "내 심장 쏘성찬 (REQ_HEART)",
+        "meaning_ja": "私の心臓 ソンチャンに撃ち抜かれた (指ハート)",
+        "meaning_en": "My heart, Sungchan shot it (finger heart)"
+      },
+      {
+        "text": "성찬 is 뭔들 is 뭔들 (REQ_HEARTx2)",
+        "meaning_ja": "ソンチャンは何でも 何でも (指ハートx2)",
+        "meaning_en": "Sungchan can do anything, anything (finger heart x2)"
+      },
+      {
+        "text": "성찬 덕분에 행복 (REQ_HEART)",
+        "meaning_ja": "ソンチャンのおかげで幸せ (指ハート)",
+        "meaning_en": "Happy thanks to Sungchan (finger heart)"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "밥잘챙챙",
+        "meaning_ja": "ご飯しっかり食べチャン！(Sungchanを加えて)",
+        "meaning_en": "Make sure to eat well, Channie! (Adding Sungchan's nickname ending)"
+      },
+      {
+        "text": "성찬is뭔들🍴",
+        "meaning_ja": "ソンチャンは何でも美味しい！",
+        "meaning_en": "Sungchan makes everything taste good! (referring to Sungchan always looking good eating)"
+      },
+      {
+        "text": "밥길만 걸어, 성찬!",
+        "meaning_ja": "美味しいご飯の道だけを歩んで、ソンチャン！",
+        "meaning_en": "Only walk the path of delicious food, Sungchan!"
+      },
+      {
+        "text": "위장 풀파워! 성찬 파이팅!",
+        "meaning_ja": "胃袋フルパワー！ソンチャン、ファイト！",
+        "meaning_en": "Stomach at full power! Sungchan, fighting!"
+      },
+      {
+        "text": "맛잘알 성찬!",
+        "meaning_ja": "美味しいもの知りソンチャン！",
+        "meaning_en": "Sungchan, a connoisseur of deliciousness!"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "성찬 아프지망고!",
+        "meaning_ja": "ソンチャン、アポジマンゴ！ (痛くならないで！)",
+        "meaning_en": "Sungchan, don't be sick, mango! (playful, combines \"하지마\" - don't, with \"망고\" - mango for a cute rhyme)"
+      },
+      {
+        "text": "꽃길만 걷고 아프지마!",
+        "meaning_ja": "花道だけを歩いて、病気にならないで！",
+        "meaning_en": "Only walk flower paths and don't get sick! (expresses wanting Sungchan to have a happy and healthy life.)"
+      },
+      {
+        "text": "오빠 건강이 국보!",
+        "meaning_ja": "オッパの健康は国宝！",
+        "meaning_en": "Oppa's health is a national treasure! (Exaggerated emphasis on how precious his health is.)"
+      },
+      {
+        "text": "무병장수 킹성찬!",
+        "meaning_ja": "無病長寿、キングソンチャン！",
+        "meaning_en": "May King Sungchan live a long and healthy life! (Wishing him longevity and good health with the title \"King\")"
+      },
+      {
+        "text": "픈차니는 안 돼!",
+        "meaning_ja": "プンチャニはダメ！",
+        "meaning_en": "No sick Sungchan! (Short and direct way of saying not to get sick. 픈차니 is a cute nickname variation of Sungchan)"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "성찬 is 뭔들!",
+        "meaning_ja": "ソンチャンは何でも正義！",
+        "meaning_en": "Sungchan can do no wrong! (He's amazing at everything!)"
+      },
+      {
+        "text": "얼굴이 복지다, 성찬!",
+        "meaning_ja": "顔が福祉だ、ソンチャン！",
+        "meaning_en": "Sungchan, your face is welfare! (Your beauty is a gift to us all!)"
+      },
+      {
+        "text": "성찬, 찢었다!",
+        "meaning_ja": "ソンチャン、マジ最高！/ソンチャン、ぶちかました！",
+        "meaning_en": "Sungchan, you slayed! (You killed it!)"
+      },
+      {
+        "text": "성찬, 무대 뿌셔!",
+        "meaning_ja": "ソンチャン、ステージをぶっ壊せ！",
+        "meaning_en": "Sungchan, destroy the stage! (Rock the stage!)"
+      },
+      {
+        "text": "웅냥냥 성찬!",
+        "meaning_ja": "うにゃにゃん ソンチャン！(可愛い)",
+        "meaning_en": "Oongnyangnyang Sungchan! (Cute/Adorable Sungchan!) (웅냥냥 is a cutesy sound effect, often used online.)"
+      }
+    ]
+  },
+  "Wonbin": {
+    "LOVE_GENERAL": [
+      {
+        "text": "원빈 is 뭔들",
+        "meaning_ja": "ウォンビンは何でも (最高)",
+        "meaning_en": "Wonbin can do anything (perfectly)"
+      },
+      {
+        "text": "원빈 때문에 심멎",
+        "meaning_ja": "ウォンビンせいで胸キュン死",
+        "meaning_en": "Wonbin is giving me a heart attack (because he's so cute/handsome)"
+      },
+      {
+        "text": "원빈, 내 비타민",
+        "meaning_ja": "ウォンビン、私のビタミン",
+        "meaning_en": "Wonbin, you're my vitamin (you give me energy)"
+      },
+      {
+        "text": "원빈 is 뭔데요? 천사인데요",
+        "meaning_ja": "ウォンビンって何？天使だよ",
+        "meaning_en": "What is Wonbin? An angel!"
+      },
+      {
+        "text": "원빈, 내 맘에 저-장!",
+        "meaning_ja": "ウォンビン、私の心に保存！",
+        "meaning_en": "Wonbin, save you in my heart!"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "콩알빈 사랑해!",
+        "meaning_ja": "豆粒みたいな可愛さのウォンビン、愛してる！",
+        "meaning_en": "I love you, Wonbin, you're as cute as a bean! (Emphasizes his cute appeal, referencing the common \"콩알\" usage for small and cute things)."
+      },
+      {
+        "text": "원빈 is 뭔들!",
+        "meaning_ja": "ウォンビンは何でも最高！",
+        "meaning_en": "Wonbin is good no matter what he does! (A common phrase expressing that someone always looks good or excels regardless of the situation)."
+      },
+      {
+        "text": "원빈 때문에 내 심장 웅냥냥!",
+        "meaning_ja": "ウォンビンのおかげで私の心臓はキュンキュンしてる！",
+        "meaning_en": "Wonbin makes my heart go 'Ungnyangnyang' (onomatopoeia for a heart fluttering/thumping cutely)."
+      },
+      {
+        "text": "원빈, 내 삶의 이유 등극!",
+        "meaning_ja": "ウォンビン、私の人生の理由に堂々ランクイン！",
+        "meaning_en": "Wonbin, officially crowned the reason for my existence! (Dramatic and hyperbolic, expressing complete devotion)."
+      },
+      {
+        "text": "원빈은 걍 LOVE!",
+        "meaning_ja": "ウォンビンはもうただの愛！",
+        "meaning_en": "Wonbin is just pure LOVE! (Simple, direct, and uses the English word \"LOVE\" for emphasis)."
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "원빈 내꺼",
+        "meaning_ja": "ウォンビンは私のもの",
+        "meaning_en": "Wonbin is mine!"
+      },
+      {
+        "text": "원빈이랑 결혼각",
+        "meaning_ja": "ウォンビンと結婚する予感",
+        "meaning_en": "I foresee myself marrying Wonbin!"
+      },
+      {
+        "text": "원빈맘 = 나",
+        "meaning_ja": "ウォンビンママ = 私",
+        "meaning_en": "I am Wonbin's mom (meaning I adore him)!"
+      },
+      {
+        "text": "원빈 is 뭔들",
+        "meaning_ja": "ウォンビンはどれも最高",
+        "meaning_en": "Everything Wonbin does is amazing!"
+      },
+      {
+        "text": "원빈 없인 못 살아",
+        "meaning_ja": "ウォンビンなしでは生きられない",
+        "meaning_en": "I can't live without Wonbin!"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "빈 보고 싶어 앓앓",
+        "meaning_ja": "ウォンビンに会いたくて病み期",
+        "meaning_en": "Missing Wonbin, I'm lovesick! (앓앓 implies being sick with longing)"
+      },
+      {
+        "text": "원빈 없인 못 살아 엉엉",
+        "meaning_ja": "ウォンビンなしでは生きられないよ 泣",
+        "meaning_en": "I can't live without Wonbin, *cries* (엉엉 is an onomatopoeia for crying)"
+      },
+      {
+        "text": "빈 스며들다… 내 심장 과부하!",
+        "meaning_ja": "ウォンビンが染み込んでくる… 私の心臓オーバーロード！",
+        "meaning_en": "Wonbin is seeping in... my heart is overloading! (implies Wonbin's presence is overwhelming, hence the longing)"
+      },
+      {
+        "text": "원빈is뭔들… 보고 싶어서 현기증",
+        "meaning_ja": "ウォンビンは何でもあり… 会いたすぎてめまい",
+        "meaning_en": "Wonbin is perfect… I miss him so much I'm dizzy! (뭔들 is short for \"무엇이든\", and 현기증 means dizziness.)"
+      },
+      {
+        "text": "내 심장 풀 액셀 밟는 빈! 보고싶다 롬곡옾눞",
+        "meaning_ja": "私の心臓フルアクセル踏むウォンビン！会いたい 大号泣",
+        "meaning_en": "Wonbin, making my heart go full throttle! Miss you, bawling my eyes out! (롬곡옾눞 is crying written upside down, meaning extreme crying, and 액셀 밟다 means to step on the accelerator)"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "원빈 is 뭔들",
+        "meaning_ja": "ウォンビンは何でも (最高)",
+        "meaning_en": "Wonbin is always the best (no matter what he does)."
+      },
+      {
+        "text": "원빈 꽃길만 걷자",
+        "meaning_ja": "ウォンビン、花の道だけを歩こう",
+        "meaning_en": "Let's only walk on flower paths with Wonbin (Let only good things happen to Wonbin)."
+      },
+      {
+        "text": "원빈 내 맘속에 저장",
+        "meaning_ja": "ウォンビン、私の心に保存",
+        "meaning_en": "Saving Wonbin in my heart (Treasuring Wonbin in my heart)."
+      },
+      {
+        "text": "원빈 덕분에 행복해",
+        "meaning_ja": "ウォンビンのおかげで幸せ",
+        "meaning_en": "I'm happy thanks to Wonbin."
+      },
+      {
+        "text": "원빈 사랑둥이",
+        "meaning_ja": "ウォンビン、愛されっ子",
+        "meaning_en": "Wonbin, you lovable darling."
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "원빈이 맘찍!",
+        "meaning_ja": "ウォンビンにいいね！",
+        "meaning_en": "Wonbin, like! (Referring to liking something on social media, suggesting celebrating him)"
+      },
+      {
+        "text": "원빈 is 뭔들!",
+        "meaning_ja": "ウォンビンは何でも最高！",
+        "meaning_en": "Wonbin is good at everything! / Everything Wonbin does is amazing! (Implies celebrating his talents on his birthday)"
+      },
+      {
+        "text": "원빈 왕크왕귀!",
+        "meaning_ja": "ウォンビン、マジでデカくてマジで可愛い！",
+        "meaning_en": "Wonbin is so big and so cute! (Exaggerated praise, emphasizing his appeal on his birthday)"
+      },
+      {
+        "text": "원빈 덕분에 삶이 힙해짐",
+        "meaning_ja": "ウォンビンのおかげで人生がイケてる",
+        "meaning_en": "Thanks to Wonbin, my life is hip! / My life became cooler thanks to Wonbin! (Expresses how much joy he brings, fitting for a birthday celebration)"
+      },
+      {
+        "text": "원빈 is 내 비타민!",
+        "meaning_ja": "ウォンビンは私のビタミン！",
+        "meaning_en": "Wonbin is my vitamin! (Suggesting he gives you energy, perfect for celebrating his presence on his birthday)"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "원빈 is 뭔들",
+        "meaning_ja": "ウォンビンは何でも良い (最高)",
+        "meaning_en": "Wonbin can do no wrong (He's amazing at everything!)"
+      },
+      {
+        "text": "원빈 얼굴이 복지다",
+        "meaning_ja": "ウォンビンの顔が福祉だ (目の保養)",
+        "meaning_en": "Wonbin's face is welfare (a treat for the eyes/good for my soul)"
+      },
+      {
+        "text": "원빈 때문에 심장이 WONHEART",
+        "meaning_ja": "ウォンビンのおかげで心臓がWONHEART(ドキドキ)",
+        "meaning_en": "Wonbin makes my heart WONHEART (my heart is beating fast)"
+      },
+      {
+        "text": "원빈 보고 텐션 업!",
+        "meaning_ja": "ウォンビン見てテンションアップ！",
+        "meaning_en": "Seeing Wonbin makes my tension up! (Energized by Wonbin!)"
+      },
+      {
+        "text": "WONBIN 미모가 국보급",
+        "meaning_ja": "ウォンビンの美貌が国宝級",
+        "meaning_en": "Wonbin's beauty is national treasure level!"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "원빈 is 뭔들",
+        "meaning_ja": "ウォンビンは何でも神",
+        "meaning_en": "Everything Wonbin does is godly."
+      },
+      {
+        "text": "얼굴이 복지다 Wonbin",
+        "meaning_ja": "顔面が福祉だね Wonbin",
+        "meaning_en": "Wonbin's face is welfare (so perfect it heals)."
+      },
+      {
+        "text": "Wonbin 찢었다",
+        "meaning_ja": "Wonbinがライブをぶっ壊した",
+        "meaning_en": "Wonbin slayed (literally tore up) the stage."
+      },
+      {
+        "text": "갓빈 (Godbin)",
+        "meaning_ja": "まさに神ビン",
+        "meaning_en": "Godbin (God + Wonbin) - truly a god."
+      },
+      {
+        "text": "내 심장 Wonbin 몫",
+        "meaning_ja": "私の心臓はWonbinのもの",
+        "meaning_en": "My heart belongs to Wonbin (is an offering to Wonbin)."
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "원빈 is 뭔들",
+        "meaning_ja": "ウォンビンは何でもアリ！(最高！)",
+        "meaning_en": "Wonbin can do anything! (He's the best!)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉",
+        "meaning_en": "His face is welfare (His face is my happiness/blessing)"
+      },
+      {
+        "text": "심장이 Wonbin Wonbin해",
+        "meaning_ja": "心臓がウォンビンウォンビンする",
+        "meaning_en": "My heart goes Wonbin Wonbin (My heart beats for Wonbin)"
+      },
+      {
+        "text": "냅다 Wonbin",
+        "meaning_ja": "とにかくウォンビン",
+        "meaning_en": "Just Wonbin (I just love Wonbin without a reason/ I'm all about Wonbin)"
+      },
+      {
+        "text": "Wonbin이 곧 법이다",
+        "meaning_ja": "ウォンビンがすなわち法である",
+        "meaning_en": "Wonbin is the law (What Wonbin says/does is right and good)."
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴천재 Wonbin!",
+        "meaning_ja": "顔面天才ウォンビン！(Ganmen tensai Wonbin!)",
+        "meaning_en": "Face Genius Wonbin! (Referring to someone incredibly handsome/beautiful)"
+      },
+      {
+        "text": "조각미남 Wonbin!",
+        "meaning_ja": "彫刻美男ウォンビン！(Choukoku binan Wonbin!)",
+        "meaning_en": "Sculpted Beauty Wonbin! (Highlighting perfectly sculpted features)"
+      },
+      {
+        "text": "비주얼 쇼크 Wonbin!",
+        "meaning_ja": "ビジュアルショックウォンビン！(Bijuaru shokku Wonbin!)",
+        "meaning_en": "Visual Shock Wonbin! (His visuals are so striking, it's shocking)"
+      },
+      {
+        "text": "넘사벽 비주얼! Wonbin!",
+        "meaning_ja": "越えられない壁ビジュアル！(Koe rarenai kabe bijuaru!)",
+        "meaning_en": "Unreachable Visuals! Wonbin! (His visuals are so superior, they're beyond comparison)"
+      },
+      {
+        "text": "Wonbin 미모 미쳤다!",
+        "meaning_ja": "ウォンビンの美貌、ヤバすぎる！(Wonbin no bibou, yabasugiru!)",
+        "meaning_en": "Wonbin's beauty is insane! (Expressing extreme admiration for his beauty)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "원빈 is 뭔들! (REQ_HEART)",
+        "meaning_ja": "ウォンビンは何でも最高！",
+        "meaning_en": "Wonbin is amazing no matter what he does! (Implies sending a heart of approval)"
+      },
+      {
+        "text": "원빈, 내 심장 쏘쏘! (REQ_HEART)",
+        "meaning_ja": "ウォンビン、私の心にドストライク！",
+        "meaning_en": "Wonbin, you hit my heart bullseye! (Heart imagery emphasizes being struck by love)"
+      },
+      {
+        "text": "원빈 덕분에 행복 풀착장! (REQ_HEART)",
+        "meaning_ja": "ウォンビンのおかげで幸せフル装備！",
+        "meaning_en": "Thanks to Wonbin, I'm fully equipped with happiness! (Happiness being \"equipped\" like armor, strengthened by a heart)"
+      },
+      {
+        "text": "원빈이 비주얼 복지! (REQ_HEART)",
+        "meaning_ja": "ウォンビンはビジュアル福祉！",
+        "meaning_en": "Wonbin is visual welfare! (Visual perfection so good, it's like a public service, delivered with a heart)"
+      },
+      {
+        "text": "원빈 is 뭔들 is 과학! (REQ_HEART)",
+        "meaning_ja": "ウォンビンは何でも最高は科学！",
+        "meaning_en": "Wonbin being amazing at everything is science! (A hyperbolic and meme-y way to express love, with a heart added for emphasis)"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "밥잘챙겨, 빈아!",
+        "meaning_ja": "ご飯ちゃんと食べてね、ウォンビン！",
+        "meaning_en": "Eat well, Wonbin!"
+      },
+      {
+        "text": "원빈, 맛잘알 인정!",
+        "meaning_ja": "ウォンビン、美味しいもの知ってるの認める！",
+        "meaning_en": "Wonbin, we acknowledge your good taste in food!"
+      },
+      {
+        "text": "먹잘알 원빈!",
+        "meaning_ja": "グルメなウォンビン！",
+        "meaning_en": "Foodie Wonbin!"
+      },
+      {
+        "text": "위장 풀파워! 원빈!",
+        "meaning_ja": "胃袋フルパワー！ウォンビン！",
+        "meaning_en": "Stomach full power! Wonbin! (Meaning: Eat lots!)"
+      },
+      {
+        "text": "밥길만 걸어, 원빈!",
+        "meaning_ja": "美味しいものだけ食べて歩いてね、ウォンビン！",
+        "meaning_en": "Only walk the path of delicious food, Wonbin! (Meaning: Only eat good things)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "원빈 감기 국룰 금지!",
+        "meaning_ja": "ウォンビン、風邪は絶対ダメ！",
+        "meaning_en": "Wonbin, catching a cold is strictly forbidden! ( 국룰 금지! - \"is strictly forbidden!\" uses a popular online term meaning something is a universal rule or expectation)"
+      },
+      {
+        "text": "아프지망고, 원빈!",
+        "meaning_ja": "痛くないでね、ウォンビン！",
+        "meaning_en": "Don't be sick, Wonbin! (아프지망고 - a cute slang combining \"apuji ma\" - \"don't be sick\" and \"mango,\" creating a sweet and memorable phrase)"
+      },
+      {
+        "text": "건강좌, 원빈! 아프면 스튜핏!",
+        "meaning_ja": "健康第一、ウォンビン！もし病気になったらスチューピット！",
+        "meaning_en": "Health is the top priority, Wonbin! If you get sick, that's 'stupid'! (건강좌 - 'health master' or 'health guru'; 스튜핏 - using the English word 'stupid' popularized by a Korean comedian.)"
+      },
+      {
+        "text": "원빈 건강 풀파워 충전!",
+        "meaning_ja": "ウォンビン、健康フルパワー充電！",
+        "meaning_en": "Wonbin, fully charge your health! (풀파워 충전! - \"full power charge!\" is a common phrase used in games and shows.)"
+      },
+      {
+        "text": "꽃길만 걷고 아프지마, 원빈!",
+        "meaning_ja": "花道だけを歩んで、病気にならないでね、ウォンビン！",
+        "meaning_en": "Only walk on flower paths, and don't get sick, Wonbin! (꽃길만 걷자 - \"Let's only walk on flower paths\" is a common blessing for success and happiness.)"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "원빈 is 뭔들",
+        "meaning_ja": "ウォンビンは何でも最高",
+        "meaning_en": "Wonbin can do anything! (Implies he looks good/does well in anything)"
+      },
+      {
+        "text": "얼굴이 복지다, 원빈!",
+        "meaning_ja": "顔が福祉だ、ウォンビン！",
+        "meaning_en": "Wonbin, your face is welfare! (Meaning: Your face is so beautiful it's like a benefit to us)"
+      },
+      {
+        "text": "원빈, 냅다 달려!",
+        "meaning_ja": "ウォンビン、ひたすら走れ！",
+        "meaning_en": "Wonbin, just run for it! (Encouragement to keep going and working hard)"
+      },
+      {
+        "text": "원빈 때문에 심장이 웅앵웅",
+        "meaning_ja": "ウォンビンせいで心臓がモゴモゴ",
+        "meaning_en": "Wonbin makes my heart go *mumble mumble* (Expressing overwhelmed feelings, \"웅앵웅\" imitates incoherent muttering)"
+      },
+      {
+        "text": "원빈, 실력캐 인정",
+        "meaning_ja": "ウォンビン、実力派認めます",
+        "meaning_en": "Wonbin, we acknowledge your talent! (Highlighting his skill and acknowledging him as a talented individual)"
+      }
+    ]
+  },
+  "Sohee": {
+    "LOVE_GENERAL": [
+      {
+        "text": "**아포**",
+        "meaning_ja": "アポを取って",
+        "meaning_en": "An appointment (Apo)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "솧랑해 (Sohe-rang-hae)",
+        "meaning_ja": "ソヒ愛してる (Sohee Aishiteru)",
+        "meaning_en": "Sohee, I love you! (Direct, cute shortening of \"Sohee Saranghae\")"
+      },
+      {
+        "text": "솧며들다 (Sohe-myeo-deul-da)",
+        "meaning_ja": "ソヒにハマる (Sohee ni hamaru)",
+        "meaning_en": "Falling for Sohee (Expressing being captivated by Sohee)"
+      },
+      {
+        "text": "심장아 나대지마, 솧희 때문이다! (Simjang-a nadaeji-ma, Sohee ttaemun-ida!)",
+        "meaning_ja": "心臓よ、騒ぐな。ソヒのせいだ！(Shinzou yo, sawagu na. Sohee no sei da!)",
+        "meaning_en": "Heart, calm down! It's all because of Sohee! (Playful expression of being overwhelmed by Sohee's charm)"
+      },
+      {
+        "text": "솧며드는 건 시간문제 (Sohe-myeo-deu-neun geon sigan munje)",
+        "meaning_ja": "ソヒにハマるのは時間の問題 (Sohee ni hamaru no wa jikan no mondai)",
+        "meaning_en": "Falling for Sohee is just a matter of time (Implying Sohee is irresistibly charming)"
+      },
+      {
+        "text": "솧렐루야 (Sohe-llelu-ya)",
+        "meaning_ja": "ソヒレルヤ (Sohee-reruya)",
+        "meaning_en": "Sohee-lujah! (Expressing joy and admiration for Sohee, similar to a religious exclamation)"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "소희야 내 심장 쏘희",
+        "meaning_ja": "ソヒ、僕の心臓を撃って",
+        "meaning_en": "Sohee, shoot my heart (implying she has stolen it; playfully REQ_MARRY)"
+      },
+      {
+        "text": "Sohee 내꼬얌!",
+        "meaning_ja": "Soheeは俺の物だ！",
+        "meaning_en": "Sohee is mine! ( possessive, claiming Sohee, hinting at REQ_MARRY)"
+      },
+      {
+        "text": "소희 없인 못 살아!",
+        "meaning_ja": "ソヒなしでは生きられない！",
+        "meaning_en": "I can't live without Sohee! (Hyperbolic love declaration; REQ_MARRY adjacent)"
+      },
+      {
+        "text": "결혼 각? 💍",
+        "meaning_ja": "結婚の予感？",
+        "meaning_en": "Marriage vibes? (Directly asks if marriage is possible, clear REQ_MARRY)"
+      },
+      {
+        "text": "소희 is 뭔들!",
+        "meaning_ja": "ソヒは全てが最高！",
+        "meaning_en": "Everything Sohee does is amazing! (Implying everything she does is perfect for \"marriage,\" lighthearted REQ_MARRY)"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "sohee 보고싶sohee",
+        "meaning_ja": "ソヒに会いたくてソワソワ",
+        "meaning_en": "Missing Sohee makes me fidgety."
+      },
+      {
+        "text": "sohee 내 심장 쏘희",
+        "meaning_ja": "ソヒが私の心臓を撃ち抜いた",
+        "meaning_en": "Sohee shot through my heart."
+      },
+      {
+        "text": "sohee Sohee 없인 못 살아 ㅠ",
+        "meaning_ja": "Sohee無しでは生きていけないㅠ",
+        "meaning_en": "I can't live without Sohee ㅠ"
+      },
+      {
+        "text": "sohee Sohee 홀릭 중...",
+        "meaning_ja": "Soheeに夢中...",
+        "meaning_en": "Currently obsessed with Sohee..."
+      },
+      {
+        "text": "sohee Sohee 생각뿐이야",
+        "meaning_ja": "Soheeのことばかり考えてる",
+        "meaning_en": "I can only think about Sohee."
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "솧랑해 (Sohe-rang-hae)",
+        "meaning_ja": "ソヒ愛してる (Sohee aishiteru)",
+        "meaning_en": "I love Sohee"
+      },
+      {
+        "text": "솧멘 (Sohe-men)",
+        "meaning_ja": "ソヒーメン (Sohee-men)",
+        "meaning_en": "Sohee Amen (Basically, 'Sohee is everything' or 'Believe in Sohee')"
+      },
+      {
+        "text": "솧깅이 (Sohe-ging-i)",
+        "meaning_ja": "ソヒ赤ちゃん (Sohee akachan)",
+        "meaning_en": "Sohee baby (Endearment. Like saying \"Sohee is precious.\")"
+      },
+      {
+        "text": "함솧게 (Ham-Sohe-ge)",
+        "meaning_ja": "一緒にソヒー (Issho ni Sohee)",
+        "meaning_en": "Together with Sohee"
+      },
+      {
+        "text": "내 맘 솧에 (Nae mam Sohe-e)",
+        "meaning_ja": "私の心はソヒのもの (Watashi no kokoro wa Sohee no mono)",
+        "meaning_en": "My heart belongs to Sohee"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "솧랑둥이 생일 빵빵!",
+        "meaning_ja": "ソヒ天使、誕生日バンバン！",
+        "meaning_en": "Sohee angel, Happy Birthday with a bang! (Implies celebrating enthusiastically)"
+      },
+      {
+        "text": "쏘프라이즈! 오늘 솧탄절!",
+        "meaning_ja": "ソプライズ！今日、ソヒ様誕生祭！",
+        "meaning_en": "So-prise! Today is Sohee's holy birthday festival! (Combines Sohee's name with \"surprise\" and a celebratory term.)"
+      },
+      {
+        "text": "솧며들다… 출구봉쇄!",
+        "meaning_ja": "ソヒにハマる…出口封鎖！",
+        "meaning_en": "Falling for Sohee... exit blocked! (Expressing being completely captivated with no escape.)"
+      },
+      {
+        "text": "웅냥냥 솧냥냥! 생일 축하해!",
+        "meaning_ja": "むにゃむにゃ ソヒむにゃむにゃ！誕生日おめでとう！",
+        "meaning_en": "Ungnyangnyang Sohee-nyangnyang! Happy Birthday! (Uses the cute, onomatopoeic \"ungnyangnyang\" with Sohee's name for added adorableness.)"
+      },
+      {
+        "text": "심장이 솧쿵! 솧데이!",
+        "meaning_ja": "心臓がソヒキュン！ソヒデー！",
+        "meaning_en": "My heart goes Sohee-boom! Sohee Day! (Combines Sohee's name with the onomatopoeia for heart fluttering (두근) and the \"day\")"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "Sohee is 뭔들",
+        "meaning_ja": "ソヒなら何でも (Sohee nara nan demo)",
+        "meaning_en": "Sohee could do anything (and it'd be great) / Sohee can do no wrong!"
+      },
+      {
+        "text": "Sohee 폼 미쳤다!",
+        "meaning_ja": "ソヒ、マジやばい！(Sohee, maji yabai!)",
+        "meaning_en": "Sohee is absolutely killing it! / Sohee is insane(ly good)!"
+      },
+      {
+        "text": "Sohee 얼굴이 복지다",
+        "meaning_ja": "ソヒの顔は福祉だ (Sohee no kao wa fukushi da)",
+        "meaning_en": "Sohee's face is welfare! / Sohee's face is healing!"
+      },
+      {
+        "text": "Sohee 갓기다!",
+        "meaning_ja": "ソヒ、マジ天使！(Sohee, maji tenshi!)",
+        "meaning_en": "Sohee is such a baby angel! / Sohee is a literal baby (in a cute way)!"
+      },
+      {
+        "text": "Sohee 데박!",
+        "meaning_ja": "ソヒ、マジ最高！(Sohee, maji saikou!)",
+        "meaning_en": "Sohee is Daebak! / Sohee is so awesome!"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "갓소희",
+        "meaning_ja": "神ソヒ(かみそひ)",
+        "meaning_en": "God Sohee"
+      },
+      {
+        "text": "sohee는 법이다",
+        "meaning_ja": "ソヒは法だ(そひはほうだ)",
+        "meaning_en": "Sohee is the law"
+      },
+      {
+        "text": "sohee is 뭔들",
+        "meaning_ja": "ソヒイズ何でも(そひいずなんでも)",
+        "meaning_en": "Sohee is perfect no matter what"
+      },
+      {
+        "text": "sohee 없인 못 살아",
+        "meaning_ja": "ソヒなしでは生きられない(そひなしではいきられない)",
+        "meaning_en": "I can't live without Sohee"
+      },
+      {
+        "text": "sohee 짱",
+        "meaning_ja": "ソヒ最高(そひさいこう)",
+        "meaning_en": "Sohee is the best"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "쏘프리티 쏘희",
+        "meaning_ja": "超プリティ ソヒ",
+        "meaning_en": "So Pretty Sohee (emphasizing his beauty)"
+      },
+      {
+        "text": "갓기 쏘희",
+        "meaning_ja": "天使みたいなソヒ",
+        "meaning_en": "Angel Sohee (highlighting his innocent and pure image)"
+      },
+      {
+        "text": "쏘희 왕댜님",
+        "meaning_ja": "ソヒ王子様",
+        "meaning_en": "Prince Sohee (showing admiration and idealizing his visuals)"
+      },
+      {
+        "text": "인생네컷 쏘희소장각",
+        "meaning_ja": "ソヒの人生4カット、絶対ゲット！",
+        "meaning_en": "Gotta get Sohee's Life Four Cuts! (expresses the desire to collect Sohee-related items)"
+      },
+      {
+        "text": "쏘희 없인 못 살아",
+        "meaning_ja": "ソヒなしでは生きられない",
+        "meaning_en": "Can't live without Sohee (shows deep affection and dependence)"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴천재 소희",
+        "meaning_ja": "顔面天才ソヒ",
+        "meaning_en": "Face Genius Sohee! (Literally, \"Face Genius Sohee,\" emphasizing his incredible looks)"
+      },
+      {
+        "text": "비주얼 쇼크! 소희!",
+        "meaning_ja": "ビジュアルショック！ソヒ！",
+        "meaning_en": "Visual Shock! Sohee! (Exclaiming he's visually stunning)"
+      },
+      {
+        "text": "조각미남 소희",
+        "meaning_ja": "彫刻美男ソヒ",
+        "meaning_en": "Sculpted Beauty Sohee! (Comparing his looks to a beautiful sculpture)"
+      },
+      {
+        "text": "넘사벽 비주얼 소희",
+        "meaning_ja": "超えられない壁ビジュアルソヒ",
+        "meaning_en": "Unreachable Visuals Sohee! (Suggesting his beauty is beyond compare)"
+      },
+      {
+        "text": "소희 is 뭔들",
+        "meaning_ja": "ソヒ is 何でもあり",
+        "meaning_en": "Sohee is good at anything (Referencing the slang \"XXX is 뭔들\" meaning anything XXX does is good. Applied here to visuals)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "솧랑둥이 뿅!",
+        "meaning_ja": "ソヒちゃん大好き！きゅん！",
+        "meaning_en": "Sohee, I love you! *finger heart gesture*!"
+      },
+      {
+        "text": "쏘희 is 뭔들 하트뿅뿅",
+        "meaning_ja": "ソヒは何でも可愛い！ハートきゅんきゅん",
+        "meaning_en": "Sohee is cute no matter what! Heart pitter-patter!"
+      },
+      {
+        "text": "쏘희 맘속에 저장 뿅",
+        "meaning_ja": "ソヒ、私の心に保存！きゅん",
+        "meaning_en": "Sohee, saved in my heart! *finger heart gesture*!"
+      },
+      {
+        "text": "심장쏘희저격 뿅",
+        "meaning_ja": "心臓、ソヒに狙撃された！きゅん",
+        "meaning_en": "My heart has been sniped by Sohee! *finger heart gesture*!"
+      },
+      {
+        "text": "쏘희 없인 못 살아 뿅",
+        "meaning_ja": "ソヒなしでは生きられない！きゅん",
+        "meaning_en": "I can't live without Sohee! *finger heart gesture*!"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "소희 밥길만 걸어!",
+        "meaning_ja": "ソヒ、美味しいご飯だけ食べて！",
+        "meaning_en": "Sohee, only walk the path of delicious food! (Implies wishing him a life filled with good things, symbolized by good food)"
+      },
+      {
+        "text": "Sohee 맛잘알 인정!",
+        "meaning_ja": "Sohee、本当に美味しいもの知ってるね！さすが！",
+        "meaning_en": "Sohee, we acknowledge you as a true food connoisseur! (Taste Well Know-er recognition!)"
+      },
+      {
+        "text": "Sohee 먹짱 가보자고!",
+        "meaning_ja": "Sohee、食べるチャンピオン、行ってみよう！",
+        "meaning_en": "Sohee, let's go for the eating champion title! (Encouraging him to eat a lot and well)"
+      },
+      {
+        "text": "Sohee 위장 열일해!",
+        "meaning_ja": "Sohee、胃腸、頑張って！",
+        "meaning_en": "Sohee, work hard, stomach! (A playful way to wish him good digestion)"
+      },
+      {
+        "text": "소희 먹방 기대만땅!",
+        "meaning_ja": "Sohee、モクバン(食べる放送)超期待！",
+        "meaning_en": "Sohee, we're super excited for your mukbang! (Looking forward to him doing an eating broadcast/vlog)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "소희 꽃길만 걸어! 아프지망고!",
+        "meaning_ja": "ソヒ、花の道だけを歩いて！アポジマンゴ(痛くならないで)！",
+        "meaning_en": "Sohee, walk only the flower path! Apujimango (don't be sick)!"
+      },
+      {
+        "text": "우리 햄찌 소희, 건강 제일! 앓앓이 하지마!",
+        "meaning_ja": "私たちのハムスターソヒ、健康が一番！アルアリしないで！",
+        "meaning_en": "Our hamster Sohee, health is the most important! Don't suffer!"
+      },
+      {
+        "text": "소희 쏘 스윗! 아프면 앙대요!",
+        "meaning_ja": "ソヒ、とてもスイート！痛かったらアンデヨ！",
+        "meaning_en": "Sohee is so sweet! If you're sick, it's a no-no! (Angdaeyo is a cute way of saying \"it's not allowed\")"
+      },
+      {
+        "text": "소희야, 내 비타민! 건강 풀파워 충전!",
+        "meaning_ja": "ソヒ、私のビタミン！健康フルパワー充電！",
+        "meaning_en": "Sohee, you're my vitamin! Full power health recharge!"
+      },
+      {
+        "text": "무지개 너머 소희! 아프지 말고 행복하자!",
+        "meaning_ja": "虹の向こうのソヒ！痛くならないで、幸せになろう！",
+        "meaning_en": "Sohee beyond the rainbow! Don't be sick, let's be happy!"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "갓소희!",
+        "meaning_ja": "まじ神ソヒ！",
+        "meaning_en": "Sohee is a God! (Used when someone is incredibly good at something)"
+      },
+      {
+        "text": "쏘 프라우드!",
+        "meaning_ja": "超誇らしい！",
+        "meaning_en": "So Proud of You! (Koreanized English, common in K-pop)"
+      },
+      {
+        "text": "무대찢었다!",
+        "meaning_ja": "ステージを破った！",
+        "meaning_en": "You ripped the stage! (Meaning you performed amazingly)"
+      },
+      {
+        "text": "얼굴이 복지다!",
+        "meaning_ja": "顔面が福祉だ！",
+        "meaning_en": "Your face is welfare! (Meaning your visuals are so good they provide comfort/happiness)"
+      },
+      {
+        "text": "롬곡옘똠",
+        "meaning_ja": "号泣案件",
+        "meaning_en": "Crying a river (Intentionally misspelled to be cute; Used when moved by something)"
+      }
+    ]
+  },
+  "Anton": {
+    "LOVE_GENERAL": [
+      {
+        "text": "안톤 is 뭔들",
+        "meaning_ja": "アントンは何でも (最高)",
+        "meaning_en": "Anton is perfect no matter what (lit. \"Anton is anything\")"
+      },
+      {
+        "text": "톤이 최고존엄",
+        "meaning_ja": "トンが最高尊厳",
+        "meaning_en": "Anton is the ultimate being (lit. \"Anton is the highest dignity\")"
+      },
+      {
+        "text": "톤깅이 사랑해",
+        "meaning_ja": "トンちゃん大好き",
+        "meaning_en": "Love you Anton (lit. \"Anton-ie I love you\" - affectionate form)"
+      },
+      {
+        "text": "톤잘알",
+        "meaning_ja": "アントン通",
+        "meaning_en": "Anton expert (I know everything about you and love everything)"
+      },
+      {
+        "text": "톤며들다",
+        "meaning_ja": "アントンにハマる",
+        "meaning_en": "To fall for Anton (lit. \"To be permeated by Anton\")"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "안톤 is 뭔들",
+        "meaning_ja": "アントンは何でも最高",
+        "meaning_en": "Anton is perfect no matter what."
+      },
+      {
+        "text": "심장이  Антонович Антонович",
+        "meaning_ja": "心臓がアントノヴィッチ アントノヴィッチ (ドキドキ)",
+        "meaning_en": "My heart goes Antonovich Antonovich (Thump Thump - used for Anton's full name, implying heart palpitations)."
+      },
+      {
+        "text": "アントン 없인 못 살아",
+        "meaning_ja": "アントンなしでは生きられない",
+        "meaning_en": "I can't live without Anton."
+      },
+      {
+        "text": "アントン 사랑overdose",
+        "meaning_ja": "アントン愛が過剰摂取",
+        "meaning_en": "Anton love overdose."
+      },
+      {
+        "text": "내 맘속에 안톤 저장",
+        "meaning_ja": "私の心の中にアントン保存",
+        "meaning_en": "Anton, saved in my heart."
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "안톤아, 내 심장 쏘쏘 (Anton-a, nae simjang ssosso)",
+        "meaning_ja": "アントン、私の心臓にズッキュン",
+        "meaning_en": "Anton, you shot my heart! (Implies a strong, sudden attraction)"
+      },
+      {
+        "text": "안톤 책임져! (Anton chaegimjyeo!)",
+        "meaning_ja": "アントン、責任取って！",
+        "meaning_en": "Anton, take responsibility! (Playfully demanding Anton take responsibility for stealing your heart)"
+      },
+      {
+        "text": "입덕 부정은 끝났다! (Ipdeok bujeongeun kkeutnatda!)",
+        "meaning_ja": "ファンになるのを否定するのは終わり！",
+        "meaning_en": "Denial is over! (I can't deny I'm a fan, and now I want to marry you!)"
+      },
+      {
+        "text": "럽스타 시작 각? (Leobseuta sijak gak?)",
+        "meaning_ja": "ラブスタグラム始める感じ？",
+        "meaning_en": "Should we start a lovestagram? (Suggesting publicly showing love through social media)"
+      },
+      {
+        "text": "내 통장 가져가! (Nae tongjang gajyeoga!)",
+        "meaning_ja": "私の口座を持って行って！",
+        "meaning_en": "Take my bank account! (Expressing intense devotion and willingness to give Anton everything, including, playfully, your money.)"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "안톤 보고파삭!",
+        "meaning_ja": "アントンに会いたすぎてパリパリ！",
+        "meaning_en": "Missing Anton so much, I'm crumbling! (Relates to wanting to see someone so badly you feel like you're falling apart)"
+      },
+      {
+        "text": "내 심장 쏘쏘리, 안톤…",
+        "meaning_ja": "私の心はソーソーリー、アントン…。",
+        "meaning_en": "My heart is so, so sorry... Anton, I miss you! (Playing on the word \"sorry\" sounding similar to \"so so\" in Korean, implying a longing feeling)"
+      },
+      {
+        "text": "안톤 없인 못살앙! (못살아 + 사랑)",
+        "meaning_ja": "アントンなしでは生きられないの！大好き！",
+        "meaning_en": "I can't live without Anton! (Can't live + love, emphasizing intense longing)"
+      },
+      {
+        "text": "얼굴천재 안톤 보러 광광 운다!",
+        "meaning_ja": "顔面天才アントンに会いにギャン泣きする！",
+        "meaning_en": "Crying my eyes out to see face genius Anton! (Uses \"gwanggwang unda,\" a slang term for crying dramatically)."
+      },
+      {
+        "text": "안톤 스릉흔드… (사랑을 릉으로 표현)",
+        "meaning_ja": "アントン愛してる… (愛をちょっと変な言い方で表現)",
+        "meaning_en": "I love Anton so much... (Love, but expressed in a cute, slightly odd way, hinting at missing Anton)."
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "톤깅이랑 럽프듀",
+        "meaning_ja": "アントンとラブプロデュース (Anton to rabu purodyūsu)",
+        "meaning_en": "Love Produce with Anton (referencing Produce 101 style shows, meaning always supporting him)"
+      },
+      {
+        "text": "톤냥이 맘 훔쳐",
+        "meaning_ja": "アントンの心を盗む (Anton no kokoro o nusumu)",
+        "meaning_en": "Stealing Anton's heart (playful way of saying \"we adore you\")"
+      },
+      {
+        "text": "톤며들다 навеки",
+        "meaning_ja": "アントンにハマる, 永遠に (Anton ni hamaru, eien ni)",
+        "meaning_en": "Falling for Anton, forever (using Russian word навеки (naveki) to mimic internet slang using foreign words)"
+      },
+      {
+        "text": "톤옵잘알!",
+        "meaning_ja": "アントンのことめっちゃ詳しい！ (Anton no koto meccha kuwashii!)",
+        "meaning_en": "You know Anton very well! (Expressing admiration for knowing and loving Anton)"
+      },
+      {
+        "text": "톤생네컷 소장각",
+        "meaning_ja": "アントンの人生4カット、絶対保存 (Anton no jinsei 4-cut, zettai hozon)",
+        "meaning_en": "Gotta keep Anton's photo booth pictures! (Meaning: Treasuring all moments of Anton forever)"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "쿼카됴",
+        "meaning_ja": "クオッカみたいに可愛い！",
+        "meaning_en": "You're as cute as a quokka! (Implies overflowing cuteness)"
+      },
+      {
+        "text": "안톤이는 걍 천사",
+        "meaning_ja": "アントンはマジ天使",
+        "meaning_en": "Anton is literally an angel. (Emphasizes angelic beauty/nature)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔が福祉",
+        "meaning_en": "Your face is welfare. (Meaning: Seeing your face makes me happy and fulfilled, like receiving welfare benefits.)"
+      },
+      {
+        "text": "덕분에 삶이 풍족해진다",
+        "meaning_ja": "あなたのおかげで人生が豊かになる",
+        "meaning_en": "Thanks to you, my life is enriched. (Expresses how Anton's existence enhances the fan's life.)"
+      },
+      {
+        "text": "심장이  Антонов(Antonov)",
+        "meaning_ja": "心臓がアントノフ",
+        "meaning_en": "My heart is an Antonov. (Play on words, comparing the heart beating fast to the roar of the Antonov plane)"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "만찢남 안톤!",
+        "meaning_ja": "漫画から飛び出たようなアントン！",
+        "meaning_en": "Anton, straight out of a manga! (Complimentary, emphasizing visual appeal)"
+      },
+      {
+        "text": "アントン, 입덕 부정은 없다!",
+        "meaning_ja": "アントン、オタになるのを否定できない！",
+        "meaning_en": "Anton, there's no denying you'll become a stan! (Playful, suggesting Anton is irresistible)"
+      },
+      {
+        "text": "심장이  Антоне 쿵해쪄!",
+        "meaning_ja": "心臓がアントンのせいでドキドキしちゃった！",
+        "meaning_en": "My heart went 'boong' because of Anton! (Cute, imitates onomatopoeia for heartbeat)"
+      },
+      {
+        "text": "アントン, 덕질 풀파워!",
+        "meaning_ja": "アントン、推し活フルパワー！",
+        "meaning_en": "Anton, stan activities, full power! (Energetic, encouraging active fandom)"
+      },
+      {
+        "text": "アントン 보고 힐링!",
+        "meaning_ja": "アントンを見て癒し！",
+        "meaning_en": "Healing by watching Anton! (Expressing comfort and joy derived from Anton)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "갓톤",
+        "meaning_ja": "神トン (Kami Ton)",
+        "meaning_en": "God-ton (Referring to Anton as God-like)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔面が福祉 (Ganmen ga Fukushi)",
+        "meaning_en": "Your face is welfare (Meaning your beauty makes me happy/healthy)"
+      },
+      {
+        "text": "심장이 웅",
+        "meaning_ja": "心臓がドゥン (Shinzou ga Doun)",
+        "meaning_en": "My heart goes \"Woong!\" (Sound of heartbeat going boom from excitement)"
+      },
+      {
+        "text": "안톤이즈뭔들",
+        "meaning_ja": "アントンイズ何でも (Antonizu Nandemo)",
+        "meaning_en": "Anton is \"anything-deul\" (Anton can pull anything off)"
+      },
+      {
+        "text": "덕분에 살아요",
+        "meaning_ja": "おかげで生きてます (Okage de Ikitemasu)",
+        "meaning_en": "I live thanks to you (Expressing gratitude for Anton's existence)"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "만찢남 앤톤",
+        "meaning_ja": "漫画から出てきたようなアントン",
+        "meaning_en": "Anton, straight out of a manga (visuals)"
+      },
+      {
+        "text": "심장폭행 앤톤",
+        "meaning_ja": "心臓を叩きつけるようなアントン",
+        "meaning_en": "Anton, my heart is under attack (visuals)"
+      },
+      {
+        "text": "갓기 앤톤",
+        "meaning_ja": "神のような赤ちゃんアントン",
+        "meaning_en": "God-baby Anton (precious & pure)"
+      },
+      {
+        "text": "귀염뽀짝 앤톤",
+        "meaning_ja": "めちゃくちゃ可愛いアントン",
+        "meaning_en": "Super Adorable Anton (cute)"
+      },
+      {
+        "text": "내 힐링 앤톤",
+        "meaning_ja": "私の癒しアントン",
+        "meaning_en": "My Healing Anton (comforting and precious)"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴천재 안톤!",
+        "meaning_ja": "顔面天才アントン！(Ganmen tensai Anton!)",
+        "meaning_en": "Face Genius Anton!"
+      },
+      {
+        "text": "비주얼 미쳤다!",
+        "meaning_ja": "ビジュアルがヤバい！(Bijuaru ga yabai!)",
+        "meaning_en": "His visuals are insane!"
+      },
+      {
+        "text": "안톤 is 뭔들!",
+        "meaning_ja": "アントンは何でも良い！(Anton wa nan demo ii!)",
+        "meaning_en": "Anton is good no matter what he does/wears! (Implies everything looks good on him)"
+      },
+      {
+        "text": "조각미남 안톤!",
+        "meaning_ja": "彫刻美男アントン！(Choukoku binan Anton!)",
+        "meaning_en": "Sculpted beauty Anton!"
+      },
+      {
+        "text": "넘사벽 비주얼!",
+        "meaning_ja": "越えられない壁のビジュアル！(Koerarenai kabe no bijuaru!)",
+        "meaning_en": "Impassable wall of visuals! (His visuals are on another level.)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "안톤 is 뭔들! ❤️",
+        "meaning_ja": "アントンは何でも(最高)！",
+        "meaning_en": "Anton can do anything! (He's the best!)"
+      },
+      {
+        "text": "심장 Anton 저격! ❤️",
+        "meaning_ja": "心臓アントン狙撃！(ドキュン)",
+        "meaning_en": "Anton sniped my heart! (Thump-thump)"
+      },
+      {
+        "text": "Anton 얼굴이 복지다 ❤️",
+        "meaning_ja": "アントンの顔が福祉だ(ありがたい)",
+        "meaning_en": "Anton's face is welfare (I'm blessed by his beauty)"
+      },
+      {
+        "text": "내 심장 쏘Anton! ❤️",
+        "meaning_ja": "私の心臓を撃てAnton！(キュン死)",
+        "meaning_en": "Shoot my heart, Anton! (I'm dying of cuteness)"
+      },
+      {
+        "text": "Anton 때문에 햄복해 ❤️",
+        "meaning_ja": "アントンのおかげで幸せ",
+        "meaning_en": "I'm happy because of Anton"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "밥톤해!",
+        "meaning_ja": "ご飯いっぱい食べてね！",
+        "meaning_en": "Eat lots of food, Anton! (Combines \"Bap/밥\" meaning rice/meal and Anton's name with the \"hae\" ending like \"I love you\" to create a verb.)"
+      },
+      {
+        "text": "뇸뇸톤!",
+        "meaning_ja": "もぐもぐアントン！",
+        "meaning_en": "Nom nom Anton! (Uses the onomatopoeia \"nyom nyom/뇸뇸\" for eating sounds with Anton's name)"
+      },
+      {
+        "text": "맛잘알톤!",
+        "meaning_ja": "美味しいもの知ってるアントン！",
+        "meaning_en": "Anton knows delicious things! (맛잘알 (mat-jal-al) is slang for someone who knows good food.)"
+      },
+      {
+        "text": "위장힐링톤!",
+        "meaning_ja": "胃腸を癒すアントン！",
+        "meaning_en": "Healing stomach Anton! (Implies Anton should eat things that comfort and heal his stomach.)"
+      },
+      {
+        "text": "꿀꺽톤!",
+        "meaning_ja": "ごっくんアントン！",
+        "meaning_en": "*Gul-geok* Anton! (꿀꺽 (kkul-geok) is the sound of gulping down food or drink, implying Anton should enjoy his food.)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "만반잘부, 안톤!",
+        "meaning_ja": "万事うまくいくように、アントン！ (Manji umakuiku you ni, Anton!)",
+        "meaning_en": "Anton, May everything go well! (Implies taking care of yourself so everything goes well)"
+      },
+      {
+        "text": "아프지마, 막내!",
+        "meaning_ja": "病気しないで、マンネ！ (Byouki shinaide, Manne!)",
+        "meaning_en": "Don't get sick, maknae!"
+      },
+      {
+        "text": "꽃길만 걷자, 안톤! (건강하게!)",
+        "meaning_ja": "花道だけを歩もう、アントン！(元気にね！) (Hanamichi dake o ayumou, Anton! (Genki ni ne!))",
+        "meaning_en": "Let's only walk flower paths, Anton! (Stay healthy!)"
+      },
+      {
+        "text": "넘어지지마, 안톤! (건강하게 서있어!)",
+        "meaning_ja": "転ばないで、アントン！(元気に立ってて！) (Korobanai de, Anton! (Genki ni tattete!))",
+        "meaning_en": "Don't fall, Anton! (Stay strong and healthy!)"
+      },
+      {
+        "text": "오래보자, 안톤! (아프지말고!)",
+        "meaning_ja": "長く会おうね、アントン！(病気にならないで！) (Nagaku aou ne, Anton! (Byouki ni naranai de!))",
+        "meaning_en": "Let's see each other for a long time, Anton! (Don't get sick!)"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "안톤 찢었다!",
+        "meaning_ja": "アントン、マジ最高！(찢었다 is like \"ripped it,\" so intense \"best!)",
+        "meaning_en": "Anton, you killed it! (Anton, you ripped it!)"
+      },
+      {
+        "text": "존잘 Anton!",
+        "meaning_ja": "超イケメン Anton！(존잘 is short for \"very handsome\")",
+        "meaning_en": "So handsome, Anton! (Super good-looking Anton!)"
+      },
+      {
+        "text": "무대 뿌셔! Anton!",
+        "meaning_ja": "ステージをぶっ壊せ！Anton！(뿌셔 is like \"destroy/smash\")",
+        "meaning_en": "Destroy the stage, Anton! (Smash the stage, Anton!)"
+      },
+      {
+        "text": "Anton 덕분에 입덕!",
+        "meaning_ja": "Antonのおかげでファンになった！(덕분에 is \"thanks to,\" 입덕 is \"becoming a fan\")",
+        "meaning_en": "Became a fan thanks to Anton! (Because of Anton, I became a fan!)"
+      },
+      {
+        "text": "오늘도 Anton이 캐리!",
+        "meaning_ja": "今日もAntonがキャリー！(캐리 is from \"carry\" in gaming, meaning someone did a great job leading)",
+        "meaning_en": "Anton carried today too! (Anton is carrying it today!)"
+      }
+    ]
+  }
+}
