@@ -112,9 +112,9 @@
 <body>
     <div class="container">
         <header>
-            <!-- [SEO] URL 파라미터 방식으로 언어 변경 (onchange 제거됨 -> main.js가 처리) -->
+            <!-- [수정] onchange 이벤트를 추가하여 페이지를 새로고침하도록 변경 -->
             <div class="lang-switcher">
-                <select id="src-lang" aria-label="Select Language">
+                <select id="src-lang" aria-label="Select Language" onchange="window.location.href = '?lang=' + this.value">
                     <option value="ja" {% if current_lang == 'ja' %}selected{% endif %}>🇯🇵 日本語</option>
                     <option value="en" {% if current_lang == 'en' %}selected{% endif %}>🇺🇸 English</option>
                     <option value="ko" {% if current_lang == 'ko' %}selected{% endif %}>🇰🇷 한국어</option>
@@ -326,12 +326,13 @@
 
     </div>
     
-    <!-- [SEO] 초기 언어 설정 적용 (main.js가 로드되면 실행됨) -->
+    <!-- [수정] 페이지 로드 시 UI 텍스트 업데이트 스크립트 -->
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            // main.js의 updateUI 함수가 로드된 후 실행 (동적 언어 변경 대응)
+            // 페이지가 로드될 때, 서버에서 전달받은 현재 언어(window.CURRENT_LANG)를 기반으로
+            // data.js에 있는 updateUI 함수를 호출하여 화면의 텍스트를 변경합니다.
             if (typeof updateUI === 'function') {
-                // select 박스 값은 이미 jinja2에서 세팅되었으므로 UI 텍스트만 갱신
+                updateUI(window.CURRENT_LANG);
             }
         });
     </script>

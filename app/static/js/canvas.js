@@ -1,175 +1,146 @@
-// Canvas 및 Fabric.js 관련 로직
+// app/static/js/canvas.js
 
 let canvas;
-let currentTextObj = null;
+let activeTextObject = null; // 현재 활성화된 텍스트 객체를 추적
 
-// 초기화
-document.addEventListener('DOMContentLoaded', () => {
-    initCanvas();
+// 캔버스 초기화
+document.addEventListener('DOMContentLoaded', function() {
+    if (document.getElementById('c')) {
+        canvas = new fabric.Canvas('c', {
+            backgroundColor: '#FFFFFF',
+            preserveObjectStacking: true
+        });
+
+        // 캔버스에서 선택이 해제되었을 때 activeTextObject를 null로 설정
+        canvas.on('selection:cleared', function() {
+            activeTextObject = null;
+        });
+
+        // 객체가 선택되었을 때 activeTextObject를 업데이트
+        canvas.on('selection:created', function(e) {
+            if (e.target && e.target.type === 'i-text') {
+                activeTextObject = e.target;
+            }
+        });
+        
+        canvas.on('selection:updated', function(e) {
+            if (e.target && e.target.type === 'i-text') {
+                activeTextObject = e.target;
+            }
+        });
+    }
 });
 
-function initCanvas() {
-    canvas = new fabric.Canvas('c', {
-        backgroundColor: '#ffffff',
-        preserveObjectStacking: true
-    });
 
-    // 텍스트 기본 추가
-    addText("Text Here");
-}
-
-// 텍스트 추가/수정
-function addText(text) {
+// 텍스트 객체를 캔버스에 추가하는 함수
+function addTextToCanvas(text, options = {}) {
     if (!canvas) return;
-    
+
+    // 기존 텍스트 객체 제거
+    if (activeTextObject) {
+        canvas.remove(activeTextObject);
+    }
+
     const textObj = new fabric.IText(text, {
         left: canvas.width / 2,
         top: canvas.height / 2,
-        fontFamily: 'GmarketSans',
-        fill: '#ffffff', // 기본 흰색
-        fontSize: 50,
         originX: 'center',
         originY: 'center',
-        fontWeight: 'bold',
-        stroke: '#ff4081', // 테두리 핑크
-        strokeWidth: 2,
+        fontFamily: options.font || 'GmarketSans',
+        fill: options.color || '#333333',
+        stroke: options.stroke || '#FFFFFF',
+        strokeWidth: options.strokeWidth || 1.2,
         paintFirst: 'stroke',
-        textAlign: 'center'
+        fontSize: 60,
+        textAlign: 'center',
+        // [수정] 'alphabetical' -> 'alphabetic'
+        textBaseline: 'alphabetic', 
+        lineHeight: 1.2,
+        styles: options.styles || {}
     });
 
     canvas.add(textObj);
     canvas.setActiveObject(textObj);
-    currentTextObj = textObj;
+    activeTextObject = textObj; // 새로운 텍스트 객체를 활성 객체로 설정
     canvas.renderAll();
 }
 
-// 기존 텍스트 교체 (메인 텍스트만)
-function replaceMainText(newText) {
+// 방향 전환 함수
+function changeOrientation(orientation) {
     if (!canvas) return;
-    
-    // 현재 선택된 객체가 텍스트라면 교체, 아니면 기존 i-text 찾아서 교체
-    let target = canvas.getActiveObject();
-    
-    if (!target || target.type !== 'i-text') {
-        const objects = canvas.getObjects();
-        // 가장 최근에 추가된 i-text를 찾음
-        for (let i = objects.length - 1; i >= 0; i--) {
-            if (objects[i].type === 'i-text') {
-                target = objects[i];
-                break;
-            }
-        }
-    }
-
-    if (target && target.type === 'i-text') {
-        target.set('text', newText);
-        canvas.setActiveObject(target);
-        canvas.renderAll();
+    if (orientation === 'portrait') {
+        canvas.setWidth(350);
+        canvas.setHeight(500);
     } else {
-        // 텍스트 객체가 없으면 새로 추가
-        addText(newText);
+        canvas.setWidth(500);
+        canvas.setHeight(350);
     }
+    canvas.getObjects().forEach(obj => {
+        obj.center();
+    });
+    canvas.renderAll();
 }
 
-// 배경색 변경 (setSolidBg는 main.js 호환용)
-function setSolidBg(color) {
-    changeBg(color);
-}
-
+// 배경색 변경 함수
 function changeBg(color) {
     if (!canvas) return;
     canvas.setBackgroundColor(color, canvas.renderAll.bind(canvas));
-    // 패턴 이미지가 있다면 제거
-    canvas.setBackgroundImage(null, canvas.renderAll.bind(canvas));
+    canvas.backgroundImage = null; // 배경 이미지 제거
 }
 
-// 팔레트에서 색상 변경 (텍스트 색상)
-function changePalette(input) {
-    const color = input.value;
-    const activeObj = canvas.getActiveObject();
-    if (activeObj && activeObj.type === 'i-text') {
-        activeObj.set('fill', color);
-        canvas.renderAll();
-    } else {
-        // 선택된 게 없으면 배경색 변경
-        changeBg(color);
-    }
-}
-
-// 패턴(템플릿) 설정
-function setPattern(filename) {
+// 배경 패턴 설정 함수
+function setPattern(patternName) {
     if (!canvas) return;
-    const url = `/static/images/templates/${filename}`;
-    fabric.Image.fromURL(url, function(img) {
-        img.scaleToWidth(canvas.width);
-        img.scaleToHeight(canvas.height);
+    const imgURL = `/static/images/templates/${patternName}`;
+    fabric.Image.fromURL(imgURL, function(img) {
         canvas.setBackgroundImage(img, canvas.renderAll.bind(canvas), {
             scaleX: canvas.width / img.width,
             scaleY: canvas.height / img.height
         });
-        canvas.setBackgroundColor(null, canvas.renderAll.bind(canvas));
     });
 }
 
-// 스티커 추가
-function addSticker(filename) {
+// 스티커 추가 함수
+function addSticker(stickerName) {
     if (!canvas) return;
-    const url = `/static/images/stickers/${filename}`;
-    fabric.Image.fromURL(url, function(img) {
-        img.scale(0.3); // 적절한 크기로 축소
+    const stickerUrl = `/static/images/stickers/${stickerName}`;
+    fabric.Image.fromURL(stickerUrl, function(img) {
+        img.scale(0.3);
         img.set({
             left: canvas.width / 2,
-            top: canvas.height / 2,
+            top: canvas.height / 3,
             originX: 'center',
-            originY: 'center'
+            originY: 'center',
         });
         canvas.add(img);
-    });
+        canvas.setActiveObject(img);
+    }, { crossOrigin: 'anonymous' });
 }
 
-// 방향 전환 (Portrait / Landscape)
-function changeOrientation(mode) {
+
+// 팔레트 색상 변경
+function changePalette(colorPicker) {
     if (!canvas) return;
-    
-    if (mode === 'landscape') {
-        canvas.setWidth(500);
-        canvas.setHeight(350);
-    } else {
-        canvas.setWidth(350);
-        canvas.setHeight(500);
+    const color = colorPicker.value;
+    const activeObject = canvas.getActiveObject();
+
+    if (activeObject && activeObject.type === 'i-text') {
+        activeObject.set('fill', color);
+        canvas.renderAll();
     }
-    
-    // 중앙 재정렬
-    const center = canvas.getCenter();
-    canvas.getObjects().forEach(obj => {
-        obj.set({
-            left: center.left,
-            top: center.top
-        });
-        obj.setCoords();
-    });
-    
-    canvas.renderAll();
 }
 
-// [핵심 수정] 이미지 다운로드 (고화질)
+
+// 이미지 다운로드 함수
 function downloadImage() {
     if (!canvas) return;
-
-    // 선택된 객체(테두리 등) 잠시 해제
-    canvas.discardActiveObject();
-    canvas.renderAll();
-
-    // [개선] 3배 해상도로 저장하여 인쇄 품질 확보
     const dataURL = canvas.toDataURL({
         format: 'png',
-        quality: 1.0,
-        multiplier: 3  
+        quality: 1.0
     });
-
     const link = document.createElement('a');
-    link.download = 'nomujoa_slogan.png';
     link.href = dataURL;
+    link.download = 'nomujoa_design.png';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

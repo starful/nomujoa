@@ -1,3 +1,5 @@
+# app/__init__.py
+
 from flask import Flask, render_template, request, jsonify, send_from_directory
 from flask_compress import Compress
 from flask import Response
@@ -6,6 +8,7 @@ import os
 import json
 import frontmatter
 import markdown
+import datetime # [추가] 날짜 처리를 위해 datetime 모듈 임포트
 
 app = Flask(__name__)
 
@@ -34,32 +37,51 @@ def load_groups():
     # 2. 목표로 하는 json 파일 경로
     json_path = os.path.join(app_dir, 'data', 'groups.json')
     
-    print("-" * 50)
-    print(f"🕵️‍♀️ [디버깅] 현재 파일 위치: {current_file_path}")
-    print(f"📂 [디버깅] JSON 파일 찾는 곳: {json_path}")
-    
     # 3. 파일 존재 여부 확인
     if os.path.exists(json_path):
-        print("✅ [디버깅] 파일이 존재합니다!")
         try:
             with open(json_path, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-                print(f"📊 [디버깅] 로드된 그룹 개수: {len(data)}개")
-                print(f"👀 [디버깅] 데이터 미리보기: {list(data.keys())[:3]}...")
-                return data
+                return json.load(f)
         except Exception as e:
             print(f"❌ [디버깅] 파일은 있는데 읽기 실패 (JSON 문법 오류 등): {e}")
             return {}
     else:
-        print("❌ [디버깅] 파일이 없습니다!!! 경로를 다시 확인하세요.")
-        # 혹시 파일이 엉뚱한데 있는지 확인하기 위해 현재 폴더 목록 출력
-        print(f"❓ [디버깅] '{os.path.join(app_dir, 'data')}' 폴더 안의 파일들: ")
-        try:
-            print(os.listdir(os.path.join(app_dir, 'data')))
-        except:
-            print("   (data 폴더 자체가 없는 것 같습니다)")
+        print(f"❌ [디버깅] 파일이 없습니다!!! 경로를 다시 확인하세요.")
         return {}
-    print("-" * 50)
+
+# ==========================================
+# [추가] 최근 위키 포스트 로드 함수
+# ==========================================
+def load_recent_wiki_posts(count=4):
+    wiki_dir = os.path.join(app.root_path, 'content', 'wiki')
+    posts = []
+    if os.path.exists(wiki_dir):
+        for filename in os.listdir(wiki_dir):
+            if filename.endswith('.md'):
+                try:
+                    filepath = os.path.join(wiki_dir, filename)
+                    with open(filepath, 'r', encoding='utf-8') as f:
+                        post = frontmatter.load(f)
+                        
+                        # 날짜 메타데이터 처리 (문자열 -> datetime 객체)
+                        post_date = post.get('date', datetime.date.min)
+                        if isinstance(post_date, str):
+                            post_date = datetime.datetime.strptime(post_date, '%Y-%m-%d').date()
+
+                        posts.append({
+                            'title': post.get('title', 'No Title'),
+                            'summary': post.get('summary', ''),
+                            'slug': filename.replace('.md', ''),
+                            'category': post.get('category', 'General'),
+                            'date': post_date
+                        })
+                except Exception as e:
+                    print(f"Error processing wiki file {filename}: {e}")
+
+    # 날짜 최신순으로 정렬
+    posts.sort(key=lambda p: p['date'], reverse=True)
+    return posts[:count]
+
 
 # ==========================================
 # 라우트 설정
@@ -69,11 +91,11 @@ def load_groups():
 def index():
     lang = request.args.get('lang', 'ja')
     
-    # 1. 원본 그룹 데이터 로드
+    # 1. 그룹 및 번역 데이터 로드
     all_groups = load_groups() 
     translations = load_translations()
     
-    # 2. [핵심] dicts 폴더에 파일이 존재하는 그룹만 필터링
+    # 2. dicts 폴더에 파일이 있는 그룹만 필터링
     dicts_dir = os.path.join(app.root_path, 'data', 'dicts')
     available_groups = {}
     
@@ -83,22 +105,26 @@ def index():
             if os.path.exists(os.path.join(dicts_dir, dict_file)):
                 available_groups[group_name] = group_info
     
-    # 3. 필터링된 그룹 데이터만 HTML로 전달
+    # 3. [수정] 최근 위키 포스트 로드 로직 추가
+    recent_wiki = load_recent_wiki_posts(4)
+
+    # 4. [수정] 필터링된 그룹 데이터와 위키 데이터를 HTML로 전달
     return render_template(
         'index.html', 
-        group_data=available_groups,  # <--- all_groups 대신 available_groups 전달
+        group_data=available_groups,
         translations=translations, 
-        current_lang=lang
+        current_lang=lang,
+        recent_wiki=recent_wiki  # <--- 템플릿에 위키 데이터 전달
     )
 
 @app.route('/guide')
 def guide():
-    translations = load_translations() # [추가]
+    translations = load_translations()
     return render_template('guide.html', translations=translations)
 
 @app.route('/privacy')
 def privacy():
-    translations = load_translations() # [추가]
+    translations = load_translations()
     return render_template('privacy.html', translations=translations)
 
 @app.route('/robots.txt')
@@ -180,8 +206,11 @@ def wiki_list():
                         'title': post['title'],
                         'summary': post['summary'],
                         'slug': filename.replace('.md', ''),
-                        'tags': post['tags']
+                        'tags': post.get('tags', [])
                     })
+    
+    # [수정] 날짜가 없으면 기본값으로 정렬, 최신순 정렬 추가
+    posts.sort(key=lambda p: p.get('date', datetime.date.min), reverse=True)
     return render_template('wiki_list.html', posts=posts)
 
 # [Wiki 상세 페이지]
