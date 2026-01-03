@@ -76,7 +76,7 @@ def sync_groups_from_csv():
 
 def generate_slang_list(group_name, member_name, intent_jp, intent_key):
     """Gemini API를 호출하여 K-POP 슬랭 리스트를 생성합니다."""
-    model = genai.GenerativeModel('gemini-2.0-flash')
+    model = genai.GenerativeModel('gemini-flash-latest')
     
     target_desc = f"group '{group_name}'"
     if member_name != "All":
