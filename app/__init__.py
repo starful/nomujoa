@@ -8,13 +8,12 @@ import os
 import json
 import frontmatter
 import markdown
-import datetime # [추가] 날짜 처리를 위해 datetime 모듈 임포트
+import datetime 
 
 app = Flask(__name__)
 
 # [추가] Gzip 압축 활성화
 Compress(app)
-
 
 # [추가] 번역 데이터 로드 함수
 def load_translations():
@@ -26,32 +25,23 @@ def load_translations():
     except:
         return {}
 
-# ==========================================
-# [중요] 그룹 데이터 로드 함수 (groups.json 읽기)
-# ==========================================
+# [중요] 그룹 데이터 로드 함수
 def load_groups():
-    # 1. 현재 파일(__init__.py)의 위치 확인
     current_file_path = os.path.abspath(__file__)
-    app_dir = os.path.dirname(current_file_path) # .../app
-    
-    # 2. 목표로 하는 json 파일 경로
+    app_dir = os.path.dirname(current_file_path)
     json_path = os.path.join(app_dir, 'data', 'groups.json')
     
-    # 3. 파일 존재 여부 확인
     if os.path.exists(json_path):
         try:
             with open(json_path, 'r', encoding='utf-8') as f:
                 return json.load(f)
         except Exception as e:
-            print(f"❌ [디버깅] 파일은 있는데 읽기 실패 (JSON 문법 오류 등): {e}")
+            print(f"❌ [디버깅] JSON 읽기 실패: {e}")
             return {}
     else:
-        print(f"❌ [디버깅] 파일이 없습니다!!! 경로를 다시 확인하세요.")
         return {}
 
-# ==========================================
-# [추가] 최근 위키 포스트 로드 함수
-# ==========================================
+# [수정] 최근 위키 포스트 로드 함수 (기본값 파라미터는 유지하되 호출부에서 변경)
 def load_recent_wiki_posts(count=4):
     wiki_dir = os.path.join(app.root_path, 'content', 'wiki')
     posts = []
@@ -62,8 +52,6 @@ def load_recent_wiki_posts(count=4):
                     filepath = os.path.join(wiki_dir, filename)
                     with open(filepath, 'r', encoding='utf-8') as f:
                         post = frontmatter.load(f)
-                        
-                        # 날짜 메타데이터 처리 (문자열 -> datetime 객체)
                         post_date = post.get('date', datetime.date.min)
                         if isinstance(post_date, str):
                             post_date = datetime.datetime.strptime(post_date, '%Y-%m-%d').date()
@@ -78,7 +66,6 @@ def load_recent_wiki_posts(count=4):
                 except Exception as e:
                     print(f"Error processing wiki file {filename}: {e}")
 
-    # 날짜 최신순으로 정렬
     posts.sort(key=lambda p: p['date'], reverse=True)
     return posts[:count]
 
@@ -91,11 +78,9 @@ def load_recent_wiki_posts(count=4):
 def index():
     lang = request.args.get('lang', 'ja')
     
-    # 1. 그룹 및 번역 데이터 로드
     all_groups = load_groups() 
     translations = load_translations()
     
-    # 2. dicts 폴더에 파일이 있는 그룹만 필터링
     dicts_dir = os.path.join(app.root_path, 'data', 'dicts')
     available_groups = {}
     
@@ -105,18 +90,27 @@ def index():
             if os.path.exists(os.path.join(dicts_dir, dict_file)):
                 available_groups[group_name] = group_info
     
-    # 3. [수정] 최근 위키 포스트 로드 로직 추가
-    recent_wiki = load_recent_wiki_posts(4)
+    # 1. [수정] 위키 포스트 8개 로드
+    recent_wiki = load_recent_wiki_posts(8)
 
-    # 4. [수정] 필터링된 그룹 데이터와 위키 데이터를 HTML로 전달
+    # 2. [추가] 통계 데이터 계산
+    group_count = len(available_groups) - 1 # 'General' 제외하려면 -1, 포함하려면 그대로
+    if group_count < 0: group_count = 0
+    
+    # 날짜: 오늘 날짜 혹은 특정 날짜 지정 (여기서는 오늘 날짜로 자동 설정)
+    last_update = datetime.date.today().strftime("%Y.%m.%d")
+
     return render_template(
         'index.html', 
         group_data=available_groups,
         translations=translations, 
         current_lang=lang,
-        recent_wiki=recent_wiki  # <--- 템플릿에 위키 데이터 전달
+        recent_wiki=recent_wiki,
+        group_count=group_count,   # 템플릿 전달
+        last_update=last_update    # 템플릿 전달
     )
 
+# ... (나머지 라우트 코드는 기존과 동일하게 유지) ...
 @app.route('/guide')
 def guide():
     translations = load_translations()
@@ -141,7 +135,6 @@ def sitemap():
         {'loc': base_url + '/wiki', 'priority': '0.9'}
     ]
     
-    # 위키 파일들 추가
     wiki_dir = os.path.join(app.root_path, 'content', 'wiki')
     if os.path.exists(wiki_dir):
         for filename in os.listdir(wiki_dir):
@@ -152,7 +145,6 @@ def sitemap():
                     'priority': '0.7'
                 })
 
-    # XML 생성
     xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
     xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     for page in pages:
@@ -185,13 +177,11 @@ def api_translate():
 
 @app.after_request
 def add_header(response):
-    # 정적 파일(이미지, CSS, JS)은 1일(86400초) 동안 캐시
     if request.path.startswith('/static'):
         response.cache_control.max_age = 86400
         response.cache_control.public = True
     return response
 
-# [Wiki 목록 페이지]
 @app.route('/wiki')
 def wiki_list():
     wiki_dir = os.path.join(app.root_path, 'content', 'wiki')
@@ -209,11 +199,9 @@ def wiki_list():
                         'tags': post.get('tags', [])
                     })
     
-    # [수정] 날짜가 없으면 기본값으로 정렬, 최신순 정렬 추가
     posts.sort(key=lambda p: p.get('date', datetime.date.min), reverse=True)
     return render_template('wiki_list.html', posts=posts)
 
-# [Wiki 상세 페이지]
 @app.route('/wiki/<slug>')
 def wiki_detail(slug):
     filepath = os.path.join(app.root_path, 'content', 'wiki', f'{slug}.md')

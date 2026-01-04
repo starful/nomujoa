@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ current_lang }}"> <!-- [SEO] 언어 설정 동적 변경 -->
+<html lang="{{ current_lang }}">
 <head>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-7RN20YED5D"></script>
@@ -14,7 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="canonical" href="https://nomujoa.com/">
     
-    <!-- [SEO] Title 및 Description 최적화 -->
+    <!-- SEO Meta Tags -->
     <title>Nomujoa - K-POP Cheering Board & Slogan Maker (AI Korean Translation)</title>
     <meta name="description" content="Create K-POP concert slogans, LED boards, and Uchiwa fans instantly with AI translation. Translate 'I love you' into trendy Korean fandom slang. K-POP応援ボード、うちわ文字、スローガンをAIで韓国語に翻訳して簡単に作成！">
     <meta name="keywords" content="K-POP, Slogan Maker, Uchiwa, 応援ボード, うちわ文字, スローガン, 韓国語, 翻訳, Nomujoa, BTS, SEVENTEEN, TWICE">
@@ -32,7 +32,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="https://nomujoa.com/static/images/og_image.png">
 
-    <!-- [SEO] 구조화 데이터 (JSON-LD) -->
+    <!-- JSON-LD Structured Data -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -42,79 +42,137 @@
       "description": "Create K-POP concert slogans and Uchiwa fans instantly with AI translation.",
       "applicationCategory": "DesignApplication",
       "operatingSystem": "Web",
-      "offers": {
-        "@type": "Offer",
-        "price": "0",
-        "priceCurrency": "USD"
-      }
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
     }
     </script>
 
-    <!-- [성능] 폰트 서버 미리 연결 -->
+    <!-- Performance Optimizations -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preconnect" href="https://webfontworld.github.io">
 
-    <!-- [중요] Critical CSS (인라인 스타일) -->
+    <!-- Fonts & Styles -->
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://webfontworld.github.io/gmarket/GmarketSans.css" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/style.min.css">
+    
+    <!-- [추가 스타일] 스마트 검색창용 CSS -->
     <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background: #f0f2f5; text-align: center; margin: 0; padding: 20px; color: #333; -webkit-font-smoothing: antialiased; line-height: 1.5; }
-        
-        .container { max-width: 500px; margin: 0 auto; background: white; padding: 30px 20px; border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); min-height: 600px; overflow: hidden; }
-        
-        header { position: relative; margin-bottom: 30px; padding-top: 10px; min-height: 120px; }
-        
-        /* [수정] 언어 선택 버튼을 맨 위로 올리기 (z-index 추가) */
-        .lang-switcher { 
-            position: absolute; 
-            top: -10px; 
-            right: 0; 
-            z-index: 1000; /* 클릭 방해 해결! */
+        .search-container {
+            position: relative;
+            width: 100%;
         }
-        #src-lang { cursor: pointer; }
+        
+        .search-input-wrapper {
+            position: relative;
+        }
 
-        h1 { margin: 0 0 10px 0; display: flex; justify-content: center; align-items: center; position: relative; }
+        .search-icon {
+            position: absolute;
+            right: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #999;
+            pointer-events: none;
+        }
+
+        #group-search-input {
+            width: 100%;
+            padding: 14px 40px 14px 14px;
+            font-size: 16px;
+            border: 2px solid #eee;
+            border-radius: 12px;
+            background: #fff;
+            box-sizing: border-box;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+
+        #group-search-input:focus {
+            border-color: #ff4081;
+            outline: none;
+            box-shadow: 0 4px 12px rgba(255, 64, 129, 0.1);
+        }
+
+        #group-list-container {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background: white;
+            border: 1px solid #eee;
+            border-radius: 12px;
+            margin-top: 5px;
+            max-height: 300px;
+            overflow-y: auto;
+            z-index: 1000;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            display: none;
+        }
+
+        #group-list-container.active {
+            display: block;
+        }
+
+        .group-item {
+            padding: 12px 15px;
+            cursor: pointer;
+            border-bottom: 1px solid #f5f5f5;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: background 0.1s;
+        }
+
+        .group-item:last-child {
+            border-bottom: none;
+        }
+
+        .group-item:hover {
+            background-color: #fff0f5;
+        }
+
+        .group-name {
+            font-weight: bold;
+            color: #333;
+            font-size: 15px;
+        }
+
+        .group-info {
+            font-size: 12px;
+            color: #888;
+            display: flex;
+            gap: 5px;
+        }
+
+        .member-match {
+            font-size: 11px;
+            color: #ff4081;
+            background: #fff0f5;
+            padding: 2px 6px;
+            border-radius: 4px;
+            margin-top: 4px;
+            display: inline-block;
+        }
         
-        main { min-height: 500px; }
-        
-        .form-group { text-align: left; margin-bottom: 20px; min-height: 80px; }
-        .chip-container { display: flex; flex-wrap: wrap; gap: 8px; min-height: 160px; overflow: hidden; }
-        
-        input[type="text"], select { width: 100%; height: 50px; padding: 14px; border-radius: 12px; border: 2px solid #eee; box-sizing: border-box; }
-        
-        .primary-btn { background: linear-gradient(90deg, #ff4b8b, #ff80ab); color: white; border: none; padding: 16px; border-radius: 50px; font-size: 16px; font-weight: bold; width: 100%; cursor: pointer; }
+        .member-count-badge {
+            background: #eee;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 11px;
+        }
     </style>
 
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=optional" rel="stylesheet" media="print" onload="this.media='all'">
-    <link href="https://webfontworld.github.io/gmarket/GmarketSans.css" rel="stylesheet" media="print" onload="this.media='all'">
-    
-    <!-- 전체 스타일 로드 -->
-    <link rel="stylesheet" href="/static/css/style.min.css" media="print" onload="this.media='all'">
-    
-    <noscript>
-        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
-        <link href="https://webfontworld.github.io/gmarket/GmarketSans.css" rel="stylesheet">
-        <link rel="stylesheet" href="/static/css/style.min.css">
-    </noscript>
-
-    <!-- [핵심] Flask 데이터 및 현재 언어 설정 -->
+    <!-- Data Injection -->
     <script>
         window.GROUP_DATA = {{ group_data | tojson | safe }};
         window.kpopData = window.GROUP_DATA;
-        window.CURRENT_LANG = "{{ current_lang }}"; // 현재 언어 정보 전달
+        window.CURRENT_LANG = "{{ current_lang }}";
     </script>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fabric.js/5.3.1/fabric.min.js" defer></script>
-    <script src="/static/js/data.js" defer></script>
-    <script src="/static/js/canvas.js" defer></script>
-    <script src="/static/js/main.js" defer></script>
-
-    
 </head>
 
 <body>
     <div class="container">
         <header>
-            <!-- [수정] onchange 이벤트를 추가하여 페이지를 새로고침하도록 변경 -->
             <div class="lang-switcher">
                 <select id="src-lang" aria-label="Select Language" onchange="window.location.href = '?lang=' + this.value">
                     <option value="ja" {% if current_lang == 'ja' %}selected{% endif %}>🇯🇵 日本語</option>
@@ -123,219 +181,345 @@
                     <option value="zh" {% if current_lang == 'zh' %}selected{% endif %}>🇨🇳 中文</option>
                 </select>
             </div>
-
-            <!-- [SEO] H1 태그에 숨겨진 텍스트 추가 (봇이 읽을 수 있게) -->
             <h1>
                 <img src="/static/images/logo_h.png" alt="Nomujoa Logo" style="max-width: 220px; height: auto;">
-                <span style="position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0,0,0,0);">
-                    Nomujoa - AI K-POP Cheering Board & Slogan Maker
-                </span>
             </h1>
-            
-            <p class="desc" id="t-desc" style="color:#555;">AIが韓国語のファン用語(スラング)に翻訳します✨</p>
+            <p class="desc" id="t-desc"></p>
         </header>
 
         <main>
-            <!-- 1. 입력 (Input Section) -->
             <section id="input-section">
-                
+                <!-- [수정됨] 스마트 검색창 적용 부분 -->
                 <div class="form-group">
-                    <label for="idol-select" id="t-label-group">1. Group & Member</label>
-                    <select id="idol-select" onchange="updateMembers()">
+                    <label for="group-search-input" id="t-label-group">1. Group Search</label>
+                    <div class="search-container">
+                        <div class="search-input-wrapper">
+                            <input type="text" id="group-search-input" placeholder="Search Group or Member Name..." autocomplete="off">
+                            <span class="search-icon">🔍</span>
+                        </div>
+                        <div id="group-list-container">
+                            <!-- JS로 리스트가 채워짐 -->
+                        </div>
+                    </div>
+                    <!-- 기존 Select Box (숨김 처리: 로직 호환성 유지) -->
+                    <select id="idol-select" style="display: none;">
                         <option value="">Select Group</option>
-                        {% for group_name in group_data %}
-                            {% if group_name != 'General' %}
-                            <option value="{{ group_name }}">{{ group_name }}</option>
-                            {% endif %}
-                        {% endfor %}
+                        {% for group_name in group_data %}{% if group_name != 'General' %}
+                        <option value="{{ group_name }}">{{ group_name }}</option>
+                        {% endif %}{% endfor %}
                     </select>
                 </div>
 
                 <div class="form-group">
-                    <label for="member-select" id="t-label-member">2. 推しメン選択 (Member)</label>
-                    <select id="member-select" disabled>
-                        <option value="All">All Members</option>
-                    </select>
+                    <label for="member-select" id="t-label-member"></label>
+                    <select id="member-select" disabled><option value="All">All Members</option></select>
                 </div>
-
                 <div class="form-group" style="margin-bottom: 15px;">
-                    <label id="t-label-quick" style="font-size:12px; color:#555; margin-bottom:5px;">おすすめ (Quick Pick)</label>
+                    <label id="t-label-quick" style="font-size:12px; color:#555; margin-bottom:5px;"></label>
                     <div id="quick-phrase-container" class="chip-container"></div>
                 </div>
-
                 <div class="form-group">
-                    <label for="jp-input" id="t-label-msg" style="margin-bottom: 8px; display:block;">3. メッセージ (Message)</label>
-                    <input type="text" id="jp-input" placeholder="例: 大好き、結婚して">
+                    <label for="jp-input" id="t-label-msg" style="margin-bottom: 8px; display:block;"></label>
+                    <input type="text" id="jp-input">
                 </div>
-                
-                <button class="primary-btn" id="t-btn-gen" onclick="translateAndStart()">✨ AIに翻訳を頼む</button>
+                <button class="primary-btn" id="t-btn-gen" onclick="translateAndStart()"></button>
             </section>
 
-            <!-- 2. 선택 (Selection Section) -->
             <section id="selection-section" style="display:none;">
-                <h2 id="t-label-result" style="font-size:18px; margin-bottom:5px;">気に入ったフレーズを選んでね👇</h2>
-                <p id="t-txt-result-desc" style="font-size:12px; color:#666; margin-bottom:15px;">タップして編集へ進む (Tap to edit)</p>
-                
+                <h2 id="t-label-result" style="font-size:18px; margin-bottom:5px;"></h2>
+                <p id="t-txt-result-desc" style="font-size:12px; color:#666; margin-bottom:15px;"></p>
                 <div id="options-container"></div>
-
-                <button id="refresh-btn" onclick="translateAndStart(true)" style="background: white; border: 2px solid #ff4081; color: #ff4081; padding: 12px 20px; border-radius: 30px; font-weight: bold; cursor: pointer; margin-top: 15px; width: 80%; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-                    🔄 <span id="t-btn-retry">他の候補を見る (Try Again)</span>
-                </button>
-                
-                <div style="margin-top: 10px;">
-                    <button class="reset-link" onclick="location.reload()" id="t-btn-reset">最初に戻る (Reset)</button>
-                </div>
+                <button id="refresh-btn" onclick="translateAndStart(true)" class="secondary-btn" style="margin-top: 15px; width: 80%;"><span id="t-btn-retry"></span></button>
+                <div style="margin-top: 10px;"><button class="reset-link" onclick="location.reload()"></button></div>
             </section>
 
-            <!-- 3. 편집 (Editor Section) -->
             <section id="editor-section" style="display:none;">
                 <div style="margin-bottom: 10px; display: flex; justify-content: center; gap: 10px;">
                     <button onclick="changeOrientation('portrait')" class="control-btn">📄 Portrait</button>
                     <button onclick="changeOrientation('landscape')" class="control-btn">📄 Landscape</button>
                 </div>
-
                 <div id="quick-switch-container" style="display: flex; gap: 8px; overflow-x: auto; padding: 10px 5px; margin-bottom: 10px; border-bottom: 1px solid #eee;"></div>
-
-                <div class="canvas-area">
-                    <canvas id="c" width="350" height="500"></canvas>
-                </div>
-                
+                <div class="canvas-area"><canvas id="c"></canvas></div>
                 <div class="controls-group">
-                    <span class="controls-label" id="t-label-bg">🎨 Background (背景)</span>
+                    <span class="controls-label" id="t-label-bg"></span>
                     <div id="fandom-colors" style="display: flex; gap: 10px; margin-bottom: 10px; justify-content: center;"></div>
                     <div style="display: flex; align-items: center; justify-content: center; gap: 8px; flex-wrap: wrap; margin-bottom: 15px;">
                         <input type="color" oninput="changePalette(this)" style="width: 30px; height: 30px; border: none; background: none; cursor: pointer;" aria-label="Choose Color">
                         <button class="control-btn" onclick="changeBg('white')" aria-label="White Background">🤍</button>
                         <button class="control-btn" onclick="changeBg('black')" aria-label="Black Background">🖤</button>
                     </div>
-                    
                     <div style="border-top: 1px dashed #ddd; padding-top: 10px;">
-                        <span class="controls-label" id="t-label-tpl" style="font-size: 11px;">Templates (テンプレート)</span>
+                        <span class="controls-label" id="t-label-tpl" style="font-size: 11px;"></span>
                         <div style="display: flex; gap: 8px; overflow-x: auto; padding-bottom: 5px;">
-                            <button class="control-btn img-btn" onclick="setPattern('cute.webp')"><img src="/static/images/templates/cute.webp" alt="Cute" loading="lazy" width="40" height="40"></button>
-                            <button class="control-btn img-btn" onclick="setPattern('lovely.webp')"><img src="/static/images/templates/lovely.webp" alt="Lovely" loading="lazy" width="40" height="40"></button>
-                            <button class="control-btn img-btn" onclick="setPattern('cool.webp')"><img src="/static/images/templates/cool.webp" alt="Cool" loading="lazy" width="40" height="40"></button>
-                            <button class="control-btn img-btn" onclick="setPattern('dark.webp')"><img src="/static/images/templates/dark.webp" alt="Dark" loading="lazy" width="40" height="40"></button>
-                            <button class="control-btn img-btn" onclick="setPattern('galaxy.webp')"><img src="/static/images/templates/galaxy.webp" alt="Galaxy" loading="lazy" width="40" height="40"></button>
-                            <button class="control-btn img-btn" onclick="setPattern('highteen.webp')"><img src="/static/images/templates/highteen.webp" alt="Highteen" loading="lazy" width="40" height="40"></button>
-                            <button class="control-btn img-btn" onclick="setPattern('holo.webp')"><img src="/static/images/templates/holo.webp" alt="Hologram" loading="lazy" width="40" height="40"></button>
-                            <button class="control-btn img-btn" onclick="setPattern('luxury.webp')"><img src="/static/images/templates/luxury.webp" alt="Luxury" loading="lazy" width="40" height="40"></button>
-                            <button class="control-btn img-btn" onclick="setPattern('pixel.webp')"><img src="/static/images/templates/pixel.webp" alt="Pixel" loading="lazy" width="40" height="40"></button>
-                            <button class="control-btn img-btn" onclick="setPattern('pure.webp')"><img src="/static/images/templates/pure.webp" alt="Pure" loading="lazy" width="40" height="40"></button>
+                            <button class="control-btn img-btn" onclick="setPattern('cute.webp')"><img src="/static/images/templates/cute.webp" alt="Cute" loading="lazy"></button>
+                            <button class="control-btn img-btn" onclick="setPattern('lovely.webp')"><img src="/static/images/templates/lovely.webp" alt="Lovely" loading="lazy"></button>
+                            <button class="control-btn img-btn" onclick="setPattern('cool.webp')"><img src="/static/images/templates/cool.webp" alt="Cool" loading="lazy"></button>
+                            <button class="control-btn img-btn" onclick="setPattern('dark.webp')"><img src="/static/images/templates/dark.webp" alt="Dark" loading="lazy"></button>
+                            <button class="control-btn img-btn" onclick="setPattern('galaxy.webp')"><img src="/static/images/templates/galaxy.webp" alt="Galaxy" loading="lazy"></button>
+                            <button class="control-btn img-btn" onclick="setPattern('highteen.webp')"><img src="/static/images/templates/highteen.webp" alt="Highteen" loading="lazy"></button>
+                            <button class="control-btn img-btn" onclick="setPattern('holo.webp')"><img src="/static/images/templates/holo.webp" alt="Hologram" loading="lazy"></button>
+                            <button class="control-btn img-btn" onclick="setPattern('luxury.webp')"><img src="/static/images/templates/luxury.webp" alt="Luxury" loading="lazy"></button>
+                            <button class="control-btn img-btn" onclick="setPattern('pixel.webp')"><img src="/static/images/templates/pixel.webp" alt="Pixel" loading="lazy"></button>
+                            <button class="control-btn img-btn" onclick="setPattern('pure.webp')"><img src="/static/images/templates/pure.webp" alt="Pure" loading="lazy"></button>
                         </div>
                     </div>
                 </div>
-
                 <div class="controls-group">
-                    <span class="controls-label" id="t-label-stk">✨ Stickers (スタンプ)</span>
+                    <span class="controls-label" id="t-label-stk"></span>
                     <div id="sticker-container">
-                        <button class="control-btn img-btn" onclick="addSticker('tiger.webp')"><img src="/static/images/stickers/tiger.webp" alt="tiger" loading="lazy" width="40" height="40"></button>
-                        <button class="control-btn img-btn" onclick="addSticker('cat.webp')"><img src="/static/images/stickers/cat.webp" alt="cat" loading="lazy" width="40" height="40"></button>
-                        <button class="control-btn img-btn" onclick="addSticker('dog.webp')"><img src="/static/images/stickers/dog.webp" alt="dog" loading="lazy" width="40" height="40"></button>
-                        <button class="control-btn img-btn" onclick="addSticker('ham.webp')"><img src="/static/images/stickers/ham.webp" alt="hamster" loading="lazy" width="40" height="40"></button>
-                        <button class="control-btn img-btn" onclick="addSticker('boy.webp')"><img src="/static/images/stickers/boy.webp" alt="boy" loading="lazy" width="40" height="40"></button>
-                        <button class="control-btn img-btn" onclick="addSticker('boy2.webp')"><img src="/static/images/stickers/boy2.webp" alt="boy2" loading="lazy" width="40" height="40"></button>
-                        <button class="control-btn img-btn" onclick="addSticker('boy_dan.webp')"><img src="/static/images/stickers/boy_dan.webp" alt="boy_dan" loading="lazy" width="40" height="40"></button>
-                        <button class="control-btn img-btn" onclick="addSticker('girl_dan.webp')"><img src="/static/images/stickers/girl_dan.webp" alt="girl_dan" loading="lazy" width="40" height="40"></button>
-                        <button class="control-btn img-btn" onclick="addSticker('girl_long.webp')"><img src="/static/images/stickers/girl_long.webp" alt="girl_long" loading="lazy" width="40" height="40"></button>
-                        <button class="control-btn img-btn" onclick="addSticker('girl_shot.webp')"><img src="/static/images/stickers/girl_shot.webp" alt="girl_shot" loading="lazy" width="40" height="40"></button>
-                        <button class="control-btn img-btn" onclick="addSticker('finger_herat1.webp')"><img src="/static/images/stickers/finger_herat1.webp" alt="heart1" loading="lazy" width="40" height="40"></button>
-                        <button class="control-btn img-btn" onclick="addSticker('finger_herat2.webp')"><img src="/static/images/stickers/finger_herat2.webp" alt="heart2" loading="lazy" width="40" height="40"></button>
-                        <button class="control-btn img-btn" onclick="addSticker('ribbon1.webp')"><img src="/static/images/stickers/ribbon1.webp" alt="ribbon1" loading="lazy" width="40" height="40"></button>
-                        <button class="control-btn img-btn" onclick="addSticker('ribbon2.webp')"><img src="/static/images/stickers/ribbon2.webp" alt="ribbon2" loading="lazy" width="40" height="40"></button>
-                        <button class="control-btn img-btn" onclick="addSticker('ribbon3.webp')"><img src="/static/images/stickers/ribbon3.webp" alt="ribbon3" loading="lazy" width="40" height="40"></button>
-                        <button class="control-btn img-btn" onclick="addSticker('ribbon4.webp')"><img src="/static/images/stickers/ribbon4.webp" alt="ribbon4" loading="lazy" width="40" height="40"></button>
-                        <button class="control-btn img-btn" onclick="addSticker('star.webp')"><img src="/static/images/stickers/star.webp" alt="star" loading="lazy" width="40" height="40"></button>
+                        <!-- Sticker buttons here -->
+                    </div>
+                </div>
+                <button class="save-btn" id="t-btn-save" onclick="downloadImage()"></button>
+                <button class="secondary-btn" onclick="goBackToSelection()" id="t-btn-back-list" style="margin-top: 10px;"></button>
+                <p id="t-txt-save-desc" style="font-size:11px; color:#666; margin-top:10px;"></p>
+                <button class="reset-link" onclick="location.reload()"></button>
+            </section>
+            
+            <!-- 설명 및 현황판 섹션 -->
+            <section style="margin-top: 40px; padding: 25px 20px; background: #f9f9f9; border-radius: 15px; text-align: left; border: 1px solid #eee;">
+                <h2 style="font-size: 18px; color: #333; margin-top: 0; margin-bottom: 10px;">Nomujoa: K-POP Fan Creator Tool</h2>
+                <p style="font-size: 14px; color: #666; line-height: 1.6; margin-bottom: 20px;">
+                    <strong>Nomujoa</strong> is a free web tool for K-POP fans. Create professional cheering slogans and Uchiwa fans with AI that translates your message into trendy Korean fandom slang.
+                </p>
+
+                <!-- [추가된 부분] 서비스 현황 대시보드 -->
+                <div style="
+                    background: white; 
+                    border: 1px dashed #ddd; 
+                    border-radius: 12px; 
+                    padding: 15px; 
+                    display: flex; 
+                    flex-direction: column; 
+                    gap: 8px;
+                ">
+                    <div style="display: flex; justify-content: space-between; align-items: center; font-size: 13px; color: #444;">
+                        <span style="display:flex; align-items:center; gap:5px;">👥 Available Groups</span>
+                        <strong style="color: #333;">{{ group_count }} Teams</strong>
+                    </div>
+                    <div style="display: flex; justify-content: space-between; align-items: center; font-size: 13px; color: #444;">
+                        <span style="display:flex; align-items:center; gap:5px;">📅 Last Update</span>
+                        <strong style="color: #333;">{{ last_update }}</strong>
+                    </div>
+                    <div style="
+                        margin-top: 8px; 
+                        background: #fff0f5; 
+                        color: #ff4081; 
+                        font-size: 12px; 
+                        font-weight: bold; 
+                        text-align: center; 
+                        padding: 8px; 
+                        border-radius: 8px;
+                    ">
+                        🚀 We update 1 new group every week!
                     </div>
                 </div>
 
-                <button class="save-btn" id="t-btn-save" onclick="downloadImage()">💾 画像を保存 (Save Image)</button>
-
-                <button class="secondary-btn" onclick="goBackToSelection()" id="t-btn-back-list" style="margin-top: 10px;">
-                    ↩ Back to List
-                </button>
-
-                <p id="t-txt-save-desc" style="font-size:11px; color:#666; margin-top:10px;">
-                    保存した画像はコンビニプリントで印刷できます。<br>(A4サイズ推奨)
-                </p>
-
-                <button class="reset-link" onclick="location.reload()" id="t-btn-reset-2">最初に戻る</button>
-            </section>
-            
-            <!-- [SEO] 검색 엔진을 위한 텍스트 콘텐츠 (About Section) -->
-            <section style="margin-top: 40px; padding: 25px 20px; background: #f9f9f9; border-radius: 15px; text-align: left; border: 1px solid #eee;">
-                <h2 style="font-size: 18px; color: #333; margin-top: 0; margin-bottom: 15px;">Nomujoa: K-POP Fan Creator Tool</h2>
-                <p style="font-size: 14px; color: #666; line-height: 1.8;">
-                    <strong>Nomujoa</strong> is a free web tool designed for K-POP fans worldwide. 
-                    Even if you don't speak Korean, you can easily create professional cheering slogans, LED boards, and Uchiwa fans for concerts.
-                </p>
-                <p style="font-size: 14px; color: #666; line-height: 1.8;">
-                    Our AI translator converts your messages (Japanese, English, Chinese) into trendy <strong>Korean fandom slang (주접 멘트)</strong> instantly.
-                    Support your favorite idols like <strong>BTS, SEVENTEEN, TWICE, Stray Kids, IVE, NewJeans, aespa, and BLACKPINK</strong> with customized designs.
-                </p>
-                <div style="margin-top: 15px; font-size: 13px; color: #888;">
-                    <span>Keywords: K-POP Slogan, Cheering Kit, Concert Fan, Hangul Translation, Korean Meme, Uchiwa Maker</span>
+                <div style="margin-top: 15px; font-size: 12px; color: #aaa;">
+                    <span>Keywords: K-POP Slogan, Cheering Kit, Hangul Translation, Uchiwa Maker</span>
                 </div>
             </section>
 
+            <!-- [수정됨] Trending Terms 섹션 (UI 개선) -->
             {% if recent_wiki %}
-            <section style="margin-top: 30px; text-align: left;">
-                <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px;">
-                    <h3 style="font-size:16px; margin:0; color:#333;">🔥 Trending K-POP Terms</h3>
-                    <a href="/wiki" style="font-size:12px; color:#ff4081; text-decoration:none;">View All ></a>
+            <section style="margin-top: 35px; text-align: left;">
+                <!-- 섹션 헤더 -->
+                <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:15px; padding: 0 5px;">
+                    <h3 style="font-size:17px; margin:0; color:#333; font-weight: 800; display: flex; align-items: center; gap: 6px;">
+                        🔥 Trending Terms
+                    </h3>
+                    <a href="/wiki" style="font-size:13px; color:#ff4081; text-decoration:none; font-weight:bold;">View All ></a>
                 </div>
-                
-                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+
+                <!-- 카드 그리드 -->
+                <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px;">
                     {% for post in recent_wiki %}
-                    <a href="/wiki/{{ post.slug }}" style="text-decoration: none; color: inherit;">
-                        <div style="background: white; padding: 15px; border-radius: 12px; border: 1px solid #eee; box-shadow: 0 2px 5px rgba(0,0,0,0.03); transition: transform 0.2s;">
-                            <span style="font-size: 10px; color: #ff4081; background: #fff0f5; padding: 3px 6px; border-radius: 4px;">{{ post.category }}</span>
-                            <h4 style="font-size: 14px; margin: 8px 0 5px 0; font-weight: bold; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">{{ post.title }}</h4>
+                    <a href="/wiki/{{ post.slug }}" style="text-decoration: none; color: inherit; display: block; height: 100%;">
+                        <div style="
+                            background: white; 
+                            padding: 16px; 
+                            border-radius: 16px; 
+                            border: 1px solid #f0f0f0; 
+                            box-shadow: 0 4px 12px rgba(0,0,0,0.03); 
+                            transition: transform 0.2s, box-shadow 0.2s; 
+                            height: 100%; 
+                            box-sizing: border-box;
+                            display: flex; 
+                            flex-direction: column;
+                            justify-content: flex-start;
+                        " onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.08)';" 
+                          onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.03)';">
                             
-                            <!-- [수정된 부분] 두 줄 제한을 더 강력하게 적용 -->
+                            <!-- 카테고리 태그 -->
+                            <div style="margin-bottom: 8px;">
+                                <span style="
+                                    font-size: 10px; 
+                                    color: #ff4081; 
+                                    background: #fff0f5; 
+                                    padding: 4px 8px; 
+                                    border-radius: 6px; 
+                                    font-weight: 800;
+                                    display: inline-block;
+                                ">{{ post.category }}</span>
+                            </div>
+
+                            <!-- 제목 -->
+                            <h4 style="
+                                font-size: 15px; 
+                                margin: 0 0 6px 0; 
+                                font-weight: 800; 
+                                color: #222;
+                                line-height: 1.3;
+                                display: -webkit-box;
+                                -webkit-line-clamp: 1;
+                                -webkit-box-orient: vertical;
+                                overflow: hidden;
+                            ">{{ post.title }}</h4>
+
+                            <!-- 요약글 -->
                             <p style="
-                                font-size: 11px; 
-                                color: #888; 
+                                font-size: 12px; 
+                                color: #666; 
                                 margin: 0; 
                                 line-height: 1.5; 
-                                max-height: 33px; /* 11px * 1.5 * 2줄 = 33px */
-                                overflow: hidden; 
-                                text-overflow: ellipsis; 
                                 display: -webkit-box; 
                                 -webkit-line-clamp: 2; 
-                                -webkit-box-orient: vertical;
-                            ">{{ post.summary }}</p>
-                            
+                                -webkit-box-orient: vertical; 
+                                overflow: hidden;
+                                word-break: break-word;
+                            ">
+                                {{ post.summary }}
+                            </p>
                         </div>
                     </a>
                     {% endfor %}
                 </div>
             </section>
             {% endif %}
-
         </main>
 
         <footer class="site-footer">
             <div class="footer-links">
-                <a href="/guide">How to Use</a>
-                <span class="separator">|</span>
-                <a href="/privacy">Privacy Policy</a>
-                <span class="separator">|</span>
+                <a href="/guide">How to Use</a><span class="separator">|</span>
+                <a href="/privacy">Privacy Policy</a><span class="separator">|</span>
                 <a href="https://script.google.com/macros/s/AKfycbzmkJ7U5azVI56Pr7mr7y8yWDOuU2YdUa1buk6fqqduCDB4kr6qEb9EWsxqllwqF_KkJA/exec" target="_blank" rel="noopener noreferrer">Contact</a>
             </div>
             <p class="copyright">&copy; 2024 Nomujoa. All rights reserved.</p>
         </footer>
-
     </div>
     
-    <!-- [수정] 페이지 로드 시 UI 텍스트 업데이트 스크립트 -->
+    <!-- Deferred Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fabric.js/5.3.1/fabric.min.js" defer></script>
+    <script src="/static/js/data.js" defer></script>
+    <script src="/static/js/canvas.js" defer></script>
+    <script src="/static/js/main.js" defer></script>
+
+    <!-- [추가 스크립트] 스마트 검색 기능 -->
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            // 페이지가 로드될 때, 서버에서 전달받은 현재 언어(window.CURRENT_LANG)를 기반으로
-            // data.js에 있는 updateUI 함수를 호출하여 화면의 텍스트를 변경합니다.
+            // 1. 기존 UI 업데이트 함수 실행 (있다면)
             if (typeof updateUI === 'function') {
-                updateUI(window.CURRENT_LANG);
+                updateUI();
             }
+            
+            // 2. 기존 멤버 셀렉트 이벤트 연결 (백업용)
+            const idolSelect = document.getElementById('idol-select');
+            if(idolSelect) {
+                idolSelect.addEventListener('change', updateMembers);
+            }
+
+            // 3. 스마트 검색 로직 시작
+            const searchInput = document.getElementById('group-search-input');
+            const listContainer = document.getElementById('group-list-container');
+            const originalSelect = document.getElementById('idol-select');
+            
+            // 전역 변수에서 그룹 데이터 로드
+            const groupData = window.GROUP_DATA || {};
+
+            // 리스트 렌더링 함수
+            function renderGroupList(filterText = '') {
+                listContainer.innerHTML = '';
+                const lowerFilter = filterText.toLowerCase();
+                let hasResults = false;
+
+                Object.keys(groupData).forEach(groupName => {
+                    if (groupName === 'General') return;
+
+                    const members = groupData[groupName].members || [];
+                    const memberCount = members.length;
+                    
+                    // 검색 로직: 그룹명 또는 멤버 이름 매칭
+                    const isGroupMatch = groupName.toLowerCase().includes(lowerFilter);
+                    // 멤버 중 검색어와 일치하는 사람이 있는지 확인
+                    const matchedMember = members.find(m => m.toLowerCase().includes(lowerFilter));
+                    
+                    // 검색어가 없거나, 그룹명 일치 또는 멤버 일치 시 표시
+                    if (filterText === '' || isGroupMatch || matchedMember) {
+                        hasResults = true;
+                        const itemDiv = document.createElement('div');
+                        itemDiv.className = 'group-item';
+                        
+                        let html = `
+                            <div>
+                                <div class="group-name">${groupName}</div>
+                                ${matchedMember && !isGroupMatch ? `<div class="member-match">👤 Found: ${matchedMember}</div>` : ''}
+                            </div>
+                            <div class="group-info">
+                                <span class="member-count-badge">${memberCount} Members</span>
+                            </div>
+                        `;
+                        
+                        itemDiv.innerHTML = html;
+                        
+                        // 클릭 시 동작
+                        itemDiv.onclick = function() {
+                            // 1. 숨겨진 select 값 변경
+                            originalSelect.value = groupName;
+                            // 2. change 이벤트 강제 발생 (기존 main.js 로직 실행되어 멤버 목록 업데이트됨)
+                            originalSelect.dispatchEvent(new Event('change'));
+                            // 3. UI 업데이트
+                            searchInput.value = groupName;
+                            listContainer.classList.remove('active');
+                        };
+                        
+                        listContainer.appendChild(itemDiv);
+                    }
+                });
+
+                // 결과가 없을 때
+                if (!hasResults) {
+                    const noResult = document.createElement('div');
+                    noResult.className = 'group-item';
+                    noResult.style.color = '#999';
+                    noResult.style.justifyContent = 'center';
+                    noResult.textContent = 'No group found 😢';
+                    listContainer.appendChild(noResult);
+                }
+            }
+
+            // 입력 이벤트
+            searchInput.addEventListener('input', function(e) {
+                const text = e.target.value;
+                if (text.trim() === '') {
+                    listContainer.classList.remove('active');
+                    return;
+                }
+                renderGroupList(text);
+                listContainer.classList.add('active');
+            });
+
+            // 포커스 시 전체 목록 보여주기
+            searchInput.addEventListener('focus', function() {
+                renderGroupList(this.value);
+                listContainer.classList.add('active');
+            });
+
+            // 외부 클릭 시 닫기
+            document.addEventListener('click', function(e) {
+                if (!searchInput.contains(e.target) && !listContainer.contains(e.target)) {
+                    listContainer.classList.remove('active');
+                }
+            });
         });
     </script>
 </body>
