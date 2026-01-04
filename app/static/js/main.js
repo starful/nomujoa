@@ -1,32 +1,30 @@
-// static/js/main.js
+// app/static/js/main.js
 
-// 전역 변수로 현재 AI 번역 결과 옵션을 저장합니다.
-let currentOptions = [];
+// 전역 변수 (HTML에서 주입됨)
+const KPOP_DATA = window.GROUP_DATA || {};
+let selectedGroup = "General";
+let selectedMember = "All";
+let currentOptions = []; // 현재 AI 번역 결과 옵션을 저장
 
-// [개선] 페이지의 모든 리소스(폰트 포함)가 로드된 후 캔버스를 다시 렌더링하여 글꼴 깨짐을 방지합니다.
+// [개선] 페이지의 모든 리소스(폰트 포함)가 로드된 후 캔버스를 다시 렌더링
 window.addEventListener('load', function() {
     document.fonts.ready.then(function () {
         console.log('Fonts are fully loaded.');
-        // canvas 객체가 초기화된 후에만 렌더링을 요청합니다.
         if(typeof canvas !== 'undefined' && canvas) {
             canvas.requestRenderAll();
         }
     });
 });
 
-// [핵심 수정] DOM이 준비되면 UI를 초기화하는 로직
-document.addEventListener('DOMContentLoaded', function() {
-    // 페이지 로드 시점에 단 한 번, updateUI()를 호출합니다.
-    // 이 함수가 현재 언어 설정에 맞게 모든 텍스트와 추천 문구를 설정합니다.
-    updateUI();
+// 초기화
+document.addEventListener("DOMContentLoaded", () => {
+    updateUI(); // 다국어 텍스트 및 추천 문구 설정
 
-    // 키보드의 Delete 또는 Backspace 키로 캔버스 위의 선택된 객체를 삭제하는 이벤트 리스너입니다.
+    // 키보드 이벤트 (삭제)
     document.addEventListener('keydown', function(e) {
-        // 입력 필드에 포커스가 있을 때는 작동하지 않도록 합니다.
         if (e.target.tagName !== 'INPUT' && e.target.tagName !== 'TEXTAREA') {
             if (e.key === 'Delete' || e.key === 'Backspace') {
-                const activeObj = canvas.getActiveObject();
-                // 텍스트 편집 중이 아닐 때만 객체를 삭제합니다.
+                const activeObj = canvas && canvas.getActiveObject();
                 if (activeObj && !activeObj.isEditing) { 
                     canvas.remove(activeObj);
                     canvas.requestRenderAll();
@@ -37,17 +35,16 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 /**
- * [통합된 UI 업데이트 함수]
- * 페이지의 언어 설정에 맞춰 모든 UI 텍스트와 동적 컨텐츠(추천 문구)를 업데이트합니다.
+ * [UI 업데이트 함수]
+ * 언어 설정에 맞춰 UI 텍스트와 추천 문구를 업데이트합니다.
  */
 function updateUI() {
     const langSelect = document.getElementById('src-lang');
-    // <select> 요소가 없으면 함수를 종료합니다. (가이드 페이지 등 예외 처리)
     if (!langSelect) return; 
     
     const selectedLang = langSelect.value;
 
-    // 1. 입력창의 플레이스홀더(예시 문구)를 변경합니다.
+    // 1. 입력창 Placeholder 변경
     const inputField = document.getElementById('jp-input');
     const placeholders = {
         "ja": "例: 大好き、結婚して",
@@ -59,27 +56,25 @@ function updateUI() {
         inputField.placeholder = placeholders[selectedLang];
     }
 
-    // 2. 추천 문구(Quick Pick) 버튼들을 현재 언어에 맞게 다시 렌더링합니다.
+    // 2. 추천 문구 렌더링
     renderQuickPhrases(selectedLang);
 
-    // 3. 페이지의 나머지 모든 UI 텍스트를 번역합니다.
+    // 3. UI 텍스트 번역 적용
     applyTranslations(selectedLang);
 }
 
 /**
- * UI 요소들의 텍스트를 선택된 언어에 맞게 변경합니다.
- * @param {string} lang - 'ja', 'en', 'ko', 'zh' 등 언어 코드
+ * UI 텍스트 번역 적용 함수
  */
 function applyTranslations(lang) {
-    const t = uiTranslations[lang] || uiTranslations['en']; // 해당 언어 번역이 없으면 영어로 대체
+    // window.uiTranslations는 data.js에 정의되어 있다고 가정
+    const t = (window.uiTranslations && window.uiTranslations[lang]) || (window.uiTranslations && window.uiTranslations['en']) || {};
 
-    // 헬퍼 함수: ID를 찾아 텍스트를 교체합니다.
     function setText(id, text) {
         const el = document.getElementById(id);
-        if (el) el.innerHTML = text;
+        if (el && text) el.innerHTML = text;
     }
 
-    // 각 UI 요소에 번역된 텍스트를 적용합니다.
     setText("t-desc", t.desc);
     setText("t-label-group", t.label_group);
     setText("t-label-member", t.label_member);
@@ -99,11 +94,9 @@ function applyTranslations(lang) {
     setText("t-btn-back-list", t.btn_back_list);
     setText("t-txt-save-desc", t.txt_save_desc);
     
-    // '처음으로' 버튼과 같이 여러 곳에서 사용되는 클래스 기반 번역
     const resetBtns = document.querySelectorAll('.reset-link');
-    resetBtns.forEach(btn => btn.innerText = t.btn_reset);
+    resetBtns.forEach(btn => { if(t.btn_reset) btn.innerText = t.btn_reset; });
 
-    // SEO 관련 메타 태그들도 동적으로 변경합니다.
     if (t.seo_title) document.title = t.seo_title;
     const metaDesc = document.querySelector('meta[name="description"]');
     if (metaDesc && t.seo_desc) metaDesc.setAttribute("content", t.seo_desc);
@@ -115,225 +108,265 @@ function applyTranslations(lang) {
 }
 
 /**
- * 추천 문구(Quick Pick) 영역을 현재 언어에 맞게 다시 그립니다.
- * @param {string} lang - 언어 코드
+ * 추천 문구 렌더링 함수
  */
 function renderQuickPhrases(lang) {
-    const container = document.getElementById('quick-phrase-container');
+    const container = document.getElementById("quick-phrase-container");
     if (!container) return;
-    container.innerHTML = ''; // 기존 버튼들을 모두 지웁니다.
-
-    // data.js에서 현재 언어에 맞는 추천 문구 목록을 가져옵니다. 없으면 영어를 기본값으로 사용합니다.
-    const phrases = quickPhrasesData[lang] || quickPhrasesData['en'];
+    container.innerHTML = "";
+    
+    // window.quickPhrasesData는 data.js에 정의되어 있다고 가정
+    const phrases = (window.quickPhrasesData && (window.quickPhrasesData[lang] || window.quickPhrasesData['en'])) || [];
 
     phrases.forEach(phrase => {
-        // 일본어의 경우 "大好き (좋아해)" 형태이므로, 괄호 안의 한국어는 실제 입력값에서 제외합니다.
         const displayPhrase = phrase; 
         const inputPhrase = phrase.split(' (')[0]; 
 
-        const chip = document.createElement('div');
-        chip.className = 'phrase-chip';
-        chip.innerText = displayPhrase;
-        
-        // 버튼 클릭 시, 입력창에 값을 넣고 언어 설정을 맞춘 뒤 바로 번역을 시작합니다.
-        chip.onclick = function() {
-            const inputField = document.getElementById('jp-input');
-            inputField.value = inputPhrase;
+        const btn = document.createElement("div");
+        btn.className = "phrase-chip";
+        btn.innerText = displayPhrase;
+        btn.onclick = () => {
+            const inputField = document.getElementById("jp-input");
+            if(inputField) inputField.value = inputPhrase;
             
             const langSelect = document.getElementById('src-lang');
             if(langSelect) langSelect.value = lang;
             
             translateAndStart();
         };
-        container.appendChild(chip);
+        container.appendChild(btn);
     });
 }
 
 /**
- * K-POP 그룹 선택 시, 해당 그룹의 멤버 목록을 드롭다운에 채웁니다.
+ * 멤버 목록 업데이트 (HTML에서 onchange로 호출됨)
  */
 function updateMembers() {
     const groupSelect = document.getElementById("idol-select");
     const memberSelect = document.getElementById("member-select");
-    const selectedGroup = groupSelect.value;
+    
+    if(!groupSelect || !memberSelect) return;
 
-    memberSelect.innerHTML = '<option value="All">All Members</option>'; // 기본값으로 '전체 멤버' 추가
-    memberSelect.disabled = true;
-
-    // index.html에서 Flask를 통해 주입된 그룹 데이터를 사용합니다.
-    const data = window.GROUP_DATA || window.kpopData;
-
-    if (selectedGroup && data[selectedGroup] && data[selectedGroup].members) {
-        memberSelect.disabled = false;
-        data[selectedGroup].members.forEach(member => {
-            const option = document.createElement("option");
-            option.value = member;
-            option.text = member;
-            memberSelect.appendChild(option);
+    selectedGroup = groupSelect.value;
+    memberSelect.innerHTML = '<option value="All">All Members</option>';
+    
+    if (selectedGroup && KPOP_DATA[selectedGroup]) {
+        KPOP_DATA[selectedGroup].members.forEach(member => {
+            const opt = document.createElement("option");
+            opt.value = member;
+            opt.innerText = member;
+            memberSelect.appendChild(opt);
         });
+        memberSelect.disabled = false;
+    } else {
+        memberSelect.disabled = true;
     }
 }
 
 /**
- * AI 번역을 요청하고, 결과를 받아 화면을 전환하는 메인 함수입니다.
- * @param {boolean} isRefresh - 새로운 추천을 받기 위한 재요청 여부
+ * API 호출 및 번역 시작
  */
 async function translateAndStart(isRefresh = false) {
-    // 입력 요소들로부터 현재 값들을 가져옵니다.
-    const inputField = document.getElementById('jp-input');
-    const groupSelect = document.getElementById('idol-select');
-    const memberSelect = document.getElementById('member-select');
-    const langSelect = document.getElementById('src-lang');
+    const inputField = document.getElementById("jp-input");
+    const textInput = inputField ? inputField.value.trim() : "";
     
-    const text = inputField.value;
-    const group = groupSelect.value;
-    const member = memberSelect.value;
-    const srcLang = langSelect.value;
+    if (!textInput) {
+        alert("Please enter a message!");
+        return;
+    }
 
-    // 유효성 검사
-    if (!text) return alert("Please enter a message!");
-    if (!group) return alert("Please select a group!");
+    const groupSelect = document.getElementById("idol-select");
+    selectedGroup = groupSelect ? groupSelect.value : "General";
 
-    // 로딩 상태 시작: 버튼 비활성화 및 텍스트 변경
-    const btn = document.querySelector('.primary-btn');
-    const originalText = btn.innerHTML; // innerHTML로 변경하여 아이콘 등 유지
-    btn.innerHTML = "Thinking... 💭";
-    btn.disabled = true;
+    const memberSelect = document.getElementById("member-select");
+    selectedMember = memberSelect ? memberSelect.value : "All";
+    
+    const langSelect = document.getElementById('src-lang');
+    const srcLang = langSelect ? langSelect.value : 'ja';
 
-    const refreshBtn = document.getElementById('refresh-btn');
-    if(refreshBtn) {
-        refreshBtn.disabled = true;
-        // 새로고침 버튼 텍스트도 번역 적용
-        const refreshOriginalText = refreshBtn.innerHTML; 
+    // 버튼 상태 변경
+    const btn = isRefresh ? document.getElementById("refresh-btn") : document.getElementById("t-btn-gen");
+    let originalText = "";
+    if(btn) {
+        originalText = btn.innerText;
+        btn.disabled = true;
+        btn.innerText = "Thinking... 💭";
     }
 
     try {
-        // 서버 API에 번역 요청
         const response = await fetch('/api/translate', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ 
-                text: text, 
-                group: group, 
-                member: member, 
-                src_lang: srcLang, 
-                is_refresh: isRefresh 
+            body: JSON.stringify({
+                text: textInput,
+                group: selectedGroup,
+                member: selectedMember,
+                src_lang: srcLang,
+                is_refresh: isRefresh
             })
         });
-        
+
         const data = await response.json();
-        currentOptions = data.result; // 결과 저장: [{text: "...", meaning: "..."}, ...]
-
-        // 화면 전환 및 결과 표시
-        document.getElementById('input-section').style.display = 'none';
-        const selectSection = document.getElementById('selection-section');
-        const container = document.getElementById('options-container');
+        currentOptions = data.result; // 결과 저장
+        renderOptions(data.result);
         
-        selectSection.style.display = 'block';
-        container.innerHTML = ''; // 이전 결과 삭제
-
-        // 서버에서 받은 5개의 추천 문구를 카드로 만듭니다.
-        const labels = ["Name Only", "Cute", "Emotional", "Powerful", "Witty"];
-        currentOptions.forEach((item, index) => {
-            const koreanText = item.text || "Error"; 
-            const meaningText = item.meaning || text; 
-
-            const card = document.createElement('div');
-            card.className = 'option-card';
-            
-            // 카드를 클릭하면 해당 한국어 텍스트를 가지고 에디터 화면으로 이동합니다.
-            card.onclick = function() { goToEditor(koreanText); };
-            
-            // 카드들이 순차적으로 나타나는 애니메이션 효과
-            card.style.animation = `fadeIn 0.5s ease forwards ${index * 0.1}s`;
-            card.style.opacity = '0';
-
-            const label = labels[index] || "Style " + (index+1);
-            
-            card.innerHTML = `
-                <span class="option-tag">${label}</span>
-                <div class="option-text">${koreanText}</div>
-                <div class="option-meaning">(${meaningText})</div>
-            `;
-            container.appendChild(card);
-        });
+        // 화면 전환
+        document.getElementById("input-section").style.display = "none";
+        document.getElementById("selection-section").style.display = "block";
+        document.getElementById("editor-section").style.display = "none";
 
     } catch (e) {
-        alert("An error occurred during translation: " + e.message);
         console.error(e);
+        alert("Error generating slogans. Please try again.");
     } finally {
-        // 로딩 상태 종료: 버튼 원래대로 복구
-        btn.innerHTML = originalText;
-        btn.disabled = false;
-        if(refreshBtn) {
-            refreshBtn.disabled = false;
-            // 버튼 텍스트도 번역된 상태로 복구
-            applyTranslations(srcLang); 
+        if(btn) {
+            btn.disabled = false;
+            // 버튼 텍스트 복구 (단순 복구 혹은 번역 적용)
+            if(isRefresh) applyTranslations(srcLang); 
+            else btn.innerText = originalText;
         }
     }
 }
 
 /**
- * 사용자가 선택한 문구로 에디터 화면을 설정하고 보여줍니다.
- * @param {string} selectedText - 사용자가 선택한 한국어 문구
+ * 결과 선택지 렌더링
  */
-function goToEditor(selectedText) {
-    document.getElementById('selection-section').style.display = 'none';
-    document.getElementById('editor-section').style.display = 'block';
+function renderOptions(options) {
+    const container = document.getElementById("options-container");
+    if (!container) return;
+    container.innerHTML = "";
 
-    const groupSelect = document.getElementById("idol-select");
-    const groupName = groupSelect.value || "General";
+    const labels = ["Name Only", "Cute", "Emotional", "Powerful", "Witty"];
+
+    options.forEach((opt, index) => {
+        const card = document.createElement("div");
+        card.className = "option-card";
+        
+        // 애니메이션
+        card.style.animation = `fadeIn 0.5s ease forwards ${index * 0.1}s`;
+        card.style.opacity = '0';
+
+        const meaningHtml = opt.meaning ? `<div class="option-meaning">(${opt.meaning})</div>` : '';
+        const label = labels[index] || "Style " + (index+1);
+        
+        card.innerHTML = `
+            <div class="option-tag">${label}</div>
+            <div class="option-text">${opt.text}</div>
+            ${meaningHtml}
+        `;
+        
+        // 클릭 시 에디터로 이동
+        card.onclick = () => goToEditor(opt.text, opt.meaning || "");
+        container.appendChild(card);
+    });
+}
+
+/**
+ * 에디터 화면으로 이동
+ */
+function goToEditor(mainText, subText) {
+    document.getElementById("selection-section").style.display = "none";
+    document.getElementById("editor-section").style.display = "block";
     
-    const data = window.GROUP_DATA || window.kpopData;
-    const colors = data[groupName]?.colors || ["#ff007f", "#000000"];
-    
-    // 팬덤 공식 색상 버튼을 만듭니다.
-    const colorContainer = document.getElementById('fandom-colors');
+    const groupName = selectedGroup || "General";
+    const colors = (KPOP_DATA[groupName] && KPOP_DATA[groupName].colors) || ["#ff007f", "#000000"];
+
+    // 1. 팬덤 공식 색상 팔레트 생성
+    const colorContainer = document.getElementById("fandom-colors");
     if(colorContainer) {
-        colorContainer.innerHTML = ''; 
+        colorContainer.innerHTML = "";
         colors.forEach(color => {
-            const btn = document.createElement('button');
-            btn.className = 'control-btn color-circle';
+            const btn = document.createElement("button");
+            btn.className = "color-circle";
             btn.style.backgroundColor = color;
-            btn.setAttribute('aria-label', `Set background to ${color}`);
-            btn.onclick = () => setSolidBg(color);
+            btn.onclick = () => {
+                // [수정] setSolidBg 대신 changeBg 호출
+                if(window.changeBg) window.changeBg(color);
+                else if(window.setSolidBg) window.setSolidBg(color);
+            };
+            // 흰색일 경우 테두리 추가
             if(color.toLowerCase() === '#ffffff') btn.style.border = '1px solid #ccc';
             colorContainer.appendChild(btn);
         });
     }
 
-    // 에디터 상단에 다른 추천 문구로 빠르게 교체할 수 있는 버튼들을 만듭니다.
+    // 2. 상단 퀵 스위치 버튼 생성
     const switchContainer = document.getElementById('quick-switch-container');
     if(switchContainer) {
         switchContainer.innerHTML = '';
-        currentOptions.forEach((item, idx) => {
-            const opt = item.text || item;
-            
+        currentOptions.forEach((item) => {
+            const optText = item.text || item;
             const btn = document.createElement('button');
             btn.className = 'control-btn';
             btn.style.fontSize = '12px';
             btn.style.padding = '5px 10px';
-            btn.style.flexShrink = '0'; // 버튼이 줄어들지 않도록 설정
+            btn.style.flexShrink = '0';
             
-            const displayLabel = (opt.length > 7) ? opt.substring(0, 6) + ".." : opt;
+            const displayLabel = (optText.length > 7) ? optText.substring(0, 6) + ".." : optText;
             btn.innerText = displayLabel;
-            btn.onclick = () => replaceMainText(opt);
+            
+            btn.onclick = () => {
+                // 텍스트 교체 로직 (addTextToCanvas 재호출)
+                if (window.addTextToCanvas) {
+                    window.addTextToCanvas(optText, item.meaning || "");
+                }
+            };
             switchContainer.appendChild(btn);
         });
     }
 
-    // 캔버스 초기 설정
-    changeOrientation('portrait'); 
-    canvas.clear();
-    setSolidBg(colors[0] || '#ffffff'); 
-    addText(selectedText); 
+    // 3. 캔버스 초기화 및 텍스트 추가
+    if (window.changeOrientation) window.changeOrientation('portrait'); // 기본값 세로
+    
+    // [수정] 배경색 설정 (에러 수정 포인트)
+    if (window.changeBg) window.changeBg(colors[0] || 'white');
+    else if (window.setSolidBg) window.setSolidBg(colors[0] || 'white');
+
+    if (window.addTextToCanvas) {
+        window.addTextToCanvas(mainText, subText);
+    }
+    
+    // 4. 스티커 로드
+    loadStickers();
+    
+    // 스크롤 상단 이동
+    window.scrollTo(0, 0);
 }
 
 /**
- * 에디터 화면에서 '목록으로 돌아가기' 버튼 클릭 시 실행됩니다.
+ * 스티커 로드 함수
+ */
+function loadStickers() {
+    const container = document.getElementById("sticker-container");
+    if (!container || container.children.length > 0) return; 
+
+    // [수정] 스크린샷에 있는 실제 파일명(.webp)으로 변경
+    const stickers = [
+        "star.webp",
+        "ribbon1.webp", "ribbon2.webp", "ribbon3.webp", "ribbon4.webp",
+        "finger_herat1.webp", "finger_herat2.webp", // 파일명 오타(herat) 그대로 적용
+        "cat.webp", "dog.webp", "tiger.webp", "ham.webp",
+        "boy.webp", "boy2.webp", "boy_dan.webp",
+        "girl_long.webp", "girl_shot.webp", "girl_dan.webp"
+    ];
+
+    stickers.forEach(file => {
+        const btn = document.createElement("button");
+        btn.className = "control-btn img-btn";
+        // 이미지 경로가 맞는지 확인 (/static/images/stickers/)
+        btn.innerHTML = `<img src="/static/images/stickers/${file}" loading="lazy" alt="sticker">`;
+        btn.onclick = () => {
+            if(window.addSticker) window.addSticker(file);
+        };
+        container.appendChild(btn);
+    });
+}
+
+/**
+ * 뒤로 가기 (에디터 -> 선택 화면)
  */
 function goBackToSelection() {
-    document.getElementById('editor-section').style.display = 'none';
-    document.getElementById('selection-section').style.display = 'block';
+    document.getElementById("editor-section").style.display = "none";
+    document.getElementById("selection-section").style.display = "block";
     window.scrollTo({ top: 0, behavior: 'smooth' });
 }

@@ -4,7 +4,7 @@ import os
 import time
 import logging
 import re
-from dotenv import load_dotenv
+import sys
 import google.generativeai as genai
 
 # ==========================================
@@ -14,23 +14,27 @@ import google.generativeai as genai
 logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
 logger = logging.getLogger(__name__)
 
-# [경로 수정] 프로젝트 루트 디렉토리(nomujoa/)를 기준으로 모든 경로 설정
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-load_dotenv(os.path.join(BASE_DIR, '.env')) 
+# [경로 설정] 프로젝트 루트 디렉토리를 sys.path에 추가하여 config.py를 임포트
+# 현재 위치: project/scripts/batch_generator.py
+current_dir = os.path.dirname(os.path.abspath(__file__)) # .../scripts
+project_root = os.path.dirname(current_dir) # .../ (프로젝트 루트)
+sys.path.append(project_root)
+
+from config import Config
 
 # API 키 로드
-GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
-if not GEMINI_API_KEY:
+if not Config.GEMINI_API_KEY:
     logger.error("❌ .env 파일에서 GEMINI_API_KEY를 찾을 수 없습니다!")
     exit()
-genai.configure(api_key=GEMINI_API_KEY)
+genai.configure(api_key=Config.GEMINI_API_KEY)
 
-# 파일 및 폴더 경로 설정
-CSV_MASTER_FILE = os.path.join(BASE_DIR, 'scripts', 'file', 'group_master.csv')
-GROUPS_JSON_FILE = os.path.join(BASE_DIR, 'app', 'data', 'groups.json')
-DICTS_DIR = os.path.join(BASE_DIR, 'app', 'data', 'dicts')
-MAPPING_FILE = os.path.join(BASE_DIR, 'app', 'data', 'phrase_mapping.json')
+# 파일 및 폴더 경로 설정 (Config 사용)
+CSV_MASTER_FILE = os.path.join(Config.RAW_DATA_DIR, 'group_master.csv')
+GROUPS_JSON_FILE = Config.GROUPS_FILE
+DICTS_DIR = Config.DICTS_DIR
+MAPPING_FILE = Config.MAPPING_FILE
 
+# 사전 디렉토리 생성 (없으면 생성)
 os.makedirs(DICTS_DIR, exist_ok=True)
 
 # ==========================================
@@ -54,12 +58,16 @@ def sync_groups_from_csv():
         reader = csv.DictReader(f)
         for row in reader:
             group_name = row['group_name'].strip()
+            # 멤버 리스트 파싱 (콤마로 구분)
             members = [m.strip() for m in row['members'].split(',') if m.strip()]
+            # 색상 리스트 파싱
             colors = [c.strip() for c in row['colors'].split(',') if c.strip()]
             csv_groups[group_name] = {"members": members, "colors": colors}
 
     newly_added_groups = {}
     is_updated = False
+    
+    # CSV 데이터와 JSON 비교하여 업데이트
     for group_name, info in csv_groups.items():
         if group_name not in groups_data or groups_data[group_name] != info:
             logger.info(f"🔄 동기화 감지: '{group_name}' 그룹 정보 업데이트/추가")
@@ -76,7 +84,7 @@ def sync_groups_from_csv():
 
 def generate_slang_list(group_name, member_name, intent_jp, intent_key):
     """Gemini API를 호출하여 K-POP 슬랭 리스트를 생성합니다."""
-    model = genai.GenerativeModel('gemini-flash-latest')
+    model = genai.GenerativeModel('gemini-2.0-flash')
     
     target_desc = f"group '{group_name}'"
     if member_name != "All":
@@ -158,7 +166,7 @@ def main():
                 logger.info(f"✨ 생성 대상 발견: '{group_name}' (사전 파일 없음)")
                 target_group = group_name
                 target_members = all_groups_data.get(group_name, {}).get('members', [])
-                break # <<-- 하나 찾으면 바로 중단!
+                break # <<-- 하나 찾으면 바로 중단! (API 할당량 관리)
 
     if not target_group:
         logger.info("✅ 모든 그룹의 사전 파일이 이미 존재합니다.")

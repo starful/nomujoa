@@ -4,6 +4,5 @@ google-generativeai
 python-dotenv
 requests
 flask-compress
-tweepy
 python-frontmatter
 markdown
