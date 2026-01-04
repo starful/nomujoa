@@ -15,24 +15,28 @@
         "btn_back": "← メインに戻る (Start Creating)",
 
         "privacy_title": "Privacy Policy",
-        "privacy_updated": "Last updated: December 12, 2024",
-        "privacy_intro_title": "1. Introduction",
-        "privacy_intro_desc": "Welcome to Nomujoa. We respect your privacy...",
-        "privacy_contact_title": "4. Contact Us",
-        "privacy_contact_desc": "If you have any questions...",
-        
-        "footer_home": "Home",
-        "footer_guide": "How to Use",
-        "footer_privacy": "Privacy Policy",
-        "footer_contact": "Contact",
+        "footer_home": "ホーム",
+        "footer_guide": "使い方",
+        "footer_privacy": "プライバシー",
+        "footer_contact": "お問い合わせ",
 
         "desc": "AIが韓国語のファン用語(スラング)に翻訳します✨",
-        "label_group": "1. グループ & メンバー (Group)",
+        "label_group": "1. グループ検索 (Group)",
+        "placeholder_search": "グループ名またはメンバー名で検索...",
         "label_member": "2. 推しメン選択 (Member)",
         "label_quick": "おすすめ (Quick Pick)",
         "label_msg": "3. メッセージ (Message)",
         "placeholder_msg": "例: 大好き、結婚して",
-        "btn_gen": "✨ AIに翻訳を頼む"
+        "btn_gen": "✨ AIに翻訳を頼む",
+        
+        "label_trending": "🔥 人気の用語 (Trending)",
+        "btn_view_all": "すべて見る >",
+        "desc_tool_title": "Nomujoa: K-POP応援ボード作成ツール",
+        "desc_tool_body": "NomujoaはK-POPファンのための無料Webツールです。AIがあなたのメッセージを流行りの韓国語スラングに翻訳し、プロ並みのスローガンやうちわ文字を作成します。",
+        "stat_groups": "対応グループ数",
+        "stat_update": "最終更新日",
+        "stat_notice": "🚀 毎週1グループずつ追加予定！",
+        "keywords": "キーワード: K-POPスローガン, 応援ボード, 韓国語翻訳, うちわ文字作成"
     },
     "en": {
         "guide_title": "🎤 How to use Nomujoa",
@@ -49,18 +53,29 @@
         "guide_tip2": "<strong>Quick Pick:</strong> Use 'Quick Pick' for recommended phrases.",
         "btn_back": "← Back to Home",
 
+        "privacy_title": "Privacy Policy",
+        "footer_home": "Home",
+        "footer_guide": "How to Use",
+        "footer_privacy": "Privacy Policy",
+        "footer_contact": "Contact",
+
         "desc": "AI translates your text into Korean fandom slang ✨",
-        "label_group": "1. Group & Member",
+        "label_group": "1. Group Search",
+        "placeholder_search": "Search Group or Member Name...",
         "label_member": "2. Select Member",
         "label_quick": "Quick Pick",
         "label_msg": "3. Your Message",
         "placeholder_msg": "e.g. I love you, Marry me",
         "btn_gen": "✨ Translate with AI",
 
-        "footer_home": "Home",
-        "footer_guide": "How to Use",
-        "footer_privacy": "Privacy Policy",
-        "footer_contact": "Contact"
+        "label_trending": "🔥 Trending Terms",
+        "btn_view_all": "View All >",
+        "desc_tool_title": "Nomujoa: K-POP Fan Creator Tool",
+        "desc_tool_body": "Nomujoa is a free web tool for K-POP fans. Create professional cheering slogans and Uchiwa fans with AI that translates your message into trendy Korean fandom slang.",
+        "stat_groups": "Available Groups",
+        "stat_update": "Last Update",
+        "stat_notice": "🚀 We update 1 new group every week!",
+        "keywords": "Keywords: K-POP Slogan, Cheering Kit, Hangul Translation, Uchiwa Maker"
     },
     "ko": {
         "guide_title": "🎤 Nomujoa 사용법",
@@ -77,18 +92,29 @@
         "guide_tip2": "<strong>추천 문구:</strong> '빠른 선택' 탭에서 상황별 멘트를 골라보세요.",
         "btn_back": "← 메인으로 돌아가기",
 
+        "privacy_title": "개인정보처리방침",
+        "footer_home": "홈",
+        "footer_guide": "사용법",
+        "footer_privacy": "개인정보처리방침",
+        "footer_contact": "문의하기",
+
         "desc": "AI가 당신의 마음을 K-POP 팬덤 용어로 번역해 드립니다 ✨",
-        "label_group": "1. 그룹 & 멤버 선택",
+        "label_group": "1. 그룹 검색",
+        "placeholder_search": "그룹명 또는 멤버 이름 검색...",
         "label_member": "2. 최애 선택",
         "label_quick": "추천 문구 (빠른 선택)",
         "label_msg": "3. 메시지 입력",
         "placeholder_msg": "예: 사랑해, 결혼해줘",
         "btn_gen": "✨ AI 번역 시작",
 
-        "footer_home": "홈",
-        "footer_guide": "사용법",
-        "footer_privacy": "개인정보처리방침",
-        "footer_contact": "문의하기"
+        "label_trending": "🔥 요즘 뜨는 용어 (Trending)",
+        "btn_view_all": "전체 보기 >",
+        "desc_tool_title": "Nomujoa: K-POP 응원 도구 제작소",
+        "desc_tool_body": "Nomujoa는 전 세계 K-POP 팬들을 위한 무료 웹 도구입니다. AI가 당신의 메시지를 최신 유행하는 한국어 팬덤 용어로 번역하여 전문적인 응원 슬로건과 부채를 만들어 드립니다.",
+        "stat_groups": "지원 그룹",
+        "stat_update": "마지막 업데이트",
+        "stat_notice": "🚀 매주 1개의 새로운 그룹이 추가됩니다!",
+        "keywords": "키워드: 케이팝 슬로건, 응원법, 주접 멘트, 우치와 제작"
     },
     "zh": {
         "guide_title": "🎤 如何使用 Nomujoa",
@@ -105,17 +131,28 @@
         "guide_tip2": "<strong>推荐:</strong> 使用'推荐语句'快速制作。",
         "btn_back": "← 返回首页",
 
+        "privacy_title": "隐私政策",
+        "footer_home": "首页",
+        "footer_guide": "使用指南",
+        "footer_privacy": "隐私政策",
+        "footer_contact": "联系我们",
+
         "desc": "AI 将您的信息翻译成韩流粉丝术语 ✨",
-        "label_group": "1. 选择组合和成员",
+        "label_group": "1. 搜索组合",
+        "placeholder_search": "搜索组合或成员名称...",
         "label_member": "2. 选择成员",
         "label_quick": "推荐语句",
         "label_msg": "3. 输入信息",
         "placeholder_msg": "例如: 我爱你, 嫁给我",
         "btn_gen": "✨ AI 翻译",
 
-        "footer_home": "首页",
-        "footer_guide": "使用指南",
-        "footer_privacy": "隐私政策",
-        "footer_contact": "联系我们"
+        "label_trending": "🔥 热门术语",
+        "btn_view_all": "查看全部 >",
+        "desc_tool_title": "Nomujoa: K-POP 粉丝创作工具",
+        "desc_tool_body": "Nomujoa 是为 K-POP 粉丝提供的免费网络工具。利用 AI 将您的信息翻译成流行的韩语粉丝术语，制作专业的应援标语和团扇。",
+        "stat_groups": "支持组合",
+        "stat_update": "最后更新",
+        "stat_notice": "🚀 我们每周更新 1 个新组合！",
+        "keywords": "关键词: K-POP 标语, 应援包, 韩语翻译, 团扇制作"
     }
 }

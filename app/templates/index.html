@@ -56,7 +56,7 @@
     <link href="https://webfontworld.github.io/gmarket/GmarketSans.css" rel="stylesheet">
     <link rel="stylesheet" href="/static/css/style.min.css">
     
-    <!-- [추가 스타일] 스마트 검색창용 CSS -->
+    <!-- [스마트 검색창용 스타일] -->
     <style>
         .search-container {
             position: relative;
@@ -171,6 +171,9 @@
 </head>
 
 <body>
+    <!-- [중요] 현재 언어 설정 변수 -->
+    {% set t = translations[current_lang] %}
+
     <div class="container">
         <header>
             <div class="lang-switcher">
@@ -184,17 +187,17 @@
             <h1>
                 <img src="/static/images/logo_h.png" alt="Nomujoa Logo" style="max-width: 220px; height: auto;">
             </h1>
-            <p class="desc" id="t-desc"></p>
+            <p class="desc" id="t-desc">{{ t.desc }}</p>
         </header>
 
         <main>
             <section id="input-section">
-                <!-- [수정됨] 스마트 검색창 적용 부분 -->
+                <!-- [스마트 검색창] -->
                 <div class="form-group">
-                    <label for="group-search-input" id="t-label-group">1. Group Search</label>
+                    <label for="group-search-input" id="t-label-group">{{ t.label_group }}</label>
                     <div class="search-container">
                         <div class="search-input-wrapper">
-                            <input type="text" id="group-search-input" placeholder="Search Group or Member Name..." autocomplete="off">
+                            <input type="text" id="group-search-input" placeholder="{{ t.placeholder_search }}" autocomplete="off">
                             <span class="search-icon">🔍</span>
                         </div>
                         <div id="group-list-container">
@@ -211,28 +214,32 @@
                 </div>
 
                 <div class="form-group">
-                    <label for="member-select" id="t-label-member"></label>
+                    <label for="member-select" id="t-label-member">{{ t.label_member }}</label>
                     <select id="member-select" disabled><option value="All">All Members</option></select>
                 </div>
                 <div class="form-group" style="margin-bottom: 15px;">
-                    <label id="t-label-quick" style="font-size:12px; color:#555; margin-bottom:5px;"></label>
+                    <label id="t-label-quick" style="font-size:12px; color:#555; margin-bottom:5px;">{{ t.label_quick }}</label>
                     <div id="quick-phrase-container" class="chip-container"></div>
                 </div>
                 <div class="form-group">
-                    <label for="jp-input" id="t-label-msg" style="margin-bottom: 8px; display:block;"></label>
-                    <input type="text" id="jp-input">
+                    <label for="jp-input" id="t-label-msg" style="margin-bottom: 8px; display:block;">{{ t.label_msg }}</label>
+                    <input type="text" id="jp-input" placeholder="{{ t.placeholder_msg }}">
                 </div>
-                <button class="primary-btn" id="t-btn-gen" onclick="translateAndStart()"></button>
+                <button class="primary-btn" id="t-btn-gen" onclick="translateAndStart()">{{ t.btn_gen }}</button>
             </section>
 
+            <!-- 결과 선택 섹션 -->
             <section id="selection-section" style="display:none;">
                 <h2 id="t-label-result" style="font-size:18px; margin-bottom:5px;"></h2>
                 <p id="t-txt-result-desc" style="font-size:12px; color:#666; margin-bottom:15px;"></p>
                 <div id="options-container"></div>
-                <button id="refresh-btn" onclick="translateAndStart(true)" class="secondary-btn" style="margin-top: 15px; width: 80%;"><span id="t-btn-retry"></span></button>
-                <div style="margin-top: 10px;"><button class="reset-link" onclick="location.reload()"></button></div>
+                <button id="refresh-btn" onclick="translateAndStart(true)" class="secondary-btn" style="margin-top: 15px; width: 80%;">
+                    <span id="t-btn-retry">Retry with AI</span>
+                </button>
+                <div style="margin-top: 10px;"><button class="reset-link" onclick="location.reload()">Reset</button></div>
             </section>
 
+            <!-- 에디터 섹션 -->
             <section id="editor-section" style="display:none;">
                 <div style="margin-bottom: 10px; display: flex; justify-content: center; gap: 10px;">
                     <button onclick="changeOrientation('portrait')" class="control-btn">📄 Portrait</button>
@@ -241,7 +248,7 @@
                 <div id="quick-switch-container" style="display: flex; gap: 8px; overflow-x: auto; padding: 10px 5px; margin-bottom: 10px; border-bottom: 1px solid #eee;"></div>
                 <div class="canvas-area"><canvas id="c"></canvas></div>
                 <div class="controls-group">
-                    <span class="controls-label" id="t-label-bg"></span>
+                    <span class="controls-label" id="t-label-bg">Background & Color</span>
                     <div id="fandom-colors" style="display: flex; gap: 10px; margin-bottom: 10px; justify-content: center;"></div>
                     <div style="display: flex; align-items: center; justify-content: center; gap: 8px; flex-wrap: wrap; margin-bottom: 15px;">
                         <input type="color" oninput="changePalette(this)" style="width: 30px; height: 30px; border: none; background: none; cursor: pointer;" aria-label="Choose Color">
@@ -249,7 +256,7 @@
                         <button class="control-btn" onclick="changeBg('black')" aria-label="Black Background">🖤</button>
                     </div>
                     <div style="border-top: 1px dashed #ddd; padding-top: 10px;">
-                        <span class="controls-label" id="t-label-tpl" style="font-size: 11px;"></span>
+                        <span class="controls-label" id="t-label-tpl" style="font-size: 11px;">Patterns</span>
                         <div style="display: flex; gap: 8px; overflow-x: auto; padding-bottom: 5px;">
                             <button class="control-btn img-btn" onclick="setPattern('cute.webp')"><img src="/static/images/templates/cute.webp" alt="Cute" loading="lazy"></button>
                             <button class="control-btn img-btn" onclick="setPattern('lovely.webp')"><img src="/static/images/templates/lovely.webp" alt="Lovely" loading="lazy"></button>
@@ -265,73 +272,54 @@
                     </div>
                 </div>
                 <div class="controls-group">
-                    <span class="controls-label" id="t-label-stk"></span>
+                    <span class="controls-label" id="t-label-stk">Stickers</span>
                     <div id="sticker-container">
                         <!-- Sticker buttons here -->
                     </div>
                 </div>
-                <button class="save-btn" id="t-btn-save" onclick="downloadImage()"></button>
-                <button class="secondary-btn" onclick="goBackToSelection()" id="t-btn-back-list" style="margin-top: 10px;"></button>
+                <button class="save-btn" id="t-btn-save" onclick="downloadImage()">Download Image</button>
+                <button class="secondary-btn" onclick="goBackToSelection()" id="t-btn-back-list" style="margin-top: 10px;">Back</button>
                 <p id="t-txt-save-desc" style="font-size:11px; color:#666; margin-top:10px;"></p>
-                <button class="reset-link" onclick="location.reload()"></button>
+                <button class="reset-link" onclick="location.reload()">Reset</button>
             </section>
             
-            <!-- 설명 및 현황판 섹션 -->
+            <!-- [설명 및 서비스 현황판] (번역 적용) -->
             <section style="margin-top: 40px; padding: 25px 20px; background: #f9f9f9; border-radius: 15px; text-align: left; border: 1px solid #eee;">
-                <h2 style="font-size: 18px; color: #333; margin-top: 0; margin-bottom: 10px;">Nomujoa: K-POP Fan Creator Tool</h2>
+                <h2 style="font-size: 18px; color: #333; margin-top: 0; margin-bottom: 10px;">{{ t.desc_tool_title }}</h2>
                 <p style="font-size: 14px; color: #666; line-height: 1.6; margin-bottom: 20px;">
-                    <strong>Nomujoa</strong> is a free web tool for K-POP fans. Create professional cheering slogans and Uchiwa fans with AI that translates your message into trendy Korean fandom slang.
+                    {{ t.desc_tool_body }}
                 </p>
 
-                <!-- [추가된 부분] 서비스 현황 대시보드 -->
-                <div style="
-                    background: white; 
-                    border: 1px dashed #ddd; 
-                    border-radius: 12px; 
-                    padding: 15px; 
-                    display: flex; 
-                    flex-direction: column; 
-                    gap: 8px;
-                ">
+                <!-- 서비스 현황 대시보드 -->
+                <div style="background: white; border: 1px dashed #ddd; border-radius: 12px; padding: 15px; display: flex; flex-direction: column; gap: 8px;">
                     <div style="display: flex; justify-content: space-between; align-items: center; font-size: 13px; color: #444;">
-                        <span style="display:flex; align-items:center; gap:5px;">👥 Available Groups</span>
+                        <span style="display:flex; align-items:center; gap:5px;">👥 {{ t.stat_groups }}</span>
                         <strong style="color: #333;">{{ group_count }} Teams</strong>
                     </div>
                     <div style="display: flex; justify-content: space-between; align-items: center; font-size: 13px; color: #444;">
-                        <span style="display:flex; align-items:center; gap:5px;">📅 Last Update</span>
+                        <span style="display:flex; align-items:center; gap:5px;">📅 {{ t.stat_update }}</span>
                         <strong style="color: #333;">{{ last_update }}</strong>
                     </div>
-                    <div style="
-                        margin-top: 8px; 
-                        background: #fff0f5; 
-                        color: #ff4081; 
-                        font-size: 12px; 
-                        font-weight: bold; 
-                        text-align: center; 
-                        padding: 8px; 
-                        border-radius: 8px;
-                    ">
-                        🚀 We update 1 new group every week!
+                    <div style="margin-top: 8px; background: #fff0f5; color: #ff4081; font-size: 12px; font-weight: bold; text-align: center; padding: 8px; border-radius: 8px;">
+                        {{ t.stat_notice }}
                     </div>
                 </div>
 
                 <div style="margin-top: 15px; font-size: 12px; color: #aaa;">
-                    <span>Keywords: K-POP Slogan, Cheering Kit, Hangul Translation, Uchiwa Maker</span>
+                    <span>{{ t.keywords }}</span>
                 </div>
             </section>
 
-            <!-- [수정됨] Trending Terms 섹션 (UI 개선) -->
+            <!-- [Trending Terms] (8개 Grid 디자인) (번역 적용) -->
             {% if recent_wiki %}
             <section style="margin-top: 35px; text-align: left;">
-                <!-- 섹션 헤더 -->
                 <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:15px; padding: 0 5px;">
                     <h3 style="font-size:17px; margin:0; color:#333; font-weight: 800; display: flex; align-items: center; gap: 6px;">
-                        🔥 Trending Terms
+                        {{ t.label_trending }}
                     </h3>
-                    <a href="/wiki" style="font-size:13px; color:#ff4081; text-decoration:none; font-weight:bold;">View All ></a>
+                    <a href="/wiki" style="font-size:13px; color:#ff4081; text-decoration:none; font-weight:bold;">{{ t.btn_view_all }}</a>
                 </div>
 
-                <!-- 카드 그리드 -->
                 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px;">
                     {% for post in recent_wiki %}
                     <a href="/wiki/{{ post.slug }}" style="text-decoration: none; color: inherit; display: block; height: 100%;">
@@ -350,46 +338,13 @@
                         " onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.08)';" 
                           onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.03)';">
                             
-                            <!-- 카테고리 태그 -->
                             <div style="margin-bottom: 8px;">
-                                <span style="
-                                    font-size: 10px; 
-                                    color: #ff4081; 
-                                    background: #fff0f5; 
-                                    padding: 4px 8px; 
-                                    border-radius: 6px; 
-                                    font-weight: 800;
-                                    display: inline-block;
-                                ">{{ post.category }}</span>
+                                <span style="font-size: 10px; color: #ff4081; background: #fff0f5; padding: 4px 8px; border-radius: 6px; font-weight: 800; display: inline-block;">{{ post.category }}</span>
                             </div>
 
-                            <!-- 제목 -->
-                            <h4 style="
-                                font-size: 15px; 
-                                margin: 0 0 6px 0; 
-                                font-weight: 800; 
-                                color: #222;
-                                line-height: 1.3;
-                                display: -webkit-box;
-                                -webkit-line-clamp: 1;
-                                -webkit-box-orient: vertical;
-                                overflow: hidden;
-                            ">{{ post.title }}</h4>
+                            <h4 style="font-size: 15px; margin: 0 0 6px 0; font-weight: 800; color: #222; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden;">{{ post.title }}</h4>
 
-                            <!-- 요약글 -->
-                            <p style="
-                                font-size: 12px; 
-                                color: #666; 
-                                margin: 0; 
-                                line-height: 1.5; 
-                                display: -webkit-box; 
-                                -webkit-line-clamp: 2; 
-                                -webkit-box-orient: vertical; 
-                                overflow: hidden;
-                                word-break: break-word;
-                            ">
-                                {{ post.summary }}
-                            </p>
+                            <p style="font-size: 12px; color: #666; margin: 0; line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word;">{{ post.summary }}</p>
                         </div>
                     </a>
                     {% endfor %}
@@ -400,9 +355,9 @@
 
         <footer class="site-footer">
             <div class="footer-links">
-                <a href="/guide">How to Use</a><span class="separator">|</span>
-                <a href="/privacy">Privacy Policy</a><span class="separator">|</span>
-                <a href="https://script.google.com/macros/s/AKfycbzmkJ7U5azVI56Pr7mr7y8yWDOuU2YdUa1buk6fqqduCDB4kr6qEb9EWsxqllwqF_KkJA/exec" target="_blank" rel="noopener noreferrer">Contact</a>
+                <a href="/guide">{{ t.footer_guide }}</a><span class="separator">|</span>
+                <a href="/privacy">{{ t.footer_privacy }}</a><span class="separator">|</span>
+                <a href="https://script.google.com/macros/s/AKfycbzmkJ7U5azVI56Pr7mr7y8yWDOuU2YdUa1buk6fqqduCDB4kr6qEb9EWsxqllwqF_KkJA/exec" target="_blank" rel="noopener noreferrer">{{ t.footer_contact }}</a>
             </div>
             <p class="copyright">&copy; 2024 Nomujoa. All rights reserved.</p>
         </footer>
@@ -414,26 +369,23 @@
     <script src="/static/js/canvas.js" defer></script>
     <script src="/static/js/main.js" defer></script>
 
-    <!-- [추가 스크립트] 스마트 검색 기능 -->
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            // 1. 기존 UI 업데이트 함수 실행 (있다면)
             if (typeof updateUI === 'function') {
                 updateUI();
             }
-            
-            // 2. 기존 멤버 셀렉트 이벤트 연결 (백업용)
+            // 기존 Select 이벤트 연결 (호환성 유지)
             const idolSelect = document.getElementById('idol-select');
             if(idolSelect) {
                 idolSelect.addEventListener('change', updateMembers);
             }
 
-            // 3. 스마트 검색 로직 시작
+            // [스마트 검색 로직]
             const searchInput = document.getElementById('group-search-input');
             const listContainer = document.getElementById('group-list-container');
             const originalSelect = document.getElementById('idol-select');
             
-            // 전역 변수에서 그룹 데이터 로드
+            // 그룹 데이터 로드 (전역 변수 활용)
             const groupData = window.GROUP_DATA || {};
 
             // 리스트 렌더링 함수
@@ -450,10 +402,8 @@
                     
                     // 검색 로직: 그룹명 또는 멤버 이름 매칭
                     const isGroupMatch = groupName.toLowerCase().includes(lowerFilter);
-                    // 멤버 중 검색어와 일치하는 사람이 있는지 확인
                     const matchedMember = members.find(m => m.toLowerCase().includes(lowerFilter));
                     
-                    // 검색어가 없거나, 그룹명 일치 또는 멤버 일치 시 표시
                     if (filterText === '' || isGroupMatch || matchedMember) {
                         hasResults = true;
                         const itemDiv = document.createElement('div');
@@ -473,11 +423,8 @@
                         
                         // 클릭 시 동작
                         itemDiv.onclick = function() {
-                            // 1. 숨겨진 select 값 변경
                             originalSelect.value = groupName;
-                            // 2. change 이벤트 강제 발생 (기존 main.js 로직 실행되어 멤버 목록 업데이트됨)
                             originalSelect.dispatchEvent(new Event('change'));
-                            // 3. UI 업데이트
                             searchInput.value = groupName;
                             listContainer.classList.remove('active');
                         };
@@ -486,7 +433,6 @@
                     }
                 });
 
-                // 결과가 없을 때
                 if (!hasResults) {
                     const noResult = document.createElement('div');
                     noResult.className = 'group-item';
