@@ -19,12 +19,12 @@ if not GEMINI_API_KEY:
     exit()
 
 # 🎯 한 번에 생성할 개수 제한 (5개)
-LIMIT = 5
+LIMIT = 10
 
 # 경로 설정
-INPUT_CSV = os.path.join(BASE_DIR, "scripts", "file", "kpop_terms.csv")
+INPUT_CSV = os.path.join(BASE_DIR, "data", "raw", "kpop_terms.csv")
 OUTPUT_DIR = os.path.join(BASE_DIR, "app", "content", "wiki")
-LOG_DIR = os.path.join(BASE_DIR, "app", "logs")
+LOG_DIR = os.path.join(BASE_DIR, "logs")
 HISTORY_FILE = os.path.join(LOG_DIR, "wiki_processed_history.txt")
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
