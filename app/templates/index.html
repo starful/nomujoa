@@ -10,36 +10,37 @@
       gtag('config', 'G-7RN20YED5D');
     </script>
     
+    {% set t = translations[current_lang] %}
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="canonical" href="https://nomujoa.com/">
     
-    <!-- SEO Meta Tags -->
-    <title>Nomujoa - K-POP Cheering Board & Slogan Maker (AI Korean Translation)</title>
-    <meta name="description" content="Create K-POP concert slogans, LED boards, and Uchiwa fans instantly with AI translation. Translate 'I love you' into trendy Korean fandom slang. K-POP応援ボード、うちわ文字、スローガンをAIで韓国語に翻訳して簡単に作成！">
+    <!-- SEO Meta Tags (Dynamic Language) -->
+    <title>{{ t.seo_title }}</title>
+    <meta name="description" content="{{ t.seo_description }}">
     <meta name="keywords" content="K-POP, Slogan Maker, Uchiwa, 応援ボード, うちわ文字, スローガン, 韓国語, 翻訳, Nomujoa, BTS, SEVENTEEN, TWICE">
     <meta name="author" content="Nomujoa">
 
     <link rel="shortcut icon" href="/static/images/favicon.ico">
     <link rel="icon" href="/static/images/favicon.ico">
 
-    <!-- Open Graph -->
+    <!-- Open Graph (Dynamic Language) -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://nomujoa.com/">
-    <meta property="og:title" content="🇰🇷 Nomujoa - K-POP Cheering Board Maker">
-    <meta property="og:description" content="AI가 당신의 마음을 '최애'가 좋아하는 한국어 밈으로 번역해드립니다.">
+    <meta property="og:title" content="{{ t.og_title }}">
+    <meta property="og:description" content="{{ t.og_description }}">
     <meta property="og:image" content="https://nomujoa.com/static/images/og_image.png">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="https://nomujoa.com/static/images/og_image.png">
 
-    <!-- JSON-LD Structured Data -->
+    <!-- JSON-LD Structured Data (Dynamic Language) -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "WebApplication",
       "name": "Nomujoa",
       "url": "https://nomujoa.com",
-      "description": "Create K-POP concert slogans and Uchiwa fans instantly with AI translation.",
+      "description": {{ t.seo_description | tojson }},
       "applicationCategory": "DesignApplication",
       "operatingSystem": "Web",
       "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
@@ -171,9 +172,6 @@
 </head>
 
 <body>
-    <!-- [중요] 현재 언어 설정 변수 -->
-    {% set t = translations[current_lang] %}
-
     <div class="container">
         <header>
             <div class="lang-switcher">
