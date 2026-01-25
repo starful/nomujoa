@@ -445,7 +445,454 @@
     ],
     "colors": [
       "#000000",
-      "#FFFFFF```"
+      "#FFFFFF"
+    ]
+  },
+  "BIGBANG": {
+    "members": [
+      "G-Dragon",
+      "Taeyang",
+      "Daesung"
+    ],
+    "colors": [
+      "#000000",
+      "#FFD700"
+    ]
+  },
+  "MAMAMOO": {
+    "members": [
+      "Solar",
+      "Moonbyul",
+      "Wheein",
+      "Hwasa"
+    ],
+    "colors": [
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  "WayV": {
+    "members": [
+      "Kun",
+      "Ten",
+      "Winwin",
+      "Xiaojun",
+      "Hendery",
+      "Yangyang"
+    ],
+    "colors": [
+      "#7FFF00",
+      "#FFFFFF"
+    ]
+  },
+  "Kep1er": {
+    "members": [
+      "Yujin",
+      "Xiaoting",
+      "Mashiro",
+      "Chaehyun",
+      "Dayeon",
+      "Hikaru",
+      "Huening Bahiyyih",
+      "Youngeun",
+      "Yeseo"
+    ],
+    "colors": [
+      "#B19CD9",
+      "#FFFFFF"
+    ]
+  },
+  "KISS OF LIFE": {
+    "members": [
+      "Julie",
+      "Natty",
+      "Belle",
+      "Haneul"
+    ],
+    "colors": [
+      "#FF0000",
+      "#000000"
+    ]
+  },
+  "tripleS": {
+    "members": [
+      "SeoYeon",
+      "HyeRin",
+      "JiWoo",
+      "ChaeYeon",
+      "YooYeon",
+      "SooMin",
+      "NaKyung",
+      "YuBin",
+      "Kaede",
+      "DaHyun",
+      "Kotone",
+      "YeonJi",
+      "Mayu",
+      "ShiOn",
+      "ChaeWon",
+      "SeolRin",
+      "JiYeon",
+      "BinHa",
+      "Hayumi",
+      "JooBin",
+      "DaSeul",
+      "Lynn",
+      "SeoAh",
+      "JiSook"
+    ],
+    "colors": [
+      "#A8E6CF",
+      "#FFFFFF"
+    ]
+  },
+  "P1Harmony": {
+    "members": [
+      "Keeho",
+      "Theo",
+      "Jiung",
+      "Intak",
+      "Soul",
+      "Jongseob"
+    ],
+    "colors": [
+      "#FF7A2E",
+      "#FFFFFF"
+    ]
+  },
+  "Dreamcatcher": {
+    "members": [
+      "JiU",
+      "SuA",
+      "Siyeon",
+      "Handong",
+      "Yoohyeon",
+      "Dami",
+      "Gahyeon"
+    ],
+    "colors": [
+      "#000000",
+      "#800080"
+    ]
+  },
+  "Oh My Girl": {
+    "members": [
+      "Hyojung",
+      "Mimi",
+      "YooA",
+      "Seunghee",
+      "Yubin",
+      "Arin"
+    ],
+    "colors": [
+      "#FFC0CB",
+      "#FFFFFF"
+    ]
+  },
+  "ASTRO": {
+    "members": [
+      "MJ",
+      "Jinjin",
+      "Cha Eun-woo",
+      "Moonbin",
+      "Sanha"
+    ],
+    "colors": [
+      "#FFB7C5",
+      "#7B68EE"
+    ]
+  },
+  "GOT7": {
+    "members": [
+      "Mark",
+      "Jay B",
+      "Jackson",
+      "Jinyoung",
+      "Youngjae",
+      "BamBam",
+      "Yugyeom"
+    ],
+    "colors": [
+      "#00FF00",
+      "#FFFFFF"
+    ]
+  },
+  "WINNER": {
+    "members": [
+      "Jinu",
+      "Hoony",
+      "Mino",
+      "Yoon"
+    ],
+    "colors": [
+      "#4169E1",
+      "#FFFFFF"
+    ]
+  },
+  "BTOB": {
+    "members": [
+      "Eunkwang",
+      "Minhyuk",
+      "Changsub",
+      "Hyunsik",
+      "Peniel",
+      "Sungjae"
+    ],
+    "colors": [
+      "#4169E1",
+      "#FFFFFF"
+    ]
+  },
+  "Super Junior": {
+    "members": [
+      "Leeteuk",
+      "Heechul",
+      "Yesung",
+      "Shindong",
+      "Sungmin",
+      "Eunhyuk",
+      "Siwon",
+      "Donghae",
+      "Ryeowook",
+      "Kyuhyun"
+    ],
+    "colors": [
+      "#00008B",
+      "#FFFFFF"
+    ]
+  },
+  "TVXQ": {
+    "members": [
+      "U-Know Yunho",
+      "Max Changmin"
+    ],
+    "colors": [
+      "#FF0000",
+      "#FFFFFF"
+    ]
+  },
+  "2PM": {
+    "members": [
+      "Jun. K",
+      "Nichkhun",
+      "Taecyeon",
+      "Wooyoung",
+      "Junho",
+      "Chansung"
+    ],
+    "colors": [
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  "KARA": {
+    "members": [
+      "Gyuri",
+      "Seungyeon",
+      "Nicole",
+      "Jiyoung",
+      "Youngji"
+    ],
+    "colors": [
+      "#FFD700",
+      "#FFFFFF"
+    ]
+  },
+  "Apink": {
+    "members": [
+      "Chorong",
+      "Bomi",
+      "Eunji",
+      "Namjoo",
+      "Hayoung"
+    ],
+    "colors": [
+      "#FF69B4",
+      "#FFFFFF"
+    ]
+  },
+  "Infinite": {
+    "members": [
+      "Sungkyu",
+      "Dongwoo",
+      "Woohyun",
+      "Sungyeol",
+      "L",
+      "Sungjong"
+    ],
+    "colors": [
+      "#FFD700",
+      "#000000"
+    ]
+  },
+  "VIXX": {
+    "members": [
+      "N",
+      "Leo",
+      "Ken",
+      "Hyuk"
+    ],
+    "colors": [
+      "#000080",
+      "#FFD700"
+    ]
+  },
+  "MEOVV": {
+    "members": [
+      "Ella",
+      "Gawon",
+      "Anna",
+      "Nararin",
+      "Sooin"
+    ],
+    "colors": [
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  "KATSEYE": {
+    "members": [
+      "Daniela",
+      "Lara",
+      "Manon",
+      "Megan",
+      "Sophia",
+      "Yoonchae"
+    ],
+    "colors": [
+      "#FFFFFF",
+      "#FF0000"
+    ]
+  },
+  "QWER": {
+    "members": [
+      "Chodan",
+      "Magenta",
+      "Hina",
+      "Siyeon"
+    ],
+    "colors": [
+      "#FF1493",
+      "#FFFFFF"
+    ]
+  },
+  "PLAVE": {
+    "members": [
+      "Noah",
+      "Bamby",
+      "Yejun",
+      "Eunho",
+      "Hamin"
+    ],
+    "colors": [
+      "#6C5CE7",
+      "#FFFFFF"
+    ]
+  },
+  "UNIS": {
+    "members": [
+      "Hyeonju",
+      "Nana",
+      "Gehlee",
+      "Kotoko",
+      "Yunha",
+      "Elisia",
+      "Yoona",
+      "Seowon"
+    ],
+    "colors": [
+      "#FF69B4",
+      "#FFFFFF"
+    ]
+  },
+  "EVNNE": {
+    "members": [
+      "Keita",
+      "Park Han-bin",
+      "Lee Jeong-hyeon",
+      "Yoo Seung-eon",
+      "Ji Yun-seo",
+      "Mun Jung-hyun",
+      "Park Ji-hoo"
+    ],
+    "colors": [
+      "#2980B9",
+      "#FFFFFF"
+    ]
+  },
+  "xikers": {
+    "members": [
+      "Minjae",
+      "Junmin",
+      "Sumin",
+      "Jinsik",
+      "Hyunwoo",
+      "Junghoon",
+      "Seeun",
+      "Yujun",
+      "Hunter",
+      "Yechan"
+    ],
+    "colors": [
+      "#FF4500",
+      "#000000"
+    ]
+  },
+  "NCT WISH": {
+    "members": [
+      "Sion",
+      "Riku",
+      "Yushi",
+      "Jaehee",
+      "Ryo",
+      "Sakuya"
+    ],
+    "colors": [
+      "#7FFF00",
+      "#FFFFFF"
+    ]
+  },
+  "NEXZ": {
+    "members": [
+      "Yu",
+      "Tomoya",
+      "Haru",
+      "Ken",
+      "Seita",
+      "Hyui",
+      "Yuki"
+    ],
+    "colors": [
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  "Madein": {
+    "members": [
+      "Mashiro",
+      "Miu",
+      "Suhye",
+      "Yeseo",
+      "Gaeun",
+      "Serina",
+      "Nagomi"
+    ],
+    "colors": [
+      "#B19CD9",
+      "#FFFFFF"
+    ]
+  },
+  "ARTMS": {
+    "members": [
+      "Heejin",
+      "Haseul",
+      "Kim Lip",
+      "Jinsoul",
+      "Choerry"
+    ],
+    "colors": [
+      "#000000",
+      "#FFFFFF"
     ]
   }
 }

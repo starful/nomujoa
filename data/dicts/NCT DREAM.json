@@ -1,0 +1,3042 @@
+{
+  "All": {
+    "LOVE_GENERAL": [
+      {
+        "text": "내 삶의 비타민",
+        "meaning_ja": "私の人生のビタミン",
+        "meaning_en": "You are the vitamin of my life"
+      },
+      {
+        "text": "사랑둥이들!",
+        "meaning_ja": "愛らしい子たち！",
+        "meaning_en": "You adorable darlings!"
+      },
+      {
+        "text": "내가 널 평생 아끼고 사랑해",
+        "meaning_ja": "私があなたを一生大切にして愛します",
+        "meaning_en": "I will cherish and love you forever"
+      },
+      {
+        "text": "최고의 기쁨조",
+        "meaning_ja": "最高の喜び組 (ムードメーカー)",
+        "meaning_en": "The best joy squad/mood makers"
+      },
+      {
+        "text": "입덕 부정기 없음",
+        "meaning_ja": "ファンになることを否定する期間はない",
+        "meaning_en": "No period of denying falling for you (Immediate fan)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "심장 어택 당했어",
+        "meaning_ja": "心臓アタックされた",
+        "meaning_en": "My heart was attacked (by your charm)"
+      },
+      {
+        "text": "내 통장의 주인이 되어줘",
+        "meaning_ja": "私の通帳の持ち主になって",
+        "meaning_en": "Be the owner of my bank account (Ultimate devotion)"
+      },
+      {
+        "text": "운명을 믿어 의심치 않아",
+        "meaning_ja": "運命だと信じて疑わない",
+        "meaning_en": "I don't doubt that this is fate"
+      },
+      {
+        "text": "너희 없이 못 살아",
+        "meaning_ja": "君たちなしでは生きられない",
+        "meaning_en": "I can't live without you"
+      },
+      {
+        "text": "영원히 고통받자",
+        "meaning_ja": "永遠に苦しもう (君にハマり続けたい)",
+        "meaning_en": "Let's suffer happily forever (a slang way of expressing deep, addictive love)"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "나랑 혼인신고 하자",
+        "meaning_ja": "私と婚姻届を出そう",
+        "meaning_en": "Let's register our marriage"
+      },
+      {
+        "text": "내 배우자 해줘",
+        "meaning_ja": "私の配偶者になって",
+        "meaning_en": "Be my spouse"
+      },
+      {
+        "text": "프러포즈는 언제 해줄 거야?",
+        "meaning_ja": "プロポーズはいつしてくれるの？",
+        "meaning_en": "When will you propose?"
+      },
+      {
+        "text": "청혼 받으려고 대기 중",
+        "meaning_ja": "求婚されるために待機中",
+        "meaning_en": "I'm on standby to receive a proposal"
+      },
+      {
+        "text": "나랑 가보자고!",
+        "meaning_ja": "私と行ってみようよ！",
+        "meaning_en": "Let's go (Get married!)"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "눈물 광광 흘리는 중",
+        "meaning_ja": "涙をじゃんじゃん流している最中",
+        "meaning_en": "I'm crying streams of tears (dramatic longing)"
+      },
+      {
+        "text": "현기증 난단 말이에요",
+        "meaning_ja": "めまいがするんですよ (切実な要求)",
+        "meaning_en": "I'm saying I feel dizzy/faint (due to intense craving)"
+      },
+      {
+        "text": "숨이 턱 막혀",
+        "meaning_ja": "息が詰まりそう",
+        "meaning_en": "My breath is caught in my throat"
+      },
+      {
+        "text": "너희 뽕이 필요해",
+        "meaning_ja": "君たちの「一服」が必要だ",
+        "meaning_en": "I need a fix/dose of you guys"
+      },
+      {
+        "text": "덕통사고 제대로",
+        "meaning_ja": "オタ活で交通事故にあったみたいに衝撃的 (夢中)",
+        "meaning_en": "A complete 'fandom accident' (unexpectedly fell deep in love/missing them)"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "평생 직진이다",
+        "meaning_ja": "一生、まっすぐ進むだけだ (片思いではない)",
+        "meaning_en": "It's a straight path forever (My devotion won't waver)"
+      },
+      {
+        "text": "엔드림만 해",
+        "meaning_ja": "NCT DREAMだけを推す",
+        "meaning_en": "Only stan/love NCT DREAM (Dedication)"
+      },
+      {
+        "text": "국가가 허락한 마약",
+        "meaning_ja": "国が許可した麻薬 (中毒性がある)",
+        "meaning_en": "The drug permitted by the state (You are addictive)"
+      },
+      {
+        "text": "죽을 때까지 함께",
+        "meaning_ja": "死ぬ時まで一緒に",
+        "meaning_en": "Together until death"
+      },
+      {
+        "text": "우리의 서사는 영원해",
+        "meaning_ja": "私たちの物語は永遠だ",
+        "meaning_en": "Our story/narrative is eternal"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "탄신일을 경축합니다",
+        "meaning_ja": "御誕生日を慶祝いたします (神様の誕生日)",
+        "meaning_en": "We celebrate your divine birth date"
+      },
+      {
+        "text": "생일 맞이 폭풍 덕질",
+        "meaning_ja": "誕生日を迎え、嵐のようなオタ活",
+        "meaning_en": "Fierce fangirling/fanning to celebrate the birthday"
+      },
+      {
+        "text": "오늘은 네가 주인공",
+        "meaning_ja": "今日はあなたが主人公",
+        "meaning_en": "Today, you are the main character"
+      },
+      {
+        "text": "HBD! 복 많이 받아!",
+        "meaning_ja": "ハッピーバースデー！ たくさん福を受けて！",
+        "meaning_en": "Happy Birthday! Receive lots of blessings!"
+      },
+      {
+        "text": "생일 축하해, 태어나줘서 고마워",
+        "meaning_ja": "誕生日おめでとう、生まれてきてくれてありがとう",
+        "meaning_en": "Happy birthday, thank you for being born"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "파이팅 넘치게 가자!",
+        "meaning_ja": "ファイティング精神にあふれて行こう！",
+        "meaning_en": "Let's go overflowing with fighting spirit!"
+      },
+      {
+        "text": "힘내, 네가 짱이야!",
+        "meaning_ja": "頑張って、君が最高だよ！",
+        "meaning_en": "Cheer up, you are the best!"
+      },
+      {
+        "text": "드림이즈 뭔들!",
+        "meaning_ja": "DREAMなら何でもできる！",
+        "meaning_en": "DREAM can do anything! (DREAM is everything!)"
+      },
+      {
+        "text": "지구 뿌셔!",
+        "meaning_ja": "地球を壊せ！ (すごいことをやれ)",
+        "meaning_en": "Smash the Earth! (Meaning: Do something amazing/incredible)"
+      },
+      {
+        "text": "너희는 다 계획이 있구나",
+        "meaning_ja": "君たちは全て計画があるんだね (成功を確信)",
+        "meaning_en": "You guys have a plan (and it will succeed)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "신이시여 찬양합니다",
+        "meaning_ja": "神よ、賛美します",
+        "meaning_en": "Oh God, I praise you"
+      },
+      {
+        "text": "이것이 바로 신의 영역",
+        "meaning_ja": "これがまさに神の領域",
+        "meaning_en": "This is truly the realm of God"
+      },
+      {
+        "text": "인간계에 내려온 천사들",
+        "meaning_ja": "人間界に降りてきた天使たち",
+        "meaning_en": "Angels descended to the human world"
+      },
+      {
+        "text": "갓갓갓!",
+        "meaning_ja": "ゴッドゴッドゴッド！",
+        "meaning_en": "God God God! (Extreme praise)"
+      },
+      {
+        "text": "개쩌는 실력",
+        "meaning_ja": "ヤバすぎる実力",
+        "meaning_en": "Insanely awesome/legendary skills"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "눈 호강 제대로",
+        "meaning_ja": "目の保養をしっかり (満喫)",
+        "meaning_en": "A proper eye luxury/feast"
+      },
+      {
+        "text": "이 귀한 걸 내가 보다니",
+        "meaning_ja": "こんなに尊いものを私が見るなんて",
+        "meaning_en": "How can I see this precious thing?"
+      },
+      {
+        "text": "영혼까지 맑음",
+        "meaning_ja": "魂まで清らか",
+        "meaning_en": "Pure even to the soul"
+      },
+      {
+        "text": "이 시대의 보물",
+        "meaning_ja": "この時代の宝物",
+        "meaning_en": "The treasure of this era"
+      },
+      {
+        "text": "무대 장인",
+        "meaning_ja": "ステージの職人",
+        "meaning_en": "Stage master/artisan"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "비주얼 쇼크",
+        "meaning_ja": "ビジュアルショック",
+        "meaning_en": "Visual shock (Stunned by appearance)"
+      },
+      {
+        "text": "얼굴 천재",
+        "meaning_ja": "顔面天才",
+        "meaning_en": "Face genius"
+      },
+      {
+        "text": "잘생김이 복지다",
+        "meaning_ja": "イケメンであることが福祉だ",
+        "meaning_en": "Being handsome is welfare"
+      },
+      {
+        "text": "만찢남들",
+        "meaning_ja": "漫画を破って出てきた男たち",
+        "meaning_en": "Guys who ripped out of a comic book"
+      },
+      {
+        "text": "오늘 미모 레전드 찍었다",
+        "meaning_ja": "今日の美貌はレジェンドを記録した",
+        "meaning_en": "Today their beauty hit legendary status"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "쁘이 해줘!",
+        "meaning_ja": "Vサインをして！",
+        "meaning_en": "Give me a V sign! (often used to mean cute hand gestures)"
+      },
+      {
+        "text": "하트 뿅!",
+        "meaning_ja": "ハート、ぴょん！ (擬音)",
+        "meaning_en": "Heart *pew*! (Cute sound effect for a sudden heart)"
+      },
+      {
+        "text": "심장 저격 부탁해!",
+        "meaning_ja": "心臓狙撃お願い！",
+        "meaning_en": "Please snipe my heart!"
+      },
+      {
+        "text": "사랑의 총알 발사!",
+        "meaning_ja": "愛の銃弾発射！",
+        "meaning_en": "Fire the bullet of love!"
+      },
+      {
+        "text": "손가락으로 애교 부려줘",
+        "meaning_ja": "指で愛嬌を見せて",
+        "meaning_en": "Do aegyo (cute behavior) with your fingers"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "배부르게 냠냠해!",
+        "meaning_ja": "お腹いっぱいモグモグして！",
+        "meaning_en": "Eat heartily, yum yum!"
+      },
+      {
+        "text": "밥은 꼭 챙겨 먹기!",
+        "meaning_ja": "ご飯は必ず忘れずに食べること！",
+        "meaning_en": "Definitely make sure to eat your meals!"
+      },
+      {
+        "text": "맛있는 거 flex 해",
+        "meaning_ja": "美味しいものにフレックス（奢り）して",
+        "meaning_en": "Splurge/flex on delicious food"
+      },
+      {
+        "text": "입맛 없을 땐 고기 앞으로",
+        "meaning_ja": "食欲がない時は肉の前に",
+        "meaning_en": "When you have no appetite, go for meat"
+      },
+      {
+        "text": "먹방 제대로 찍어줘",
+        "meaning_ja": "モッパン(食べる放送)をしっかりやってね",
+        "meaning_en": "Do a proper 'mukbang' (eating show)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "아프지 말고 건강하자",
+        "meaning_ja": "病気にならずに元気でいよう",
+        "meaning_en": "Don't be sick, let's be healthy"
+      },
+      {
+        "text": "감기 조심, 콜록콜록 금지",
+        "meaning_ja": "風邪に注意、ゴホンゴホン禁止",
+        "meaning_en": "Be careful of colds, coughing is prohibited"
+      },
+      {
+        "text": "몸 잘 챙겨, 알지?",
+        "meaning_ja": "体をちゃんと労わってね、分かってる？",
+        "meaning_en": "Take good care of your body, okay?"
+      },
+      {
+        "text": "면역력 챙기는 게 최고",
+        "meaning_ja": "免疫力を高めるのが一番",
+        "meaning_en": "Taking care of immunity is the best"
+      },
+      {
+        "text": "따숩게 입고 다녀",
+        "meaning_ja": "暖かく着て過ごしてね",
+        "meaning_en": "Dress warmly and go around"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "오늘도 수고했어, 토닥토닥",
+        "meaning_ja": "今日もお疲れ様、トントン (頭を叩く音)",
+        "meaning_en": "You worked hard today, pat pat (sound of comforting pat)"
+      },
+      {
+        "text": "고생 끝에 낙이 온다",
+        "meaning_ja": "苦労の末に楽しみが来る",
+        "meaning_en": "Joy comes at the end of hard work"
+      },
+      {
+        "text": "너희가 해냈다!",
+        "meaning_ja": "君たちがやり遂げた！",
+        "meaning_en": "You guys pulled it off!"
+      },
+      {
+        "text": "덕분에 행복한 하루였다",
+        "meaning_ja": "おかげで幸せな一日だった",
+        "meaning_en": "Thanks to you, it was a happy day"
+      },
+      {
+        "text": "다음 스케줄도 뿌셔!",
+        "meaning_ja": "次のスケジュールも壊して！ (成功させて)",
+        "meaning_en": "Smash the next schedule too! (Achieve great success)"
+      }
+    ]
+  },
+  "Mark": {
+    "LOVE_GENERAL": [
+      {
+        "text": "마크, 너는 내 '최애'의 정석이야.",
+        "meaning_ja": "マーク、あなたは私の「最愛の推し」の定石だよ。",
+        "meaning_en": "Mark, you are the definitive standard of my 'Ultimate Bias' (Choi-ae)."
+      },
+      {
+        "text": "마크 사랑은 '국룰'이지!",
+        "meaning_ja": "マークへの愛は「当然のルール」（お約束）だよね！",
+        "meaning_en": "Loving Mark is the 'National Rule' (a universal standard)!"
+      },
+      {
+        "text": "내 심장에 '입덕'했으니 책임져, 마크!",
+        "meaning_ja": "私の心に「オタク入門」（沼入り）したんだから、責任取って、マーク！",
+        "meaning_en": "You 'entered the fandom' (Ibdeok) into my heart, so take responsibility, Mark!"
+      },
+      {
+        "text": "마크 미모, 오늘 역대급 '대박' 터졌다!",
+        "meaning_ja": "マークの美貌、今日も史上最高に「大当たり」だ！",
+        "meaning_en": "Mark's visuals, they hit the 'jackpot' (Daebak) today, too!"
+      },
+      {
+        "text": "마크 사랑, '킹정'합니다.",
+        "meaning_ja": "マークへの愛、完全に「認定」（強く認める）します。",
+        "meaning_en": "I 'King-acknowledge' (totally certify) my love for Mark."
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "마크는 내 삶의 '힐링' 그 자체야.",
+        "meaning_ja": "マークは私の人生における「ヒーリング」そのものだよ。",
+        "meaning_en": "Mark is 'healing' itself in my life."
+      },
+      {
+        "text": "'마며들다' (마크에게 스며들다), 출구 없는 마크 사랑.",
+        "meaning_ja": "「マークに染み込む」（沼にハマる）、出口のないマークへの愛。",
+        "meaning_en": "I've been 'Mark-fused' (permeated by Mark), this is Mark love with no exit."
+      },
+      {
+        "text": "마크에게 '올인'! 내 통장은 이미 텅장!",
+        "meaning_ja": "マークに「オールイン」！私の口座はすでにお金がない！",
+        "meaning_en": "I'm 'All-in' on Mark! My bank account is already empty (Teongjang)!"
+      },
+      {
+        "text": "마크 없는 삶은 '노잼'이야!",
+        "meaning_ja": "マークがいない人生は「つまらない」（No Jam）！",
+        "meaning_en": "Life without Mark is 'No Fun' (No Jam)!"
+      },
+      {
+        "text": "마크 사랑은 'TMI' (Too Much Info)!",
+        "meaning_ja": "マークへの愛は「情報が多すぎる」（強すぎる）！",
+        "meaning_en": "My love for Mark is 'TMI' (Too Much Info)!"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "마크, 우리 이제 '빼박캔트' (빼도 박도 못하는) 결혼이다!",
+        "meaning_ja": "マーク、私たちの結婚はもう「後戻りできない」（逃げられない）！",
+        "meaning_en": "Mark, our marriage is now 'no turning back' (Ppaebak-cant)!"
+      },
+      {
+        "text": "마크에게 '철벽' 치는 거 포기! 결혼해 줘!",
+        "meaning_ja": "マークへの「鉄壁」（ガード）を諦めた！結婚して！",
+        "meaning_en": "I give up building a 'steel wall' against Mark! Marry me!"
+      },
+      {
+        "text": "마크, 프러포즈는 '국룰'이니까 해줄 거지?",
+        "meaning_ja": "マーク、プロポーズは「当然のルール」だからしてくれるよね？",
+        "meaning_en": "Mark, proposing is the 'National Rule,' so you'll do it, right?"
+      },
+      {
+        "text": "마크 아니면 '안될 안'! 무조건 결혼!",
+        "meaning_ja": "マークじゃなきゃ「ダメなものはダメ」！絶対に結婚！",
+        "meaning_en": "If it's not Mark, 'it won't happen' (Andwel-an)! Marry me no matter what!"
+      },
+      {
+        "text": "마크, 내 인생 '본업' (본업이 덕질) 하자, 결혼!",
+        "meaning_ja": "マーク、私の人生の「本業」（オタ活）をしよう、結婚！",
+        "meaning_en": "Mark, let's make our lives our 'main job' (Buneop - fandom life) together—marriage!"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "마크, 빨리 '컴백' 해줘! 현기증 난단 말이야.",
+        "meaning_ja": "マーク、早く「カムバック」して！めまいがするよ。",
+        "meaning_en": "Mark, please 'come back' quickly! I'm getting dizzy."
+      },
+      {
+        "text": "마크 못 본 지 '백만 년' 된 듯.",
+        "meaning_ja": "マークを見てから「百万年」経ったみたい。",
+        "meaning_en": "It feels like 'a million years' since I saw Mark."
+      },
+      {
+        "text": "마크 짤 (사진)만 봐도 '심쿵' 하는데, 실물은 '말잇못'.",
+        "meaning_ja": "マークの「写真」を見るだけで「胸キュン」なのに、実物は「言葉を失う」。",
+        "meaning_en": "Just seeing Mark's 'pics' (Jjal) makes my heart 'flutter' (Simkung), seeing him in person is 'speechless' (Mal-it-mot)."
+      },
+      {
+        "text": "마크, 내가 지금 '마크 앓이' 중이야!",
+        "meaning_ja": "マーク、私は今「マークシック」（マークに恋焦がれる状態）だよ！",
+        "meaning_en": "Mark, I am currently suffering from 'Mark-sickness'!"
+      },
+      {
+        "text": "마크 없으면 '현타' 와요. 빨리 와요!",
+        "meaning_ja": "マークがいないと「現実を悟る瞬間」（虚無感）が来るよ。早く来て！",
+        "meaning_en": "If Mark isn't here, I get 'hit by reality' (Hyeonta). Come quickly!"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "마크, 우리 '평생' 꽃길만 걷자!",
+        "meaning_ja": "マーク、私たちは「一生」花道だけを歩こう！",
+        "meaning_en": "Mark, let's only walk the 'flower road' (Kkotgil) 'forever'!"
+      },
+      {
+        "text": "나는 영원한 '맠프' (마크 팬)! 우리 관계는 '국룰'.",
+        "meaning_ja": "私は永遠の「マークファン」！私たちの関係は「当然のルール」。",
+        "meaning_en": "I am an eternal 'Mark Fan'! Our relationship is the 'National Rule'."
+      },
+      {
+        "text": "마크, 우린 '운명공동체'야. 영원히 '존버' (존나게 버티다)!",
+        "meaning_ja": "マーク、私たちは「運命共同体」だよ。永遠に「耐え忍ぼう」（強く踏ん張ろう）！",
+        "meaning_en": "Mark, we are a 'community of shared destiny'. Let's 'hold strong' (Jonbeo) forever!"
+      },
+      {
+        "text": "마크의 '찐팬' (진짜 팬)으로서 영원히 옆자리 '선점'.",
+        "meaning_ja": "マークの「本当のファン」として永遠に隣の席を「先占」（キープ）！",
+        "meaning_en": "As Mark's 'True Fan' (Jjin-paen), I 'pre-occupy' the spot next to him forever."
+      },
+      {
+        "text": "마크와 나, '투게더'는 '레전드' 조합!",
+        "meaning_ja": "マークと私、「トゥゲザー」は「レジェンド」な組み合わせ！",
+        "meaning_en": "Mark and me, 'together' is a 'legendary' combination!"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "마크 생일, '축하해'는 '국룰'!",
+        "meaning_ja": "マークの誕生日、「おめでとう」は「当然のルール」！",
+        "meaning_en": "Mark's birthday, 'Happy Birthday' is the 'National Rule'!"
+      },
+      {
+        "text": "마크, 오늘은 네가 '주인공'! '킹왕짱' 생일 보내!",
+        "meaning_ja": "マーク、今日は君が「主人公」！「キングの中のキング」の誕生日を過ごして！",
+        "meaning_en": "Mark, you are the 'main character' today! Have a 'King, Boss, Best' (King-wang-jjang) birthday!"
+      },
+      {
+        "text": "우리 마크, '생축'! 태어나줘서 '고맙다'!",
+        "meaning_ja": "私たちのマーク、「誕生日おめ」！生まれてくれて「ありがとう」！",
+        "meaning_en": "Our Mark, 'HBD' (Saeng-chuk)! Thank you for being born!"
+      },
+      {
+        "text": "마크 탄생은 '역대급' 사건, '레전드' 생일 파티!",
+        "meaning_ja": "マークの誕生は「史上最高クラス」の事件、「レジェンド」の誕生日パーティー！",
+        "meaning_en": "Mark's birth is a 'historic' (Yeokdae-geup) event, a 'legendary' birthday party!"
+      },
+      {
+        "text": "마크, 너의 생일 'flex'는 내가 책임진다!",
+        "meaning_ja": "マーク、あなたの誕生日の「フレックス」（自慢/見せびらかし）は私が責任を持つ！",
+        "meaning_en": "Mark, I take responsibility for your birthday 'flex' (showing off)!"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "마크, '힘내'는 거 '국룰'! '파이팅'!",
+        "meaning_ja": "マーク、「頑張る」のは「当然のルール」！「ファイティング」！",
+        "meaning_en": "Mark, 'cheering up' is the 'National Rule'! 'Fighting'!"
+      },
+      {
+        "text": "'마크 is 뭔들' (마크가 하는 것은 뭐든지)! 뭘 해도 응원해!",
+        "meaning_ja": "「マークイズムォンドゥル」（マークがやることなら何でも）！何をしても応援するよ！",
+        "meaning_en": "'Mark is everything he does'! Whatever you do, I cheer you on!"
+      },
+      {
+        "text": "마크의 모든 순간을 '저장' (save)! 넌 '킹'이니까!",
+        "meaning_ja": "マークの全ての瞬間を「保存」！あなたは「キング」だから！",
+        "meaning_en": "I 'save' every moment of Mark! Because you are 'King'!"
+      },
+      {
+        "text": "마크, 오늘 '텐션' 올려! 내가 '빡친' 기분 풀어줄게!",
+        "meaning_ja": "マーク、今日「テンション」上げて！私が「イライラした」気分を晴らしてあげる！",
+        "meaning_en": "Mark, raise your 'tension' (energy) today! I'll relieve your 'stressed/annoyed' feeling!"
+      },
+      {
+        "text": "마크, '좌절 금지'! '내꼬' (내 것)는 언제나 빛나!",
+        "meaning_ja": "マーク、「挫折禁止」！私の「もの」（愛しい人）はいつも輝いている！",
+        "meaning_en": "Mark, 'no despair'! My 'possession/darling' always shines!"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "마크는 '갓' (God) 마크! '반박불가'!",
+        "meaning_ja": "マークは「ゴッド」マーク！「反論不可」！",
+        "meaning_en": "Mark is 'God' Mark! 'No objection possible'!"
+      },
+      {
+        "text": "마크는 '킹' (King) 중에 '킹'! '존경'합니다.",
+        "meaning_ja": "マークは「キング」の中の「キング」！「尊敬」します。",
+        "meaning_en": "Mark is 'King' among 'Kings'! I 'respect' you."
+      },
+      {
+        "text": "마크는 '인간계' 졸업, 이미 '천상계' 아이돌!",
+        "meaning_ja": "マークは「人間界」卒業、すでに「天上界」のアイドル！",
+        "meaning_en": "Mark graduated from the 'human realm', already a 'celestial realm' idol!"
+      },
+      {
+        "text": "마크, 당신은 '치트키' (Cheat Key)! 존재 자체가 '개이득'!",
+        "meaning_ja": "マーク、あなたは「チートキー」（反則級の才能）！存在自体が「超お得」！",
+        "meaning_en": "Mark, you are a 'cheat key'! Your existence itself is a 'huge profit' (Gae-ideuk)!"
+      },
+      {
+        "text": "마크는 '넘사벽' (넘을 수 없는 사차원의 벽)! 아무도 못 이겨.",
+        "meaning_ja": "マークは「越えられない四次元の壁」！誰も勝てない。",
+        "meaning_en": "Mark is an 'unbreakable dimensional wall' (Neom-sa-byeok)! No one can defeat him."
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "마크 미모 '역대급', 이건 '짤' (사진)로 남겨야 해.",
+        "meaning_ja": "マークの美貌は「史上最高」、これは「写真/ミーム」として残さなきゃ。",
+        "meaning_en": "Mark's visuals are 'historic' (Yeokdae-geup), we must leave this as a 'pic/meme' (Jjal)."
+      },
+      {
+        "text": "마크의 존재는 '혜자' (가성비 좋은)! 매일 봐도 '대박'.",
+        "meaning_ja": "マークの存在は「太っ腹/神コスパ」！毎日見ても「大当たり」。",
+        "meaning_en": "Mark's existence is 'generous' (Hyeja - great value)! Amazing even when seen daily."
+      },
+      {
+        "text": "마크 얼굴에 '치인다' (매료된다)! 너무 '뽀짝'해!",
+        "meaning_ja": "マークの顔に「やられる」（魅了される）！すごく「かわいい/小さい」！",
+        "meaning_en": "I am 'smitten' (Chi-inda) by Mark's face! So 'cute/tiny' (Ppo-jjak)!"
+      },
+      {
+        "text": "마크는 '만찢남' (만화를 찢고 나온 남자), 비현실적 '비주얼 쇼크'.",
+        "meaning_ja": "マークは「漫画から飛び出してきた男」、非現実的な「ビジュアルショック」。",
+        "meaning_en": "Mark is a 'man ripped from a comic' (Manjjinam), an unrealistic 'visual shock'."
+      },
+      {
+        "text": "마크 '비주얼'에 '덕통사고' (덕후 교통사고) 당함!",
+        "meaning_ja": "マークの「ビジュアル」で「オタク交通事故」（衝撃的な出会い）に遭った！",
+        "meaning_en": "I suffered a 'fandom traffic accident' (Deok-tong-sago) due to Mark's 'visuals'!"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "마크 얼굴, '킹받네' (열받네) 아니고 '킹벽' (킹+완벽)이다!",
+        "meaning_ja": "マークの顔、「ムカつく」（皮肉）じゃなくて「キングパーフェクト」だ！",
+        "meaning_en": "Mark's face isn't 'annoying' (King-bat-ne - playful reversal), it's 'King-Perfect'!"
+      },
+      {
+        "text": "마크 얼굴이 곧 '개연성'! 모든 것이 '납득'.",
+        "meaning_ja": "マークの顔がすなわち「蓋然性」（そうなる理由）！全てが「納得」できる。",
+        "meaning_en": "Mark's face is 'plausibility' itself! Everything is 'understandable'."
+      },
+      {
+        "text": "마크 얼굴은 '유죄', 나를 심쿵하게 만든 '죄'.",
+        "meaning_ja": "マークの顔は「有罪」、私を胸キュンさせた「罪」。",
+        "meaning_en": "Mark's face is 'guilty', the 'crime' of making my heart flutter."
+      },
+      {
+        "text": "마크 얼굴은 '반사판' (빛을 반사하는 판)! 자체발광 '레전드'.",
+        "meaning_ja": "マークの顔は「レフ板」！自己発光する「レジェンド」。",
+        "meaning_en": "Mark's face is a 'reflector'! Self-luminous 'legend'."
+      },
+      {
+        "text": "마크 '실물' 영접하면 '입틀막' (입을 틀어막다)!",
+        "meaning_ja": "マークを「実物」で拝見したら「口を塞ぐ」（言葉を失う）！",
+        "meaning_en": "If you meet Mark 'in person', you have to 'cover your mouth' (Ip-teul-mak)!"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "마크, 나에게 '심쿵' 유발 '손하트' 발사!",
+        "meaning_ja": "マーク、私に「胸キュン」誘発の「指ハート」を発射して！",
+        "meaning_en": "Mark, fire a heart-fluttering 'hand heart' at me!"
+      },
+      {
+        "text": "'마크리'만의 특별 '핑거하트' 기대할게요!",
+        "meaning_ja": "「マーク・リー」だけの特別な「フィンガーハート」を期待しています！",
+        "meaning_en": "I anticipate 'Mark Lee's' special 'finger heart'!"
+      },
+      {
+        "text": "마크 '사랑의 총알' (손하트) 한 발만 쏴줘!",
+        "meaning_ja": "マーク、「愛の弾丸」（指ハート）を一発だけ撃って！",
+        "meaning_en": "Mark, fire just one 'bullet of love' (hand heart)!"
+      },
+      {
+        "text": "마크, 너의 '큐트' 매력 발산! '따봉' 말고 하트!",
+        "meaning_ja": "マーク、あなたの「キュート」な魅力発散！「いいね」じゃなくてハート！",
+        "meaning_en": "Mark, show off your 'cute' charm! Heart, not 'thumbs up' (Tta-bong)!"
+      },
+      {
+        "text": "마크야, '애교' 장전! '뿅' 하는 하트 요청!",
+        "meaning_ja": "マーク、「愛嬌」装填！「ピョン」とするハートをリクエスト！",
+        "meaning_en": "Mark, charm loaded! Requesting a 'pyong' (sound effect) heart!"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "마크, 'JMT' (존맛탱) 음식만 골라 먹어야 해!",
+        "meaning_ja": "マーク、「超美味しいもの」だけ選んで食べなきゃダメだよ！",
+        "meaning_en": "Mark, you must only choose and eat 'JMT' (Very Delicious Food)!"
+      },
+      {
+        "text": "마크 '먹방' (먹는 방송) 하는 거 보고 싶다! '뇸뇸'.",
+        "meaning_ja": "マークの「モクバン」（食べる放送）が見たい！「もぐもぐ」。",
+        "meaning_en": "I want to see Mark doing an 'eating broadcast' (Mukbang)! 'Nom nom'."
+      },
+      {
+        "text": "'밥은 먹고 다니냐', 마크? '든든'하게 먹어!",
+        "meaning_ja": "「ちゃんとご飯食べてる」、マーク？「しっかり」食べてね！",
+        "meaning_en": "Are you eating well, Mark? Eat 'heartily'!"
+      },
+      {
+        "text": "마크, 편의점 '꿀조합' 말고 '고급진' 거 먹어줘!",
+        "meaning_ja": "マーク、コンビニの「神組み合わせ」じゃなくて、「高級な」ものを食べてね！",
+        "meaning_en": "Mark, eat 'fancy' stuff, not convenience store 'honey combinations' (Kkul-johab)!"
+      },
+      {
+        "text": "마크, 오늘 점심 '인증샷' (인증 사진)은 '필수'다!",
+        "meaning_ja": "マーク、今日のランチの「認証ショット」は「必須」だよ！",
+        "meaning_en": "Mark, today's lunch 'proof shot' (Injeung-syot) is 'essential'!"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "마크, 아프면 '안될 안'! 건강이 '최고'!",
+        "meaning_ja": "マーク、病気になったら「ダメなものはダメ」！健康が「最高」！",
+        "meaning_en": "Mark, 'it won't happen' if you get sick! Health is 'the best'!"
+      },
+      {
+        "text": "'마크리'의 건강은 '국가대표급'으로 관리되어야 해!",
+        "meaning_ja": "「マーク・リー」の健康は「国家代表レベル」で管理されるべき！",
+        "meaning_en": "Mark Lee's health must be managed at a 'national athlete level'!"
+      },
+      {
+        "text": "마크 감기 걸리면 '킹받네' (짜증나)! 절대 안 돼!",
+        "meaning_ja": "マークが風邪をひいたら「ムカつく」（心配で）！絶対だめ！",
+        "meaning_en": "If Mark catches a cold, it's 'annoying' (King-bat-ne - in a concerned way)! Absolutely not!"
+      },
+      {
+        "text": "마크, 따뜻하게 입고 '마스크' 필수!",
+        "meaning_ja": "マーク、暖かくして「マスク」は必須だよ！",
+        "meaning_en": "Mark, dress warmly and a 'mask' is essential!"
+      },
+      {
+        "text": "마크 '컨디션' 항상 '굿'이길 기도해, '내사랑'.",
+        "meaning_ja": "マークの「コンディション」がいつも「グッド」であることを祈るよ、「私の愛しい人」。",
+        "meaning_en": "I pray Mark's 'condition' is always 'good', 'my love'."
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "마크, '수고'했어! 너는 정말 '프로'야!",
+        "meaning_ja": "マーク、「お疲れ様」！あなたは本当に「プロ」だよ！",
+        "meaning_en": "Mark, you 'worked hard'! You are truly a 'pro'!"
+      },
+      {
+        "text": "오늘 마크 '열일' (열심히 일) 했다! '퇴근'은 '칼퇴' 부탁!",
+        "meaning_ja": "今日マークは「熱心に働いた」！「退勤」は「定時退勤」お願いね！",
+        "meaning_en": "Mark 'worked hard' (Yeol-il) today! Please 'clock out' exactly on time (Kal-toe)!"
+      },
+      {
+        "text": "마크, '개쩔어'! 오늘 무대 '지렸다'!",
+        "meaning_ja": "マーク、「超ヤバい」！今日のステージは「最高だった」！",
+        "meaning_en": "Mark, you were 'so cool' (Gaejjeoreo)! Today's stage 'killed it' (Jiryeotda)!"
+      },
+      {
+        "text": "마크의 노력은 '참트루' (참+True)! 정말 '리스펙' 합니다.",
+        "meaning_ja": "マークの努力は「真実そのもの」！本当に「リスペクト」します。",
+        "meaning_en": "Mark's effort is 'truly true'! I really 'respect' you."
+      },
+      {
+        "text": "마크, 오늘 '텐션' '오졌다' (대단했다)! 푹 쉬어!",
+        "meaning_ja": "マーク、今日の「テンション」は「すごかった」！ゆっくり休んで！",
+        "meaning_en": "Mark, today's 'tension/energy' was 'amazing' (O-jyeotda)! Rest well!"
+      }
+    ]
+  },
+  "Renjun": {
+    "LOVE_GENERAL": [
+      {
+        "text": "황런쥔, 내 심장의 숙주야!",
+        "meaning_ja": "ファン・ロンジュン、私の心臓の宿主だよ！",
+        "meaning_en": "Huang Renjun, you are the host of my heart!"
+      },
+      {
+        "text": "런쥔이 없인 못 살아, 내 삶의 낙이야!",
+        "meaning_ja": "ロンジュンなしでは生きられない、私の人生の喜びだよ！",
+        "meaning_en": "I can't live without Renjun, you are the joy of my life!"
+      },
+      {
+        "text": "런쥔아, 너는 내 인생의 폼 미친 존재야.",
+        "meaning_ja": "ロンジュン、君は私の人生で「調子ぶっ壊れた」（最高に素晴らしい）存在だ。",
+        "meaning_en": "Renjun, you are the 'crazy awesome' presence in my life."
+      },
+      {
+        "text": "런쥔이는 나의 최애돌, 줄여서 '최애'야.",
+        "meaning_ja": "ロンジュンは私の最愛のアイドル、略して「推し」だよ。",
+        "meaning_en": "Renjun is my ultimate bias idol, 'Choi-ae' for short."
+      },
+      {
+        "text": "킹런쥔 사랑해, 내 마음속 저장!",
+        "meaning_ja": "キング・ロンジュン愛してる、私の心の中に保存！",
+        "meaning_en": "King Renjun, I love you, 'saving' you in my heart!"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "런쥔이한테 과몰입 중, 출구는 없어.",
+        "meaning_ja": "ロンジュンに過度な没頭中、出口はない。",
+        "meaning_en": "I'm over-immersed in Renjun, there is no exit (from this love)."
+      },
+      {
+        "text": "나의 전재산과 마음을 바친다, 런쥔아.",
+        "meaning_ja": "私の全財産と心を捧げるよ、ロンジュン。",
+        "meaning_en": "I dedicate all my assets and heart, Renjun."
+      },
+      {
+        "text": "런쥔아, 널 향한 내 마음은 지구를 뚫어.",
+        "meaning_ja": "ロンジュン、君への私の心は地球を貫く。",
+        "meaning_en": "Renjun, my heart for you pierces the Earth."
+      },
+      {
+        "text": "우주만큼 사랑해, 은하계 뿌셔!",
+        "meaning_ja": "宇宙ほど愛してる、銀河系を壊すくらい！",
+        "meaning_en": "I love you as much as the universe, crushing the galaxy!"
+      },
+      {
+        "text": "런쥔이 없으면 나 기절각. 찐사랑이야.",
+        "meaning_ja": "ロンジュンがいなければ私、気絶レベル。本物の愛だよ。",
+        "meaning_en": "If there's no Renjun, I'm about to faint. This is real love."
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "런쥔아, 지금 당장 혼인신고 하러 가자!",
+        "meaning_ja": "ロンジュン、今すぐ婚姻届を出しに行こう！",
+        "meaning_en": "Renjun, let's go register our marriage right now!"
+      },
+      {
+        "text": "런쥔이는 내꺼! 오늘부터 1일 각이다.",
+        "meaning_ja": "ロンジュンは私のもの！今日から1日目（付き合い始め）決定だ。",
+        "meaning_en": "Renjun is mine! Today is decided to be Day 1."
+      },
+      {
+        "text": "황런쥔, 내 삶의 짝꿍, 평생 같이 살자.",
+        "meaning_ja": "ファン・ロンジュン、私の人生のパートナー、一生一緒に住もう。",
+        "meaning_en": "Huang Renjun, my life partner, let's live together forever."
+      },
+      {
+        "text": "런쥔아, 우리 부부의 합법적인 미래를 응원해.",
+        "meaning_ja": "ロンジュン、私たち夫婦の合法的な未来を応援してるよ。",
+        "meaning_en": "Renjun, I'm cheering for our legal future as a married couple."
+      },
+      {
+        "text": "런쥔아, 도장 찍자! 내 삶에 런쥔 박제.",
+        "meaning_ja": "ロンジュン、判子を押そう！（契約しよう）私の人生にロンジュンを永久保存。",
+        "meaning_en": "Renjun, let's stamp it! Preserving Renjun in my life (forever)."
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "런쥔이 못 봐서 현기증 난단 말이야!",
+        "meaning_ja": "ロンジュンが見られなくて目眩がするんだってば！",
+        "meaning_en": "I'm saying I'm dizzy because I can't see Renjun!"
+      },
+      {
+        "text": "런쥔아, 내일 스케줄 없으면 지금 당장 와줘.",
+        "meaning_ja": "ロンジュン、明日スケジュールがなかったら今すぐ来て。",
+        "meaning_en": "Renjun, if you don't have a schedule tomorrow, come right now."
+      },
+      {
+        "text": "런쥔이 실시간 앓이 중, 당장 영접 기원.",
+        "meaning_ja": "ロンジュンにリアルタイムで恋い焦がれ中、今すぐ会えることを祈願。",
+        "meaning_en": "I'm yearning for Renjun in real-time, praying for an immediate meeting."
+      },
+      {
+        "text": "런쥔이 얼굴 못 본 지 오조오억 년 된 듯.",
+        "meaning_ja": "ロンジュンの顔を見てから五兆五億年経った気がする。",
+        "meaning_en": "It feels like 5.5 billion years since I saw Renjun's face (Exaggerated)."
+      },
+      {
+        "text": "런쥔아, 보고 싶어 죽겠다.",
+        "meaning_ja": "ロンジュン、会いたくて死にそうだ。",
+        "meaning_en": "Renjun, I miss you so much I could die."
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "런쥔아, 평생 네 옆에서 주접 떨게 해줘!",
+        "meaning_ja": "ロンジュン、一生あなたの隣でオタクのおしゃべりをさせて！",
+        "meaning_en": "Renjun, let me excessively praise/flirt next to you forever!"
+      },
+      {
+        "text": "나는 평생 런쥔이의 '고정픽'이다!",
+        "meaning_ja": "私は一生ロンジュンの「固定ピック」（永遠の推し）だ！",
+        "meaning_en": "I am Renjun's 'fixed pick' (fixed favorite) forever!"
+      },
+      {
+        "text": "런쥔이의 미래, 내가 평생 책임진다.",
+        "meaning_ja": "ロンジュンの未来、私が一生責任を持つ。",
+        "meaning_en": "I will take responsibility for Renjun's future forever."
+      },
+      {
+        "text": "런쥔아, 우리의 영원한 역사를 지금부터 박제하자.",
+        "meaning_ja": "ロンジュン、私たちの永遠の歴史を今から永久保存しよう。",
+        "meaning_en": "Renjun, let's archive our eternal history starting now."
+      },
+      {
+        "text": "우리의 영원한 동행, 런쥔아 든든하다!",
+        "meaning_ja": "私たちの永遠の同行、ロンジュン、頼もしい！",
+        "meaning_en": "Our eternal companionship, Renjun, you are reliable!"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "황런쥔 탄신일, 지구가 감격하는 날!",
+        "meaning_ja": "ファン・ロンジュン誕生祭、地球が感激する日！",
+        "meaning_en": "Huang Renjun's birth day, the day the Earth is moved!"
+      },
+      {
+        "text": "런쥔아, 태어나줘서 고마워. 복 많이 받아!",
+        "meaning_ja": "ロンジュン、生まれてきてくれてありがとう。たくさんの福を受けてね！",
+        "meaning_en": "Renjun, thank you for being born. Receive much luck!"
+      },
+      {
+        "text": "런쥔이 생일, 오늘은 무조건 런쥔시!",
+        "meaning_ja": "ロンジュンの誕生日、今日は無条件でロンジュンタイム！",
+        "meaning_en": "Renjun's birthday, today is unconditionally Renjun Time (meaning the focus is only on him)!"
+      },
+      {
+        "text": "런쥔아, 생일이니까 오늘은 네가 짱이야.",
+        "meaning_ja": "ロンジュン、誕生日だから今日は君が一番最高だよ。",
+        "meaning_en": "Renjun, since it's your birthday, you are the best today."
+      },
+      {
+        "text": "런쥔이 생일 축하! 오늘 컨디션 폼 미쳤다!",
+        "meaning_ja": "ロンジュン誕生日おめでとう！今日のコンディションは「調子ぶっ壊れた」（最高）！",
+        "meaning_en": "Happy birthday Renjun! Today's condition is crazy good!"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "황런쥔, 오늘 무대 찢었다! 가보자고!",
+        "meaning_ja": "ファン・ロンジュン、今日のステージ最高だった！（舞台を破った）行ってみよう！（さらに頑張ろう）",
+        "meaning_en": "Huang Renjun, you slayed the stage today! Let's go!"
+      },
+      {
+        "text": "런쥔이, 네가 최고! 누가 뭐래도 내가 지켜.",
+        "meaning_ja": "ロンジュン、君が最高！誰が何と言おうと私が守る。",
+        "meaning_en": "Renjun, you are the best! No matter what anyone says, I'll protect you."
+      },
+      {
+        "text": "런쥔이의 미모는 복지, 우리가 널 지켜줄게.",
+        "meaning_ja": "ロンジュンの美貌は福祉、私たちが君を守ってあげるよ。",
+        "meaning_en": "Renjun's visuals are welfare, we will protect you."
+      },
+      {
+        "text": "런쥔아, 항상 잘하고 있어. 걱정은 넣어둬!",
+        "meaning_ja": "ロンジュン、いつも上手くやっているよ。心配はしまっておいて！",
+        "meaning_en": "Renjun, you are always doing well. Put your worries away!"
+      },
+      {
+        "text": "런쥔아, 힘내! 우린 널 '무한동력'으로 밀어줄게.",
+        "meaning_ja": "ロンジュン、頑張って！私たちは君を「無限動力」で後押しするよ。",
+        "meaning_en": "Renjun, cheer up! We will push you with 'infinite power'."
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "런쥔이의 실력, 이미 갓벽함 그 자체.",
+        "meaning_ja": "ロンジュンの実力、すでに「神＋完璧」そのもの。",
+        "meaning_en": "Renjun's skill is already 'Godly perfection' itself."
+      },
+      {
+        "text": "런쥔아, 너는 그냥 '신'이다. 갓런쥔 인정!",
+        "meaning_ja": "ロンジュン、君はただの「神」だ。「ゴッド・ロンジュン」認定！",
+        "meaning_en": "Renjun, you are simply 'God'. I acknowledge God Renjun!"
+      },
+      {
+        "text": "황런쥔, 감히 네게 경배합니다.",
+        "meaning_ja": "ファン・ロンジュン、あえてあなたに敬拝します。",
+        "meaning_en": "Huang Renjun, I dare to worship you."
+      },
+      {
+        "text": "런쥔이의 존재 자체가 내 삶의 종교.",
+        "meaning_ja": "ロンジュンの存在自体が私の人生の宗教だ。",
+        "meaning_en": "Renjun's existence itself is the religion of my life."
+      },
+      {
+        "text": "런쥔이는 천상계 아이돌, 범접불가 아우라.",
+        "meaning_ja": "ロンジュンは天上界アイドル、近づきがたいオーラ。",
+        "meaning_en": "Renjun is a celestial idol, with an untouchable aura."
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "런쥔이 미모는 희귀템, 국보로 지정해!",
+        "meaning_ja": "ロンジュンの美貌はレアアイテム、国宝に指定して！",
+        "meaning_en": "Renjun's beauty is a rare item, designate it a national treasure!"
+      },
+      {
+        "text": "런쥔아, 오늘 미모 리즈 찍었네.",
+        "meaning_ja": "ロンジュン、今日美貌の全盛期（리즈）を記録したね。",
+        "meaning_en": "Renjun, you hit your visual peak today."
+      },
+      {
+        "text": "런쥔이에게 미모 유죄, 나의 마음을 훔쳤어.",
+        "meaning_ja": "ロンジュンに美貌の有罪、私の心を盗んだ。",
+        "meaning_en": "Renjun is guilty of beauty, he stole my heart."
+      },
+      {
+        "text": "런쥔이 존재 자체가 '개이득'!",
+        "meaning_ja": "ロンジュンの存在自体が「超得」（すごくラッキー）！",
+        "meaning_en": "Renjun's existence itself is a 'huge profit' (a great benefit)!"
+      },
+      {
+        "text": "황런쥔, 오늘 비주얼 폼 미쳤다. 대박 사건!",
+        "meaning_ja": "ファン・ロンジュン、今日のビジュアルは「調子ぶっ壊れた」（最高）。すごい事件だ！",
+        "meaning_en": "Huang Renjun, today's visual form is crazy good. What an incident!"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "런쥔이는 '얼굴 천재', 그냥 살만해.",
+        "meaning_ja": "ロンジュンは「顔面天才」、ただ生きてるだけで十分だ。",
+        "meaning_en": "Renjun is a 'face genius', just surviving is fine (because he is so handsome)."
+      },
+      {
+        "text": "황런쥔, 만화 찢고 나온 '만찢남'이야.",
+        "meaning_ja": "ファン・ロンジュン、漫画を破って出てきた「マンチッナム」（漫画から飛び出た男）だよ。",
+        "meaning_en": "Huang Renjun, you are a 'man-jjit-nam' ripped from a comic."
+      },
+      {
+        "text": "런쥔이 얼굴이 바로 내 삶의 복지다!",
+        "meaning_ja": "ロンジュンの顔がまさに私の人生の福祉だ！",
+        "meaning_en": "Renjun's face is exactly the welfare of my life!"
+      },
+      {
+        "text": "런쥔이 얼굴 보다가 숨 멎을 뻔.",
+        "meaning_ja": "ロンジュンの顔を見ていたら息が止まりそうになった。",
+        "meaning_en": "I almost stopped breathing while looking at Renjun's face."
+      },
+      {
+        "text": "런쥔이의 T존은 완벽 그 자체.",
+        "meaning_ja": "ロンジュンのTゾーンは完璧そのもの。",
+        "meaning_en": "Renjun's T-zone is perfection itself."
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "런쥔아, 심장 어택 가능한 지목 부탁해!",
+        "meaning_ja": "ロンジュン、心臓アタック可能な指差しをお願い！",
+        "meaning_en": "Renjun, please point and give a heart attack (to me)!"
+      },
+      {
+        "text": "런쥔이표 깜찍한 '손가락 하트' 짤 생성 각!",
+        "meaning_ja": "ロンジュン印の可愛い「指ハート」GIF作成の時だ！",
+        "meaning_en": "Time to create a meme/GIF of Renjun's cute 'finger heart'!"
+      },
+      {
+        "text": "런쥔아, 애교 뿜뿜 '작은 하트' 기대할게.",
+        "meaning_ja": "ロンジュン、愛嬌あふれる「小さなハート」を期待してるよ。",
+        "meaning_en": "Renjun, I anticipate a burst of 'small heart' aegyo (cute display)."
+      },
+      {
+        "text": "런쥔아, 팬서비스로 '왕 하트' 콜?",
+        "meaning_ja": "ロンジュン、ファンサービスとして「キングハート」はどう？",
+        "meaning_en": "Renjun, how about a 'huge heart' for fan service?"
+      },
+      {
+        "text": "런쥔아, 나에게만 '저장 하트' 부탁해!",
+        "meaning_ja": "ロンジュン、私だけに「保存（ポーズ）ハート」をお願い！",
+        "meaning_en": "Renjun, please give me a 'saving heart' (a pose referencing a popular phrase) just for me!"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "런쥔아, 오늘은 무조건 한우 '특수 부위' 먹자.",
+        "meaning_ja": "ロンジュン、今日は無条件で韓牛の「特殊部位」を食べよう。",
+        "meaning_en": "Renjun, let's unconditionally eat 'special cuts' of Hanwoo (Korean beef) today."
+      },
+      {
+        "text": "런쥔아, 밥 잘 챙겨 먹고 힘내! 뇸뇸.",
+        "meaning_ja": "ロンジュン、ご飯をしっかり食べて頑張って！もぐもぐ。",
+        "meaning_en": "Renjun, take care of your meals and cheer up! Nom nom (yummy sound)."
+      },
+      {
+        "text": "런쥔아, 스케줄 끝나고 든든하게 '꿀맛' 식사해.",
+        "meaning_ja": "ロンジュン、スケジュールが終わったらしっかり「蜂蜜の味」（すごく美味しい）の食事をしてね。",
+        "meaning_en": "Renjun, after the schedule, have a hearty 'honey-sweet' meal."
+      },
+      {
+        "text": "런쥔아, 맛있는 거 많이 먹고 '복근 유지'는 덤!",
+        "meaning_ja": "ロンジュン、美味しいものをたくさん食べて、「腹筋維持」はおまけでね！",
+        "meaning_en": "Renjun, eat lots of delicious things, 'maintaining abs' is a bonus!"
+      },
+      {
+        "text": "런쥔아, 오늘 점심은 'JMT' 맛집 투어 콜?",
+        "meaning_ja": "ロンジュン、今日のランチは「JMT」（めちゃくちゃ美味しい）グルメツアーはどう？",
+        "meaning_en": "Renjun, today's lunch, how about a 'JMT' (Super Delicious) restaurant tour?"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "런쥔아, '건강이 최고'야. 면역력 챙겨!",
+        "meaning_ja": "ロンジュン、「健康が一番」だよ。免疫力を気遣って！",
+        "meaning_en": "Renjun, 'health is the best'. Take care of your immunity!"
+      },
+      {
+        "text": "런쥔아, 아프면 누나/형 마음 찢어져!",
+        "meaning_ja": "ロンジュン、病気になったら姉/兄（ファン）の心が張り裂けるよ！",
+        "meaning_en": "Renjun, if you are sick, my heart (as an older fan) rips apart!"
+      },
+      {
+        "text": "런쥔아, 감기 조심! '따뜻한 물' 많이 마셔.",
+        "meaning_ja": "ロンジュン、風邪に気をつけて！「温かい水」をたくさん飲んで。",
+        "meaning_en": "Renjun, beware of colds! Drink lots of 'warm water'."
+      },
+      {
+        "text": "런쥔아, 오늘부터 '방역수칙' 철저히 지켜줘.",
+        "meaning_ja": "ロンジュン、今日から「防疫守則」を徹底的に守ってね。",
+        "meaning_en": "Renjun, please strictly adhere to 'quarantine/safety rules' starting today."
+      },
+      {
+        "text": "런쥔아, 절대 아프면 안 돼. '컨디션 관리' 잘하자.",
+        "meaning_ja": "ロンジュン、絶対に病気になってはいけないよ。「コンディション管理」をしっかりしよう。",
+        "meaning_en": "Renjun, you absolutely must not be sick. Let's manage your 'condition' well."
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "런쥔아, 오늘 하루도 '갓벽'하게 수고했어!",
+        "meaning_ja": "ロンジュン、今日一日も「神＋完璧」に頑張ったね！お疲れ様！",
+        "meaning_en": "Renjun, you worked 'God-perfectly' hard today too!"
+      },
+      {
+        "text": "런쥔이 무대, 역대급 '폼 미쳤다'! 고생했어.",
+        "meaning_ja": "ロンジュンのステージ、歴代級に「調子ぶっ壊れた」（最高）！お疲れ様。",
+        "meaning_en": "Renjun's stage was historically 'crazy good'! You worked hard."
+      },
+      {
+        "text": "런쥔아, 빨리 숙소 가서 '꿀잠' 자자. 퇴근길 최고!",
+        "meaning_ja": "ロンジュン、早く宿舎に帰って「熟睡」しよう。退勤時が最高！",
+        "meaning_en": "Renjun, hurry up and go to the dorm and 'sleep deeply'. The way home is the best!"
+      },
+      {
+        "text": "런쥔이 덕분에 '힐링' 완료! 수고 많았어.",
+        "meaning_ja": "ロンジュンのおかげで「ヒーリング」完了！本当にお疲れ様。",
+        "meaning_en": "Thanks to Renjun, 'healing' is complete! You worked very hard."
+      },
+      {
+        "text": "런쥔아, 오늘 스케줄 '올킬' 인정!",
+        "meaning_ja": "ロンジュン、今日のスケジュール「オールキル」（全て完璧にこなした）認定！",
+        "meaning_en": "Renjun, I acknowledge you 'all-killed' today's schedule (meaning you nailed everything)!"
+      }
+    ]
+  },
+  "Jeno": {
+    "LOVE_GENERAL": [
+      {
+        "text": "제노야, 사랑해 뿅!",
+        "meaning_ja": "ジェノ、大好きぴょん！(可愛い擬音)",
+        "meaning_en": "Jeno, I love you *Piyong*! (Adding a cute sound effect)"
+      },
+      {
+        "text": "내 심장의 주인은 이젠 제노!",
+        "meaning_ja": "私の心臓の持ち主はもうジェノだよ！",
+        "meaning_en": "The owner of my heart is now Jeno!"
+      },
+      {
+        "text": "제노는 내 삶의 비타민!",
+        "meaning_ja": "ジェノは私の人生のビタミン！",
+        "meaning_en": "Jeno is the vitamin of my life!"
+      },
+      {
+        "text": "젠프는 제노밖에 몰라!",
+        "meaning_ja": "ジェノファンはジェノしか知らない！",
+        "meaning_en": "JenFs (Jeno Fans) know only Jeno!"
+      },
+      {
+        "text": "제노는 내 돌(My idol).",
+        "meaning_ja": "ジェノは私の推し！",
+        "meaning_en": "Jeno is my *Dol* (My idol/bias)."
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "제노야, 널 너무 주접 떨어!",
+        "meaning_ja": "ジェノ、君にめちゃくちゃ惚れ込んでいる！",
+        "meaning_en": "Jeno, I'm falling for you excessively! (I'm being overly dramatic with my love)"
+      },
+      {
+        "text": "제노 없이 못 살지, 암요!",
+        "meaning_ja": "ジェノなしでは生きられない、当然だろ！",
+        "meaning_en": "I can't live without Jeno, absolutely!"
+      },
+      {
+        "text": "제노는 내 인생의 킹왕짱!",
+        "meaning_ja": "ジェノは私の人生のキング・オブ・ベスト！",
+        "meaning_en": "Jeno is the King/Very Best of my life!"
+      },
+      {
+        "text": "제노 마음속에 저장!",
+        "meaning_ja": "ジェノの心の中に保存！",
+        "meaning_en": "Save me in Jeno's heart!"
+      },
+      {
+        "text": "내 덕질의 종착지는 제노뿐!",
+        "meaning_ja": "私のオタ活の終着点はジェノだけ！",
+        "meaning_en": "The final destination of my fangirling is only Jeno!"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "이젠 내 남편 해줘!",
+        "meaning_ja": "もう私の夫になって！",
+        "meaning_en": "Now be my husband!"
+      },
+      {
+        "text": "제노야, 혼인 신고만 남았다!",
+        "meaning_ja": "ジェノ、婚姻届の提出だけが残ったよ！",
+        "meaning_en": "Jeno, only the marriage registration remains!"
+      },
+      {
+        "text": "우리 집 가장은 이젠 너야!",
+        "meaning_ja": "我が家の家長はもう君だよ！",
+        "meaning_en": "The head of our household is now you!"
+      },
+      {
+        "text": "제노랑 평생 아파트 사자!",
+        "meaning_ja": "ジェノと一生アパートを買って住もう！",
+        "meaning_en": "Let's buy an apartment with Jeno forever!"
+      },
+      {
+        "text": "오늘부터 1일? 결혼 가즈아!",
+        "meaning_ja": "今日から1日目？結婚行こうぜ！",
+        "meaning_en": "Starting today? Let's go marry!"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "제노 못 본 지 억만 년!",
+        "meaning_ja": "ジェノを見てから億万年経った！",
+        "meaning_en": "It's been a hundred million years since I saw Jeno!"
+      },
+      {
+        "text": "제노야, 당장 내 눈앞에 소환!",
+        "meaning_ja": "ジェノ、すぐに私の目の前に召喚！",
+        "meaning_en": "Jeno, summon yourself immediately in front of my eyes!"
+      },
+      {
+        "text": "제노 없는 세상은 앙꼬 없는 찐빵!",
+        "meaning_ja": "ジェノがいない世界は餡子がない中華まん！",
+        "meaning_en": "A world without Jeno is a steamed bun without filling!"
+      },
+      {
+        "text": "제노야, 나 죽기 전에 만나자!",
+        "meaning_ja": "ジェノ、私が死ぬ前に会おう！",
+        "meaning_en": "Jeno, let's meet before I die!"
+      },
+      {
+        "text": "제노는 내 사랑의 콩깍지!",
+        "meaning_ja": "ジェノは私の愛のさや(愛の眼差しで盲目になる)！",
+        "meaning_en": "Jeno is the 'shell' that blinds me with love (I see only him)."
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "제노야, 드림즈 곁은 우리가 지킨다!",
+        "meaning_ja": "ジェノ、ドリームたち(NCT DREAM)のそばは私たちが守る！",
+        "meaning_en": "Jeno, we will protect the side of the Dreams (NCT DREAM)!"
+      },
+      {
+        "text": "제노야, 나랑 같이 늙자!",
+        "meaning_ja": "ジェノ、私と一緒に歳を取ろう！",
+        "meaning_en": "Jeno, let's grow old together!"
+      },
+      {
+        "text": "우리 관계, 완전 찐이야!",
+        "meaning_ja": "私たちの関係、めっちゃ本物だよ！",
+        "meaning_en": "Our relationship is totally real/authentic!"
+      },
+      {
+        "text": "제노는 영원한 내 최애돌!",
+        "meaning_ja": "ジェノは永遠に私の最愛のアイドル！",
+        "meaning_en": "Jeno is my eternal ultimate bias idol!"
+      },
+      {
+        "text": "제노야, 끝까지 함께 해! 응원해!",
+        "meaning_ja": "ジェノ、最後まで一緒にいて！応援してる！",
+        "meaning_en": "Jeno, let's be together till the end! Cheering you on!"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "제노 태어나줘서 고마워!",
+        "meaning_ja": "ジェノ、生まれてきてくれてありがとう！",
+        "meaning_en": "Thank you, Jeno, for being born!"
+      },
+      {
+        "text": "제노 생일은 국경일!",
+        "meaning_ja": "ジェノの誕生日は建国記念日だ！",
+        "meaning_en": "Jeno's birthday is a national holiday!"
+      },
+      {
+        "text": "제노야, 오늘 완전 생파 찢어!",
+        "meaning_ja": "ジェノ、今日バースデーパーティーを完全に盛り上げて！",
+        "meaning_en": "Jeno, totally tear up/dominate your birthday party today!"
+      },
+      {
+        "text": "제노 생일, 역대급이야!",
+        "meaning_ja": "ジェノの誕生日、過去最高だ！",
+        "meaning_en": "Jeno's birthday is legendary/historically great!"
+      },
+      {
+        "text": "제노야, 슴스테(SM Station) 말고 생일 축하해!",
+        "meaning_ja": "ジェノ、SMステーション(コンテンツ)じゃなくて誕生日おめでとう！",
+        "meaning_en": "Jeno, Happy Birthday, not SM Station! (A playful nod to his work content)"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "제노야, 오늘도 무대 씹어먹자!",
+        "meaning_ja": "ジェノ、今日もステージを噛み砕こう！(圧倒しよう)",
+        "meaning_en": "Jeno, let's chew up the stage today! (Totally dominate the performance)"
+      },
+      {
+        "text": "제노 하고 싶은 거 다 해!",
+        "meaning_ja": "ジェノ、やりたいこと全部やれ！",
+        "meaning_en": "Jeno, do everything you want to do!"
+      },
+      {
+        "text": "제노야, 기 죽지 마! 우리가 있잖아!",
+        "meaning_ja": "ジェノ、萎縮しないで！私たちがいるじゃない！",
+        "meaning_en": "Jeno, don't lose heart! We are here!"
+      },
+      {
+        "text": "제노 믿고 가자, 파이팅!",
+        "meaning_ja": "ジェノを信じて行こう、ファイト！",
+        "meaning_en": "Let's go trusting Jeno, Fighting!"
+      },
+      {
+        "text": "제노야, 수고했어! 짱이야!",
+        "meaning_ja": "ジェノ、お疲れ様！最高だ！",
+        "meaning_en": "Jeno, you worked hard! You're the best!"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "이제노가 바로 신이다!",
+        "meaning_ja": "イ・ジェノこそ神だ！",
+        "meaning_en": "Lee Jeno is precisely God!"
+      },
+      {
+        "text": "제노는 이 세상 사람이 아니야!",
+        "meaning_ja": "ジェノはこの世の人間ではない！",
+        "meaning_en": "Jeno is not a person of this world!"
+      },
+      {
+        "text": "제노는 레전드 of 레전드!",
+        "meaning_ja": "ジェノはレジェンドの中のレジェンド！",
+        "meaning_en": "Jeno is a legend of legends!"
+      },
+      {
+        "text": "제노는 존재 자체가 빛!",
+        "meaning_ja": "ジェノは存在自体が光！",
+        "meaning_en": "Jeno's existence itself is light!"
+      },
+      {
+        "text": "제노는 진짜 갓생 사는 중!",
+        "meaning_ja": "ジェノは本当に神レベルの人生を送っている！",
+        "meaning_en": "Jeno is truly living a 'God-life' (Perfect/ideal life)!"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "제노야, 네 미모 실화냐?",
+        "meaning_ja": "ジェノ、君の美貌は実話なの？(本当なの？)",
+        "meaning_en": "Jeno, is your beauty real life? (Is it true?)"
+      },
+      {
+        "text": "제노 미모 미쳤다!",
+        "meaning_ja": "ジェノの美貌は狂ってる！(すごい！)",
+        "meaning_en": "Jeno's beauty is crazy/insane!"
+      },
+      {
+        "text": "제노야, 얼굴에서 빛이 나네!",
+        "meaning_ja": "ジェノ、顔から光が出てるね！",
+        "meaning_en": "Jeno, light shines from your face!"
+      },
+      {
+        "text": "제노는 분위기까지 갓벽!",
+        "meaning_ja": "ジェノは雰囲気までゴッドパーフェクト(完璧)！",
+        "meaning_en": "Jeno's atmosphere/vibe is God+Perfect!"
+      },
+      {
+        "text": "제노는 진짜 귀염뽀짝!",
+        "meaning_ja": "ジェノは本当に超キュート！",
+        "meaning_en": "Jeno is truly cute and adorable!"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "제노 얼굴, CG 아님?",
+        "meaning_ja": "ジェノの顔、CGじゃないの？",
+        "meaning_en": "Jeno's face, isn't it CGI?"
+      },
+      {
+        "text": "제노는 얼굴 천재!",
+        "meaning_ja": "ジェノは顔面天才！",
+        "meaning_en": "Jeno is a face genius!"
+      },
+      {
+        "text": "제노 미모, 월드클래스!",
+        "meaning_ja": "ジェノの美貌、ワールドクラス！",
+        "meaning_en": "Jeno's beauty, World Class!"
+      },
+      {
+        "text": "제노 얼굴이 서사다!",
+        "meaning_ja": "ジェノの顔が叙事詩(物語)だ！",
+        "meaning_en": "Jeno's face is the narrative/story itself!"
+      },
+      {
+        "text": "이 얼굴, 반박불가 비주얼 킹!",
+        "meaning_ja": "この顔、反論不可のビジュアルキング！",
+        "meaning_en": "This face, undeniable Visual King!"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "제노야, 애교 하트 발사!",
+        "meaning_ja": "ジェノ、愛嬌ハート発射！",
+        "meaning_en": "Jeno, launch a cute heart!"
+      },
+      {
+        "text": "제노는 우리에게 하트 줘야지!",
+        "meaning_ja": "ジェノは私たちにハートをくれるはず！",
+        "meaning_en": "Jeno must give us a heart!"
+      },
+      {
+        "text": "제노야, 하트 한 번만 해주세요!",
+        "meaning_ja": "ジェノ、ハートを一度だけしてください！",
+        "meaning_en": "Jeno, please just do a heart one time!"
+      },
+      {
+        "text": "우리 제노 하트 맛집!",
+        "meaning_ja": "うちのジェノはハートのグルメスポット！(ハート職人)",
+        "meaning_en": "Our Jeno is a heart *matjib* (a place to get great hearts)!"
+      },
+      {
+        "text": "제노의 손가락 하트 존버!",
+        "meaning_ja": "ジェノの指ハートを根気強く待っている！",
+        "meaning_en": "Patiently waiting (Jonbeo) for Jeno's finger heart!"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "제노야, 밥 잘 챙겨 먹어!",
+        "meaning_ja": "ジェノ、ご飯をちゃんと食べてね！",
+        "meaning_en": "Jeno, take care and eat your meals well!"
+      },
+      {
+        "text": "제노야, 배고프면 혼난다!",
+        "meaning_ja": "ジェノ、お腹が空いてたら怒るよ！",
+        "meaning_en": "Jeno, if you're hungry, you'll be scolded!"
+      },
+      {
+        "text": "제노는 오늘 한우 먹자!",
+        "meaning_ja": "ジェノは今日、韓牛(高級肉)を食べよう！",
+        "meaning_en": "Jeno, let's eat Hanwoo (Korean beef) today!"
+      },
+      {
+        "text": "제노야, 맛있는 거 먹고 힘내!",
+        "meaning_ja": "ジェノ、美味しいものを食べて元気出して！",
+        "meaning_en": "Jeno, eat delicious things and gain strength!"
+      },
+      {
+        "text": "제노에게 특급 먹방을!",
+        "meaning_ja": "ジェノに特級のモクバン(大食い放送)を！",
+        "meaning_en": "Give Jeno a special *mukbang* (feast)!"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "제노는 아프면 안 돼!",
+        "meaning_ja": "ジェノは病気になったらだめ！",
+        "meaning_en": "Jeno must not be sick!"
+      },
+      {
+        "text": "제노야, 건강이 최고야!",
+        "meaning_ja": "ジェノ、健康が一番だ！",
+        "meaning_en": "Jeno, health is the best!"
+      },
+      {
+        "text": "제노야, 면역력 챙겨!",
+        "meaning_ja": "ジェノ、免疫力を管理してね！",
+        "meaning_en": "Jeno, take care of your immunity!"
+      },
+      {
+        "text": "제노야, 감기 걸리면 속상해!",
+        "meaning_ja": "ジェノ、風邪をひいたら悲しいよ！",
+        "meaning_en": "Jeno, if you catch a cold, I'll be upset!"
+      },
+      {
+        "text": "제노야, 오프 때 푹 쉬어!",
+        "meaning_ja": "ジェノ、オフの時はゆっくり休んで！",
+        "meaning_en": "Jeno, rest well during your time off!"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "제노야, 고생했다!",
+        "meaning_ja": "ジェノ、本当にお疲れ様！",
+        "meaning_en": "Jeno, you suffered/worked hard!"
+      },
+      {
+        "text": "제노의 노력, 인정!",
+        "meaning_ja": "ジェノの努力、認める！",
+        "meaning_en": "Jeno's effort, acknowledged/recognized!"
+      },
+      {
+        "text": "제노는 오늘도 레전드 찍었네!",
+        "meaning_ja": "ジェノは今日も伝説を作ったね！",
+        "meaning_en": "Jeno made a legend today too! (Made history)"
+      },
+      {
+        "text": "제노야, 일당백 했어!",
+        "meaning_ja": "ジェノ、一人で百人分の仕事をした！",
+        "meaning_en": "Jeno, you did the work of a hundred people!"
+      },
+      {
+        "text": "제노야, 집에 가서 기절해!",
+        "meaning_ja": "ジェノ、家に帰って気絶してね！(思い切り休んでね)",
+        "meaning_en": "Jeno, go home and pass out! (Sleep deeply from exhaustion)"
+      }
+    ]
+  },
+  "Haechan": {
+    "LOVE_GENERAL": [
+      {
+        "text": "해찬아, 내 심장에 무리야!",
+        "meaning_ja": "ヘチャン、私の心臓には無理！（好きすぎて感情が抑えられない）",
+        "meaning_en": "Haechan, you're too much for my heart! (I love you so much it's overwhelming)"
+      },
+      {
+        "text": "내 심장은 해찬이 거!",
+        "meaning_ja": "私の心臓はヘチャンのもの！",
+        "meaning_en": "My heart belongs to Haechan!"
+      },
+      {
+        "text": "해찬, 완전 킹정!",
+        "meaning_ja": "ヘチャン、完全にキング認定！（最高だと認める）",
+        "meaning_en": "Haechan, absolutely recognized as the best!"
+      },
+      {
+        "text": "해찬이는 사랑입니다.",
+        "meaning_ja": "ヘチャンは愛そのものです。",
+        "meaning_en": "Haechan is love."
+      },
+      {
+        "text": "해며들다!",
+        "meaning_ja": "ヘチャンに染み込む！（魅力にじわじわハマる）",
+        "meaning_en": "Falling/seeping into Haechan! (Being completely drawn in by his charm)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "해찬아, 넌 내 삶의 이유야.",
+        "meaning_ja": "ヘチャン、あなたは私の生きる理由だよ。",
+        "meaning_en": "Haechan, you are the reason for my life."
+      },
+      {
+        "text": "내가 너를 평생 지켜줄게.",
+        "meaning_ja": "私が君を一生守ってあげる。",
+        "meaning_en": "I will protect you for life."
+      },
+      {
+        "text": "해찬이 없이 못 살어!",
+        "meaning_ja": "ヘチャンなしでは生きられない！",
+        "meaning_en": "I can't live without Haechan!"
+      },
+      {
+        "text": "해찬아, 너는 내 최애의 최애야.",
+        "meaning_ja": "ヘチャン、あなたは私の最愛の中の最愛だよ。",
+        "meaning_en": "Haechan, you are my ultimate bias of ultimate biases."
+      },
+      {
+        "text": "동혁아, 사랑해 3000만큼!",
+        "meaning_ja": "ドンヒョク、3000回愛してる！",
+        "meaning_en": "Donghyuck, I love you 3000! (A reference to intense love)"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "해찬아, 나랑 혼인신고 하자!",
+        "meaning_ja": "ヘチャン、私と婚姻届を出そう！",
+        "meaning_en": "Haechan, let's register our marriage!"
+      },
+      {
+        "text": "해찬이 미래 남편 나야 나!",
+        "meaning_ja": "ヘチャンの未来の夫（または妻）は私だ、私！",
+        "meaning_en": "Haechan's future spouse is me, me!"
+      },
+      {
+        "text": "내 곁은 해찬 자리.",
+        "meaning_ja": "私の隣はヘチャンが座る席。",
+        "meaning_en": "My side is Haechan's spot."
+      },
+      {
+        "text": "해찬이랑 결혼하면, 일생이 축제!",
+        "meaning_ja": "ヘチャンと結婚したら、一生がフェスティバルだ！",
+        "meaning_en": "If I marry Haechan, my whole life will be a festival!"
+      },
+      {
+        "text": "지금 바로 식 올리자!",
+        "meaning_ja": "今すぐ結婚式を挙げよう！",
+        "meaning_en": "Let's have the ceremony right now!"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "해찬아, 눈물 셀카 찍는 중.",
+        "meaning_ja": "ヘチャン、泣き顔で自撮りしてる途中。（会いたすぎて大げさに表現）",
+        "meaning_en": "Haechan, I'm taking a crying selfie right now. (Exaggerating how much I miss you)"
+      },
+      {
+        "text": "벌써 해찬 앓이 시작!",
+        "meaning_ja": "もうヘチャンシックが始まった！",
+        "meaning_en": "Already started pining/aching for Haechan!"
+      },
+      {
+        "text": "해찬이 보고 싶어 현기증 나.",
+        "meaning_ja": "ヘチャンに会いたくて目眩がする。",
+        "meaning_en": "I miss Haechan so much I'm dizzy."
+      },
+      {
+        "text": "해찬아, 내 광대 승천 직전!",
+        "meaning_ja": "ヘチャン、私の頬骨が昇天寸前だ！（嬉しすぎて笑顔が止まらない）",
+        "meaning_en": "Haechan, my cheekbones are about to ascend! (I'm smiling so much just thinking about you)"
+      },
+      {
+        "text": "당장 내 눈 앞에 나타나!",
+        "meaning_ja": "いますぐ私の目の前に現れて！",
+        "meaning_en": "Appear right in front of my eyes immediately!"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "영원토록 해찬 편!",
+        "meaning_ja": "永遠にヘチャンの味方！",
+        "meaning_en": "Forever on Haechan's side!"
+      },
+      {
+        "text": "평생 해찬 바라기 할게.",
+        "meaning_ja": "一生ヘチャンだけを見つめるひまわりになるよ。",
+        "meaning_en": "I will be a sunflower (looking only at you) for life."
+      },
+      {
+        "text": "해찬아, 우리 함께 우주까지 가자.",
+        "meaning_ja": "ヘチャン、私たち一緒に宇宙まで行こう。",
+        "meaning_en": "Haechan, let's go to space together (metaphor for forever)."
+      },
+      {
+        "text": "죽을 때까지 해찬만 팔래!",
+        "meaning_ja": "死ぬまでヘチャンだけを推すつもり！",
+        "meaning_en": "I will only stan Haechan until I die!"
+      },
+      {
+        "text": "우린 영원히 해피엔딩이야.",
+        "meaning_ja": "私たちは永遠にハッピーエンディングだよ。",
+        "meaning_en": "We are a happy ending forever."
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "해찬이 탄신일, 축제 시작!",
+        "meaning_ja": "ヘチャンのご生誕日、祭りの始まり！",
+        "meaning_en": "Haechan's birth anniversary, the festival begins!"
+      },
+      {
+        "text": "오늘은 해찬 데이!",
+        "meaning_ja": "今日はヘチャン・デイ！",
+        "meaning_en": "Today is Haechan Day!"
+      },
+      {
+        "text": "해찬아, 떵떵거리며 살아!",
+        "meaning_ja": "ヘチャン、豪勢に堂々と生きてね！",
+        "meaning_en": "Haechan, live lavishly/grandly!"
+      },
+      {
+        "text": "생일만큼은 해찬이가 주인공!",
+        "meaning_ja": "誕生日だけはヘチャンが主役！",
+        "meaning_en": "Haechan is the main character, at least on his birthday!"
+      },
+      {
+        "text": "해찬 생일, 국경일 지정 시급!",
+        "meaning_ja": "ヘチャンの誕生日、国家の祝日指定が急務！",
+        "meaning_en": "Haechan's birthday, urgent designation as a national holiday!"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "해찬아, 폼 미쳤다!",
+        "meaning_ja": "ヘチャン、フォームがやばい！（絶好調だ）",
+        "meaning_en": "Haechan, your form is crazy good! (You're on fire)"
+      },
+      {
+        "text": "해찬아, 네가 이 세상 다 해!",
+        "meaning_ja": "ヘチャン、君がこの世界を牛耳っている！",
+        "meaning_en": "Haechan, you rule the world!"
+      },
+      {
+        "text": "해찬, 짜릿해! 늘 새로워!",
+        "meaning_ja": "ヘチャン、ゾクゾクする！いつも新鮮！",
+        "meaning_en": "Haechan, thrilling! Always new! (Used for something exciting)"
+      },
+      {
+        "text": "해찬아, 꽃길만 걷자!",
+        "meaning_ja": "ヘチャン、花道だけを歩こう！",
+        "meaning_en": "Haechan, let's only walk the flower path!"
+      },
+      {
+        "text": "해찬은 언제나 정답!",
+        "meaning_ja": "ヘチャンはいつだって正解！",
+        "meaning_en": "Haechan is always the right answer!"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "해찬아, 너는 진짜 신이다.",
+        "meaning_ja": "ヘチャン、あなたは本当に神だ。",
+        "meaning_en": "Haechan, you are truly a god."
+      },
+      {
+        "text": "해찬은 종교야.",
+        "meaning_ja": "ヘチャンは宗教だ。",
+        "meaning_en": "Haechan is a religion."
+      },
+      {
+        "text": "해찬, 유일무이한 존재!",
+        "meaning_ja": "ヘチャン、唯一無二の存在！",
+        "meaning_en": "Haechan, an unrivaled/one-of-a-kind existence!"
+      },
+      {
+        "text": "감사합니다, 해멘!",
+        "meaning_ja": "ありがとうございます、ヘメン！（ヘチャン＋アーメン）",
+        "meaning_en": "Thank you, Hae-men! (Haechan + Amen)"
+      },
+      {
+        "text": "해찬이 최고존엄!",
+        "meaning_ja": "ヘチャンは最高に尊い存在！",
+        "meaning_en": "Haechan is the highest dignity/supremely great!"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "해찬이 귀여워서 기절!",
+        "meaning_ja": "ヘチャンが可愛すぎて気絶！",
+        "meaning_en": "Fainting because Haechan is so cute!"
+      },
+      {
+        "text": "해찬의 존재 자체가 갓벽!",
+        "meaning_ja": "ヘチャンの存在自体がゴッドパーフェクト！（完璧）",
+        "meaning_en": "Haechan's existence itself is God-perfect!"
+      },
+      {
+        "text": "해찬은 그냥 국보급 비주얼.",
+        "meaning_ja": "ヘチャンはただの国宝級ビジュアル。",
+        "meaning_en": "Haechan is simply a national treasure level visual."
+      },
+      {
+        "text": "해찬아, 넌 소중해.",
+        "meaning_ja": "ヘチャン、あなたは大切だよ。",
+        "meaning_en": "Haechan, you are precious."
+      },
+      {
+        "text": "해찬, 인류의 보물!",
+        "meaning_ja": "ヘチャン、人類の宝物！",
+        "meaning_en": "Haechan, treasure of humanity!"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "해찬이 얼굴, 국위 선양!",
+        "meaning_ja": "ヘチャンの顔は、国威発揚だ！",
+        "meaning_en": "Haechan's face is promoting national prestige!"
+      },
+      {
+        "text": "해찬 얼굴이 복지다.",
+        "meaning_ja": "ヘチャンの顔は福祉だ。（見て癒される）",
+        "meaning_en": "Haechan's face is welfare. (Seeing it makes life better)"
+      },
+      {
+        "text": "해찬, 얼굴 천재 맞다!",
+        "meaning_ja": "ヘチャン、顔面天才確定！",
+        "meaning_en": "Haechan, confirmed face genius!"
+      },
+      {
+        "text": "해찬 얼굴, CG 아니지?",
+        "meaning_ja": "ヘチャンの顔、CGじゃないよね？",
+        "meaning_en": "Haechan's face, it's not CG, right?"
+      },
+      {
+        "text": "해찬이 얼굴 명창!",
+        "meaning_ja": "ヘチャンの顔面は名唱！（歌声のように素晴らしい）",
+        "meaning_en": "Haechan's face is a master singer! (Humorous way to say his face is perfect)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "해찬아, 쁘이 말고 하트!",
+        "meaning_ja": "ヘチャン、ブイサインじゃなくてハート！",
+        "meaning_en": "Haechan, not a V-sign, but a heart!"
+      },
+      {
+        "text": "해찬이 하트 장전!",
+        "meaning_ja": "ヘチャン、ハート装填！",
+        "meaning_en": "Haechan, load the heart!"
+      },
+      {
+        "text": "해찬이 손가락에 하트 심어줘!",
+        "meaning_ja": "ヘチャンの指にハートを植え付けて！",
+        "meaning_en": "Plant a heart on Haechan's finger!"
+      },
+      {
+        "text": "곰돌이 하트 주세요!",
+        "meaning_ja": "くまちゃんハートをください！",
+        "meaning_en": "Please give me the bear heart! (A specific cute heart pose)"
+      },
+      {
+        "text": "해찬아, 하트 안주면 삐질 거야!",
+        "meaning_ja": "ヘチャン、ハートくれないと拗ねるよ！",
+        "meaning_en": "Haechan, if you don't give me a heart, I'll sulk!"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "해찬아, 밥 잘 챙겨 먹어!",
+        "meaning_ja": "ヘチャン、ご飯をちゃんと食べてね！",
+        "meaning_en": "Haechan, take good care of eating your meals!"
+      },
+      {
+        "text": "해찬이, 오늘 점심은 꼬옥 고기!",
+        "meaning_ja": "ヘチャン、今日のお昼ごはんは絶対に肉！",
+        "meaning_en": "Haechan, lunch today must definitely be meat!"
+      },
+      {
+        "text": "해찬아, 입에 왕 넣어!",
+        "meaning_ja": "ヘチャン、口に大きく入れて！（たくさん食べるように）",
+        "meaning_en": "Haechan, put a big bite in your mouth! (Eat well)"
+      },
+      {
+        "text": "해찬이는 먹는 모습도 레전드.",
+        "meaning_ja": "ヘチャンは食べてる姿もレジェンド。",
+        "meaning_en": "Even Haechan eating looks legendary."
+      },
+      {
+        "text": "해찬아, 맛난 거 먹고 힘내!",
+        "meaning_ja": "ヘチャン、美味しいもの食べて頑張って！",
+        "meaning_en": "Haechan, eat something tasty and get strength!"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "해찬아, 건강이 최고야!",
+        "meaning_ja": "ヘチャン、健康が一番だよ！",
+        "meaning_en": "Haechan, health is the best!"
+      },
+      {
+        "text": "옷 따뜻하게 입고 다녀!",
+        "meaning_ja": "服を暖かくして出かけてね！",
+        "meaning_en": "Wear warm clothes when you go out!"
+      },
+      {
+        "text": "해찬아, 마스크 꼭!",
+        "meaning_ja": "ヘチャン、マスク必須！",
+        "meaning_en": "Haechan, definitely wear a mask!"
+      },
+      {
+        "text": "아프면 안 돼! 팬들이 운다!",
+        "meaning_ja": "病気になっちゃダメ！ファンが泣くよ！",
+        "meaning_en": "You can't be sick! The fans will cry!"
+      },
+      {
+        "text": "해찬은 컨디션 사수!",
+        "meaning_ja": "ヘチャンはコンディション死守！（絶対に守って）",
+        "meaning_en": "Haechan, guard your condition!"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "해찬아, 수고했어! 푹 쉬어!",
+        "meaning_ja": "ヘチャン、お疲れ様！ゆっくり休んで！",
+        "meaning_en": "Haechan, good job! Rest well!"
+      },
+      {
+        "text": "역시 해찬이가 다했다!",
+        "meaning_ja": "さすがヘチャンが全部やった！（活躍した）",
+        "meaning_en": "As expected, Haechan did everything! (He carried the performance)"
+      },
+      {
+        "text": "오늘도 해찬이가 캐리했다!",
+        "meaning_ja": "今日もヘチャンがキャリーした！（チームを成功に導いた）",
+        "meaning_en": "Haechan carried/saved the day today!"
+      },
+      {
+        "text": "해찬아, 오늘 무대 레전설!",
+        "meaning_ja": "ヘチャン、今日のステージはレジェンド中のレジェンド！",
+        "meaning_en": "Haechan, today's stage was legendary!"
+      },
+      {
+        "text": "퇴근길도 해피엔딩!",
+        "meaning_ja": "帰路もハッピーエンディング！",
+        "meaning_en": "The way home (after work/schedule) is also a happy ending!"
+      }
+    ]
+  },
+  "Jaemin": {
+    "LOVE_GENERAL": [
+      {
+        "text": "잼민이는 내 거(Nae geo)야!",
+        "meaning_ja": "ジェミンは私のもの！",
+        "meaning_en": "Jaemin is mine!"
+      },
+      {
+        "text": "재민 사랑해, 킹정?",
+        "meaning_ja": "ジェミン愛してる、認定？ (本物？)",
+        "meaning_en": "Jaemin, I love you, is that the 'King's acknowledgment' (real deal)?"
+      },
+      {
+        "text": "사랑아, 나나해!",
+        "meaning_ja": "愛よ、ナナしなさい！ (ナナのように輝け)",
+        "meaning_en": "Love, be like Nana (Jaemin)!"
+      },
+      {
+        "text": "심장이 나나해",
+        "meaning_ja": "心臓がナナしてる",
+        "meaning_en": "My heart is Na-na-fying (beating for NaNa)."
+      },
+      {
+        "text": "재민이 덕분에 삶의 질 수직 상승!",
+        "meaning_ja": "ジェミンのおかげで人生の質が垂直上昇！",
+        "meaning_en": "Thanks to Jaemin, my quality of life is skyrocketing!"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "나나 없이 못 살아",
+        "meaning_ja": "ナナなしでは生きられない",
+        "meaning_en": "I can't live without Nana."
+      },
+      {
+        "text": "재민이는 참사랑이야",
+        "meaning_ja": "ジェミンは真実の愛だよ",
+        "meaning_en": "Jaemin is true love."
+      },
+      {
+        "text": "오마이갓, 나나 사랑함!",
+        "meaning_ja": "OMG、ナナ愛してる！",
+        "meaning_en": "Oh my God, I love Nana (so much)!"
+      },
+      {
+        "text": "내 통장을 바칠게",
+        "meaning_ja": "私の貯金を捧げるよ",
+        "meaning_en": "I'll dedicate my bank account (to you)."
+      },
+      {
+        "text": "재민이는 내 심장의 에이스",
+        "meaning_ja": "ジェミンは私の心臓のエース",
+        "meaning_en": "Jaemin is the ace of my heart."
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "나나 오빠, 국룰 결혼해줘!",
+        "meaning_ja": "ナナオッパ、当然結婚して！",
+        "meaning_en": "Nana Oppa, marry me, it's the national rule!"
+      },
+      {
+        "text": "재민아, 당장 혼인신고 하자",
+        "meaning_ja": "ジェミン、すぐに婚姻届を出そう",
+        "meaning_en": "Jaemin, let's register our marriage immediately."
+      },
+      {
+        "text": "내가 네 미래다, 결혼 콜?",
+        "meaning_ja": "私が君の未来だよ、結婚OK？",
+        "meaning_en": "I am your future, marriage deal?"
+      },
+      {
+        "text": "혼자 살지 마요, 내가 있잖아",
+        "meaning_ja": "一人で生きないで、私がいるじゃん",
+        "meaning_en": "Don't live alone, you have me!"
+      },
+      {
+        "text": "묻고 따질 것 없이 결혼해",
+        "meaning_ja": "あれこれ聞かずに結婚して",
+        "meaning_en": "Marry me without asking questions."
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "재민아, 보고 싶어 쥬금",
+        "meaning_ja": "ジェミン、会いたくて死にそう",
+        "meaning_en": "Jaemin, I miss you so much I could die (cute exaggeration)."
+      },
+      {
+        "text": "현생 불가. 나나 소환!",
+        "meaning_ja": "現実生活不可能。ナナ召喚！",
+        "meaning_en": "Living in reality is impossible. Summon Nana!"
+      },
+      {
+        "text": "내 눈 앞에 나타나, 당장!",
+        "meaning_ja": "私の目の前に現れて、今すぐ！",
+        "meaning_en": "Appear before my eyes, right now!"
+      },
+      {
+        "text": "나나 보고 싶어서 광광 울어",
+        "meaning_ja": "ナナに会いたくてギャンギャン泣く",
+        "meaning_en": "I cry loudly because I miss Nana."
+      },
+      {
+        "text": "재민이는 내 인생의 킬포",
+        "meaning_ja": "ジェミンは私の人生のキルポイント (ハイライト)",
+        "meaning_en": "Jaemin is the killer point (highlight) of my life."
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "드림이랑 평생 가자고!",
+        "meaning_ja": "ドリームと一生行こう！",
+        "meaning_en": "Let's go forever with Dream!"
+      },
+      {
+        "text": "재민이는 내 영원한 국프",
+        "meaning_ja": "ジェミンは私の永遠の国民プロデューサー (ファン用語)",
+        "meaning_en": "Jaemin is my eternal National Producer (fan term)."
+      },
+      {
+        "text": "미래는 무조건 나나뿐",
+        "meaning_ja": "未来は無条件でナナだけ",
+        "meaning_en": "The future is unconditionally only Nana."
+      },
+      {
+        "text": "오조오억년 함께해",
+        "meaning_ja": "5兆5億年一緒にいよう",
+        "meaning_en": "Let's be together for 5 trillion 500 million years (exaggerated long time)."
+      },
+      {
+        "text": "우리는 운명 공동체",
+        "meaning_ja": "私たちは運命共同体",
+        "meaning_en": "We are a community of shared destiny."
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "나나 생일, 개같이 축하!",
+        "meaning_ja": "ナナの誕生日、めちゃくちゃお祝い！",
+        "meaning_en": "Nana's birthday, extreme congratulations!"
+      },
+      {
+        "text": "재민아, HBD! 복 많이 받어",
+        "meaning_ja": "ジェミン、HBD！福をたくさん受け取って",
+        "meaning_en": "Jaemin, HBD! Receive lots of blessings."
+      },
+      {
+        "text": "오늘은 잼며드는 날",
+        "meaning_ja": "今日はジェミンに染み込む日",
+        "meaning_en": "Today is the day to be immersed in Jaemin (Jaemin+permeate)."
+      },
+      {
+        "text": "세상에 없던 생일, 레전드!",
+        "meaning_ja": "世界にない誕生日、レジェンド！",
+        "meaning_en": "A birthday that never existed, Legend!"
+      },
+      {
+        "text": "생일 축하해, 다음 생도 나나해",
+        "meaning_ja": "誕生日おめでとう、来世もナナして",
+        "meaning_en": "Happy birthday, be Nana in the next life too."
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "재민이 하고 싶은 거 다 해!",
+        "meaning_ja": "ジェミンがしたいこと全部やれ！",
+        "meaning_en": "Jaemin, do everything you want to do!"
+      },
+      {
+        "text": "잼프는 언제나 너 편이야",
+        "meaning_ja": "ジェムプはいつも君の味方だよ",
+        "meaning_en": "Jaem-p (Jaemin's fans) are always on your side."
+      },
+      {
+        "text": "나나 is 뭔들! 파이팅!",
+        "meaning_ja": "ナナは何でもあり！ファイト！",
+        "meaning_en": "Nana is everything! Fighting!"
+      },
+      {
+        "text": "힘내, 너는 소중하잖아",
+        "meaning_ja": "頑張って、君は大切なんだから",
+        "meaning_en": "Cheer up, because you are precious."
+      },
+      {
+        "text": "재민 믿고 직진!",
+        "meaning_ja": "ジェミンを信じて直進！",
+        "meaning_en": "Trust Jaemin and go straight (forward)!"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "재민이 얼굴이 서사지",
+        "meaning_ja": "ジェミンの顔が叙事詩だ",
+        "meaning_en": "Jaemin's face is an epic (story)."
+      },
+      {
+        "text": "나나는 인간계 신이야",
+        "meaning_ja": "ナナは人間界の神だ",
+        "meaning_en": "Nana is a god in the human realm."
+      },
+      {
+        "text": "갓재민, 찬양하라!",
+        "meaning_ja": "ゴッドジェミン、賛美せよ！",
+        "meaning_en": "God Jaemin, praise him!"
+      },
+      {
+        "text": "어메이징 나나!",
+        "meaning_ja": "アメージング・ナナ！",
+        "meaning_en": "Amazing Nana!"
+      },
+      {
+        "text": "재민 is 진리",
+        "meaning_ja": "ジェミン is 真理",
+        "meaning_en": "Jaemin is the truth."
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "나나 비주얼 미쳤다리",
+        "meaning_ja": "ナナのビジュアルやばい",
+        "meaning_en": "Nana's visuals are crazy/insane."
+      },
+      {
+        "text": "인간 복숭아 재민",
+        "meaning_ja": "人間桃ジェミン",
+        "meaning_en": "Human Peach Jaemin (referring to his sweet/cute visual)."
+      },
+      {
+        "text": "요정재민 강림!",
+        "meaning_ja": "妖精ジェミン降臨！",
+        "meaning_en": "Fairy Jaemin has descended!"
+      },
+      {
+        "text": "재민이 외모는 킹왕짱!",
+        "meaning_ja": "ジェミンの外見は超最高！",
+        "meaning_en": "Jaemin's appearance is the best of the best (King-Wang-Jjang)!"
+      },
+      {
+        "text": "재민이는 희대의 명작",
+        "meaning_ja": "ジェミンは稀代の名作",
+        "meaning_en": "Jaemin is a masterpiece of the century."
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴 천재, 나재민",
+        "meaning_ja": "顔の天才、ナ・ジェミン",
+        "meaning_en": "Face Genius, Na Jaemin."
+      },
+      {
+        "text": "얼굴 공격에 심장 뿌심",
+        "meaning_ja": "顔面攻撃に心臓が破壊される",
+        "meaning_en": "My heart is crushed by the face attack."
+      },
+      {
+        "text": "갓생은 재민 얼굴!",
+        "meaning_ja": "神人生はジェミンの顔！",
+        "meaning_en": "God-tier life is Jaemin's face!"
+      },
+      {
+        "text": "얼굴 덕분에 힐링한다",
+        "meaning_ja": "顔のおかげで癒やされる",
+        "meaning_en": "I am healed thanks to your face."
+      },
+      {
+        "text": "재민이 미모, 실화냐?",
+        "meaning_ja": "ジェミンの美貌、実話か？",
+        "meaning_en": "Jaemin's beauty, is this real life?"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "재민이의 손가락 하트, 주세요!",
+        "meaning_ja": "ジェミンの指ハート、ください！",
+        "meaning_en": "Give me Jaemin's finger heart!"
+      },
+      {
+        "text": "나나 애교, 당장 실시!",
+        "meaning_ja": "ナナの愛嬌、すぐ実施！",
+        "meaning_en": "Nana aegyo (cuteness), implement immediately!"
+      },
+      {
+        "text": "하트 장전, 발사!",
+        "meaning_ja": "ハート装填、発射！",
+        "meaning_en": "Heart loaded, fire!"
+      },
+      {
+        "text": "앙큼하게 하트 날려줘!",
+        "meaning_ja": "魅力的にハートを飛ばして！",
+        "meaning_en": "Send me a charming/cunning heart!"
+      },
+      {
+        "text": "오빠 하트, 못 참아",
+        "meaning_ja": "オッパのハート、我慢できない",
+        "meaning_en": "Oppa's heart, I can't resist."
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "밥 잘 챙겨 먹고, 스케줄 빡세게",
+        "meaning_ja": "ご飯ちゃんと食べて、スケジュールはしっかりね",
+        "meaning_en": "Eat well, and handle the tough schedule."
+      },
+      {
+        "text": "맛난 거 먹고 킹정?",
+        "meaning_ja": "美味しいもの食べて、認定？ (いいでしょ？)",
+        "meaning_en": "Eat something delicious, approved (right)?"
+      },
+      {
+        "text": "재민이 식사는 국룰!",
+        "meaning_ja": "ジェミンの食事は国ルール！",
+        "meaning_en": "Jaemin's meal is the national rule (must happen)!"
+      },
+      {
+        "text": "오늘 야식은 나나가 쏜다",
+        "meaning_ja": "今日の夜食はナナがおごるよ",
+        "meaning_en": "Tonight's late night snack is on Nana (me/fan)."
+      },
+      {
+        "text": "삼시세끼 냠냠하세요",
+        "meaning_ja": "3食、おいしく召し上がれ",
+        "meaning_en": "Eat yummy food three times a day."
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "재민 건강 지켜! 만수무강해",
+        "meaning_ja": "ジェミンの健康守って！長寿を祈る",
+        "meaning_en": "Protect Jaemin's health! Live long and prosper."
+      },
+      {
+        "text": "아프면 앙대! (아프면 안 돼)",
+        "meaning_ja": "痛いのはダメ！",
+        "meaning_en": "You mustn't be sick! (Cute dialect)"
+      },
+      {
+        "text": "나나 감기 금지!",
+        "meaning_ja": "ナナ風邪禁止！",
+        "meaning_en": "Nana, sickness/cold is forbidden!"
+      },
+      {
+        "text": "쉬엄쉬엄해요, 빡세게 하지 말고",
+        "meaning_ja": "ゆっくり休んで、無理しないで",
+        "meaning_en": "Take it easy, don't push yourself too hard."
+      },
+      {
+        "text": "재민이는 내 비타민! 아프지 마",
+        "meaning_ja": "ジェミンは私のビタミン！病気にならないで",
+        "meaning_en": "Jaemin is my vitamin! Don't get sick."
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "수고했잼! (수고했어+잼)",
+        "meaning_ja": "お疲れ様ジェム！",
+        "meaning_en": "Good job, Jaem! (Combination of 'Good job' and 'Jaem')"
+      },
+      {
+        "text": "재민이 열일 인정!",
+        "meaning_ja": "ジェミンの熱心な仕事認定！",
+        "meaning_en": "Jaemin's hard work is acknowledged!"
+      },
+      {
+        "text": "오늘 스케줄 찢었다!",
+        "meaning_ja": "今日のスケジュールを破った！ (完璧にこなした)",
+        "meaning_en": "You crushed/tore up the schedule today!"
+      },
+      {
+        "text": "넌 나의 월급루팡! 고마워",
+        "meaning_ja": "君は僕の給料泥棒 (癒やしてくれる人)！ありがとう",
+        "meaning_en": "You are my 'salary thief' (stress reliever)! Thank you."
+      },
+      {
+        "text": "나나 덕분에 행복 회로 가동!",
+        "meaning_ja": "ナナのおかげで幸せ回路が稼働！",
+        "meaning_en": "Thanks to Nana, my happiness circuit is running!"
+      }
+    ]
+  },
+  "Chenle": {
+    "LOVE_GENERAL": [
+      {
+        "text": "천러야, 내 심장에 착륙해!",
+        "meaning_ja": "チェンラー、私の心臓に着陸して！",
+        "meaning_en": "Chenle, please land in my heart!"
+      },
+      {
+        "text": "러러는 내 인생의 비타민!",
+        "meaning_ja": "ロロは私の人生のビタミンだよ！",
+        "meaning_en": "Lelou (Chenle's nickname) is the vitamin of my life!"
+      },
+      {
+        "text": "천러 사랑은 국룰이지!",
+        "meaning_ja": "チェンレ愛はもはや国ルールだよね！",
+        "meaning_en": "Loving Chenle is the Guk-rul (national rule/established standard)!"
+      },
+      {
+        "text": "러러야, 넌 찐사랑이야.",
+        "meaning_ja": "ロロ、君は本物の愛だよ。",
+        "meaning_en": "Lelou, you are Jjin-sarang (real, authentic love)."
+      },
+      {
+        "text": "내 심장은 이미 천러에게 올인!",
+        "meaning_ja": "私の心はすでにチェンレにオールイン！",
+        "meaning_en": "My heart is already All-In for Chenle!"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "천러 없이 못 살아, 진심 레알!",
+        "meaning_ja": "チェンレなしでは生きられない、マジでリアル！",
+        "meaning_en": "I can't live without Chenle, Jinshim Real (truly, for real)!"
+      },
+      {
+        "text": "내 심장의 주인은 오직 천러 뿐!",
+        "meaning_ja": "私の心臓の持ち主は、ただチェンレだけ！",
+        "meaning_en": "The owner of my heart is only Chenle!"
+      },
+      {
+        "text": "천러는 내 삶의 킬포야.",
+        "meaning_ja": "チェンレは私の人生のキルポ（最高のポイント）だ。",
+        "meaning_en": "Chenle is the Kil-po (killing point/highlight) of my life."
+      },
+      {
+        "text": "러러한테 덕통사고 당했어!",
+        "meaning_ja": "ロロにドクトン事故（沼落ち）した！",
+        "meaning_en": "I had a Deoktong Sago (sudden intense fangirling/obsession) because of Lelou!"
+      },
+      {
+        "text": "내 사랑은 천러 월드클래스!",
+        "meaning_ja": "私のチェンレへの愛はワールドクラス！",
+        "meaning_en": "My love for Chenle is World Class!"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "천러 회장님, 저랑 재벌 결혼해요!",
+        "meaning_ja": "チェンレ会長、私と財閥結婚してください！",
+        "meaning_en": "CEO Chenle (Hwejangnim), let’s have a chaebol marriage!"
+      },
+      {
+        "text": "나 천러랑 혼인신고 이미 마쳤다!",
+        "meaning_ja": "私、チェンレとの婚姻届はもう済ませたよ！",
+        "meaning_en": "I already finished the marriage registration with Chenle!"
+      },
+      {
+        "text": "러러야, 식장은 돌고래 소리나는 곳으로!",
+        "meaning_ja": "ロロ、式場はイルカの鳴き声が聞こえる所にしよう！",
+        "meaning_en": "Lelou, let's have the wedding hall where the dolphin sounds (his laugh) are heard!"
+      },
+      {
+        "text": "천러, 내 통장 비밀번호는 이미 너!",
+        "meaning_ja": "チェンレ、私の通帳の暗証番号はもう君だ！",
+        "meaning_en": "Chenle, my bank account password is already you!"
+      },
+      {
+        "text": "미래의 남편, 천러 님 사랑해요!",
+        "meaning_ja": "未来の夫、チェンレさん愛してます！",
+        "meaning_en": "Future husband, I love you, Chenle!"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "천러 부재중, 현기증 나요.",
+        "meaning_ja": "チェンレ不在中、目眩がします。",
+        "meaning_en": "Chenle's absence, I feel dizzy (from missing him)."
+      },
+      {
+        "text": "러러야, 떡밥 좀 던져줘!",
+        "meaning_ja": "ロロ、コンテンツ（餌）をちょっと投げて！",
+        "meaning_en": "Lelou, throw us some Tteokbap (content/updates)!"
+      },
+      {
+        "text": "천러 보고 싶어서 눈물 콧물 다 뺐어.",
+        "meaning_ja": "チェンレに会いたくて涙も鼻水も全部出した。",
+        "meaning_en": "I cried all the tears and snot because I miss Chenle (Exaggeration)."
+      },
+      {
+        "text": "내일 당장 천러 얼굴 박제해!",
+        "meaning_ja": "明日すぐさまチェンレの顔を剥製にして！",
+        "meaning_en": "I need to Bakje (preserve/capture/see clearly) Chenle's face immediately tomorrow!"
+      },
+      {
+        "text": "천러야, 실시간으로 보고 싶어.",
+        "meaning_ja": "チェンレ、リアルタイムで見たいよ。",
+        "meaning_en": "Chenle, I want to see you in real-time."
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "천러 덕질 평생직장 확정!",
+        "meaning_ja": "チェンレのオタ活は生涯職場確定！",
+        "meaning_en": "Fangirling Chenle is confirmed as a lifelong job (Pyeongsaeng Jikjang)!"
+      },
+      {
+        "text": "엔시티 드림, 천러랑 꽃길만 걷자!",
+        "meaning_ja": "NCT DREAM、チェンレと花道だけを歩こう！",
+        "meaning_en": "NCT DREAM, let's only walk the Kkotgil (flower path/path of success) with Chenle!"
+      },
+      {
+        "text": "우리 관계, 완전 갓생 예약!",
+        "meaning_ja": "私たちの関係、完全にガッセン（神の人生）予約！",
+        "meaning_en": "Our relationship is totally booked for a Gat-saeng (perfect/Godly life)!"
+      },
+      {
+        "text": "천러야, 우리 영원히 국대 조합!",
+        "meaning_ja": "チェンレ、私たち永遠に国大（国家代表）コンビだ！",
+        "meaning_en": "Chenle, we are the national team (Gukdae: top tier) combination forever!"
+      },
+      {
+        "text": "시즈니는 천러 편, 평생 변함없음!",
+        "meaning_ja": "シズニはチェンレの味方、一生変わらない！",
+        "meaning_en": "Czennies are on Chenle's side, unchanging forever!"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "천러 생일, 오늘은 킹왕짱!",
+        "meaning_ja": "チェンレの誕生日、今日はキングワンチャン（最高に最強）！",
+        "meaning_en": "Chenle's birthday, today he is King Wang Jjang (the very best)!"
+      },
+      {
+        "text": "천러 태어난 게 복지다!",
+        "meaning_ja": "チェンレが生まれたことが福祉だ！",
+        "meaning_en": "Chenle being born is welfare (Bokji) for us!"
+      },
+      {
+        "text": "돌고래 왕자님, 생카 투어 완료!",
+        "meaning_ja": "イルカの王子様、センカ（誕生日カフェ）ツアー完了！",
+        "meaning_en": "Dolphin Prince, birthday cafe (Saengka) tour completed!"
+      },
+      {
+        "text": "천러야, 오늘은 널 위해 탕진잼!",
+        "meaning_ja": "チェンレ、今日は君のために散財の楽しみ（湯尽きジャム）！",
+        "meaning_en": "Chenle, today is Tanjin-jaem (the fun of spending all your money) for you!"
+      },
+      {
+        "text": "천러 생일은 국가 기념일로 지정해야 돼!",
+        "meaning_ja": "チェンレの誕生日は国家記念日に指定されるべきだ！",
+        "meaning_en": "Chenle's birthday must be designated as a national holiday!"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "천러, 폼 미쳤다! 파이팅!",
+        "meaning_ja": "チェンレ、調子がヤバい！ファイト！",
+        "meaning_en": "Chenle, your Pom (form/performance) is crazy good! Fighting!"
+      },
+      {
+        "text": "천러가 최고, 걱정은 넣어둬!",
+        "meaning_ja": "チェンレが最高、心配はしまっておいて（するな）！",
+        "meaning_en": "Chenle is the best, put your worries away (Neohdweo)!"
+      },
+      {
+        "text": "러러야, 우리가 널 전적으로 믿는다!",
+        "meaning_ja": "ロロ、私たちは君を全面的に信じている！",
+        "meaning_en": "Lelou, we Jeonjeok-euro (completely) believe in you!"
+      },
+      {
+        "text": "천러 하고 싶은 거 다 해!",
+        "meaning_ja": "チェンレ、やりたいこと全部やって！",
+        "meaning_en": "Chenle, do everything you want to do!"
+      },
+      {
+        "text": "천러, 기죽지 마! 시즈니는 네 편!",
+        "meaning_ja": "チェンレ、落ち込むな！シズニは君の味方だ！",
+        "meaning_en": "Chenle, don't lose heart! Czennies are on your side!"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "천러는 신이 내린 선물이다.",
+        "meaning_ja": "チェンレは神が下した贈り物だ。",
+        "meaning_en": "Chenle is a gift sent by God."
+      },
+      {
+        "text": "천러 얼굴이 바로 개연성!",
+        "meaning_ja": "チェンレの顔こそが、まさに蓋然性（理由）だ！",
+        "meaning_en": "Chenle's face is the Gayeonseong (plausibility/justification) itself!"
+      },
+      {
+        "text": "천러, 갓벽 그 자체!",
+        "meaning_ja": "チェンレ、ゴッビョク（神+完璧）そのもの！",
+        "meaning_en": "Chenle, Gat-byeok (God-Perfect) itself!"
+      },
+      {
+        "text": "천러 이즈 뭔들!",
+        "meaning_ja": "チェンレはイズムォンドゥル（何をやっても最高）！",
+        "meaning_en": "Chenle is Mweondeul (Whatever he does, it's amazing)!"
+      },
+      {
+        "text": "이 세상 천러가 다스린다!",
+        "meaning_ja": "この世界はチェンレが治める！",
+        "meaning_en": "Chenle rules this world!"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "천러 비주얼, 오늘 레전드 찍었다!",
+        "meaning_ja": "チェンレのビジュアル、今日レジェンドを記録した！",
+        "meaning_en": "Chenle's visual, he hit 'Legend status' (Rejeondeu jjik-eotda) today!"
+      },
+      {
+        "text": "러러는 힐링 그 자체야.",
+        "meaning_ja": "ロロはヒーリングそのものだよ。",
+        "meaning_en": "Lelou is healing itself."
+      },
+      {
+        "text": "천러, 분위기 대박!",
+        "meaning_ja": "チェンレ、オーラが最高（大当たり）！",
+        "meaning_en": "Chenle, your vibe/atmosphere (Bunwigi) is Daebak (amazing)!"
+      },
+      {
+        "text": "천러 존재 자체가 벅차올라.",
+        "meaning_ja": "チェンレの存在自体が感動で胸がいっぱいになる。",
+        "meaning_en": "Chenle's existence itself is Beokcha olla (overwhelmingly emotional)."
+      },
+      {
+        "text": "천러는 내 삶의 빛!",
+        "meaning_ja": "チェンレは私の人生の光！",
+        "meaning_en": "Chenle is the light of my life!"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "천러 얼굴 공격에 심장 뿌셔!",
+        "meaning_ja": "チェンレの顔面攻撃に心臓が壊れる（プショ）！",
+        "meaning_en": "My heart is Ppushyeo (shattered) by Chenle's face attack!"
+      },
+      {
+        "text": "천러 얼굴, 안구 복지 최고!",
+        "meaning_ja": "チェンレの顔、眼球福祉最高！",
+        "meaning_en": "Chenle's face is the best Angu Bokji (welfare for the eyeballs)!"
+      },
+      {
+        "text": "러러 미모, 실화냐?",
+        "meaning_ja": "ロロの美貌、実話かよ？",
+        "meaning_en": "Lelou's beauty, is this Shilhwa-nya (real life)?"
+      },
+      {
+        "text": "천러 비주얼, 만렙 찍음!",
+        "meaning_ja": "チェンレのビジュアル、満レベ（マックスレベル）達成！",
+        "meaning_en": "Chenle's visual, he reached Man-lep (max level)!"
+      },
+      {
+        "text": "러러 이목구비, 찢었다!",
+        "meaning_ja": "ロロの目鼻立ち、チジョッタ（やばい、最高）！",
+        "meaning_en": "Lelou's features Jjijeotda (tore it up/killed it - meaning extremely amazing)!"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "천러야, 심장에 무리 가는 하트 부탁해!",
+        "meaning_ja": "チェンレ、心臓に無理がくる（強烈な）ハートをお願い！",
+        "meaning_en": "Chenle, please give us a heart that Muri ganeun (strains/overloads) the heart!"
+      },
+      {
+        "text": "오늘의 필수템, 천러 손하트!",
+        "meaning_ja": "今日の必修アイテムは、チェンレの指ハート！",
+        "meaning_en": "Today's Pilsutem (essential item) is Chenle's hand heart!"
+      },
+      {
+        "text": "러러야, 씹덕 하트 발사!",
+        "meaning_ja": "ロロ、シプドク（可愛くてたまらない）ハート発射！",
+        "meaning_en": "Lelou, fire a Sipdeok (adorable/obsessive) heart!"
+      },
+      {
+        "text": "천러의 시그니처 하트, 기대 중!",
+        "meaning_ja": "チェンレのシグネチャーハート、期待してるよ！",
+        "meaning_en": "We are looking forward to Chenle's signature heart!"
+      },
+      {
+        "text": "회장님, 사랑의 하트 제발!",
+        "meaning_ja": "会長、愛のハートをどうか！",
+        "meaning_en": "CEO (Hwejangnim), a heart of love, please!"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "천러야, 밥심으로 살아남아!",
+        "meaning_ja": "チェンレ、ご飯パワー（飯の力）で生き残って！",
+        "meaning_en": "Chenle, survive on Bapsim (the power gained from eating rice/food)!"
+      },
+      {
+        "text": "러러, 맛난 거 많이 멕여라!",
+        "meaning_ja": "ロロ、美味しいものをたくさん食べさせて（自分に）！",
+        "meaning_en": "Lelou, Mekyeora (feed yourself/eat) lots of tasty things!"
+      },
+      {
+        "text": "천러, 삼시세끼 든든하게 챙겨!",
+        "meaning_ja": "チェンレ、三食をしっかり摂ってね！",
+        "meaning_en": "Chenle, take care of all three meals (Samshi Sekki) strongly!"
+      },
+      {
+        "text": "회장님은 뷔페 접시 싹쓰리!",
+        "meaning_ja": "会長はビュッフェの皿をサックスリ（一掃）する！",
+        "meaning_en": "The CEO must Ssakseuri (sweep/clear completely) the buffet plate!"
+      },
+      {
+        "text": "천러가 먹는 건 0칼로리 인정!",
+        "meaning_ja": "チェンレが食べるものは0カロリーだと認定！",
+        "meaning_en": "We acknowledge that what Chenle eats is 0 calories!"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "천러 감기는 안 돼, 광야도 얼어!",
+        "meaning_ja": "チェンレが風邪をひくのはダメ、クァンヤ（光野）まで凍る！",
+        "meaning_en": "Chenle getting a cold is forbidden, even Kwangya (SM's universe) freezes!"
+      },
+      {
+        "text": "러러야, 몸 관리 개같이 하자!",
+        "meaning_ja": "ロロ、体調管理をケガチ（極度に）やろう！",
+        "meaning_en": "Lelou, let's manage your body Gae-gati (extremely/seriously)!"
+      },
+      {
+        "text": "천러 컨디션, 최상으로 유지해!",
+        "meaning_ja": "チェンレのコンディション、最上に維持して！",
+        "meaning_en": "Chenle's condition, keep it at its best!"
+      },
+      {
+        "text": "아프면 시즈니 마음 맴찢!",
+        "meaning_ja": "体調を崩したらシズニの心がメムチッ（ズタズタに）！",
+        "meaning_en": "If you get sick, Czennies' hearts will be Maem-jjit (torn/broken)!"
+      },
+      {
+        "text": "따뜻하게 입고 건강길만 걸어!",
+        "meaning_ja": "暖かく着て、健康の道だけを歩いて！",
+        "meaning_en": "Wear warm clothes and only walk the path of health!"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "천러, 수고했어! 오늘 폼 최고!",
+        "meaning_ja": "チェンレ、お疲れ様！今日の調子（フォーム）最高！",
+        "meaning_en": "Chenle, good job! Your Pom (form/performance) was the best today!"
+      },
+      {
+        "text": "천러 노력, 시즈니는 다 알아준다!",
+        "meaning_ja": "チェンレの努力、シズニは全て認めている！",
+        "meaning_en": "Czennies Arajunda (recognize/appreciate) all of Chenle's effort!"
+      },
+      {
+        "text": "천러야, 오늘 레베루가 달랐다!",
+        "meaning_ja": "チェンレ、今日はレベルが違ったよ！",
+        "meaning_en": "Chenle, your level (Reberu) was different today (meaning outstanding)!"
+      },
+      {
+        "text": "갓천러, 오늘도 빡센 일정 완료!",
+        "meaning_ja": "神チェンレ、今日もしんどい（タイトな）スケジュール完了！",
+        "meaning_en": "God Chenle, you completed the Bbakssen (tough) schedule again today!"
+      },
+      {
+        "text": "천러는 오늘도 무대 씹어먹었네!",
+        "meaning_ja": "チェンレは今日もステージを噛み砕いて食べたね（圧倒した）！",
+        "meaning_en": "Chenle Sshibeomeok-eotne (dominated/crushed) the stage again today!"
+      }
+    ]
+  },
+  "Jisung": {
+    "LOVE_GENERAL": [
+      {
+        "text": "지성 사랑은 국룰, 네가 내 세상이야!",
+        "meaning_ja": "ジソンへの愛は国民のルール、あなたが私の世界よ!",
+        "meaning_en": "Jisung love is the national standard, you are my world!"
+      },
+      {
+        "text": "지성이 짱이야, 완전 조아!",
+        "meaning_ja": "ジソンが最高!マジで好き!",
+        "meaning_en": "Jisung is the best, I totally like you!"
+      },
+      {
+        "text": "지성아, 너한테 치인다, 매일 치여!",
+        "meaning_ja": "ジソン、あなたにハマってる、毎日夢中!",
+        "meaning_en": "Jisung, I'm falling for you, falling every day!"
+      },
+      {
+        "text": "우리 애깅이(지성), 널리 사랑해!",
+        "meaning_ja": "うちの赤ちゃん(ジソン)を広く愛してる!",
+        "meaning_en": "I love our baby (Jisung) widely!"
+      },
+      {
+        "text": "지성아, 내 최애는 너뿐이야!",
+        "meaning_ja": "ジソン、私の推しはあなただけ!",
+        "meaning_en": "Jisung, you are my only favorite!"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "지성아, 너는 내 심장의 무리수!",
+        "meaning_ja": "ジソン、あなたは私の心臓の無理数(ありえないほど貴重なもの)!",
+        "meaning_en": "Jisung, you are the irrational number (impossible treasure) of my heart!"
+      },
+      {
+        "text": "박지성, 너에게 영혼까지 올인!",
+        "meaning_ja": "パク・ジソン、あなたに魂までオールイン!",
+        "meaning_en": "Park Jisung, I'm going all-in on you, even my soul!"
+      },
+      {
+        "text": "지성만 본다. 이게 찐사랑이다.",
+        "meaning_ja": "ジソンだけを見る。これが本物の愛だ。",
+        "meaning_en": "I only look at Jisung. This is real love."
+      },
+      {
+        "text": "지성아, 너는 내 삶의 비타민C 그 자체!",
+        "meaning_ja": "ジソン、あなたは私の人生のビタミンCそのもの!",
+        "meaning_en": "Jisung, you are Vitamin C itself in my life!"
+      },
+      {
+        "text": "너 없인 못 살아, 지성이는 쵝오!",
+        "meaning_ja": "あなたなしでは生きられない、ジソンは最高!",
+        "meaning_en": "I can't live without you, Jisung is the ultimate best!"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "지성아, 우리 혼인 신고 각이다!",
+        "meaning_ja": "ジソン、私たち婚姻届を出すタイミングだ!",
+        "meaning_en": "Jisung, it's definitely time for us to register our marriage!"
+      },
+      {
+        "text": "지성아, 오늘부터 1일 각, 결혼 고?",
+        "meaning_ja": "ジソン、今日から1日目? 結婚する?",
+        "meaning_en": "Jisung, is today Day 1? Should we go marry?"
+      },
+      {
+        "text": "박지성, 내 미래는 네 옆자리야!",
+        "meaning_ja": "パク・ジソン、私の未来はあなたの隣の席よ!",
+        "meaning_en": "Park Jisung, my future is the seat next to you!"
+      },
+      {
+        "text": "지성아, 널 위해 도장 찍는다!",
+        "meaning_ja": "ジソン、あなたのために印鑑を押す(結婚を確定する)!",
+        "meaning_en": "Jisung, I'm putting a stamp down (claiming you) for you!"
+      },
+      {
+        "text": "나랑 평생 같이 가자, 지성아!",
+        "meaning_ja": "私と一生一緒に行こう、ジソン!",
+        "meaning_en": "Let's go together forever, Jisung!"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "지성아, 현기증 나. 빨리 컴백!",
+        "meaning_ja": "ジソン、めまいがするよ。早くカムバックして!",
+        "meaning_en": "Jisung, I'm getting dizzy. Hurry back!"
+      },
+      {
+        "text": "보고 싶어서 광광 우럭따.",
+        "meaning_ja": "会いたすぎてわんわん泣いちゃった(泣き方を面白く表現したスラング)。",
+        "meaning_en": "I missed you so much I cried loudly. (Internet meme for extreme crying.)"
+      },
+      {
+        "text": "지성 금단현상 심각하다.",
+        "meaning_ja": "ジソンの禁断症状が深刻だ。",
+        "meaning_en": "Jisung withdrawal symptoms are severe."
+      },
+      {
+        "text": "지성아, 너의 존재 자체가 떡밥!",
+        "meaning_ja": "ジソン、あなたの存在自体がコンテンツ(ネタ)だよ!",
+        "meaning_en": "Jisung, your existence itself is content/bait!"
+      },
+      {
+        "text": "지성 없인 못 살 지성시대.",
+        "meaning_ja": "ジソンなしでは生きられないジソン時代。",
+        "meaning_en": "The Jisung Era where I can't live without Jisung."
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "지성아, 우리 평생 꽃길만 걷자!",
+        "meaning_ja": "ジソン、私たち一生、花道だけを歩こう!",
+        "meaning_en": "Jisung, let's only walk on flower paths forever!"
+      },
+      {
+        "text": "영원토록 지성 바라기 모드 ON!",
+        "meaning_ja": "永遠にジソンだけを見つめるモードON!",
+        "meaning_en": "Forever on Jisung-gazing mode ON!"
+      },
+      {
+        "text": "지성과 시즈니, 끝까지 함께 고!",
+        "meaning_ja": "ジソンとシズニ(NCTファン)、最後まで一緒に行こう!",
+        "meaning_en": "Jisung and Czennies, let's go together until the end!"
+      },
+      {
+        "text": "지성아, 탈덕은 없어. 무한 사랑!",
+        "meaning_ja": "ジソン、ファン辞めなんてない。無限の愛!",
+        "meaning_en": "Jisung, there's no quitting the fandom. Infinite love!"
+      },
+      {
+        "text": "지성아, 우리는 찐이다! 영원하자!",
+        "meaning_ja": "ジソン、私たちは本物だ! 永遠でいよう!",
+        "meaning_en": "Jisung, we are the real deal! Let's be forever!"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "지성아, 생일이니까 킹왕짱 놀자!",
+        "meaning_ja": "ジソン、誕生日だからキングの中のキングで遊ぼう!",
+        "meaning_en": "Jisung, since it's your birthday, let's play like the ultimate King!"
+      },
+      {
+        "text": "지성 생일은 국가 기념일로 지정!",
+        "meaning_ja": "ジソンの誕生日は国家記念日に指定!",
+        "meaning_en": "Jisung's birthday is designated as a national holiday!"
+      },
+      {
+        "text": "우리 막둥이 생일, 기강 잡고 축하!",
+        "meaning_ja": "うちの末っ子の誕生日、しっかり気合を入れて祝う!",
+        "meaning_en": "Maknae's birthday, celebrating intensely and properly!"
+      },
+      {
+        "text": "지성아, 태어나줘서 리얼 고마워!",
+        "meaning_ja": "ジソン、生まれてきてくれて本当にありがとう!",
+        "meaning_en": "Jisung, thank you for being born, really!"
+      },
+      {
+        "text": "지성아, 생일 축하해! 떡 케이크 가자!",
+        "meaning_ja": "ジソン、お誕生日おめでとう! ライスケーキ(お餅のケーキ)行こう!",
+        "meaning_en": "Happy Birthday, Jisung! Let's go get rice cake!"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "지성아, 하고 싶은 거 다 해, 내가 쏜다!",
+        "meaning_ja": "ジソン、やりたいこと全部やって、私が奢る!",
+        "meaning_en": "Jisung, do everything you want to do, I'll pay for it!"
+      },
+      {
+        "text": "지성아, 자신감 뿜뿜! 믿는다!",
+        "meaning_ja": "ジソン、自信をプンプン出せ! 信じてる!",
+        "meaning_en": "Jisung, confidence bursting forth! I believe in you!"
+      },
+      {
+        "text": "뱁새 막둥이, 화이팅 모드 ON!",
+        "meaning_ja": "エナガの末っ子、ファイティングモードON!",
+        "meaning_en": "Little bird maknae, fighting mode ON!"
+      },
+      {
+        "text": "지성아, 기 죽지 마! 네가 제일 잘 나가!",
+        "meaning_ja": "ジソン、気落ちしないで! あなたが一番かっこいい!",
+        "meaning_en": "Jisung, don't lose heart! You are the coolest and most successful!"
+      },
+      {
+        "text": "박지성이 바로 우리의 희망이야!",
+        "meaning_ja": "パク・ジソンこそが、私たちの希望だよ!",
+        "meaning_en": "Park Jisung is immediately our hope!"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "지성 is 뭔들, 갓성 그 자체!",
+        "meaning_ja": "ジソン is 何でも、ゴッド・ソンそのもの!",
+        "meaning_en": "Jisung is whatever, God-Sung itself!"
+      },
+      {
+        "text": "갓 지성, 리스펙합니다!",
+        "meaning_ja": "ゴッド・ジソン、リスペクトします!",
+        "meaning_en": "God Jisung, I respect you!"
+      },
+      {
+        "text": "박지성, 인간계 레벨이 아니시네.",
+        "meaning_ja": "パク・ジソン、人間レベルではいらっしゃらない。",
+        "meaning_en": "Park Jisung, you are not on a human level."
+      },
+      {
+        "text": "지성이 존재 자체가 종교다.",
+        "meaning_ja": "ジソンの存在自体が宗教だ。",
+        "meaning_en": "Jisung's existence itself is a religion."
+      },
+      {
+        "text": "지성아, 천재 맞지? 인정!",
+        "meaning_ja": "ジソン、天才でしょ? 認めます!",
+        "meaning_en": "Jisung, you are a genius, right? Acknowledge!"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "지성아, 미모 레전드 찍었다!",
+        "meaning_ja": "ジソン、美貌で伝説を打ち立てた!",
+        "meaning_en": "Jisung, you achieved a visual legend!"
+      },
+      {
+        "text": "지성 미모, 실화냐? 현실 부정!",
+        "meaning_ja": "ジソンの美貌、実話ですか? 現実を否定する!",
+        "meaning_en": "Jisung's beauty, is this real life? Denying reality!"
+      },
+      {
+        "text": "지성아, 넌 그저 빛이야! 반짝!",
+        "meaning_ja": "ジソン、あなたはただの光だよ!キラキラ!",
+        "meaning_en": "Jisung, you are just light! Shine!"
+      },
+      {
+        "text": "지성이 오늘도 미모 열일! 수고!",
+        "meaning_ja": "ジソンも今日も美貌を一生懸命働かせている!お疲れ!",
+        "meaning_en": "Jisung's visual is working hard today! Good job!"
+      },
+      {
+        "text": "박지성 외모, 나만 알고 싶다.",
+        "meaning_ja": "パク・ジソンの外見、私だけが知りたい。",
+        "meaning_en": "Park Jisung's looks, I want to be the only one who knows."
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "지성 얼굴 공격에 사망 각!",
+        "meaning_ja": "ジソンの顔攻撃に死亡する運命!",
+        "meaning_en": "Dying from Jisung's face attack!"
+      },
+      {
+        "text": "지성아, 비주얼이 도른자!",
+        "meaning_ja": "ジソン、ビジュアルがヤバい奴だ!(褒め言葉)",
+        "meaning_en": "Jisung, your visual is crazy! (Extreme compliment)"
+      },
+      {
+        "text": "지성 얼굴 대유잼. 박제해야 해!",
+        "meaning_ja": "ジソンの顔は超面白い(見ていて楽しい)。剥製にすべき!",
+        "meaning_en": "Jisung's face is extremely entertaining. We must preserve it (taxidermy it)!"
+      },
+      {
+        "text": "지성아, 얼굴이 곧 개연성!",
+        "meaning_ja": "ジソン、顔がすぐに(存在の)蓋然性だ!(顔が良いから全て許される)",
+        "meaning_en": "Jisung, your face is immediately the justification/plausibility!"
+      },
+      {
+        "text": "우리 지성, 얼굴 천재 맞습니다!",
+        "meaning_ja": "うちのジソン、顔面天才間違いありません!",
+        "meaning_en": "Our Jisung, he is indeed a face genius!"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "지성아, 손가락으로 사랑 쏴줘!",
+        "meaning_ja": "ジソン、指で愛を撃ってくれ!",
+        "meaning_en": "Jisung, shoot love with your finger!"
+      },
+      {
+        "text": "애교 장인 지성, 깨물 하트 한번만!",
+        "meaning_ja": "愛嬌職人ジソン、噛みつきハートを一回だけ!",
+        "meaning_en": "Aegyo master Jisung, just one biting heart pose!"
+      },
+      {
+        "text": "지성아, 작고 소중한 하트 부탁!",
+        "meaning_ja": "ジソン、小さくて大切なハートをお願い!",
+        "meaning_en": "A small and precious Jisung heart, please!"
+      },
+      {
+        "text": "지성이표 쁘이 하트 보여주세요!",
+        "meaning_ja": "ジソン流のV字ハートを見せてください!",
+        "meaning_en": "Show us Jisung's signature V-sign heart!"
+      },
+      {
+        "text": "지성아, 엄지척 하트 말고 손가락 하트!",
+        "meaning_ja": "ジソン、親指ハートじゃなくて指ハート!",
+        "meaning_en": "Jisung, not a thumbs-up heart, but a finger heart!"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "지성아, 맛있는 거 많이 먹고 무대 찢자!",
+        "meaning_ja": "ジソン、美味しいものをたくさん食べてステージをぶち破ろう!(最高のパフォーマンスをしよう)",
+        "meaning_en": "Jisung, eat lots of delicious food and tear up the stage (kill the performance)!"
+      },
+      {
+        "text": "오늘 메뉴는 지성 픽으로 가자!",
+        "meaning_ja": "今日のメニューはジソンのチョイスで行こう!",
+        "meaning_en": "Let's go with Jisung's pick for today's menu!"
+      },
+      {
+        "text": "지성아, 밥심으로 무대 레전드 찍자!",
+        "meaning_ja": "ジソン、ご飯の力でステージの伝説を打ち立てよう!",
+        "meaning_en": "Jisung, let's achieve a stage legend with the power of food!"
+      },
+      {
+        "text": "지성이가 먹는 건 다 꿀맛!",
+        "meaning_ja": "ジソンが食べるものは全てハチミツの味(超美味しい)!",
+        "meaning_en": "Everything Jisung eats is honey-delicious!"
+      },
+      {
+        "text": "지성아, 밥 잘 챙겨 먹는 게 인지상정!",
+        "meaning_ja": "ジソン、ご飯をちゃんと食べることが当然の道理!",
+        "meaning_en": "Jisung, it's common sense to take good care of your meals!"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "지성 건강이 곧 시즈니의 행복이다!",
+        "meaning_ja": "ジソンの健康こそがシズニの幸せだ!",
+        "meaning_en": "Jisung's health is immediately Czennies' happiness!"
+      },
+      {
+        "text": "지성아, 감기 조심! 완전 무장해!",
+        "meaning_ja": "ジソン、風邪に気をつけて! 完全に武装して!",
+        "meaning_en": "Jisung, watch out for colds! Gear up completely!"
+      },
+      {
+        "text": "지성아, 아프면 철컹철컹! (집으로 끌고 간다)",
+        "meaning_ja": "ジソン、病気になったらカチャンカチャン!(家に連れて帰るぞ)",
+        "meaning_en": "Jisung, if you get sick, *clink clink*! (I'll take you home/handcuff you humorously)"
+      },
+      {
+        "text": "지성 몸 건강, 내가 책임진다!",
+        "meaning_ja": "ジソンの体の健康、私が責任を持つ!",
+        "meaning_en": "I will take responsibility for Jisung's physical health!"
+      },
+      {
+        "text": "컨디션 관리 잘 하자, 박지성!",
+        "meaning_ja": "コンディション管理をしっかりしよう、パク・ジソン!",
+        "meaning_en": "Let's manage your condition well, Park Jisung!"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "지성아, 수고했어! 오늘 무대 역대급!",
+        "meaning_ja": "ジソン、お疲れ様! 今日のステージは過去最高!",
+        "meaning_en": "Jisung, you worked hard! Today's stage was legendary!"
+      },
+      {
+        "text": "지성 노고에 눈물 펑펑!",
+        "meaning_ja": "ジソンの苦労に涙がポロポロ溢れる!",
+        "meaning_en": "Tears pouring out over Jisung's hard work!"
+      },
+      {
+        "text": "지성아, 오늘 일당은 사랑이다!",
+        "meaning_ja": "ジソン、今日の給料は愛だ!",
+        "meaning_en": "Jisung, today's pay is love!"
+      },
+      {
+        "text": "박지성, 오늘 퍼포먼스 미쳤다!",
+        "meaning_ja": "パク・ジソン、今日のパフォーマンスはヤバかった!",
+        "meaning_en": "Park Jisung, today's performance was crazy/insane!"
+      },
+      {
+        "text": "지성아, 고생 많았어. 푹 쉬어!",
+        "meaning_ja": "ジソン、本当にお疲れ様。ゆっくり休んで!",
+        "meaning_en": "Jisung, you struggled hard. Rest well!"
+      }
+    ]
+  }
+}

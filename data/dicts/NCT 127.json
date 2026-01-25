@@ -1,0 +1,3802 @@
+{
+  "All": {
+    "LOVE_GENERAL": [
+      {
+        "text": "덕통사고",
+        "meaning_ja": "オタ活中の事故(急な沼落ち)",
+        "meaning_en": "Fandom traffic accident (Suddenly falling for you)"
+      },
+      {
+        "text": "내 심장아 나대지마",
+        "meaning_ja": "私の心臓よ、落ち着いて",
+        "meaning_en": "My heart, calm down (You make my heart beat too fast)"
+      },
+      {
+        "text": "네오에 중독돼",
+        "meaning_ja": "ネオ(新しい文化)に中毒だ",
+        "meaning_en": "I’m addicted to Neo (I'm addicted to NCT’s unique style)"
+      },
+      {
+        "text": "갓벽하다",
+        "meaning_ja": "神完璧だ",
+        "meaning_en": "God-perfect (Flawless)"
+      },
+      {
+        "text": "시즈니 평생 같이 가자",
+        "meaning_ja": "シズニ、一生一緒に行こう",
+        "meaning_en": "NCTzen, let’s go together forever"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "지독하게 사랑한다",
+        "meaning_ja": "狂うほど愛してる",
+        "meaning_en": "I love you viciously (intensely)"
+      },
+      {
+        "text": "내 심장 네 거야",
+        "meaning_ja": "私の心臓は君のもの",
+        "meaning_en": "My heart belongs to you"
+      },
+      {
+        "text": "못 잃어",
+        "meaning_ja": "絶対に手放せない",
+        "meaning_en": "I can't lose you (You are mine to keep)"
+      },
+      {
+        "text": "평생 시즈니 할게",
+        "meaning_ja": "一生シズニーだよ",
+        "meaning_en": "I'll be a Czennie (NCTzen) for life"
+      },
+      {
+        "text": "쌉가능",
+        "meaning_ja": "余裕でいけるよ (愛してる)",
+        "meaning_en": "Absolutely possible (I can do anything for you)"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "책임져",
+        "meaning_ja": "責任取って (私と結婚して)",
+        "meaning_en": "Take responsibility! (Marry me!)"
+      },
+      {
+        "text": "내 통장 너 가져",
+        "meaning_ja": "私の通帳持ってって (全て捧げる)",
+        "meaning_en": "Take my bank account! (I'm yours entirely)"
+      },
+      {
+        "text": "유죄인간",
+        "meaning_ja": "有罪人間 (罪な魅力)",
+        "meaning_en": "Guilty Human (Guilty of being too perfect)"
+      },
+      {
+        "text": "평생 직진",
+        "meaning_ja": "一生直進 (あなただけ)",
+        "meaning_en": "Straight ahead forever (Loyalty to you)"
+      },
+      {
+        "text": "내 심장 네 거",
+        "meaning_ja": "私の心は君のもの",
+        "meaning_en": "My heart is yours"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "수혈이 시급해",
+        "meaning_ja": "輸血が必要です(会いたい)",
+        "meaning_en": "I urgently need a transfusion"
+      },
+      {
+        "text": "존버",
+        "meaning_ja": "鬼耐える(頑張って待つよ)",
+        "meaning_en": "Endure the wait (Hold the line)"
+      },
+      {
+        "text": "현기증 나요",
+        "meaning_ja": "めまいがするよ(恋しすぎる)",
+        "meaning_en": "I’m getting dizzy (I miss you too much)"
+      },
+      {
+        "text": "내 삶의 낙",
+        "meaning_ja": "私の人生の楽しみ",
+        "meaning_en": "The joy of my life"
+      },
+      {
+        "text": "숨쉬고 싶어",
+        "meaning_ja": "息がしたいよ(会えないと苦しい)",
+        "meaning_en": "I want to breathe"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "시즈니 평생직장",
+        "meaning_ja": "シズニは終身雇用",
+        "meaning_en": "Czennie is lifelong employment."
+      },
+      {
+        "text": "탈덕은 없다",
+        "meaning_ja": "推し活引退はなし",
+        "meaning_en": "Never leaving the fandom."
+      },
+      {
+        "text": "네오의 끝은 없어",
+        "meaning_ja": "ネオに終わりはない",
+        "meaning_en": "The Neo era is endless."
+      },
+      {
+        "text": "영원히 네 편",
+        "meaning_ja": "永遠にあなたの味方",
+        "meaning_en": "Always on your side."
+      },
+      {
+        "text": "스밍은 숨 쉴 때까지",
+        "meaning_ja": "ストリーミングは息をする限り",
+        "meaning_en": "Streaming until the end of time."
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "칠프칠 영원하자",
+        "meaning_ja": "イルチル永遠に行こう",
+        "meaning_en": "Let's be 127 forever"
+      },
+      {
+        "text": "평생 같이 가",
+        "meaning_ja": "永遠一緒だよ",
+        "meaning_en": "Let's stay together forever"
+      },
+      {
+        "text": "행복만 해",
+        "meaning_ja": "幸せでいてね",
+        "meaning_en": "Just be happy"
+      },
+      {
+        "text": "내 심장아 나대지마",
+        "meaning_ja": "私の心臓よ、暴れないで",
+        "meaning_en": "My heart, stop acting up (or, don't beat so wildly)"
+      },
+      {
+        "text": "갓생일",
+        "meaning_ja": "神誕生日",
+        "meaning_en": "God-tier Birthday"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "갓벽",
+        "meaning_ja": "神級(かみきゅう)の完璧(かんぺき)さ",
+        "meaning_en": "God-tier perfect / Flawless"
+      },
+      {
+        "text": "폼 미쳤다",
+        "meaning_ja": "絶好調(ぜっこうちょう)すぎる",
+        "meaning_en": "You're crushing it / Peak form"
+      },
+      {
+        "text": "레전드 갱신",
+        "meaning_ja": "伝説(でんせつ)更新(こうしん)",
+        "meaning_en": "Setting a new legendary standard / Breaking records"
+      },
+      {
+        "text": "오래 보자",
+        "meaning_ja": "長(なが)く一緒(いっしょ)にいようね",
+        "meaning_en": "Let's stick together forever"
+      },
+      {
+        "text": "시즈니는 어디 가지 않아",
+        "meaning_ja": "シズニーはどこにも行(い)かないよ",
+        "meaning_en": "Czennies are here to stay / We aren't leaving"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "만찢남",
+        "meaning_ja": "漫画から飛び出してきた男",
+        "meaning_en": "Comic Book Visuals"
+      },
+      {
+        "text": "킹왕짱",
+        "meaning_ja": "キング・オブ・キングス (最高)",
+        "meaning_en": "The Absolute Best"
+      },
+      {
+        "text": "지린다",
+        "meaning_ja": "鳥肌ものだ",
+        "meaning_en": "It's mind-blowing"
+      },
+      {
+        "text": "쌉가능",
+        "meaning_ja": "全然イケる",
+        "meaning_en": "Totally doable"
+      },
+      {
+        "text": "어덕행덕",
+        "meaning_ja": "どうせオタクするなら幸せにオタクしよう",
+        "meaning_en": "Stan happy, since you're stanning anyway"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "만찢남",
+        "meaning_ja": "漫画から出てきたような人",
+        "meaning_en": "A guy ripped from a comic book (Visual perfection)"
+      },
+      {
+        "text": "나 기절",
+        "meaning_ja": "気絶レベルの美しさ",
+        "meaning_en": "I'm passing out (It’s too much beauty/cuteness)"
+      },
+      {
+        "text": "갓벽",
+        "meaning_ja": "神がかった完璧さ",
+        "meaning_en": "God-tier perfection (Flawless)"
+      },
+      {
+        "text": "말랑콩떡",
+        "meaning_ja": "ぷにぷにの豆餅",
+        "meaning_en": "Soft and squishy mochi (So cute and precious)"
+      },
+      {
+        "text": "어덕행덕",
+        "meaning_ja": "どうせオタ活するなら幸せに！",
+        "meaning_en": "Since we're stanning anyway, let's stan happily!"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**얼굴 천재**",
+        "meaning_en": "顔面天才"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**유죄**",
+        "meaning_en": "有罪 (罪な美しさ)"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**심멎 주의**",
+        "meaning_en": "心臓停止注意"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "심쿵",
+        "meaning_ja": "胸キュン",
+        "meaning_en": "Heart flutter"
+      },
+      {
+        "text": "최애",
+        "meaning_ja": "推し",
+        "meaning_en": "Ultimate Bias"
+      },
+      {
+        "text": "갓벽",
+        "meaning_ja": "神完璧",
+        "meaning_en": "God-tier perfection"
+      },
+      {
+        "text": "입덕",
+        "meaning_ja": "沼にハマる",
+        "meaning_en": "Entering the fandom (Falling into the fandom)"
+      },
+      {
+        "text": "내꼬",
+        "meaning_ja": "私の宝物",
+        "meaning_en": "My precious"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "",
+        "meaning_ja": "KOREAN",
+        "meaning_en": "JAPANESE"
+      },
+      {
+        "text": "",
+        "meaning_ja": ":---",
+        "meaning_en": ":---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**맛있는 거 잔뜩 먹고 힘내**",
+        "meaning_en": "美味しいもの食べてパワーチャージ！"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**밥심 충전하고 무대 부셔**",
+        "meaning_en": "飯パワー充電してステージ破壊！"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**네오 식단으로 건강하게!**",
+        "meaning_en": "ネオ・メニューで健康維持！"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**눕방해**",
+        "meaning_en": "寝てていいよ (休んで)"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**맴찢이야**",
+        "meaning_en": "心が張り裂ける"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**소듕해**",
+        "meaning_en": "とっても大事だから"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "갓벽하다",
+        "meaning_ja": "神完璧だ",
+        "meaning_en": "God-perfect"
+      },
+      {
+        "text": "개쩐다",
+        "meaning_ja": "マジヤバい",
+        "meaning_en": "That’s insane/dope"
+      },
+      {
+        "text": "레전드 찍었다",
+        "meaning_ja": "伝説を刻んだ",
+        "meaning_en": "You hit legendary status"
+      },
+      {
+        "text": "믿고 보는",
+        "meaning_ja": "信頼して見る価値がある",
+        "meaning_en": "Trustworthy to watch (Guaranteed quality)"
+      },
+      {
+        "text": "킹정",
+        "meaning_ja": "激しく同意 (神認定)",
+        "meaning_en": "King-level acknowledgment (Absolutely the best)"
+      }
+    ]
+  },
+  "Taeil": {
+    "LOVE_GENERAL": [
+      {
+        "text": "갓태일",
+        "meaning_ja": "最強のテイル/神テイル",
+        "meaning_en": "God Taeil / The Ultimate Taeil"
+      },
+      {
+        "text": "믿듣문",
+        "meaning_ja": "信頼の歌声のムンテイル",
+        "meaning_en": "Trust and Listen Moon Taeil (Guaranteed good music)"
+      },
+      {
+        "text": "덕분에 살아요",
+        "meaning_ja": "あなたのおかげで生きてる",
+        "meaning_en": "I live because of you"
+      },
+      {
+        "text": "문꿀모닝",
+        "meaning_ja": "ムン・ハニー・モーニング",
+        "meaning_en": "Moon Honey Morning (Sweetest greetings from Taeil)"
+      },
+      {
+        "text": "내 삶의 은인",
+        "meaning_ja": "私の人生の恩人",
+        "meaning_en": "The savior of my life"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "숨쉬는 것만으로도 감사합니다",
+        "meaning_ja": "息をしているだけで感謝",
+        "meaning_en": "Thank you just for existing"
+      },
+      {
+        "text": "평생 덕질할게",
+        "meaning_ja": "一生オタ活するよ",
+        "meaning_en": "I'll be your fan forever"
+      },
+      {
+        "text": "내 심장 책임져",
+        "meaning_ja": "私の心臓に責任取って",
+        "meaning_en": "Take responsibility for my heart"
+      },
+      {
+        "text": "유죄",
+        "meaning_ja": "有罪 (罪なほどかっこいい)",
+        "meaning_en": "You're guilty (of stealing my heart)"
+      },
+      {
+        "text": "태일아, 넌 나의 빛이야",
+        "meaning_ja": "テイル、君は私の光だ",
+        "meaning_en": "Taeil, you are the light of my life"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "내 남편은 문태일",
+        "meaning_ja": "私の夫はムン・テイル",
+        "meaning_en": "Moon Taeil is my husband."
+      },
+      {
+        "text": "태일아, 너 나랑 사귄다?",
+        "meaning_ja": "テイル、私と付き合うんだからね？",
+        "meaning_en": "Taeil, we are dating, okay? (It's settled)"
+      },
+      {
+        "text": "문태일 내 호적메이트",
+        "meaning_ja": "ムン・テイルは私の戸籍メイト",
+        "meaning_en": "Moon Taeil is my future spouse."
+      },
+      {
+        "text": "우리 혼수는 뭘로 할까?",
+        "meaning_ja": "結婚の家具は何にする？",
+        "meaning_en": "What should we choose for our wedding registry?"
+      },
+      {
+        "text": "문태일 없인 못 살아",
+        "meaning_ja": "ムン・テイルなしでは生きられない",
+        "meaning_en": "I can't live without Moon Taeil. (Marry me)"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "현기증 나요, 빨리 와줘",
+        "meaning_ja": "めまいがするよ、早く来て",
+        "meaning_en": "I'm dizzy (from waiting), come quickly."
+      },
+      {
+        "text": "태일이의 라이브가 시급해",
+        "meaning_ja": "テイルのライブが至急だ",
+        "meaning_en": "Taeil's live performance is urgent (I desperately need to hear it)."
+      },
+      {
+        "text": "태일 없이는 팥 없는 붕어빵이야",
+        "meaning_ja": "テイルなしでは餡子のないたい焼きだよ",
+        "meaning_en": "Without Taeil, it's like a Bungeoppang without red bean filling (Empty/Meaningless)."
+      },
+      {
+        "text": "탈덕은 무슨, 난 태일 존버단이야",
+        "meaning_ja": "オタクをやめるなんて、私はテイルのジョンバー団だ",
+        "meaning_en": "Quit the fandom? What nonsense! I'm Taeil's perseverance squad. (I'm committed to waiting.)"
+      },
+      {
+        "text": "문태일 올 때까지 버틴다",
+        "meaning_ja": "ムンテイルが来るまで耐える",
+        "meaning_en": "We'll hold out until Moon Taeil returns."
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "",
+        "meaning_ja": "KOREAN (Fandom Slang/Meme)",
+        "meaning_en": "JAPANESE (Natural Meaning)"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**ㄴㅇㄴㅁ**",
+        "meaning_en": "君と僕の未来"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**존버**",
+        "meaning_en": "死ぬ気で耐える"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**평생약속**",
+        "meaning_en": "一生涯の約束"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "킹갓제너럴 문태일 생축",
+        "meaning_ja": "最高の神、ムン・テイリお誕生日おめでとう",
+        "meaning_en": "Happy Birthday to the King, God, General, Moon Taeil!"
+      },
+      {
+        "text": "맏형 만수무강 기원",
+        "meaning_ja": "長兄の万寿無疆を祈願します",
+        "meaning_en": "Wishing our Eldest Hyung eternal health and prosperity."
+      },
+      {
+        "text": "달디 is 뭔들",
+        "meaning_ja": "ダルディは何でもあり！",
+        "meaning_en": "Dal-D (Taeil) is perfection (Everything about him is great)."
+      },
+      {
+        "text": "입덕은 태일빨",
+        "meaning_ja": "入門はテイルのおかげ！",
+        "meaning_en": "Taeil is the gateway to the fandom."
+      },
+      {
+        "text": "우리 테일이 햅삐벌쓰데이",
+        "meaning_ja": "私たちのテイル、ハッピーバースデー",
+        "meaning_en": "Happy Birthday to our beloved Taeil!"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "믿듣태일",
+        "meaning_ja": "信頼して聞くボーカリスト",
+        "meaning_en": "Taeil, the reliable vocalist"
+      },
+      {
+        "text": "폼 미쳤다",
+        "meaning_ja": "フォームが狂ってる(最高だ)",
+        "meaning_en": "Your performance/vibe is insane (in a great way)"
+      },
+      {
+        "text": "킹갓제너럴",
+        "meaning_ja": "キングゴッドジェネラル(最強)",
+        "meaning_en": "The absolute ultimate best"
+      },
+      {
+        "text": "만관부",
+        "meaning_ja": "多くの関心をお願いします",
+        "meaning_en": "Please show him lots of attention"
+      },
+      {
+        "text": "오히려 좋아",
+        "meaning_ja": "むしろいい(ポジティブ変換)",
+        "meaning_en": "Rather, that's even better!"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "갓태일",
+        "meaning_ja": "ゴッドテイル (神様のようなテイル)",
+        "meaning_en": "God Taeil (Taeil is a deity)"
+      },
+      {
+        "text": "천상의 목소리",
+        "meaning_ja": "天上の声 (至高の歌声)",
+        "meaning_en": "Heavenly voice (His vocals are divine)"
+      },
+      {
+        "text": "태일하세요",
+        "meaning_ja": "テイルしてください (テイル様を拝め)",
+        "meaning_en": "Just Taeil (Be blessed by Taeil)"
+      },
+      {
+        "text": "유죄 문태일",
+        "meaning_ja": "有罪ムンテイル (罪なほどかっこいい)",
+        "meaning_en": "Guilty Moon Taeil (His charm should be illegal)"
+      },
+      {
+        "text": "맏형이 진리",
+        "meaning_ja": "一番上のお兄さんが真理 (絶対的な存在)",
+        "meaning_en": "The oldest is the gospel (Taeil's word is law)"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "울 애기",
+        "meaning_ja": "尊い存在 (うちの天使)",
+        "meaning_en": "Our precious baby/angel"
+      },
+      {
+        "text": "얼굴 천재",
+        "meaning_ja": "顔面天才 (最高ビジュアル)",
+        "meaning_en": "Visual genius"
+      },
+      {
+        "text": "심멎",
+        "meaning_ja": "心停止 (息が止まる)",
+        "meaning_en": "Heart-stopping/Breathtaking"
+      },
+      {
+        "text": "국보급",
+        "meaning_ja": "国宝級 (貴重な存在)",
+        "meaning_en": "National Treasure Level (Irreplaceable)"
+      },
+      {
+        "text": "만찢남",
+        "meaning_ja": "漫画から飛び出た男 (イケメン)",
+        "meaning_en": "Manhwa/Comic book prince"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴 합격",
+        "meaning_ja": "顔面合格",
+        "meaning_en": "Certified Visuals"
+      },
+      {
+        "text": "입덕 요정",
+        "meaning_ja": "入信妖精",
+        "meaning_en": "Stan Maker"
+      },
+      {
+        "text": "미모 절정",
+        "meaning_ja": "美貌絶頂",
+        "meaning_en": "Peak Visuals"
+      },
+      {
+        "text": "비주얼 쇼크",
+        "meaning_ja": "ビジュアルショック",
+        "meaning_en": "Visual Shock"
+      },
+      {
+        "text": "현실 부정 비주얼",
+        "meaning_ja": "現実否定ビジュアル",
+        "meaning_en": "Too Good To Be Real"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "냅다 하트",
+        "meaning_ja": "いきなりハート",
+        "meaning_en": "Suddenly, a heart!"
+      },
+      {
+        "text": "명창재질",
+        "meaning_ja": "名ボーカル気質 (めいボーカルきしつ)",
+        "meaning_en": "Main Vocalist Material (High praise)"
+      },
+      {
+        "text": "싹 다 줄게",
+        "meaning_ja": "全てあげるよ (すべてあげるよ)",
+        "meaning_en": "I'll give you my all (Total support/love)"
+      },
+      {
+        "text": "최애는 짱이야",
+        "meaning_ja": "推しが最高 (おしがさいこう)",
+        "meaning_en": "My bias is the best"
+      },
+      {
+        "text": "심장에 무리데스",
+        "meaning_ja": "心臓に無理だよ (しんぞうにむりだよ)",
+        "meaning_en": "My heart can’t handle this"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "갓벽한 한 끼",
+        "meaning_ja": "神がかり的な一食",
+        "meaning_en": "A God-tier meal"
+      },
+      {
+        "text": "뇸뇸뇸냠냠",
+        "meaning_ja": "もぐもぐごっくん",
+        "meaning_en": "Munch, munch, yum, yum!"
+      },
+      {
+        "text": "밥심으로 충전!",
+        "meaning_ja": "食の力で充電！",
+        "meaning_en": "Power up with meal energy!"
+      },
+      {
+        "text": "먹방은 국룰",
+        "meaning_ja": "食べることは国民のルール",
+        "meaning_en": "The 'Eat Show' is the national standard (A must-do)"
+      },
+      {
+        "text": "태일아, 맛집 길만 걸어",
+        "meaning_ja": "テイル、グルメな道だけを歩いてね",
+        "meaning_en": "Taeil, only walk the delicious food path"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "밥길만 걷자",
+        "meaning_ja": "健康でいてね",
+        "meaning_en": "Let's only walk the path of health (Stay healthy)"
+      },
+      {
+        "text": "내 가수 내가 지킨다",
+        "meaning_ja": "私の推しは私が守る",
+        "meaning_en": "I protect my artist"
+      },
+      {
+        "text": "아프지 마라줘",
+        "meaning_ja": "病気にならないでね",
+        "meaning_en": "Please don't be sick"
+      },
+      {
+        "text": "충전하고 와",
+        "meaning_ja": "しっかり休んでね",
+        "meaning_en": "Come back after you rest/recharge"
+      },
+      {
+        "text": "고생 끝 행복 시작",
+        "meaning_ja": "苦労の終わりに幸せが始まる",
+        "meaning_en": "Hardship ends, happiness begins"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "갓벽",
+        "meaning_ja": "神完璧",
+        "meaning_en": "God-tier perfect"
+      },
+      {
+        "text": "지렸다",
+        "meaning_ja": "鳥肌が立つ",
+        "meaning_en": "That was insane / You nailed it"
+      },
+      {
+        "text": "레전드 찍었다",
+        "meaning_ja": "レジェンドを刻んだ",
+        "meaning_en": "You made history / That's legendary"
+      },
+      {
+        "text": "킹정",
+        "meaning_ja": "激しく同意 (王様の承認)",
+        "meaning_en": "King-level acknowledged / I 100% approve"
+      },
+      {
+        "text": "킬포 대박",
+        "meaning_ja": "キルポ大成功",
+        "meaning_en": "Killing point was amazing / That was the highlight"
+      }
+    ]
+  },
+  "Johnny": {
+    "LOVE_GENERAL": [
+      {
+        "text": "뼈 묻을게",
+        "meaning_ja": "ここに骨を埋めるよ (永遠の忠誠)",
+        "meaning_en": "I’ll bury my bones here (I’m committed forever)."
+      },
+      {
+        "text": "심쿵",
+        "meaning_ja": "胸キュン (ときめき)",
+        "meaning_en": "Heartthrob/My heart fluttered."
+      },
+      {
+        "text": "내 거 하자!",
+        "meaning_ja": "私のものになって！ (愛の主張)",
+        "meaning_en": "Let's make you mine!"
+      },
+      {
+        "text": "과몰입 오타쿠",
+        "meaning_ja": "ドン引きするほどハマったオタク (深すぎる愛)",
+        "meaning_en": "Deeply immersed stan (Totally obsessed fan)."
+      },
+      {
+        "text": "존재 자체가 선물",
+        "meaning_ja": "存在そのものが贈り物 (最高の愛)",
+        "meaning_en": "Your very existence is a gift."
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "킹갓제너럴",
+        "meaning_ja": "最強で最高(マジ神)",
+        "meaning_en": "The King, God, General (You are the ultimate best)"
+      },
+      {
+        "text": "얼굴천재",
+        "meaning_ja": "顔の天才(美しすぎる)",
+        "meaning_en": "Face Genius (Visually perfect/Extremely handsome)"
+      },
+      {
+        "text": "내 삶의 이유",
+        "meaning_ja": "私の生きる理由",
+        "meaning_en": "The reason for my existence"
+      },
+      {
+        "text": "행복회로 풀가동",
+        "meaning_ja": "幸せ回路全開(最高に幸せ)",
+        "meaning_en": "Happiness circuits running full power (I'm ecstatic because of you)"
+      },
+      {
+        "text": "평생 존버",
+        "meaning_ja": "一生推す(永遠に応援)",
+        "meaning_en": "I will stay loyal forever / I'm stanning you for life"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "서영호 내 주식 상장폐지 없음",
+        "meaning_ja": "ソ・ヨンホ株、永久保有",
+        "meaning_en": "My investment in Johnny is a guaranteed marriage."
+      },
+      {
+        "text": "내 신랑 쟈니, 쌉가능!",
+        "meaning_ja": "私の旦那様ジャニ、超可能！",
+        "meaning_en": "Marrying Johnny? Totally possible!"
+      },
+      {
+        "text": "쟈니는 내 미래 남편, 닥저.",
+        "meaning_ja": "ジャニは私の夫、保存推奨",
+        "meaning_en": "Johnny is my future husband, save this claim."
+      },
+      {
+        "text": "서영호 존버 성공, 결혼 가즈아!",
+        "meaning_ja": "ジョンバー成功、結婚しよう！",
+        "meaning_en": "My persistence paid off, let's get married!"
+      },
+      {
+        "text": "결정사 필요 없어, 내 신랑은 쟈니야.",
+        "meaning_ja": "結婚相談所は不要、夫はジャニ",
+        "meaning_en": "No need for a matchmaker, Johnny is my groom."
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "",
+        "meaning_ja": "KOREAN",
+        "meaning_en": "JAPANESE"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**쟈니 없는 세상 노잼**",
+        "meaning_en": "ジャニーがいない世界はつまらない"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**내 눈물 버튼은 쟈니 부재**",
+        "meaning_en": "私の涙腺崩壊スイッチはジャニーの不在"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**쟈니 보고 싶어 현기증**",
+        "meaning_en": "ジャニーに会いたすぎて目眩がする"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "오래가자",
+        "meaning_ja": "ずっと一緒にいよう",
+        "meaning_en": "Let's last for a long time"
+      },
+      {
+        "text": "평생지기",
+        "meaning_ja": "生涯の友",
+        "meaning_en": "Lifelong companion/ride-or-die"
+      },
+      {
+        "text": "내 가수의 영원한 우주",
+        "meaning_ja": "私の歌手の永遠の宇宙",
+        "meaning_en": "I am my artist's eternal universe"
+      },
+      {
+        "text": "행회 돌린다",
+        "meaning_ja": "幸せ回路を回す",
+        "meaning_en": "Running the happiness circuit (Envisioning our permanent future)"
+      },
+      {
+        "text": "나 없이 행복하지 마",
+        "meaning_ja": "私なしで幸せにならないで",
+        "meaning_en": "Don't be happy without me (We must be together forever)"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "폼 미쳤다",
+        "meaning_ja": "フォームがヤバい(最強)",
+        "meaning_en": "Your style/vibe is insane/peak."
+      },
+      {
+        "text": "내 최애",
+        "meaning_ja": "私の最推し",
+        "meaning_en": "My ultimate bias."
+      },
+      {
+        "text": "오래오래 가자",
+        "meaning_ja": "ずっと一緒にいよう",
+        "meaning_en": "Let's stick together for a long, long time."
+      },
+      {
+        "text": "얼굴 천재",
+        "meaning_ja": "顔面天才",
+        "meaning_en": "Face genius (Extremely handsome)."
+      },
+      {
+        "text": "갓쟈니",
+        "meaning_ja": "ゴッド・ジャニ(神)",
+        "meaning_en": "God Johnny (You are perfect/the best)."
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "얼천",
+        "meaning_en": "顔面天才 (究極のイケメン)"
+      },
+      {
+        "text": "",
+        "meaning_ja": "찢었다",
+        "meaning_en": "キメたね/ヤバいね (最高すぎる)"
+      },
+      {
+        "text": "",
+        "meaning_ja": "존프",
+        "meaning_en": "尊敬し愛するプロアイドル (完璧な人)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "실물 영접",
+        "meaning_ja": "神々しいお姿拝見",
+        "meaning_en": "Encountering a deity in the flesh"
+      },
+      {
+        "text": "국보급",
+        "meaning_ja": "国宝級の美貌",
+        "meaning_en": "National Treasure Level (Unrivaled Beauty)"
+      },
+      {
+        "text": "무대 장인",
+        "meaning_ja": "ステージの神",
+        "meaning_en": "Stage Artisan/Deity of Performance"
+      },
+      {
+        "text": "유죄 인간",
+        "meaning_ja": "罪深き魅力 (イケメン)",
+        "meaning_en": "Dangerously Attractive (Illegal Charm)"
+      },
+      {
+        "text": "내 삶의 빛",
+        "meaning_ja": "私の人生の光",
+        "meaning_en": "The radiant light of my life"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "",
+        "meaning_ja": "KOREAN",
+        "meaning_en": "JAPANESE"
+      },
+      {
+        "text": "",
+        "meaning_ja": ":---",
+        "meaning_en": ":---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**소듕해**",
+        "meaning_en": "大切すぎて守りたい"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**갓지컬**",
+        "meaning_en": "驚異的なフィジカル"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**심멎주의**",
+        "meaning_en": "心臓停止注意報"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "",
+        "meaning_ja": "KOREAN",
+        "meaning_en": "JAPANESE"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "얼굴천재",
+        "meaning_en": "顔面天才 (美しすぎる人)"
+      },
+      {
+        "text": "",
+        "meaning_ja": "갓벽 비주얼",
+        "meaning_en": "神レベルの完璧なビジュアル"
+      },
+      {
+        "text": "",
+        "meaning_ja": "만찢남",
+        "meaning_en": "漫画から飛び出したようなイケメン"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "심쿵 유발자",
+        "meaning_ja": "胸キュン誘発者(ドキドキさせる人)",
+        "meaning_en": "Heart-fluttering inducer"
+      },
+      {
+        "text": "뼈테로 심장 폭발",
+        "meaning_ja": "本物の男(セクシー)すぎて心臓が爆発",
+        "meaning_en": "Ultra-manly heart explosion"
+      },
+      {
+        "text": "쟈니 바라기 시즈니",
+        "meaning_ja": "ジャニーだけを見つめるシズニー(ひまわり)",
+        "meaning_en": "Johnny-devoted NCTzen"
+      },
+      {
+        "text": "쟈니 하트 평생 소장",
+        "meaning_ja": "ジャニーハートを一生大事に保管する",
+        "meaning_en": "Lifetime possession of Johnny's heart"
+      },
+      {
+        "text": "오사내영 쟈니사랑",
+        "meaning_ja": "今日も愛して、明日も愛して、永遠にジャニー愛",
+        "meaning_en": "Today, tomorrow, forever, Johnny love"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "쟈니야 맛있는 거 마니 머거",
+        "meaning_ja": "ジョニー、美味しいものたくさん食べてね",
+        "meaning_en": "Johnny, please eat lots of yummy food"
+      },
+      {
+        "text": "밥심 충전 완",
+        "meaning_ja": "ご飯パワー充電完了",
+        "meaning_en": "Food Power Charge Complete"
+      },
+      {
+        "text": "배부른 행벅만 해",
+        "meaning_ja": "お腹いっぱい幸せでいて",
+        "meaning_en": "Only have full-stomach happiness"
+      },
+      {
+        "text": "킹왕짱 쟈니! 살 빼지 마!",
+        "meaning_ja": "最高のジョニー！痩せないで！",
+        "meaning_en": "Ultimate King Johnny! Don't lose weight! (Stay strong!)"
+      },
+      {
+        "text": "건강해야 돼, 알G?",
+        "meaning_ja": "健康でいてね、わかってる？",
+        "meaning_en": "You must be healthy, 'kay?"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "컨디션 부자 쟈니!",
+        "meaning_ja": "コンディションが豊かなジャニ！",
+        "meaning_en": "Stay a condition millionaire, Johnny!"
+      },
+      {
+        "text": "꿀잠쟈니!",
+        "meaning_ja": "ぐっすり眠ってね、ジャニ！",
+        "meaning_en": "Sweet dreams, Johnny!"
+      },
+      {
+        "text": "튼튼이 쟈니!",
+        "meaning_ja": "丈夫なジャニ！",
+        "meaning_en": "Robust Johnny!"
+      },
+      {
+        "text": "오래오래 같가쟈! (오같가)",
+        "meaning_ja": "ずっと一緒にいこうね！",
+        "meaning_en": "Let’s be together for a very long time! (Stay healthy!)"
+      },
+      {
+        "text": "쟈니, 네 건강은 시즈니의 인생이다.",
+        "meaning_ja": "ジャニ、あなたの健康はシズニの人生です。",
+        "meaning_en": "Your health is NCTzen’s life, Johnny! (Never overdo it!)"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "갓벽하다",
+        "meaning_ja": "神完璧だ",
+        "meaning_en": "Godly perfect (Flawless)"
+      },
+      {
+        "text": "수고했어",
+        "meaning_ja": "お疲れ様",
+        "meaning_en": "Good job (You worked hard)"
+      },
+      {
+        "text": "폼 미쳤다",
+        "meaning_ja": "フォームやばい",
+        "meaning_en": "Your form is crazy (You look amazing)"
+      },
+      {
+        "text": "킹받네",
+        "meaning_ja": "キングムカつく (最高!)",
+        "meaning_en": "King annoying (It's so good it's annoying!)"
+      },
+      {
+        "text": "지렸다",
+        "meaning_ja": "凄すぎて漏らした",
+        "meaning_en": "That was insane/Jaw-droppingly amazing"
+      }
+    ]
+  },
+  "Taeyong": {
+    "LOVE_GENERAL": [
+      {
+        "text": "심쿵 유발",
+        "meaning_ja": "胸キュン製造機",
+        "meaning_en": "Causes my heart to flutter (You make my heart skip a beat)"
+      },
+      {
+        "text": "내 우주 태용",
+        "meaning_ja": "私の宇宙、テヨン",
+        "meaning_en": "My entire universe, Taeyong"
+      },
+      {
+        "text": "얼천 그 잡채",
+        "meaning_ja": "顔面最強そのもの",
+        "meaning_en": "Face Genius itself (The definition of perfection)"
+      },
+      {
+        "text": "평생 덕질 예약",
+        "meaning_ja": "一生推し活予約済み",
+        "meaning_en": "Reserved for lifelong devotion (I'm committed to stanning you forever)"
+      },
+      {
+        "text": "태용이 보면 행복 회로 풀가동",
+        "meaning_ja": "テヨンを見ると幸せ回路フル稼働",
+        "meaning_en": "Happiness circuits at full power when I see Taeyong"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "내 최애",
+        "meaning_ja": "私の最愛の推し",
+        "meaning_en": "My ultimate bias"
+      },
+      {
+        "text": "갓벽하다",
+        "meaning_ja": "神がかった完璧さだ",
+        "meaning_en": "God-tier perfect"
+      },
+      {
+        "text": "평생 덕질해",
+        "meaning_ja": "一生推し活します",
+        "meaning_en": "I will stan you forever"
+      },
+      {
+        "text": "내 삶의 이유",
+        "meaning_ja": "私の生きる理由だ",
+        "meaning_en": "You are the reason for my life"
+      },
+      {
+        "text": "문대력",
+        "meaning_ja": "圧倒的な推し力",
+        "meaning_en": "Unmatched bias power (Your influence is irresistible)"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "결혼은 필수",
+        "meaning_ja": "結婚は義務",
+        "meaning_en": "Marriage is mandatory"
+      },
+      {
+        "text": "심멎주의",
+        "meaning_ja": "尊死寸前",
+        "meaning_en": "Dying from visuals"
+      },
+      {
+        "text": "돈길만 걷자",
+        "meaning_ja": "お金持ちの道だけを歩こう",
+        "meaning_en": "Let's only walk the money path"
+      },
+      {
+        "text": "내 우주 태용",
+        "meaning_ja": "私の宇宙テヨン",
+        "meaning_en": "Taeyong is my universe"
+      },
+      {
+        "text": "땅땅",
+        "meaning_ja": "確定！",
+        "meaning_en": "Confirmed! (Done deal!)"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "태용 없인 숨멎",
+        "meaning_ja": "テヨンなしじゃ息が止まる",
+        "meaning_en": "I'm breathless without Taeyong."
+      },
+      {
+        "text": "실물영접 시급",
+        "meaning_ja": "実物拝見が急務",
+        "meaning_en": "Emergency need to see the real deal (Need to see him ASAP)."
+      },
+      {
+        "text": "태용 보고 현기증",
+        "meaning_ja": "テヨンに会いたくてめまいがする",
+        "meaning_en": "I’m dizzy from missing Taeyong."
+      },
+      {
+        "text": "태용 없는 시간 정지",
+        "meaning_ja": "テヨンがいないと時間が停止する",
+        "meaning_en": "Time stops when Taeyong is gone."
+      },
+      {
+        "text": "내 행복 돌려줘",
+        "meaning_ja": "私の幸せを返して",
+        "meaning_en": "Give me back my happiness."
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "TY♥NCTzen 평생",
+        "meaning_ja": "テヨンとシズニーは一生一緒",
+        "meaning_en": "TY and NCTzen, for life"
+      },
+      {
+        "text": "언태 편",
+        "meaning_ja": "いつでもテヨンの味方",
+        "meaning_en": "Always on TY's side"
+      },
+      {
+        "text": "내심태",
+        "meaning_ja": "私の心はテヨンのもの",
+        "meaning_en": "My heart is Taeyong's"
+      },
+      {
+        "text": "영원히 TY 트랙",
+        "meaning_ja": "永遠にTYの道についていく",
+        "meaning_en": "Forever on the TY Track"
+      },
+      {
+        "text": "안 떠나용",
+        "meaning_ja": "心配しないで、私たちは離れないよ",
+        "meaning_en": "Don't worry, we're not leaving (Wordplay on 'Taeyong')"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "CG용 생일 축하해",
+        "meaning_en": "CGのように完璧なビジュアルのテヨン、お誕生日おめでとう"
+      },
+      {
+        "text": "",
+        "meaning_ja": "태용이즈 뭔들",
+        "meaning_en": "テヨンは何をしても最高だ"
+      },
+      {
+        "text": "",
+        "meaning_ja": "만능 치트키 태용",
+        "meaning_en": "完璧なエース(チートキー)"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "얼굴 천재",
+        "meaning_ja": "顔面天才 (究極の美貌)",
+        "meaning_en": "Face Genius (Ultimate Visual)"
+      },
+      {
+        "text": "갓벽하다",
+        "meaning_ja": "神完璧だ (最高に完璧)",
+        "meaning_en": "Godly Perfect (Flawless)"
+      },
+      {
+        "text": "내 삶의 빛",
+        "meaning_ja": "私の人生の光 (きみは私の光)",
+        "meaning_en": "The light of my life"
+      },
+      {
+        "text": "고생했어",
+        "meaning_ja": "お疲れ様 (よく頑張ったね)",
+        "meaning_en": "Thank you for your hard work"
+      },
+      {
+        "text": "심장아 나대지마",
+        "meaning_ja": "心臓よ、暴れないで (興奮が止まらない)",
+        "meaning_en": "Heart, don't run wild (I'm overwhelmed by you)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "갓벽",
+        "meaning_ja": "神がかった完璧さ",
+        "meaning_en": "God-tier perfection"
+      },
+      {
+        "text": "만찢남",
+        "meaning_ja": "漫画から飛び出してきた男",
+        "meaning_en": "Man who jumped out of a manga/Manhwa"
+      },
+      {
+        "text": "넘사벽",
+        "meaning_ja": "超えられない壁 (レベチ)",
+        "meaning_en": "Unsurpassable / In a league of his own"
+      },
+      {
+        "text": "유죄인간",
+        "meaning_ja": "罪な男 (魅力的すぎる)",
+        "meaning_en": "Criminally charming person / Guilty (of stealing hearts)"
+      },
+      {
+        "text": "찢었다",
+        "meaning_ja": "最高にキメた / やばい",
+        "meaning_en": "Slayed it / Killed the performance"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "얼굴 천재",
+        "meaning_ja": "顔面天才",
+        "meaning_en": "Face Genius"
+      },
+      {
+        "text": "지구 뿌셔",
+        "meaning_ja": "地球を壊すほど(可愛すぎる)",
+        "meaning_en": "Earth Destroyer (So precious/adorable)"
+      },
+      {
+        "text": "말랑콩떡",
+        "meaning_ja": "ふわふわもちもち(超かわいい)",
+        "meaning_en": "Squishy Mochi (Utterly soft and adorable)"
+      },
+      {
+        "text": "혹시 천사세요?",
+        "meaning_ja": "もしかして天使ですか？",
+        "meaning_en": "Are you perhaps an angel?"
+      },
+      {
+        "text": "귀여워서 기절",
+        "meaning_ja": "可愛すぎて気絶",
+        "meaning_en": "Fainting from the cuteness"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴 천재",
+        "meaning_ja": "顔面天才",
+        "meaning_en": "Face Genius"
+      },
+      {
+        "text": "심멎주의",
+        "meaning_ja": "心臓停止注意",
+        "meaning_en": "Warning: Heart Attack"
+      },
+      {
+        "text": "만찢남",
+        "meaning_ja": "漫画から出てきた男",
+        "meaning_en": "Comic Book Prince (Unrealistically handsome)"
+      },
+      {
+        "text": "대존잘",
+        "meaning_ja": "超絶イケメン",
+        "meaning_en": "Super Duper Handsome"
+      },
+      {
+        "text": "CG 비주얼",
+        "meaning_ja": "CGビジュアル",
+        "meaning_en": "CG Visuals (Looks unreal)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "심쿵",
+        "meaning_en": "胸キュン"
+      },
+      {
+        "text": "",
+        "meaning_ja": "씹덕사",
+        "meaning_en": "尊死"
+      },
+      {
+        "text": "",
+        "meaning_ja": "뿅",
+        "meaning_en": "キュンッ"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "먹짱이 되어라!",
+        "meaning_ja": "食のチャンピオンになってね！",
+        "meaning_en": "Become the ultimate eating champion!"
+      },
+      {
+        "text": "비타민 태용, 밥은 꼭꼭 챙겨요!",
+        "meaning_ja": "ビタミンテヨン、ご飯は絶対しっかり食べてね！",
+        "meaning_en": "Vitamin Taeyong, make sure to eat all your meals!"
+      },
+      {
+        "text": "맛있는 건 0칼로리!",
+        "meaning_ja": "美味しいものは0カロリーだよ！",
+        "meaning_en": "Delicious food is 0 calories!"
+      },
+      {
+        "text": "만찢태용, 밥심 충전!",
+        "meaning_ja": "漫画から飛び出たテヨン、食事の力で充電！",
+        "meaning_en": "Comic-book Taeyong, charge up with food power!"
+      },
+      {
+        "text": "맛있게 뇸뇸하고 힘내용!",
+        "meaning_ja": "美味しくモグモグして、ファイトヨン！",
+        "meaning_en": "Eat yummy stuff and stay strong-yong!"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "건강이 체고다",
+        "meaning_ja": "健康が最高だよ",
+        "meaning_en": "Health is the supreme priority"
+      },
+      {
+        "text": "칼퇴하고 꿀잠 자자",
+        "meaning_ja": "定時に帰ってぐっすり寝よう",
+        "meaning_en": "Clock out and get some sound sleep"
+      },
+      {
+        "text": "소중하니까 아프지 마",
+        "meaning_ja": "大切だから病気にならないで",
+        "meaning_en": "You are precious, so don't be sick"
+      },
+      {
+        "text": "아프면 오열한다",
+        "meaning_ja": "具合が悪くなったら大泣きするよ",
+        "meaning_en": "If you get sick, I will cry hysterically"
+      },
+      {
+        "text": "롱런하자",
+        "meaning_ja": "長く活動しようね",
+        "meaning_en": "Let's have a long run together (Stay healthy for the long haul)"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "",
+        "meaning_ja": "KOREAN (Slang)",
+        "meaning_en": "JAPANESE (Meaning)"
+      },
+      {
+        "text": "",
+        "meaning_ja": ":---",
+        "meaning_en": ":---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "찢었다",
+        "meaning_en": "最高！やばい！(完璧にやり遂げた)"
+      },
+      {
+        "text": "",
+        "meaning_ja": "갓벽",
+        "meaning_en": "神ビジュアル / 完璧だ"
+      },
+      {
+        "text": "",
+        "meaning_ja": "내 자랑",
+        "meaning_en": "私の誇り / 自慢だよ"
+      }
+    ]
+  },
+  "Yuta": {
+    "LOVE_GENERAL": [
+      {
+        "text": "유타는 내 최애",
+        "meaning_ja": "ユウタは私の最推しだよ",
+        "meaning_en": "Yuta is my ultimate bias."
+      },
+      {
+        "text": "유타 때문에 심멎",
+        "meaning_ja": "ユウタのせいでキュン死",
+        "meaning_en": "Yuta makes my heart stop (He’s fatally attractive)."
+      },
+      {
+        "text": "평생 유타만 바라볼게",
+        "meaning_ja": "一生ユウタだけを見つめるね",
+        "meaning_en": "I will only look at Yuta forever."
+      },
+      {
+        "text": "유타는 킹갓제너럴",
+        "meaning_ja": "ユウタは神で最高！",
+        "meaning_en": "Yuta is the King God General (He is absolutely perfect)."
+      },
+      {
+        "text": "유타는 내 삶의 이유야",
+        "meaning_ja": "ユウタは私の生きる意味だよ",
+        "meaning_en": "Yuta is the reason I live."
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "유타 is 뭔들",
+        "meaning_ja": "ユウタならなんでも好き",
+        "meaning_en": "Yuta is perfect/anything goes"
+      },
+      {
+        "text": "유타에게 과몰입",
+        "meaning_ja": "ユウタにドハマり中",
+        "meaning_en": "Deeply obsessed with Yuta"
+      },
+      {
+        "text": "평생 유타편",
+        "meaning_ja": "一生ユウタの味方",
+        "meaning_en": "I'll support Yuta forever"
+      },
+      {
+        "text": "유타 개같이 사랑해",
+        "meaning_ja": "ユウタ、狂ったように愛してる",
+        "meaning_en": "I love Yuta like crazy (Madly in love)"
+      },
+      {
+        "text": "유타 때문에 심멎",
+        "meaning_ja": "ユウタが尊すぎて死ぬ",
+        "meaning_en": "Yuta makes my heart stop (He's too precious)"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "유타 유죄, 무기징역은 나랑 결혼",
+        "meaning_en": "悠太は有罪、無期懲役は私との結婚です"
+      },
+      {
+        "text": "",
+        "meaning_ja": "유타 켕콘해!",
+        "meaning_en": "悠太、結婚しよう！"
+      },
+      {
+        "text": "",
+        "meaning_ja": "유타 혼인신고서 찢어",
+        "meaning_en": "悠太、婚姻届を破り捨てよう (激しく結婚しよう)"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "유타 is 오열 버튼",
+        "meaning_ja": "悠太は泣きスイッチ",
+        "meaning_en": "Yuta is my Sob Button (You make me cry)"
+      },
+      {
+        "text": "",
+        "meaning_ja": "",
+        "meaning_en": ""
+      },
+      {
+        "text": "유타 is 오열 버튼",
+        "meaning_ja": "悠太は泣きスイッチ",
+        "meaning_en": "Yuta is my Sob Button (You make me cry)"
+      },
+      {
+        "text": "",
+        "meaning_ja": "",
+        "meaning_en": ""
+      },
+      {
+        "text": "유타 비쇼 대기 중",
+        "meaning_ja": "悠太のビジュアルショック待機中",
+        "meaning_en": "Waiting for Yuta's Visual Shock"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "유타 국룰",
+        "meaning_ja": "ユウタは絶対的な真理",
+        "meaning_en": "Yuta is the absolute standard/universal rule."
+      },
+      {
+        "text": "입덕 환영, 탈덕 금지",
+        "meaning_ja": "入門歓迎、脱退禁止",
+        "meaning_en": "Welcome in, exit forbidden."
+      },
+      {
+        "text": "평생즈니",
+        "meaning_ja": "一生涯シズニだよ",
+        "meaning_en": "Lifetime NCTzen."
+      },
+      {
+        "text": "아묻따 유타",
+        "meaning_ja": "無条件にユウタ",
+        "meaning_en": "Yuta, no question asked (Unconditional support)."
+      },
+      {
+        "text": "유타 사랑은 팩트",
+        "meaning_ja": "ユウタへの愛は真実だ",
+        "meaning_en": "Our love for Yuta is a fact."
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "갓벽",
+        "meaning_en": "神完璧/最高かよ"
+      },
+      {
+        "text": "",
+        "meaning_ja": "만수무강",
+        "meaning_en": "長生きしてね"
+      },
+      {
+        "text": "",
+        "meaning_ja": "힐링 그 잡채",
+        "meaning_en": "癒しそのもの"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "킹왕짱",
+        "meaning_ja": "最高！一番！",
+        "meaning_en": "The absolute best!"
+      },
+      {
+        "text": "유타 미소 국보급",
+        "meaning_ja": "ユウタの笑顔は国宝級",
+        "meaning_en": "Yuta's smile is a national treasure."
+      },
+      {
+        "text": "아자아자 파이팅!",
+        "meaning_ja": "頑張れ！頑張れ！",
+        "meaning_en": "Let's go! Keep fighting!"
+      },
+      {
+        "text": "시즈니는 유타 평생 곁에",
+        "meaning_ja": "シズニーはユウタの永遠の味方",
+        "meaning_en": "Czennies will be by Yuta's side forever."
+      },
+      {
+        "text": "입덕부정기 없음",
+        "meaning_ja": "即、沼入り決定",
+        "meaning_en": "Immediate fandom guaranteed (You instantly stan)."
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**갓벽**",
+        "meaning_en": "**神レベルの完璧**"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**실물 영접**",
+        "meaning_en": "**実物を拝む**"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**얼굴 공격**",
+        "meaning_en": "**顔面強すぎ**"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "얼굴 천재",
+        "meaning_ja": "最高のビジュアル",
+        "meaning_en": "Top-tier visual"
+      },
+      {
+        "text": "미모 미쳤다",
+        "meaning_ja": "最高の美貌だ",
+        "meaning_en": "Breathtakingly beautiful"
+      },
+      {
+        "text": "심멎주의",
+        "meaning_ja": "キュン死注意報",
+        "meaning_en": "Caution: May cause a heart attack"
+      },
+      {
+        "text": "우리 아기",
+        "meaning_ja": "大切な宝物",
+        "meaning_en": "So precious (Our baby)"
+      },
+      {
+        "text": "왕자님",
+        "meaning_ja": "王子様",
+        "meaning_en": "My prince"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**얼굴 천재**",
+        "meaning_en": "**顔面天才**"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**만찢남**",
+        "meaning_en": "**漫画から出てきた男**"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**비주얼 미쳤다**",
+        "meaning_en": "**ビジュアルやばい**"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "내꺼 하자",
+        "meaning_ja": "私のものになって",
+        "meaning_en": "Be mine! (I claim you)"
+      },
+      {
+        "text": "유타는 사랑이다",
+        "meaning_ja": "ユタは愛そのものだ",
+        "meaning_en": "Yuta is love itself"
+      },
+      {
+        "text": "심쿵",
+        "meaning_ja": "胸キュン！(ドキドキ)",
+        "meaning_en": "Heart Throb! (My heart is fluttering)"
+      },
+      {
+        "text": "오사카 왕자님",
+        "meaning_ja": "大阪の王子様",
+        "meaning_en": "Osaka Prince"
+      },
+      {
+        "text": "우리 같이 가자",
+        "meaning_ja": "ずっと一緒にいよう",
+        "meaning_en": "Let's stay together forever"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "",
+        "meaning_ja": "KOREAN",
+        "meaning_en": "JAPANESE"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**갓생 살자!**",
+        "meaning_en": "グッドライフを送ろう！(健康に)"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**맛도리만 먹어!**",
+        "meaning_en": "絶品グルメだけを食べて！"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**먹고 극락 가자!**",
+        "meaning_en": "最高の食事で極楽へ！"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "유타야, 컨디션 챙겨!",
+        "meaning_ja": "ユウタ、体調管理はマストだよ！",
+        "meaning_en": "Yuta, taking care of your health is mandatory!"
+      },
+      {
+        "text": "아프지 마, 내 태양.",
+        "meaning_ja": "痛くならないで、私の太陽。",
+        "meaning_en": "Don't be sick, my sunshine."
+      },
+      {
+        "text": "웃음 꽃길만 걷자!",
+        "meaning_ja": "笑顔で、花道だけを歩こう！",
+        "meaning_en": "Let’s only walk the path of smiles and flowers!"
+      },
+      {
+        "text": "유타의 쾌차를 소취!",
+        "meaning_ja": "ユウタの早い回復を願う！(祈願)",
+        "meaning_en": "Manifesting Yuta’s quick recovery!"
+      },
+      {
+        "text": "건강이 최고다, 알지?",
+        "meaning_ja": "健康が一番だよ、わかってるでしょ？",
+        "meaning_en": "Health is the best thing, you know that, right?"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": ":---",
+        "meaning_en": ":---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "폼 미쳤다",
+        "meaning_en": "フォームがヤバい"
+      },
+      {
+        "text": "",
+        "meaning_ja": "레전드",
+        "meaning_en": "伝説的だ"
+      },
+      {
+        "text": "",
+        "meaning_ja": "수고했어",
+        "meaning_en": "お疲れ様"
+      }
+    ]
+  },
+  "Doyoung": {
+    "LOVE_GENERAL": [
+      {
+        "text": "사랑한다 내 아기토끼",
+        "meaning_ja": "愛してる、私の赤ちゃんうさぎ (ドヨンのニックネーム)",
+        "meaning_en": "I love you, my baby bunny (Doyoung's nickname)."
+      },
+      {
+        "text": "심쿵사 할 뻔",
+        "meaning_ja": "心臓が止まりそうになった (キュン死寸前)",
+        "meaning_en": "I almost died of a heart attack (from your charm)."
+      },
+      {
+        "text": "얼굴 천재",
+        "meaning_ja": "顔面天才 (究極の美形)",
+        "meaning_en": "Face genius (Extremely handsome)."
+      },
+      {
+        "text": "평도하자",
+        "meaning_ja": "永遠にドヨン推しでいよう (ずっと応援する)",
+        "meaning_en": "Let's stick with Doyoung forever (Be his fan forever)."
+      },
+      {
+        "text": "네가 내 세상이야",
+        "meaning_ja": "君が私の世界だよ (私の全て)",
+        "meaning_en": "You are my world."
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "**KOREAN",
+        "meaning_ja": "JAPANESE",
+        "meaning_en": "ENGLISH**"
+      },
+      {
+        "text": "---",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "폼 미쳤다",
+        "meaning_ja": "フォームがやばい (完璧で愛おしい)",
+        "meaning_en": "His form is insane (He looks/performs incredibly perfectly)."
+      },
+      {
+        "text": "내꼬야",
+        "meaning_ja": "私のものだよ (愛しくて独り占めしたい)",
+        "meaning_en": "You are mine! (My beloved cherished one)."
+      },
+      {
+        "text": "도영이 없인 못 살아",
+        "meaning_ja": "ドヨンなしでは生きられない (あなたがすべて)",
+        "meaning_en": "I can't live without Doyoung."
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "김도영 내 신랑",
+        "meaning_ja": "キム・ドヨン、私の旦那様",
+        "meaning_en": "Kim Doyoung, my husband."
+      },
+      {
+        "text": "미쳤다, 도영아",
+        "meaning_ja": "ヤバすぎ、ドヨン！(最高)",
+        "meaning_en": "Doyoung, you're crazy (amazing)!"
+      },
+      {
+        "text": "내 인생을 책임져",
+        "meaning_ja": "私の人生に責任持って",
+        "meaning_en": "Take responsibility for my life (Marry me)."
+      },
+      {
+        "text": "도영이는 갓반인 금지",
+        "meaning_ja": "ドヨンは一般人禁止",
+        "meaning_en": "Doyoung is forbidden from being a common person."
+      },
+      {
+        "text": "도영아, 결혼은 나랑",
+        "meaning_ja": "ドヨン、結婚は私とね",
+        "meaning_en": "Doyoung, marriage is with me."
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "도영아 현기증 나",
+        "meaning_ja": "ドヨン、めまいがするよ(恋しい)",
+        "meaning_en": "Doyoung, I'm feeling dizzy (I miss you intensely)"
+      },
+      {
+        "text": "도영 없인 못 살아",
+        "meaning_ja": "ドヨンなしでは生きられない",
+        "meaning_en": "I can’t live without Doyoung"
+      },
+      {
+        "text": "평도사",
+        "meaning_ja": "生涯ドヨンだけ愛す",
+        "meaning_en": "I love only Doyoung for life (FDS)"
+      },
+      {
+        "text": "보고 싶어 돌아버려",
+        "meaning_ja": "会いたくて狂いそう",
+        "meaning_en": "I’m going crazy because I miss you"
+      },
+      {
+        "text": "김도영 시급구",
+        "meaning_ja": "キム・ドヨン緊急募集",
+        "meaning_en": "Urgent SOS: Kim Doyoung needed now"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "",
+        "meaning_ja": "KOREAN",
+        "meaning_en": "JAPANESE"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "영원히 함께 도영",
+        "meaning_en": "永遠にドヨンと一緒"
+      },
+      {
+        "text": "",
+        "meaning_ja": "평생 도영픽",
+        "meaning_en": "一生ドヨン推し (永遠の推し)"
+      },
+      {
+        "text": "",
+        "meaning_ja": "도영밖에 난 몰라",
+        "meaning_en": "ドヨン以外知らない (ドヨン一筋)"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "도프데이",
+        "meaning_ja": "ドヨンデー (特別な記念日)",
+        "meaning_en": "Doyoung Day (Ultimate Doyoung Anniversary)"
+      },
+      {
+        "text": "믿듣도",
+        "meaning_ja": "信聴ドヨン (信頼の歌声)",
+        "meaning_en": "Trust & Listen Doyoung (Reliable vocals)"
+      },
+      {
+        "text": "평생즈니",
+        "meaning_ja": "一生ズニ (永遠に応援)",
+        "meaning_en": "Lifelong Czennie (Forever fan)"
+      },
+      {
+        "text": "도영날💚",
+        "meaning_ja": "ドヨンの日💚 (最高の記念日)",
+        "meaning_en": "Doyoung's Day 💚 (The best day)"
+      },
+      {
+        "text": "갓생 도영",
+        "meaning_ja": "神生ドヨン (完璧な人生を)",
+        "meaning_en": "God-Tier Life Doyoung (Wishing him a perfect life)"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "믿듣도",
+        "meaning_ja": "信頼のボーカリスト",
+        "meaning_en": "Trust-and-Listen Doyoung (The trusted vocalist)"
+      },
+      {
+        "text": "갓벽하다",
+        "meaning_ja": "神レベルで完璧",
+        "meaning_en": "Godly Perfect (Absolutely flawless)"
+      },
+      {
+        "text": "오늘 무대 찢었다!",
+        "meaning_ja": "今日のステージは伝説級",
+        "meaning_en": "You absolutely crushed the stage today!"
+      },
+      {
+        "text": "토끼 왕자님 최고",
+        "meaning_ja": "うさぎの王子様、最高!",
+        "meaning_en": "Rabbit Prince is the best!"
+      },
+      {
+        "text": "내꺼중에 최고",
+        "meaning_ja": "私の最愛の人",
+        "meaning_en": "My absolute best (My greatest treasure)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "갓벽",
+        "meaning_en": "神レベルの完璧さ"
+      },
+      {
+        "text": "",
+        "meaning_ja": "킹갓제너럴",
+        "meaning_en": "キング・ゴッド・ジェネラル"
+      },
+      {
+        "text": "",
+        "meaning_ja": "CD 삼킨 줄",
+        "meaning_en": "CDを飲み込んだみたい (CD音源のように完璧な歌声)"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "국보급",
+        "meaning_ja": "国宝級",
+        "meaning_en": "National Treasure level"
+      },
+      {
+        "text": "미모 미쳤다",
+        "meaning_ja": "美貌がヤバい",
+        "meaning_en": "His visuals are insane/crazy beautiful"
+      },
+      {
+        "text": "토끼 왕자님",
+        "meaning_ja": "うさぎの王子様",
+        "meaning_en": "Bunny Prince"
+      },
+      {
+        "text": "실물 영접",
+        "meaning_ja": "実物拝見 (感動)",
+        "meaning_en": "Seeing him in person (A divine experience)"
+      },
+      {
+        "text": "갓기",
+        "meaning_ja": "ゴッドベビー (完璧な赤ちゃん)",
+        "meaning_en": "God Baby (A perfect, legendary baby)"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "얼굴 천재",
+        "meaning_en": "顔面天才"
+      },
+      {
+        "text": "",
+        "meaning_ja": "만찢남",
+        "meaning_en": "2次元から飛び出たイケメン"
+      },
+      {
+        "text": "",
+        "meaning_ja": "국보급 비주얼",
+        "meaning_en": "国宝級のビジュアル"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "도영이 체고다",
+        "meaning_ja": "ドヨンが最高だ(可愛く言う表現)",
+        "meaning_en": "Doyoung is the bestest"
+      },
+      {
+        "text": "땡스투 도잉",
+        "meaning_ja": "ドヨンのおかげ(いつも感謝)",
+        "meaning_en": "Thanks Do-ing (All my gratitude to you)"
+      },
+      {
+        "text": "앙큼 도영",
+        "meaning_ja": "ずる賢いドヨン(小悪魔的な魅力)",
+        "meaning_en": "Sassy Doyoung (My sly, cute guy)"
+      },
+      {
+        "text": "평생 도영",
+        "meaning_ja": "一生ドヨン(ずっと愛してる)",
+        "meaning_en": "Doyoung Forever"
+      },
+      {
+        "text": "갓도영 최고",
+        "meaning_ja": "ゴッドドヨン最高(神がかった素晴らしさ)",
+        "meaning_en": "God Doyoung supremacy"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "**1. 냠냠쩝쩝 힐링해**",
+        "meaning_ja": "もぐもぐして癒されて",
+        "meaning_en": "Eat, eat, and feel healed/restored."
+      },
+      {
+        "text": "**2. 밥심으로 충전완료**",
+        "meaning_ja": "ご飯パワーで充電完了",
+        "meaning_en": "Charged complete with food power."
+      },
+      {
+        "text": "**3. 도프픽 맛도리 먹자!**",
+        "meaning_ja": "ドヨンの選んだ最高のものを食べよう！",
+        "meaning_en": "Let’s eat Doyoung-pick deliciousness!"
+      },
+      {
+        "text": "**4. 한우 길만 걸어 둡**",
+        "meaning_ja": "最高級牛肉の道だけ歩けドゥブ",
+        "meaning_en": "Only walk the Hanwoo (premium beef) road, Ddub."
+      },
+      {
+        "text": "**5. 굶으면 시즈니 눈물**",
+        "meaning_ja": "食べないとシズニが泣いちゃう",
+        "meaning_en": "If you starve, Czennies will cry."
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "밥도깅 하세요!",
+        "meaning_ja": "ドヨン、しっかりご飯食べてね！",
+        "meaning_en": "Doyoung, please take care of your meals! (Eat well!)"
+      },
+      {
+        "text": "꿀잠 필참!",
+        "meaning_ja": "熟睡必須！",
+        "meaning_en": "Sweet sleep is mandatory! (Get good rest!)"
+      },
+      {
+        "text": "아프면 오열이야.",
+        "meaning_ja": "病気になったら号泣するよ。",
+        "meaning_en": "If you get sick, I will bawl my eyes out. (Don't make me worry!)"
+      },
+      {
+        "text": "도영 건강이 곧 국보!",
+        "meaning_ja": "ドヨンの健康は国宝級だよ！",
+        "meaning_en": "Doyoung's health is a national treasure! (Protect it!)"
+      },
+      {
+        "text": "체력 만땅으로 달려!",
+        "meaning_ja": "体力満タンで乗り切って！",
+        "meaning_en": "Keep your stamina full and keep going!"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "갓벽",
+        "meaning_ja": "神がかりの完璧",
+        "meaning_en": "God-tier perfect"
+      },
+      {
+        "text": "얼천",
+        "meaning_ja": "顔面天才",
+        "meaning_en": "Face Genius"
+      },
+      {
+        "text": "입틀막",
+        "meaning_ja": "驚きで言葉を失う",
+        "meaning_en": "Jaw-dropping / Speechless"
+      },
+      {
+        "text": "믿듣",
+        "meaning_ja": "安心して聞ける",
+        "meaning_en": "Reliable vocalist (Trusted to listen)"
+      },
+      {
+        "text": "내돌",
+        "meaning_ja": "私の推し",
+        "meaning_en": "My ultimate bias (My Idol)"
+      }
+    ]
+  },
+  "Jaehyun": {
+    "LOVE_GENERAL": [
+      {
+        "text": "내 심장아 나대지 마",
+        "meaning_ja": "私の心臓よ、落ち着いて (ドキドキが止まらない)",
+        "meaning_en": "My heart, stop acting up (I'm overwhelmed by you)"
+      },
+      {
+        "text": "평생 복숭아길만 걷자",
+        "meaning_ja": "一生ピーチロードだけを歩こう (幸せになろうね)",
+        "meaning_en": "Let's only walk the peach road forever (Peach is Jaehyun's nickname)"
+      },
+      {
+        "text": "정재현 왕자님, 사랑해",
+        "meaning_ja": "チョン・ジェヒョン王子様、愛してる",
+        "meaning_en": "Prince Jeong Jaehyun, I love you"
+      },
+      {
+        "text": "오늘부터 내 최애는 너야",
+        "meaning_ja": "今日から私の推し(一番好きな人)は君だよ",
+        "meaning_en": "From today, you are my ultimate bias"
+      },
+      {
+        "text": "오래 보자",
+        "meaning_ja": "ずっと一緒にいようね",
+        "meaning_en": "Let's see each other for a long time (I'll support you forever)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "**1. 내 전부야**",
+        "meaning_ja": "私の全てだよ",
+        "meaning_en": "You are my everything"
+      },
+      {
+        "text": "**2. 숨 쉬듯 사랑해**",
+        "meaning_ja": "息をするように愛してる",
+        "meaning_en": "I love you like breathing"
+      },
+      {
+        "text": "**3. 심장아 나대지마**",
+        "meaning_ja": "心臓、暴れるな/ドキドキしすぎないで",
+        "meaning_en": "Heart, don't act up (My heart is racing)"
+      },
+      {
+        "text": "**4. 너에게 스며들었어**",
+        "meaning_ja": "君に染み込んだ/深くハマった",
+        "meaning_en": "I’ve deeply fallen for you (I’ve been permeated by your charm)"
+      },
+      {
+        "text": "**5. 오늘도 레전드**",
+        "meaning_ja": "今日もレジェンド (今日も最高)",
+        "meaning_en": "Legendary today too (You killed it)"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "",
+        "meaning_ja": "KOREAN SLANG (Fandom/Meme)",
+        "meaning_en": "JAPANESE MEANING"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "1. 내 신랑 정재현",
+        "meaning_en": "私の旦那(になる人)"
+      },
+      {
+        "text": "",
+        "meaning_ja": "2. 정재현, 나랑 하자 혼인신고",
+        "meaning_en": "ジェヒョン、私と婚姻届を出そう"
+      },
+      {
+        "text": "",
+        "meaning_ja": "3. 내 남편은 널로 정했다",
+        "meaning_en": "私の夫は君に決めた"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "보고 싶어 못 살겠다",
+        "meaning_ja": "恋しくて生きられない",
+        "meaning_en": "I miss you so much I can't live."
+      },
+      {
+        "text": "재현 비타민 부족",
+        "meaning_ja": "ジェヒョン・ビタミン欠乏",
+        "meaning_en": "Jaehyun Vitamin deficiency (I need my fix)."
+      },
+      {
+        "text": "재현이 없는 빈자리",
+        "meaning_ja": "ジェヒョンがいない空席(虚無感)",
+        "meaning_en": "The empty space without Jaehyun (The void is too big)."
+      },
+      {
+        "text": "목 빠져도 좋으니 빨리 와줘",
+        "meaning_ja": "首が抜けてもいいから早く来て",
+        "meaning_en": "I don't care if my neck breaks, just come back quickly."
+      },
+      {
+        "text": "현생 불가, 재현 필요해",
+        "meaning_ja": "現実生活不可能、ジェヒョンが必要",
+        "meaning_en": "Real life impossible, I need Jaehyun."
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "",
+        "meaning_ja": "KOREAN",
+        "meaning_en": "JAPANESE"
+      },
+      {
+        "text": "",
+        "meaning_ja": ":---",
+        "meaning_en": ":---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "영재편",
+        "meaning_en": "永遠にジェヒョン推し"
+      },
+      {
+        "text": "",
+        "meaning_ja": "같이 늙자",
+        "meaning_en": "一緒に歳を取ろう"
+      },
+      {
+        "text": "",
+        "meaning_ja": "내 삶의 이유",
+        "meaning_en": "生きがい"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "윤오야, 태어나줘서 고마워",
+        "meaning_ja": "ユノ、生まれてきてくれてありがとう",
+        "meaning_en": "Yuno, thank you for being born"
+      },
+      {
+        "text": "재현아, 넌 그저 빛!",
+        "meaning_ja": "ジェヒョン、君はただの光！",
+        "meaning_en": "Jaehyun, you are just the light! (Meaning: You are perfection)"
+      },
+      {
+        "text": "복숭아 왕자, 생일 레전드 찍자!",
+        "meaning_ja": "桃の王子様、誕生日の伝説を作ろう！",
+        "meaning_en": "Peach Prince, let's make this birthday legendary!"
+      },
+      {
+        "text": "영원히 NCTzen 할게",
+        "meaning_ja": "永遠にシズニー(NCTzen)でいるよ",
+        "meaning_en": "I will be an NCTzen forever"
+      },
+      {
+        "text": "재현이 분위기 미쳤다",
+        "meaning_ja": "ジェヒョン、雰囲気やばい",
+        "meaning_en": "Jaehyun, the vibe is crazy good"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "복숭아 왕자님",
+        "meaning_en": "桃の王子様"
+      },
+      {
+        "text": "",
+        "meaning_ja": "믿듣제",
+        "meaning_en": "信頼のジェヒョン (間違いないジェヒョン)"
+      },
+      {
+        "text": "",
+        "meaning_ja": "정윤오 그 잡채",
+        "meaning_en": "チョン・ユノそのもの"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "갓벽",
+        "meaning_ja": "神完璧",
+        "meaning_en": "God-tier perfect"
+      },
+      {
+        "text": "제프리 폼 미쳤다",
+        "meaning_ja": "ジェフリーの調子がヤバい",
+        "meaning_en": "Jeffrey is operating on peak mode"
+      },
+      {
+        "text": "유교보이 예수천국",
+        "meaning_ja": "儒教ボーイが救世主",
+        "meaning_en": "The Confucian Boy is our savior"
+      },
+      {
+        "text": "즈니는 좋겠다, 재현이 신이지",
+        "meaning_ja": "シズニーは幸せ、ジェヒョンは神だから",
+        "meaning_en": "Zennies are lucky, Jaehyun is God"
+      },
+      {
+        "text": "전부 재현해",
+        "meaning_ja": "全部ジェヒョンにしろ",
+        "meaning_en": "Make everything Jaehyun"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "실물 깡패",
+        "meaning_ja": "実物がとんでもない",
+        "meaning_en": "Devastatingly handsome in real life"
+      },
+      {
+        "text": "내 심장아 나대지마",
+        "meaning_ja": "心臓が持たない",
+        "meaning_en": "My heart can't handle this (You're too much)"
+      },
+      {
+        "text": "국보급",
+        "meaning_ja": "国宝級",
+        "meaning_en": "National treasure level"
+      },
+      {
+        "text": "CGV",
+        "meaning_ja": "CG級ビジュアル",
+        "meaning_en": "CG-level visuals (Looks unreal)"
+      },
+      {
+        "text": "갓벽하다",
+        "meaning_ja": "神完璧だ",
+        "meaning_en": "Godly perfect (Flawless)"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "",
+        "meaning_ja": "KOREAN",
+        "meaning_en": "JAPANESE"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "얼굴 천재",
+        "meaning_en": "顔面国宝"
+      },
+      {
+        "text": "",
+        "meaning_ja": "첫사랑 기억 조작남",
+        "meaning_en": "初恋記憶操作男"
+      },
+      {
+        "text": "",
+        "meaning_ja": "조각미남",
+        "meaning_en": "彫刻イケメン"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "심쿵",
+        "meaning_ja": "胸キュン",
+        "meaning_en": "Heart-throb / Sudden heart attack"
+      },
+      {
+        "text": "내 심장은 재현 꺼",
+        "meaning_ja": "私の心はジェヒョンのもの",
+        "meaning_en": "My heart belongs to Jaehyun"
+      },
+      {
+        "text": "사랑 뿅!",
+        "meaning_ja": "愛がぴょん！",
+        "meaning_en": "Love, poof! (Here is sudden love!)"
+      },
+      {
+        "text": "남친짤 하트",
+        "meaning_ja": "彼氏味溢れるハート",
+        "meaning_en": "Boyfriend Material Heart"
+      },
+      {
+        "text": "밸런타인 심장 어택",
+        "meaning_ja": "バレンタイン心臓アタック",
+        "meaning_en": "Valentine Heart Attack"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "맛난 거 먹고 꿀잠 자!",
+        "meaning_ja": "美味しいもの食べてぐっすり寝てね！",
+        "meaning_en": "Eat well and get some deep sleep!"
+      },
+      {
+        "text": "최애는 밥심으로 살지!",
+        "meaning_ja": "推しはご飯パワーで生きる！",
+        "meaning_en": "Our bias runs on food power!"
+      },
+      {
+        "text": "오늘 칼로리는 0이니까 다 먹어!",
+        "meaning_ja": "今日のカロリーはゼロだから全部食べて！",
+        "meaning_en": "Today the calories don't count, so eat everything!"
+      },
+      {
+        "text": "고기 먹고 힘내서 무대 뿌셔!",
+        "meaning_ja": "お肉を食べてパワーを出してステージをブッ壊して！",
+        "meaning_en": "Eat some steak, get strong, and absolutely kill the performance!"
+      },
+      {
+        "text": "재현아, 밥 잘 챙겨 먹고 아프지 말자!",
+        "meaning_ja": "ジェヒョナ、ご飯ちゃんと食べて病気にならないでね！",
+        "meaning_en": "Jaehyun, please eat properly and let's stay healthy!"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**절대 지켜**",
+        "meaning_en": "絶対守るよ (責任持って守る)"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**맴찢**",
+        "meaning_en": "胸が張り裂ける (心配で心が痛い)"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**당충전 100%**",
+        "meaning_en": "糖分チャージ100% (エナジー満タンでね)"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "폼 미쳤다",
+        "meaning_ja": "フォームがやばい",
+        "meaning_en": "Your form is insane"
+      },
+      {
+        "text": "킹정",
+        "meaning_ja": "キング認定",
+        "meaning_en": "King recognized (The best)"
+      },
+      {
+        "text": "레전드 갱신",
+        "meaning_ja": "レジェンド更新",
+        "meaning_en": "Legend status renewed"
+      },
+      {
+        "text": "갓벽",
+        "meaning_ja": "ゴッド完璧",
+        "meaning_en": "Godly perfect (Flawless)"
+      },
+      {
+        "text": "성공적",
+        "meaning_ja": "成功でした",
+        "meaning_en": "Successful"
+      }
+    ]
+  },
+  "Jungwoo": {
+    "LOVE_GENERAL": [
+      {
+        "text": "심장아 나대지마",
+        "meaning_ja": "心臓よ、騒がないで",
+        "meaning_en": "Heart, don't act up"
+      },
+      {
+        "text": "내 삶의 이유",
+        "meaning_ja": "私の生きる理由(生き甲斐)",
+        "meaning_en": "The reason for my life"
+      },
+      {
+        "text": "정우 하고 싶은 거 다 해",
+        "meaning_ja": "ジョンウ、やりたいこと全部やって",
+        "meaning_en": "Jungwoo, do everything you want (I support you completely)"
+      },
+      {
+        "text": "얼굴이 복지다",
+        "meaning_ja": "顔が福祉だ(天国だ)",
+        "meaning_en": "Your face is welfare (A total blessing)"
+      },
+      {
+        "text": "정우 밖에 난 몰라",
+        "meaning_ja": "ジョンウしか知らない",
+        "meaning_en": "I only know Jungwoo (You are the only one for me)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "",
+        "meaning_ja": "KOREAN",
+        "meaning_en": "JAPANESE"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "1. 나라 세우자",
+        "meaning_en": "国を建てよう (王朝を築こう)"
+      },
+      {
+        "text": "",
+        "meaning_ja": "2. 내 심장아 나대지마",
+        "meaning_en": "私の心臓、騒がないで"
+      },
+      {
+        "text": "",
+        "meaning_ja": "3. 평생 지켜 줄게",
+        "meaning_en": "一生守ってあげるよ"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "폼 미쳤다. 나랑 결혼해!",
+        "meaning_ja": "表現力がヤバい。私と結婚して！",
+        "meaning_en": "Your form/visual is insane. Marry me!"
+      },
+      {
+        "text": "정우는 유부남이다.",
+        "meaning_ja": "ジョンウは既婚者です。(私の夫)",
+        "meaning_en": "Jungwoo is a married man. (He's my husband.)"
+      },
+      {
+        "text": "비주얼 천재! 우리 아들 낳자!",
+        "meaning_ja": "ビジュアルの天才！私たちの子を産もう！",
+        "meaning_en": "Visual genius! Let's have a baby together!"
+      },
+      {
+        "text": "반지 꺼내. 당장 껴줄게.",
+        "meaning_ja": "指輪を出して。すぐに私がはめてあげる。",
+        "meaning_en": "Take out the ring. I'll put it on you right now."
+      },
+      {
+        "text": "평생 사랑 계약서에 사인하자!",
+        "meaning_ja": "生涯愛の契約書にサインしよう！",
+        "meaning_en": "Let's sign the lifelong love contract!"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**정우야, 보고 싶어 미치겠어**",
+        "meaning_en": "ジョンウ、会いたくて狂いそう"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**존버는 승리한다, 빨리 와줘!**",
+        "meaning_en": "意地で耐えるよ、早く来て勝利しよう！"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**정우 없는 세상, 심장이 찢어져**",
+        "meaning_en": "ジョンウがいない世界、心が張り裂けそう"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "시평영",
+        "meaning_ja": "シズニは一生永遠に",
+        "meaning_en": "Czennies, Forever and Always."
+      },
+      {
+        "text": "댕평행",
+        "meaning_ja": "ワンちゃん(ジョンウ)は一生の幸せ",
+        "meaning_en": "My Puppy-Woo Is My Forever Happiness."
+      },
+      {
+        "text": "오직 우정우",
+        "meaning_ja": "ただジョンウだけ",
+        "meaning_en": "My Heart Belongs Only to Jungwoo."
+      },
+      {
+        "text": "왕평찬",
+        "meaning_ja": "王子様を一生褒め称える",
+        "meaning_en": "Adoring Our Prince Forever."
+      },
+      {
+        "text": "끝까지 함께",
+        "meaning_ja": "最後まで一緒だよ",
+        "meaning_en": "Together With You Until the End."
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "강쥐즈원",
+        "meaning_ja": "ワンコ最高！",
+        "meaning_en": "Puppy number one!"
+      },
+      {
+        "text": "정우 미모 폼 미쳤다",
+        "meaning_ja": "ジョンウのビジュアル、ヤバい。",
+        "meaning_en": "Jungwoo's visuals are crazy stacked."
+      },
+      {
+        "text": "오늘은 정우데이",
+        "meaning_ja": "今日はジョンウの日！",
+        "meaning_en": "Today is Jungwoo Day!"
+      },
+      {
+        "text": "정우야 태어나줘서 고마워",
+        "meaning_ja": "ジョンウ、生まれてきてくれてありがとう。",
+        "meaning_en": "Jungwoo, thank you for being born."
+      },
+      {
+        "text": "천사우",
+        "meaning_ja": "天使ウ",
+        "meaning_en": "Angel Woo."
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "꽃길만 걷자",
+        "meaning_ja": "花道だけを歩こう",
+        "meaning_en": "Let's only walk the flower path (Wishing only good times)"
+      },
+      {
+        "text": "믿듣 정우",
+        "meaning_ja": "信頼して聴けるジョンウ",
+        "meaning_en": "Trustworthy Listener Jungwoo (Jungwoo is worth listening to and trusting)"
+      },
+      {
+        "text": "정우 하고 싶은 거 다 해",
+        "meaning_ja": "ジョンウ、やりたいことを全部やれ",
+        "meaning_en": "Jungwoo, do everything you want to do"
+      },
+      {
+        "text": "갓벽 정우",
+        "meaning_ja": "神がかった完璧なジョンウ",
+        "meaning_en": "Godly Perfect Jungwoo (Flawlessly perfect Jungwoo)"
+      },
+      {
+        "text": "멈무 정우는 최고야",
+        "meaning_ja": "わんこジョンウは最高だ",
+        "meaning_en": "Puppy Jungwoo is the best"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "얼굴 천재",
+        "meaning_ja": "顔面天才",
+        "meaning_en": "Face Genius"
+      },
+      {
+        "text": "갓벽하다",
+        "meaning_ja": "神的に完璧だ",
+        "meaning_en": "God-tier Perfect/Flawless"
+      },
+      {
+        "text": "심멎주의",
+        "meaning_ja": "息を呑むほどの美しさ",
+        "meaning_en": "Heart-Stopping Visuals (Warning)"
+      },
+      {
+        "text": "그저 빛",
+        "meaning_ja": "ただの光",
+        "meaning_en": "Simply Divine Light (The Standard)"
+      },
+      {
+        "text": "만찢남",
+        "meaning_ja": "漫画から飛び出した王子様",
+        "meaning_en": "Manhwa (Comic Book) Hero"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "",
+        "meaning_ja": "KOREAN",
+        "meaning_en": "JAPANESE"
+      },
+      {
+        "text": "",
+        "meaning_ja": ":---",
+        "meaning_en": ":---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**국보급 미모**",
+        "meaning_en": "国宝級の美貌"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**천상계 비주얼**",
+        "meaning_en": "天上界のビジュアル"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**울 강쥐 소듕해**",
+        "meaning_en": "うちのわんこは超大事"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴 천재",
+        "meaning_ja": "顔面天才",
+        "meaning_en": "Face Genius"
+      },
+      {
+        "text": "비주얼 쇼크",
+        "meaning_ja": "ビジュアルショック",
+        "meaning_en": "Visual Shock"
+      },
+      {
+        "text": "실물 깡패",
+        "meaning_ja": "実物の方がヤバい",
+        "meaning_en": "Looks incredibly stunning in real life"
+      },
+      {
+        "text": "만찢남",
+        "meaning_ja": "漫画から出てきた男",
+        "meaning_en": "A Man from a Comic Book"
+      },
+      {
+        "text": "CG 미모",
+        "meaning_ja": "CGのような美貌",
+        "meaning_en": "Computer Graphics Beauty (Unrealistically beautiful)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**댕댕아 심멎했어**",
+        "meaning_en": "ワンコに胸キュン(死ぬ)した"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**사룽사룽 뾰롱**",
+        "meaning_en": "愛しすぎてぴょろん！"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**정우야 킹정!**",
+        "meaning_en": "ジョンウ、マジ神！"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "밥심으로 버텨!",
+        "meaning_ja": "ご飯の力で頑張って！",
+        "meaning_en": "Stay strong with food power!"
+      },
+      {
+        "text": "꿀맛 정우!",
+        "meaning_ja": "最高の味のジョンウ！",
+        "meaning_en": "Honey-delicious Jungwoo! (Eat only the best!)"
+      },
+      {
+        "text": "많이 먹고 건강길만 걷자!",
+        "meaning_ja": "たくさん食べて健康な道だけを歩こう！",
+        "meaning_en": "Eat well and let's walk only the healthy path!"
+      },
+      {
+        "text": "정우의 갓생은 맛있는 음식부터!",
+        "meaning_ja": "ジョンウの\"神ライフ\"は美味しい食べ物から！",
+        "meaning_en": "Jungwoo's 'God Life' starts with delicious food!"
+      },
+      {
+        "text": "정우야, 끼니 거르지 마!",
+        "meaning_ja": "ジョンウ、食事を抜いちゃダメだよ！",
+        "meaning_en": "Jungwoo, don't skip a meal!"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "아프지 말고 행복만 하자!",
+        "meaning_en": "痛くないで、幸せだけしよう！"
+      },
+      {
+        "text": "",
+        "meaning_ja": "댕댕아 밥 잘 먹고 건강해라!",
+        "meaning_en": "ワンコちゃん、ご飯ちゃんと食べて元気でね！"
+      },
+      {
+        "text": "",
+        "meaning_ja": "정우야, 항상 컨디션 폼 미쳤다!",
+        "meaning_en": "ジョンウ、いつもコンディションは最高だぜ！"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "수고했어",
+        "meaning_ja": "お疲れ様",
+        "meaning_en": "Thank you for your hard work."
+      },
+      {
+        "text": "미쳤다!",
+        "meaning_ja": "やばい！(最高だ)",
+        "meaning_en": "That's crazy good!"
+      },
+      {
+        "text": "갓벽하다",
+        "meaning_ja": "神完璧だ",
+        "meaning_en": "God-perfect (Flawless)."
+      },
+      {
+        "text": "잘생겼잖아",
+        "meaning_ja": "かっこいいじゃん (当たり前だろ)",
+        "meaning_en": "You're handsome, obviously!"
+      },
+      {
+        "text": "앞으로도 화이팅",
+        "meaning_ja": "これからもファイト！",
+        "meaning_en": "Keep it up!/Fighting always!"
+      }
+    ]
+  },
+  "Mark": {
+    "LOVE_GENERAL": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": ":---",
+        "meaning_en": ":---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**킹받네**",
+        "meaning_en": "キングムカつく（最高すぎて）"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**내청춘은 엔시티**",
+        "meaning_en": "私の青春はNCT"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**믿듣막**",
+        "meaning_en": "信じて聞くマーク (信頼のマーク)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**갓벽**",
+        "meaning_en": "神完璧 (かんぺき)"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**유죄인간**",
+        "meaning_en": "罪な男/有罪人間"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**내 영원한 자랑**",
+        "meaning_en": "私の永遠の誇り"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "**1. 마크 서방님**",
+        "meaning_ja": "マーク旦那様 (結婚しましょう)",
+        "meaning_en": "Mark, my Husband (Let's get married)"
+      },
+      {
+        "text": "**2. 마크랑 결혼각**",
+        "meaning_ja": "マークと結婚の予感",
+        "meaning_en": "It's definitely time to marry Mark"
+      },
+      {
+        "text": "**3. 혼인신고는 마크랑**",
+        "meaning_ja": "婚姻届はマークと",
+        "meaning_en": "Marriage registration is only with Mark"
+      },
+      {
+        "text": "**4. 마크 유죄**",
+        "meaning_ja": "マークは有罪(私を惚れさせた)",
+        "meaning_en": "Mark is guilty (of making me fall in love/stealing my heart)"
+      },
+      {
+        "text": "**5. 영원히 마크 편**",
+        "meaning_ja": "永遠にマークの味方",
+        "meaning_en": "I’ll always be on Mark’s side (My eternal commitment)"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "현기증 나니까 빨리 와",
+        "meaning_ja": "めまいがするから早く来て",
+        "meaning_en": "I'm dizzy, so hurry up and come back"
+      },
+      {
+        "text": "산소호흡기 필요",
+        "meaning_ja": "酸素マスクが必要 (会えなくて息ができない)",
+        "meaning_en": "I need an oxygen mask"
+      },
+      {
+        "text": "마크뽕 시급",
+        "meaning_ja": "マーク・ポン至急 (コンテンツ不足)",
+        "meaning_en": "Urgent Mark-Dope Injection (Need content)"
+      },
+      {
+        "text": "알람 좀 울려줘",
+        "meaning_ja": "アラームを鳴らして (通知が恋しい)",
+        "meaning_en": "Please ring my alarm (Send a notification)"
+      },
+      {
+        "text": "그때까지 숨 참는다",
+        "meaning_ja": "その時まで息を止める (永遠に待つ)",
+        "meaning_en": "I'm holding my breath until then"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "믿듣마",
+        "meaning_ja": "信頼して聴けるマーク",
+        "meaning_en": "Trust and Listen Mark (He always delivers quality)"
+      },
+      {
+        "text": "마크편",
+        "meaning_ja": "マークの味方",
+        "meaning_en": "I'm on Mark's Side (Always supporting you)"
+      },
+      {
+        "text": "무한확장",
+        "meaning_ja": "無限拡張",
+        "meaning_en": "Infinite Expansion (We follow the endless journey)"
+      },
+      {
+        "text": "시즈니가 지켜줄게",
+        "meaning_ja": "シズニーが守るよ",
+        "meaning_en": "Czennies will protect you (We promise forever)"
+      },
+      {
+        "text": "칠프듀",
+        "meaning_ja": "127のプロデューサー",
+        "meaning_en": "127 Producer (We will support your career always)"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**킹갓제너럴**",
+        "meaning_en": "**最高にして究極の存在**"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**청량 그 자체**",
+        "meaning_en": "**清涼感そのもの**"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**만수무강**",
+        "meaning_en": "**万寿無疆（永遠の健康と長寿）**"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "마크 이즈 뭔들",
+        "meaning_ja": "マークなら何でもOK",
+        "meaning_en": "Mark can ace anything."
+      },
+      {
+        "text": "가보자고",
+        "meaning_ja": "やっちゃおうぜ！",
+        "meaning_en": "Let's get this! / Let's go!"
+      },
+      {
+        "text": "본투비 아이돌",
+        "meaning_ja": "生まれながらのアイドル",
+        "meaning_en": "Born-to-be idol."
+      },
+      {
+        "text": "덕분에 살아요",
+        "meaning_ja": "あなたのおかげで生きています",
+        "meaning_en": "You are my reason for living."
+      },
+      {
+        "text": "엔시티즌 평생지기",
+        "meaning_ja": "シズニは一生の仲間",
+        "meaning_en": "Czennies are for life."
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "사기캐",
+        "meaning_ja": "チートキャラ (規格外)",
+        "meaning_en": "OP Character / Cheat Code"
+      },
+      {
+        "text": "벽",
+        "meaning_ja": "才能の壁 (レベルが違う)",
+        "meaning_en": "The Wall (Untouchable Talent)"
+      },
+      {
+        "text": "돌았다",
+        "meaning_ja": "ヤバい (最高にすごい)",
+        "meaning_en": "Insane (Crazy Good)"
+      },
+      {
+        "text": "믿보마",
+        "meaning_ja": "信頼して見るマーク",
+        "meaning_en": "Trustworthy Mark (Guaranteed Quality)"
+      },
+      {
+        "text": "마크가 국가다",
+        "meaning_ja": "マークが国家だ (最高の基準)",
+        "meaning_en": "Mark is the Nation (He is Everything)"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "킹랑둥이",
+        "meaning_ja": "最高の愛しい存在",
+        "meaning_en": "The Ultimate Sweetheart"
+      },
+      {
+        "text": "만찢남",
+        "meaning_ja": "漫画から飛び出してきた男",
+        "meaning_en": "Manhwa Hottie"
+      },
+      {
+        "text": "햇살 그 자체",
+        "meaning_ja": "太陽の光そのもの",
+        "meaning_en": "Pure Sunshine"
+      },
+      {
+        "text": "내 삶의 비타민",
+        "meaning_ja": "私の人生のビタミン",
+        "meaning_en": "The Vitamin of My Life"
+      },
+      {
+        "text": "무해함 그 자체",
+        "meaning_ja": "無害そのもの",
+        "meaning_en": "Pure Innocence"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**얼굴 천재**",
+        "meaning_en": "顔面国宝 (がんめんこくほう)"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**실물 영접**",
+        "meaning_en": "生で拝む美しさ (なまでおがむうつくしさ)"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**냉온미남**",
+        "meaning_en": "ギャップイケメン (ぎゃっぷいけめん)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "쪼꼬미 하트",
+        "meaning_ja": "ミニハート",
+        "meaning_en": "Tiny heart"
+      },
+      {
+        "text": "심장 저격",
+        "meaning_ja": "心臓直撃",
+        "meaning_en": "Heart sniper"
+      },
+      {
+        "text": "사랑 듬뿍",
+        "meaning_ja": "愛をたっぷり",
+        "meaning_en": "Love filled to the brim"
+      },
+      {
+        "text": "말랑콩떡",
+        "meaning_ja": "ふにゃふにゃで可愛い",
+        "meaning_en": "Squishy soft cutie"
+      },
+      {
+        "text": "최고의 사랑",
+        "meaning_ja": "最高の愛",
+        "meaning_en": "The ultimate love"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "밥길만 걷자, 마크!",
+        "meaning_ja": "ご飯の道だけ歩こう",
+        "meaning_en": "Let's only walk the food/rice path, Mark!"
+      },
+      {
+        "text": "밥심으로 무대 부셔!",
+        "meaning_ja": "ご飯パワーでステージを壊せ！",
+        "meaning_en": "Smash the stage with food power!"
+      },
+      {
+        "text": "맛있는 건 0칼로리!",
+        "meaning_ja": "美味しいものは0カロリー！",
+        "meaning_en": "Delicious things are 0 calories!"
+      },
+      {
+        "text": "마크는 맛도리 마니 머거야 해!",
+        "meaning_ja": "マークは激ウマなものを沢山食べなきゃ！",
+        "meaning_en": "Mark has to eat lots of yummy food!"
+      },
+      {
+        "text": "든든하게 먹고 꿀잠 자!",
+        "meaning_ja": "しっかり食べてぐっすり寝てね！",
+        "meaning_en": "Eat heartily and sleep soundly (honey sleep)!"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "아프지망고",
+        "meaning_en": "マンゴー食べて病気にならないで"
+      },
+      {
+        "text": "",
+        "meaning_ja": "꿀잠 자",
+        "meaning_en": "ぐっすり寝てね"
+      },
+      {
+        "text": "",
+        "meaning_ja": "냅다 쉬자",
+        "meaning_en": "とりあえずすぐ休もう"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "갓마크",
+        "meaning_ja": "神マーク",
+        "meaning_en": "God Mark"
+      },
+      {
+        "text": "믿듣 마크",
+        "meaning_ja": "信頼のマーク",
+        "meaning_en": "Trustworthy Mark"
+      },
+      {
+        "text": "레전드 찍었다",
+        "meaning_ja": "伝説を作ったよ",
+        "meaning_en": "You just made history"
+      },
+      {
+        "text": "치트키 발동!",
+        "meaning_ja": "チートキー発動！",
+        "meaning_en": "Cheat Mode Activated!"
+      },
+      {
+        "text": "고생했어",
+        "meaning_ja": "お疲れ様",
+        "meaning_en": "You worked hard!"
+      }
+    ]
+  },
+  "Haechan": {
+    "LOVE_GENERAL": [
+      {
+        "text": "없으면 죽음",
+        "meaning_ja": "あなたなしでは生きていけない",
+        "meaning_en": "I can't live without you"
+      },
+      {
+        "text": "실존 인물 맞으세요?",
+        "meaning_ja": "実在の人物ですか？",
+        "meaning_en": "Are you even real?"
+      },
+      {
+        "text": "영원히 해만 바라볼게",
+        "meaning_ja": "永遠に君だけを見つめるよ (愛してる)",
+        "meaning_en": "I will only look at the sun (Haechan) forever"
+      },
+      {
+        "text": "심장아 나대지마",
+        "meaning_ja": "心臓、暴れるな (ドキドキする)",
+        "meaning_en": "Heart, stop acting crazy"
+      },
+      {
+        "text": "내 심장의 에이스",
+        "meaning_ja": "私の心のA(エース)",
+        "meaning_en": "The Ace of my heart"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "",
+        "meaning_ja": "KOREAN",
+        "meaning_en": "JAPANESE"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "나대지마 심장아",
+        "meaning_en": "暴れないで、私の心臓よ"
+      },
+      {
+        "text": "",
+        "meaning_ja": "갓벽하다",
+        "meaning_en": "神完璧だ"
+      },
+      {
+        "text": "",
+        "meaning_ja": "소듕해",
+        "meaning_en": "ソジュンヘ (可愛すぎて大事)"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "나랑 결혼 안 하면 유죄",
+        "meaning_ja": "私と結婚しないなら有罪だよ",
+        "meaning_en": "Marry me or you're guilty!"
+      },
+      {
+        "text": "해찬아 내꺼하자",
+        "meaning_ja": "ヘチャン、私のものになって",
+        "meaning_en": "Haechan, let's make you mine!"
+      },
+      {
+        "text": "평생 남편은 해찬뿐",
+        "meaning_ja": "一生の旦那様はヘチャンだけ",
+        "meaning_en": "My only husband for life is Haechan."
+      },
+      {
+        "text": "해찬아, 내가 가장이야",
+        "meaning_ja": "ヘチャン、私が大黒柱だよ (養うから)",
+        "meaning_en": "Haechan, I'll be the breadwinner (Marry me and retire)."
+      },
+      {
+        "text": "오늘부터 해찬 와이프",
+        "meaning_ja": "今日からヘチャンワイフ",
+        "meaning_en": "Starting today, I’m Haechan’s wife."
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "",
+        "meaning_ja": "KOREAN",
+        "meaning_en": "JAPANESE"
+      },
+      {
+        "text": "",
+        "meaning_ja": "---",
+        "meaning_en": "---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "앓다 죽을 해찬",
+        "meaning_en": "恋焦がれて死にそうなヘチャン"
+      },
+      {
+        "text": "",
+        "meaning_ja": "현기증 난단 말이에요",
+        "meaning_en": "目眩がするんです(会いたい)"
+      },
+      {
+        "text": "",
+        "meaning_ja": "햇쨩 없인 못살아",
+        "meaning_en": "ヘッチャン無しでは生きられない"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "",
+        "meaning_ja": "Korean",
+        "meaning_en": "Japanese"
+      },
+      {
+        "text": "",
+        "meaning_ja": ":---",
+        "meaning_en": ":---"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**해찬이즈뭔들**",
+        "meaning_en": "ヘチャンは何でも最高"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**평생 해찬뿐**",
+        "meaning_en": "一生ヘチャンだけ"
+      },
+      {
+        "text": "",
+        "meaning_ja": "**영원한 동행**",
+        "meaning_en": "永遠に一緒"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "갓벽하다",
+        "meaning_ja": "神完璧だ",
+        "meaning_en": "He is perfectly flawless"
+      },
+      {
+        "text": "행복 회로 ON",
+        "meaning_ja": "幸福回路オン",
+        "meaning_en": "My happiness circuit is ON"
+      },
+      {
+        "text": "사둥해",
+        "meaning_ja": "愛の塊だ(大好き)",
+        "meaning_en": "Bundle of love (I love you)"
+      },
+      {
+        "text": "믿듣믿보 해찬",
+        "meaning_ja": "信頼できる歌とパフォーマンス",
+        "meaning_en": "Reliable performer (Trust and listen, trust and watch)"
+      },
+      {
+        "text": "오늘 해찬시",
+        "meaning_ja": "今日はヘチャンデー",
+        "meaning_en": "It's Haechan time (A time specifically dedicated to celebrating him)"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "킹해찬",
+        "meaning_ja": "キングヘチャン (最高のヘチャン)",
+        "meaning_en": "King Haechan (The GOAT)"
+      },
+      {
+        "text": "꽃길만 걷자",
+        "meaning_ja": "花道だけを歩こう (良いことだけがありますように)",
+        "meaning_en": "Let’s walk the flower road (May you only have success and happiness)"
+      },
+      {
+        "text": "만땅 햇쨔니",
+        "meaning_ja": "フルサンへっちゃん (全力のヘチャン)",
+        "meaning_en": "Full Power Haechan (Radiate like the Full Sun)"
+      },
+      {
+        "text": "갓벽해",
+        "meaning_ja": "神完璧だ (完璧で欠点がない)",
+        "meaning_en": "God-perfect (You are flawless/Peak performance)"
+      },
+      {
+        "text": "평생 시즈니 할게",
+        "meaning_ja": "一生シズニーでいるよ (永遠に応援する)",
+        "meaning_en": "I'll be a Czennie forever (Eternal fan support)"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "극락이다",
+        "meaning_ja": "極楽だ",
+        "meaning_en": "It’s Nirvana / This is pure bliss"
+      },
+      {
+        "text": "사기캐야",
+        "meaning_ja": "チートキャラだ",
+        "meaning_en": "He’s a cheat character / Unfairly talented"
+      },
+      {
+        "text": "무대 찢었다",
+        "meaning_ja": "ステージをぶち壊した",
+        "meaning_en": "He killed the performance (Tore up the stage)"
+      },
+      {
+        "text": "이러니 내가 미쳐, 안 미쳐?",
+        "meaning_ja": "だから私は狂う",
+        "meaning_en": "This is why I go crazy (He's impossibly perfect)"
+      },
+      {
+        "text": "해찬이 없으면 안 돼",
+        "meaning_ja": "ヘチャンがいないと生きていけない",
+        "meaning_en": "I can't live without Haechan (He is essential)"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "국보급",
+        "meaning_ja": "国宝級",
+        "meaning_en": "National Treasure Level (So precious/irreplaceable)"
+      },
+      {
+        "text": "갓기",
+        "meaning_ja": "神(レベルの)赤ちゃん",
+        "meaning_en": "God Baby (A perfect, precious baby)"
+      },
+      {
+        "text": "심장아 나대지마",
+        "meaning_ja": "心臓が持たない",
+        "meaning_en": "Heart, don't act up (My heart can't handle this)"
+      },
+      {
+        "text": "만찢남",
+        "meaning_ja": "漫画から飛び出したような男",
+        "meaning_en": "Man ripped from a comic (Unrealistically handsome)"
+      },
+      {
+        "text": "댕댕이",
+        "meaning_ja": "子犬",
+        "meaning_en": "Puppy (A cute, playful person)"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "**얼굴 천재**",
+        "meaning_ja": "**顔面天才**",
+        "meaning_en": "**Face Genius**"
+      },
+      {
+        "text": "**유죄 인간**",
+        "meaning_ja": "**罪な男 (有罪レベルの魅力)**",
+        "meaning_en": "**Guilty Visual (Too charming, it's a crime)**"
+      },
+      {
+        "text": "**넌 나의 햇살**",
+        "meaning_ja": "**私の太陽 (眩しすぎる)**",
+        "meaning_en": "**You are my Sunshine (Dazzling perfection)**"
+      },
+      {
+        "text": "**비주얼 끝판왕**",
+        "meaning_ja": "**ビジュアルのラスボス**",
+        "meaning_en": "**Visual Final Boss (The ultimate peak of handsomeness)**"
+      },
+      {
+        "text": "**미친 비주얼**",
+        "meaning_ja": "**ヤバいビジュアル**",
+        "meaning_en": "**Insane Visuals (Crazy good looks)**"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "앙큼 하트 발사",
+        "meaning_ja": "ずる賢いハート発射",
+        "meaning_en": "Sassy Heart Launch"
+      },
+      {
+        "text": "심쿵 유발 하트",
+        "meaning_ja": "キュン死製造ハート",
+        "meaning_en": "Heart-Thumping Heart Maker"
+      },
+      {
+        "text": "해찬이 하트는 필수재",
+        "meaning_ja": "ヘチャンのハートは必須財",
+        "meaning_en": "Haechan’s Heart is an Essential Commodity"
+      },
+      {
+        "text": "풀썬 하트 충전 완료",
+        "meaning_ja": "フルサンハート充電完了",
+        "meaning_en": "Full Sun Heart Charging Complete"
+      },
+      {
+        "text": "해찬이 사랑에 과몰입 중",
+        "meaning_ja": "ヘチャン愛に過没入中",
+        "meaning_en": "Deeply Immersed in Haechan’s Love"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "**1. 맛있게 먹고 건강하자**",
+        "meaning_ja": "美味しく食べて元気でいてね",
+        "meaning_en": "Eat well and stay healthy"
+      },
+      {
+        "text": "**2. 당충전 완료!**",
+        "meaning_ja": "糖分チャージ完了！",
+        "meaning_en": "Sugar Charge Complete! (Refuel!)"
+      },
+      {
+        "text": "**3. 맛밥! (맛있는 밥)**",
+        "meaning_ja": "美味しいご飯！",
+        "meaning_en": "Delicious Meal!"
+      },
+      {
+        "text": "**4. 곰돌이 밥 시간!**",
+        "meaning_ja": "クマちゃんのご飯の時間だよ！",
+        "meaning_en": "It's the bear’s meal time!"
+      },
+      {
+        "text": "**5. 밥심으로 버텨**",
+        "meaning_ja": "ご飯の力で頑張れ",
+        "meaning_en": "Hold out with the power of rice (food)"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "해찬아, 아프면 혼나!",
+        "meaning_ja": "ヘチャン、病気になったら怒るよ！",
+        "meaning_en": "Haechan, I'll scold you if you get sick! (A protective warning.)"
+      },
+      {
+        "text": "에너지 만땅 충전!",
+        "meaning_ja": "エネルギー満タンチャージ！",
+        "meaning_en": "Full energy charge! (Recharge completely!)"
+      },
+      {
+        "text": "스케줄은 대충대충, 휴식은 빡세게!",
+        "meaning_ja": "スケジュールは適当に、休息はがっつりと！",
+        "meaning_en": "Go easy on the schedules, be strict about resting!"
+      },
+      {
+        "text": "해찬이 몸은 내가 지킨다!",
+        "meaning_ja": "ヘチャンの体は私が守る！",
+        "meaning_en": "I will protect Haechan's body! (Stay safe!)"
+      },
+      {
+        "text": "곰돌이처럼 푹 쉬어.",
+        "meaning_ja": "クマちゃんみたいにぐっすり休んで。",
+        "meaning_en": "Rest deeply like a teddy bear. (Take proper breaks.)"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "동혁이가 다 했다",
+        "meaning_ja": "ドンヒョクが全部やった",
+        "meaning_en": "Donghyuck did it all"
+      },
+      {
+        "text": "해며들다",
+        "meaning_ja": "ヘチャンに染まる",
+        "meaning_en": "To be absorbed by Haechan's charm"
+      },
+      {
+        "text": "킹짱제너럴",
+        "meaning_ja": "キング最高ジェネラル",
+        "meaning_en": "King Jjang General"
+      },
+      {
+        "text": "만점해찬",
+        "meaning_ja": "満点ヘチャン",
+        "meaning_en": "Perfect 10 Haechan"
+      },
+      {
+        "text": "역시 우리 곰돌이",
+        "meaning_ja": "さすがうちのクマちゃん",
+        "meaning_en": "As expected of our bear cub"
+      }
+    ]
+  }
+}
