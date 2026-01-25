@@ -7,22 +7,26 @@ import markdown
 import os
 import frontmatter
 import datetime
-import re # 정규식을 위해 re 모듈을 import 합니다.
+import re
 
-# Blueprint 정의
 main_bp = Blueprint('main', __name__)
+
+# [참고] lang 파라미터가 없는 기본 접속은 'ja'로 리디렉션 할 수 있습니다. (선택사항)
+# @main_bp.route('/')
+# def root():
+#     return redirect('/ja')
 
 @main_bp.route('/')
 def index():
-    lang = request.args.get('lang', 'ja')
-    
-    # 유틸 함수 사용하여 데이터 로드
+    # URL 파라미터 또는 쿠키에서 언어 설정을 가져옵니다.
+    lang = request.args.get('lang', 'ja') 
     all_groups = load_groups() 
     translations = load_translations()
     available_groups = load_available_groups(all_groups)
-    recent_wiki = load_recent_wiki_posts(8)
+    
+    # [수정] 메인 페이지의 트렌딩 용어도 언어에 맞게 표시
+    recent_wiki = load_recent_wiki_posts(count=8, lang=lang)
 
-    # 통계 계산
     group_count = len(available_groups) - 1
     if group_count < 0: group_count = 0
     last_update = datetime.date.today().strftime("%Y.%m.%d")
@@ -40,105 +44,100 @@ def index():
 @main_bp.route('/api/translate', methods=['POST'])
 def api_translate():
     data = request.get_json()
+    # ... (이하 로직 동일)
     user_text = data.get('text', '')
-    
     if not user_text:
         return jsonify({'result': []})
-
     variations = translate_to_kpop_slang(
-        user_text, 
-        data.get('group', 'General'), 
-        data.get('member', 'All'), 
-        data.get('src_lang', 'ja'), 
-        force_refresh=data.get('is_refresh', False)
+        user_text, data.get('group', 'General'), data.get('member', 'All'), 
+        data.get('src_lang', 'ja'), force_refresh=data.get('is_refresh', False)
     )
     return jsonify({'result': variations})
 
-@main_bp.route('/wiki')
-def wiki_list():
-    posts = load_recent_wiki_posts(None) # 전체 로드
-    return render_template('wiki_list.html', posts=posts)
+# [수정됨] 언어 코드(lang)를 URL에 포함
+@main_bp.route('/<lang>/wiki')
+def wiki_list(lang):
+    posts = load_recent_wiki_posts(count=None, lang=lang) # 전체 로드
+    return render_template('wiki_list.html', posts=posts, lang=lang)
 
-# =================================================================
-# ▼▼▼▼▼▼▼▼▼▼▼▼▼ 이 함수가 수정되었습니다 ▼▼▼▼▼▼▼▼▼▼▼▼▼
-# =================================================================
-@main_bp.route('/wiki/<slug>')
-def wiki_detail(slug):
-    filepath = os.path.join(Config.WIKI_DIR, f'{slug}.md')
+# [수정됨] 언어 코드(lang)를 URL에 포함하고, 파일 로직 변경
+@main_bp.route('/<lang>/wiki/<slug>')
+def wiki_detail(lang, slug):
+    # 1. 올바른 언어의 파일명 조합
+    filename = f'{slug}_{lang}.md'
+    filepath = os.path.join(Config.WIKI_DIR, filename)
+
+    # 2. _en.md 또는 .md 형태의 기본 영어 파일 fallback 로직
     if not os.path.exists(filepath):
-        return "Page not found", 404
-    
-    # 1. 현재 페이지의 마크다운 파일 로드
+        # _en.md 파일 시도
+        en_filepath_suffix = os.path.join(Config.WIKI_DIR, f'{slug}_en.md')
+        # 접미사 없는 .md 파일 시도
+        en_filepath_nosuffix = os.path.join(Config.WIKI_DIR, f'{slug}.md')
+        if os.path.exists(en_filepath_suffix):
+             filepath = en_filepath_suffix
+        elif os.path.exists(en_filepath_nosuffix):
+             filepath = en_filepath_nosuffix
+        else:
+            return "Page not found", 404
+            
     with open(filepath, 'r', encoding='utf-8') as f:
         post = frontmatter.load(f)
         
-    # 2. 링크로 사용할 모든 위키 페이지 목록 가져오기
-    all_posts = load_recent_wiki_posts(None)
-    
-    # 3. 본문(마크다운 원본)에 다른 위키 페이지 링크 자동 추가
+    # 3. hreflang 태그를 위한 다른 언어 버전 찾기
+    available_langs = []
+    for fn in os.listdir(Config.WIKI_DIR):
+        if fn.startswith(f'{slug}.md') or fn.startswith(f'{slug}_'):
+            base, _ = os.path.splitext(fn)
+            parts = base.rsplit('_', 1)
+            if len(parts) == 2 and parts[0] == slug:
+                available_langs.append(parts[1])
+            elif base == slug:
+                available_langs.append('en')
+
+    # 4. 자동 내부 링크 로직 (URL에 lang 포함하도록 수정)
+    all_posts_in_lang = load_recent_wiki_posts(count=None, lang=lang)
     linked_content = post.content
     
-    # 링크 키워드 리스트 생성 (긴 단어가 먼저 교체되도록 정렬)
     keywords = []
-    for other_post in all_posts:
-        if other_post['slug'] != slug: # 자기 자신을 링크하지 않도록 함
-            # "Title (Korean)" 형식의 제목에서 키워드 추출
-            # 예: "All Concerts (올콘)" -> ["All Concerts (올콘)", "All Concerts", "올콘"]
+    for other_post in all_posts_in_lang:
+        if other_post['slug'] != slug:
             title = other_post['title']
             slug_to_link = other_post['slug']
-            
-            keywords.append((title, slug_to_link)) # 전체 제목
-            
-            parts = re.findall(r'[\w\s]+', title) # 괄호 안팎의 단어 추출
+            keywords.append((title, slug_to_link))
+            parts = re.findall(r'[\w\s]+', title)
             for part in parts:
                 part = part.strip()
-                if len(part) > 1: # 한 글자 단어는 제외 (오류 방지)
+                if len(part) > 1:
                     keywords.append((part, slug_to_link))
 
-    # 키워드를 길이순으로 내림차순 정렬 (매우 중요!)
-    # "All Concerts"가 "Concerts"보다 먼저 링크로 변환되도록 보장
     keywords.sort(key=lambda x: len(x[0]), reverse=True)
     
-    # 중복 제거 (성능 향상)
-    processed_keywords = []
-    seen_keywords = set()
-    for keyword, link_slug in keywords:
-        if keyword.lower() not in seen_keywords:
-            processed_keywords.append((keyword, link_slug))
-            seen_keywords.add(keyword.lower())
+    processed_keywords = list(dict.fromkeys(keywords))
 
     for keyword, link_slug in processed_keywords:
-        # 정규식을 사용하여 단어 경계가 일치하는 경우에만 링크로 변환
-        # 이렇게 하면 이미 링크가 걸린 단어 내부를 또 바꾸지 않습니다.
         pattern = re.compile(r'\b({})\b'.format(re.escape(keyword)), re.IGNORECASE)
-        # 마크다운 링크 형식으로 교체: [단어](/wiki/슬러그)
-        replacement = r'[\1](/wiki/{})'.format(link_slug)
-        
-        # 이미 마크다운 링크 형식인 경우는 제외하는 로직 추가
+        # URL에 현재 언어 코드를 포함하여 링크 생성
+        replacement = r'[\1](/{}/wiki/{})'.format(lang, link_slug)
+        # ... (이하 링크 생성 로직은 이전과 유사하게 유지)
         temp_content = ""
         last_pos = 0
         for match in pattern.finditer(linked_content):
             start, end = match.span()
-            # 매칭된 단어 앞뒤에 링크 문법([, ], (, ))이 있는지 확인
-            pre_char = linked_content[max(0, start-1)]
-            post_char = linked_content[min(len(linked_content)-1, end)]
-            if pre_char not in "[]()" and post_char not in "[]()":
+            pre_char = linked_content[max(0, start-2):start]
+            if '[' in pre_char or ']' in pre_char: # 이미 링크의 일부인지 간단히 확인
+                temp_content += linked_content[last_pos:end]
+            else:
                 temp_content += linked_content[last_pos:start]
                 temp_content += replacement.replace(r'\1', match.group(1))
-            else:
-                temp_content += linked_content[last_pos:end]
             last_pos = end
         temp_content += linked_content[last_pos:]
         linked_content = temp_content
-
-    # 4. 링크가 추가된 마크다운을 최종적으로 HTML로 변환
+        
     content_html = markdown.markdown(linked_content)
         
-    return render_template('wiki_detail.html', post=post, content=content_html)
-# =================================================================
-# ▲▲▲▲▲▲▲▲▲▲▲▲▲ 수정된 부분 끝 ▲▲▲▲▲▲▲▲▲▲▲▲▲
-# =================================================================
+    return render_template('wiki_detail.html', post=post, content=content_html, lang=lang, available_langs=available_langs)
 
+# ... (guide, privacy, robots, sitemap 등 이하 라우트는 동일)
 @main_bp.route('/guide')
 def guide():
     translations = load_translations()
@@ -156,21 +155,16 @@ def robots():
 @main_bp.route('/sitemap.xml')
 def sitemap():
     base_url = "https://nomujoa.com"
-    pages = [
-        {'loc': base_url + '/', 'priority': '1.0'},
-        {'loc': base_url + '/guide', 'priority': '0.8'},
-        {'loc': base_url + '/privacy', 'priority': '0.5'},
-        {'loc': base_url + '/wiki', 'priority': '0.9'}
-    ]
-    
-    if os.path.exists(Config.WIKI_DIR):
-        for filename in os.listdir(Config.WIKI_DIR):
-            if filename.endswith('.md'):
-                slug = filename.replace('.md', '')
-                pages.append({
-                    'loc': f"{base_url}/wiki/{slug}",
-                    'priority': '0.7'
-                })
+    pages = [{'loc': base_url + '/', 'priority': '1.0'}] 
+    # ...
+    # [수정] 사이트맵도 다국어 URL을 포함하도록 개선
+    for lang_code in ['en', 'ja', 'ko', 'zh']:
+        pages.append({'loc': f"{base_url}/{lang_code}/wiki", 'priority': '0.9'})
+        if os.path.exists(Config.WIKI_DIR):
+            for filename in os.listdir(Config.WIKI_DIR):
+                if filename.endswith(f'_{lang_code}.md') or (lang_code == 'en' and '_' not in filename and filename.endswith('.md')):
+                    slug = os.path.splitext(filename)[0].replace(f'_{lang_code}', '')
+                    pages.append({'loc': f"{base_url}/{lang_code}/wiki/{slug}",'priority': '0.7'})
 
     xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
     xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'

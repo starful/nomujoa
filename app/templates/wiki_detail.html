@@ -4,6 +4,14 @@
     <title>{{ post.title }} - Nomujoa Wiki</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="{{ post.summary }}">
+    
+    <!-- [추가됨] hreflang 태그로 이 페이지의 다른 언어 버전을 검색 엔진에 알려줍니다. -->
+    {% if available_langs %}
+        {% for lang_code in available_langs %}
+    <link rel="alternate" hreflang="{{ lang_code }}" href="https://nomujoa.com/{{ lang_code }}/wiki/{{ post.slug }}">
+        {% endfor %}
+    {% endif %}
+
     <style>
         body { font-family: -apple-system, sans-serif; padding: 20px; line-height: 1.6; color: #333; }
         .container { max-width: 700px; margin: 0 auto; background: white; padding: 30px; border-radius: 15px; }
@@ -22,7 +30,8 @@
 </head>
 <body>
     <div class="container">
-        <a href="/wiki" class="back-btn">← Back to Wiki</a>
+        <!-- [수정] 뒤로가기 링크에 현재 언어(lang) 코드를 포함합니다. -->
+        <a href="/{{ lang }}/wiki" class="back-btn">← Back to Wiki</a>
         
         <span class="tag">{{ post.category }}</span>
         <h1>{{ post.title }}</h1>

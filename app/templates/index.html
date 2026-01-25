@@ -315,12 +315,14 @@
                     <h3 style="font-size:17px; margin:0; color:#333; font-weight: 800; display: flex; align-items: center; gap: 6px;">
                         {{ t.label_trending }}
                     </h3>
-                    <a href="/wiki" style="font-size:13px; color:#ff4081; text-decoration:none; font-weight:bold;">{{ t.btn_view_all }}</a>
+                    <!-- [수정] 전체 보기 링크에 현재 언어 포함 -->
+                    <a href="/{{ current_lang }}/wiki" style="font-size:13px; color:#ff4081; text-decoration:none; font-weight:bold;">{{ t.btn_view_all }}</a>
                 </div>
 
                 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px;">
                     {% for post in recent_wiki %}
-                    <a href="/wiki/{{ post.slug }}" style="text-decoration: none; color: inherit; display: block; height: 100%;">
+                    <!-- [수정] 상세 페이지 링크 주소를 다국어 구조로 변경 -->
+                    <a href="/{{ current_lang }}/wiki/{{ post.slug }}" style="text-decoration: none; color: inherit; display: block; height: 100%;">
                         <div style="
                             background: white; 
                             padding: 16px; 
@@ -334,7 +336,7 @@
                             flex-direction: column;
                             justify-content: flex-start;
                         " onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.08)';" 
-                          onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.03)';">
+                        onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.03)';">
                             
                             <div style="margin-bottom: 8px;">
                                 <span style="font-size: 10px; color: #ff4081; background: #fff0f5; padding: 4px 8px; border-radius: 6px; font-weight: 800; display: inline-block;">{{ post.category }}</span>

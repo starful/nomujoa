@@ -4,6 +4,7 @@ import os
 import datetime
 import frontmatter
 from config import Config
+import re
 
 def load_translations():
     """번역 파일 로드"""
@@ -34,35 +35,48 @@ def load_available_groups(all_groups):
                 available[group_name] = group_info
     return available
 
-def load_recent_wiki_posts(count=4):
-    """Wiki 포스트 로드 (app/content/wiki 경로 사용)"""
+def load_recent_wiki_posts(count=4, lang='en'):
+    """
+    [수정됨] 특정 언어의 Wiki 포스트를 로드합니다.
+    파일명 규칙: slug_lang.md (예: olkon_ja.md). 언어 접미사가 없으면 'en'으로 간주합니다.
+    """
     posts = []
     if os.path.exists(Config.WIKI_DIR):
         for filename in os.listdir(Config.WIKI_DIR):
             if filename.endswith('.md'):
-                try:
-                    filepath = os.path.join(Config.WIKI_DIR, filename)
-                    with open(filepath, 'r', encoding='utf-8') as f:
-                        post = frontmatter.load(f)
-                        
-                        # 날짜 처리
-                        post_date = post.get('date', datetime.date.min)
-                        if isinstance(post_date, str):
-                            post_date = datetime.datetime.strptime(post_date, '%Y-%m-%d').date()
+                basename, _ = os.path.splitext(filename) # olkon_ja
+                
+                parts = basename.rsplit('_', 1)
+                slug = basename
+                post_lang = 'en' # 기본 언어
+                
+                # 파일명에 언어 코드가 있는지 확인 (예: _ja, _zh)
+                if len(parts) == 2 and parts[1] in ['ja', 'ko', 'zh', 'en']:
+                    slug = parts[0]
+                    post_lang = parts[1]
 
-                        posts.append({
-                            'title': post.get('title', 'No Title'),
-                            'summary': post.get('summary', ''),
-                            'slug': filename.replace('.md', ''),
-                            'category': post.get('category', 'General'),
-                            'date': post_date,
-                            'tags': post.get('tags', [])
-                        })
-                except Exception as e:
-                    print(f"Error processing wiki {filename}: {e}")
+                # 요청된 언어와 일치하는 파일만 처리
+                if post_lang == lang:
+                    try:
+                        filepath = os.path.join(Config.WIKI_DIR, filename)
+                        with open(filepath, 'r', encoding='utf-8') as f:
+                            post = frontmatter.load(f)
+                            
+                            post_date = post.get('date', datetime.date.min)
+                            if isinstance(post_date, str):
+                                post_date = datetime.datetime.strptime(post_date, '%Y-%m-%d').date()
 
-    # 날짜순 정렬
+                            posts.append({
+                                'title': post.get('title', 'No Title'),
+                                'summary': post.get('summary', ''),
+                                'slug': slug, # 언어 코드가 제거된 순수 slug
+                                'lang': post_lang,
+                                'category': post.get('category', 'General'),
+                                'date': post_date,
+                                'tags': post.get('tags', [])
+                            })
+                    except Exception as e:
+                        print(f"Error processing wiki {filename}: {e}")
+
     posts.sort(key=lambda p: p['date'], reverse=True)
-    
-    # count가 None이면 전체 반환, 숫자면 슬라이싱
-    return posts[:count] if count else posts
+    return posts[:count] if count and count > 0 else posts
