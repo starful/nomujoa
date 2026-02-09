@@ -11,32 +11,35 @@ import re
 
 main_bp = Blueprint('main', __name__)
 
-# [참고] lang 파라미터가 없는 기본 접속은 'ja'로 리디렉션 할 수 있습니다. (선택사항)
-# @main_bp.route('/')
-# def root():
-#     return redirect('/ja')
-
 @main_bp.route('/')
 def index():
-    # URL 파라미터 또는 쿠키에서 언어 설정을 가져옵니다.
+    # 1. 기본 설정 및 언어 로드
     lang = request.args.get('lang', 'ja') 
     all_groups = load_groups() 
     translations = load_translations()
+    
+    # 2. [중요] 사용 가능한 그룹 데이터 정의 (이 줄이 누락되었을 겁니다)
     available_groups = load_available_groups(all_groups)
     
-    # [수정] 메인 페이지의 트렌딩 용어도 언어에 맞게 표시
-    recent_wiki = load_recent_wiki_posts(count=8, lang=lang)
+    # 3. 위키 데이터 로드 (카테고리별 분리)
+    # 가이드 섹션에 포함할 카테고리 리스트
+    guide_categories = ["Combined", "Slang", "Fandom Name", "Merch", "Slogan", "Member"]
+    recent_guides = load_recent_wiki_posts(count=10, lang=lang, category_filter=guide_categories)
+    recent_terms = load_recent_wiki_posts(count=30, lang=lang, category_filter="General")
 
+    # 4. 통계 및 날짜 설정
     group_count = len(available_groups) - 1
     if group_count < 0: group_count = 0
     last_update = datetime.date.today().strftime("%Y.%m.%d")
 
+    # 5. 템플릿으로 데이터 전달
     return render_template(
         'index.html', 
         group_data=available_groups,
         translations=translations, 
         current_lang=lang,
-        recent_wiki=recent_wiki,
+        recent_guides=recent_guides, # 위키 가이드 데이터
+        recent_terms=recent_terms,   # 위키 용어 데이터
         group_count=group_count,
         last_update=last_update
     )

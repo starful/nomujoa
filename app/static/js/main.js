@@ -170,13 +170,34 @@ async function translateAndStart(isRefresh = false) {
     const inputField = document.getElementById("jp-input");
     const textInput = inputField ? inputField.value.trim() : "";
     
+    // 1. 메시지 입력 체크
     if (!textInput) {
         alert("Please enter a message!");
         return;
     }
 
+    // 2. [추가] 그룹 선택 여부 체크
     const groupSelect = document.getElementById("idol-select");
-    selectedGroup = groupSelect ? groupSelect.value : "General";
+    const groupValue = groupSelect ? groupSelect.value : "";
+
+    // 그룹이 선택되지 않았거나 값이 비어있는 경우 (Select Group 상태)
+    if (!groupValue || groupValue === "") {
+        const currentLang = window.CURRENT_LANG || 'en';
+        const msgs = {
+            'ko': '먼저 아이돌 그룹을 선택해주세요! ✨',
+            'ja': '먼저 아이돌 그룹을 선택해주세요! ✨',
+            'en': 'Please select an idol group first! ✨',
+            'zh': '请先选择 아이돌 그룹！ ✨'
+        };
+        alert(msgs[currentLang] || msgs['en']);
+        
+        // 검색창으로 포커스 이동시켜서 선택 유도
+        const searchInput = document.getElementById('group-search-input');
+        if(searchInput) searchInput.focus();
+        return; // 함수 실행 중단
+    }
+
+    selectedGroup = groupValue;
 
     const memberSelect = document.getElementById("member-select");
     selectedMember = memberSelect ? memberSelect.value : "All";
@@ -221,9 +242,12 @@ async function translateAndStart(isRefresh = false) {
     } finally {
         if(btn) {
             btn.disabled = false;
-            // 버튼 텍스트 복구 (단순 복구 혹은 번역 적용)
-            if(isRefresh) applyTranslations(srcLang); 
-            else btn.innerText = originalText;
+            // 버튼 텍스트 복구
+            if(isRefresh) {
+                if (typeof applyTranslations === 'function') applyTranslations(srcLang);
+            } else {
+                btn.innerText = originalText;
+            }
         }
     }
 }

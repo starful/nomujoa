@@ -19,8 +19,8 @@ if not GEMINI_API_KEY:
     exit()
 
 # 🎯 [설정] 생성할 언어 및 개수
-TARGET_LANG = "ja"  # 생성할 언어: 'ja', 'zh', 'en', 'ko' 중 선택
-LIMIT = 5          # 한 번 실행 시 생성할 개수
+TARGET_LANG = "en"  # 생성할 언어: 'ja', 'zh', 'en', 'ko' 중 선택
+LIMIT = 30          # 한 번 실행 시 생성할 개수
 
 # 경로 설정
 INPUT_CSV = os.path.join(BASE_DIR, "data", "raw", "kpop_terms.csv")
@@ -33,7 +33,7 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(LOG_DIR, exist_ok=True)
 
 genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel('gemini-2.0-flash') # 최신 모델 사용
+model = genai.GenerativeModel('gemini-flash-latest') # 최신 모델 사용
 
 # ==========================================
 # 2. 함수 정의
