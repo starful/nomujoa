@@ -1,96 +1,104 @@
 ---
 category: Activity
-date: '2026-01-01'
+date: '2026-02-13'
 lang: en
 layout: wiki
-summary: Chonggong (총공) refers to the organized mass action of K-pop fans, primarily
-  involving streaming music videos, voting in polls, and trending hashtags, all aimed
-  at boosting an artist's visibility and success. It's a crucial component of modern
-  K-pop fandom, demonstrating collective fan power and dedication.
+summary: Chonggong, a Korean term shortened from "chongdong gonggyeok" (총동공격), refers
+  to the coordinated, large-scale efforts undertaken by K-Pop fans to boost the online
+  presence and chart performance of their favorite artists through methods such as
+  streaming, voting, and purchasing. It is a crucial aspect of K-Pop fandom culture
+  and greatly influences album sales, music show wins, and overall artist recognition.
 tags:
-- K-pop
-- fandom
-- streaming
-- voting
-- hashtag
-- trending
-- mass action
-- organized
-title: chonggong(총공)
+- Chonggong
+- Mass Streaming
+- K-Pop Voting
+- Fandom Culture
+- Korean Pop Music
+title: Chonggong (Mass Streaming/Voting)
 ---
 
 ## 1. Introduction
 
-Chonggong (총공), romanized as 'chong-gong' and translating roughly to "total attack" or "all-out offensive," is a term deeply embedded in K-pop fandom culture, referring to the coordinated mass efforts of fans to support their favorite artists. These efforts predominantly involve streaming music videos on platforms like YouTube and Spotify, voting in various online polls and award ceremonies, and trending specific hashtags on social media platforms such as Twitter (now X). Chonggong represents a powerful display of collective fan dedication and a significant driving force behind an artist’s chart performance, award recognition, and overall public image. It's more than just casual support; it is strategic, organized, and often involves significant time and effort from participating fans. The term reflects the highly competitive nature of the K-pop industry, where artists are constantly vying for attention and recognition, and where fans actively participate in these competitions on behalf of their idols.
+Chonggong (총공), often translated as "mass streaming/voting" or "total attack," is a critical and multifaceted aspect of K-Pop fandom culture. It represents the organized and intensive efforts of fans to support their favorite artists (idols/groups) by collectively manipulating metrics crucial for success in the highly competitive K-Pop industry. This includes, but is not limited to, streaming music videos and songs on various platforms, voting in online polls and music shows, purchasing albums, and engaging in social media promotion. The ultimate goal of chonggong is to elevate the artist's visibility, achieve chart success, secure music show wins, and ultimately, solidify their standing within the K-Pop landscape.  While the term "total attack" might seem aggressive, it accurately reflects the determined and strategically planned nature of these fan-driven campaigns. The term reflects a planned attack on charts and algorithms to achieve the highest possible scores.
 
-The concept goes beyond mere support. It is a highly structured and organized undertaking, often involving dedicated teams, detailed schedules, and specific goals. Fans will create tutorials, share tips, and offer encouragement to ensure that the chonggong is as effective as possible. The intensity of a chonggong can vary greatly, depending on the occasion, the artist’s standing, and the competitiveness of the particular event or award. A debut, comeback, or major award show will typically trigger a particularly intense chonggong.
+## 2. Etymology and Historical Context
 
-Understanding chonggong is crucial for anyone seeking to comprehend the inner workings of K-pop fandom. It reveals the proactive role fans play in shaping the trajectory of their favorite artists' careers. It also highlights the influence of social media and digital platforms in the K-pop industry and the creative ways fans leverage these tools to amplify their support.
+The term "chonggong" is a shortened form of the Korean phrase "chongdong gonggyeok" (총동공격), which literally translates to "total attack" or "all-out attack." While the concept of coordinated fan efforts has existed in music fandoms globally, the scale and intensity of chonggong are particularly pronounced within the K-Pop industry.
 
-## 2. Etymology
+Its roots can be traced back to the early days of K-Pop idol culture in the late 1990s and early 2000s. As the internet became increasingly accessible, fans began using online forums and communities to organize support activities. Initial efforts were simpler, often involving mass requests to radio stations for specific songs. However, with the rise of digital music platforms, social media, and more sophisticated charting systems, chonggong evolved into the highly organized and technically advanced phenomenon it is today.
 
-The term "chonggong" (총공) is derived from the Korean words "총" (chong), meaning "total" or "all," and "공격" (gonggyeok), meaning "attack" or "offensive." Combined, they form a compound noun that literally translates to "total attack." However, within the context of K-pop fandom, it has evolved to represent a concerted, all-out effort.
+Specifically, the shift towards digital platforms significantly impacted chonggong practices:
 
-The use of "attack" might seem aggressive at first glance, but it's important to understand the context. The term doesn't imply violence or harm. Rather, it conveys the sense of a strategic and determined push to achieve a specific goal. In the competitive landscape of K-pop, where success is often measured by metrics like chart rankings and award wins, fans perceive their efforts as a battle, and chonggong is their coordinated strategy to win.
+*   Early 2000s: Focus on radio requests and physical album purchases.
+*   Mid-2000s: Introduction of digital downloads and online voting, leading to coordinated download campaigns and strategic voting strategies.
+*   Late 2000s - Present: Domination of streaming platforms like YouTube, Spotify, Apple Music, and Melon. Social media platforms (Twitter, Facebook, Instagram, etc.) become crucial for organization and promotion. Mass streaming and strategic voting become increasingly sophisticated, with detailed guides and specialized tools.
 
-The aggressive terminology highlights the perceived stakes involved. K-pop is not just about music; it's a cultural phenomenon and a career path for the artists involved. Fans feel a deep sense of responsibility to support their idols and help them achieve their dreams. The term "chonggong" reflects this intensity and the high expectations associated with K-pop fandom. It is a statement of dedication and a willingness to go the extra mile for their favorite artists.
+## 3. Key Activities Involved in Chonggong
 
-Furthermore, the word "chonggong" also carries the connotation of unity and collaboration. It suggests that fans are working together as a single, cohesive force. This sense of community is a central aspect of K-pop fandom, and chonggong is a prime example of how fans come together to achieve a common goal. The shared purpose and the collective effort create a strong bond among fans and strengthen their connection to the artist.
+Chonggong encompasses a wide range of activities, all aimed at influencing specific metrics that determine success in the K-Pop industry. These activities can be broadly categorized as follows:
 
-## 3. Usage
+*   Mass Streaming: This is arguably the most common and visible aspect of chonggong. Fans coordinate efforts to stream music videos and songs on platforms like YouTube, Spotify, Apple Music, and Korean streaming services like Melon and Genie. Specific streaming guidelines are often created and disseminated, emphasizing factors such as playlist creation, volume control, and avoiding actions that could be flagged as bot activity.  The guidelines are different for each streaming service and platform and are carefully followed to maximize impact.
+*   Strategic Voting: Music show wins often rely heavily on fan votes. Chonggong involves coordinated efforts to vote in these shows, often using multiple accounts and devices. Voting strategies are carefully planned, taking into account the specific weighting of different voting methods (e.g., SMS voting, online app voting).
+*   Album Purchasing: Physical album sales remain a significant factor in charting and music show rankings. Chonggong encourages fans to purchase multiple copies of albums, often from specific retailers that contribute to crucial chart data (e.g., Hanteo, Gaon). Group orders (GOs) are frequently organized to maximize purchasing power and reduce shipping costs. Digital album purchases also count towards chart rankings.
+*   Social Media Promotion: Fans actively promote their favorite artists on social media platforms using specific hashtags, creating trending topics, and engaging with official content. This helps to increase visibility, generate buzz, and attract new fans. They also create fan-made content like memes, edits, and translations to expand the reach of the artist's promotional material.
+*   Creating Multiple Accounts: To maximize voting and streaming impact, fans frequently create multiple accounts on various platforms. While this practice can sometimes be controversial and subject to platform restrictions, it is a common strategy within chonggong.
+*   Fundraising: Some fandoms organize fundraising campaigns to support chonggong efforts, such as purchasing ad space, bulk buying albums, or hiring professional streaming services. This is especially common for smaller fandoms or those supporting artists from less well-funded agencies.
+*   Reporting: Fans are also actively involved in reporting instances of negative content, hate speech, or infringement of copyright related to their favorite artists. This helps to protect the artist's image and maintain a positive online presence.
 
-Chonggong is typically utilized in various situations crucial to an artist's success and visibility. The most common usages include:
+## 4. Organization and Structure
 
-*   **Music Video Streaming:** Increasing the view count of official music videos on platforms like YouTube is a primary goal. Fans create playlists, follow specific streaming guidelines (volume level, watch time, intervals, etc.), and use multiple devices to maximize the views. The aim is to break records, chart higher on YouTube's trending charts, and increase the overall visibility of the artist. This is often organized in shifts, with fans dedicating certain hours of the day to streaming.
+Chonggong is typically organized and coordinated through dedicated online communities, including:
 
-*   **Voting in Polls and Award Shows:** K-pop relies heavily on fan votes for determining the winners of various awards and popularity polls. Chonggong efforts are directed towards strategically mobilizing fans to vote, often involving creating multiple accounts, using VPNs to bypass geographical restrictions, and following specific voting guidelines to maximize impact. Tutorials and guides are readily shared to ensure everyone participates effectively. These award shows can significantly boost an artist's career and recognition, making the voting process crucial.
+*   Online Forums and Websites: These platforms serve as central hubs for information sharing, strategy development, and task delegation.
+*   Social Media Groups: Private groups on platforms like Twitter, KakaoTalk, and Discord are used for real-time communication and coordination.
+*   Fan-Run Websites and Blogs: Dedicated websites often provide detailed streaming guides, voting tutorials, and other resources.
+*   Dedicated "Chonggong Teams": Larger fandoms often have specialized teams dedicated to different aspects of chonggong, such as streaming, voting, album purchasing, and social media promotion. These teams are led by experienced fans who oversee strategy and delegate tasks.
 
-*   **Trending Hashtags on Social Media:** Fans coordinate to trend specific hashtags related to an artist's comeback, birthday, or other significant event. This involves posting frequently using the designated hashtag, creating engaging content, and encouraging other fans to participate. Trending hashtags increase visibility on social media platforms and help generate buzz around the artist. The goal is often to get the hashtag trending worldwide, showcasing the global reach of the fandom.
+The organizational structure can range from informal to highly structured, depending on the size and resources of the fandom. However, the common thread is a collaborative and coordinated approach.
 
-*   **Boosting Digital Sales:** While not always explicitly called "chonggong," coordinated efforts to buy digital music on platforms like iTunes and Melon (a Korean streaming service) are a common occurrence. Fans may pool resources to purchase multiple copies of a song or album, aiming to propel the artist to the top of the charts. This requires creating accounts on the relevant platforms and sometimes navigating language barriers.
+## 5. The Role of Fanbases
 
-*   **Pre-Saving and Pre-Adding Songs:** Before a song's release, fans will often be encouraged to pre-save on Spotify or pre-add on Apple Music. These actions count towards first-day streaming numbers and are seen as crucial to a successful launch. Coordination involves sharing links and reminders to encourage widespread participation.
+Fanbases play a vital role in organizing and executing chonggong. They act as central coordinating bodies, disseminating information, setting goals, and mobilizing fans to participate in various activities. Key functions of fanbases in chonggong include:
 
-*   **Promoting on Korean Music Streaming Platforms:** Streaming on Korean music platforms like Melon, Genie, and Bugs! is paramount for charting well in Korea. Since these platforms often require Korean phone numbers and identification, international fans work together with Korean fans to coordinate streaming efforts. They also work to find guides and tutorials for international fans to navigate these platforms.
+*   Strategy Development: Fanbases analyze chart data, music show voting criteria, and social media trends to develop effective chonggong strategies.
+*   Resource Creation: They create streaming guides, voting tutorials, and other resources to help fans participate effectively.
+*   Task Delegation: Fanbases assign specific tasks to volunteers, such as managing social media accounts, monitoring streaming progress, and organizing group orders.
+*   Community Building: They foster a sense of community and shared purpose among fans, encouraging participation and collaboration.
+*   Communication and Outreach: Fanbases communicate with fans through social media, email newsletters, and other channels to keep them informed and motivated.
 
-*   **Album Sales:** Coordinating album purchases is a major part of chonggong. Fans pool money together, or create group orders, to buy albums in bulk. There is often the goal of breaking pre-order records, first week sales records, and overall album sales records. This helps the artist chart highly on physical album charts, such as the Gaon (Circle) Chart in Korea.
+## 6. Ethical Considerations and Controversies
 
-The key element in all these usages is the coordination and organization. It's not just about individual fans supporting their artist; it's about fans working together towards a shared goal. This often involves creating dedicated teams, setting up communication channels (e.g., Discord servers, Telegram groups), and developing detailed strategies.
+Chonggong is not without its ethical considerations and controversies. Critics argue that it can create an unhealthy level of competition among fandoms, leading to excessive pressure on artists and fans alike. Other concerns include:
 
-## 4. Examples
+*   Manipulation of Charts: The deliberate attempt to manipulate chart rankings raises questions about the authenticity of music consumption data.
+*   Financial Burden on Fans: The pressure to purchase multiple albums and engage in paid streaming services can place a significant financial burden on fans, particularly younger fans.
+*   Obsessive Behavior: Chonggong can sometimes lead to obsessive behavior, with fans spending excessive amounts of time and energy on supporting their favorite artists.
+*   Ethical Concerns Regarding Multiple Account Creation: Creating multiple accounts to influence voting and streaming metrics can be seen as unethical or even violate the terms of service of some platforms.
+*   Accusations of Chart Manipulation by Companies: There are occasions where accusations are made against companies themselves for manipulating their artist's scores.
+*   Fan Wars: Competition between fandoms can sometimes turn toxic, leading to heated arguments, online harassment, and even real-world conflicts.
 
-Several real-world examples demonstrate the impact and intensity of chonggong in K-pop fandom:
+Despite these criticisms, many fans defend chonggong as a legitimate way to support their favorite artists and demonstrate their dedication. They argue that it is a necessary response to the competitive nature of the K-Pop industry and a way to level the playing field for artists from smaller agencies.
 
-*   **BTS's ARMY:** The ARMY, BTS's dedicated fanbase, is renowned for its highly organized and effective chonggong efforts. They have consistently broken streaming records on YouTube, dominated voting polls for numerous award shows, and successfully trended countless hashtags. Their organized approach serves as a benchmark for other fandoms. For example, before the release of a new song, the ARMY organizes global streaming parties. These parties set a timer for when the song will be released and provide detailed instructions on how to best stream the song, what volume to stream at, and what playlists to use.
+## 7. Impact and Significance
 
-*   **BLACKPINK's BLINK:** BLINKs have also demonstrated formidable chonggong power, particularly in supporting BLACKPINK's music releases and award nominations. They are known for their strategic voting efforts and their ability to mobilize fans worldwide. In addition to streaming and voting, BLINK also engages in promoting the group's image and brand. They coordinate to ensure that the group's image is presented in a positive light.
+Chonggong has a significant impact on the K-Pop industry, influencing album sales, music show wins, and overall artist recognition. It also plays a vital role in shaping K-Pop fandom culture, fostering a sense of community, and providing fans with a platform to express their support for their favorite artists. The impact can be seen across various metrics:
 
-*   **TWICE's ONCE:** ONCEs have consistently supported TWICE's comebacks with well-coordinated streaming and voting campaigns. Their efforts have contributed significantly to TWICE's success in Korea and internationally. Before comebacks, ONCE will share streaming guides and tutorials in many different languages to help international fans stream and vote more effectively.
+*   Chart Performance: Chonggong directly impacts chart rankings, with coordinated streaming and purchasing efforts leading to higher positions.
+*   Music Show Wins: Fan votes are a crucial component of music show scores, and chonggong efforts can significantly increase an artist's chances of winning.
+*   Artist Visibility: Social media promotion and trending topics generated through chonggong increase an artist's visibility and attract new fans.
+*   Fandom Cohesion: Chonggong fosters a sense of community and shared purpose among fans, strengthening the fanbase as a whole.
 
-*   **EXO's EXO-L:** EXO-Ls are well-known for their dedication to both digital and physical album sales. They have consistently broken album sales records and have actively participated in streaming and voting activities. EXO-L showcases their chonggong by coordinating group orders to buy albums, and hosting listening parties where fans listen to the albums together.
+## 8. Future Trends
 
-*   **During Award Season:** Award shows like the Mnet Asian Music Awards (MAMA), the Melon Music Awards (MMA), and the Golden Disc Awards (GDA) often trigger intense chonggong efforts. Fandoms dedicate significant resources to encouraging fans to vote, often employing strategies like creating multiple accounts and using VPNs.
+As the K-Pop industry continues to evolve, chonggong is likely to adapt and change as well. Future trends may include:
 
-*   **Social Media Campaigns:** When an artist faces criticism or controversy, fans often launch hashtag campaigns to show their support and defend their idol. These campaigns aim to counteract negative narratives and promote positive messages. A strong example includes fans trending supportive hashtags after an artist received hate comments online.
+*   Increased Use of Data Analytics: Fanbases are likely to leverage data analytics to optimize chonggong strategies and target specific metrics more effectively.
+*   Integration of New Technologies: Emerging technologies like AI and blockchain could be used to enhance chonggong efforts, such as automating streaming and voting processes.
+*   Emphasis on Ethical Practices: Growing awareness of the ethical concerns surrounding chonggong may lead to a greater emphasis on responsible and transparent practices.
+*   Global Expansion: As K-Pop continues to gain popularity worldwide, chonggong is likely to become increasingly globalized, with international fans playing a larger role in coordinated support efforts.
+*   Decentralized Chonggong: Moving away from centralized planning towards more individual contribution and coordination may happen due to ethical considerations and algorithmic changes of different streaming platforms.
+*   Shift towards Supporting the Artist in New Ways: As fans become aware of the ethical concerns regarding mass streaming, they might look to find new, more sustainable ways of supporting their favorite artists, such as attending concerts, buying merchandise, or donating to charity in their name.
 
-These examples illustrate the diverse ways in which chonggong manifests in K-pop fandom. They highlight the dedication, organization, and collective power of fans, and demonstrate the significant impact that chonggong can have on an artist's career.
+## 9. Conclusion
 
-## 5. Cultural Impact
-
-Chonggong has had a profound impact on K-pop culture, shaping the industry and the relationship between artists and fans in significant ways:
-
-*   **Increased Competition:** Chonggong has intensified the competitive landscape of K-pop. Artists are now judged not only on their talent but also on the strength and dedication of their fanbases. The ability to mobilize a large and active fanbase has become a crucial factor in achieving success.
-
-*   **Emphasis on Fan Engagement:** Chonggong has underscored the importance of fan engagement in K-pop. Artists and entertainment companies recognize the value of actively engaging with fans and fostering a sense of community. This has led to increased interaction between artists and fans through social media, online events, and fan meetings.
-
-*   **Data-Driven Success:** Chonggong has made K-pop more data-driven. Chart rankings, streaming numbers, and social media trends are now closely monitored and analyzed, influencing marketing strategies and promotional activities. Entertainment companies are increasingly reliant on data to make informed decisions and maximize their artists' success.
-
-*   **Globalization of K-pop:** Chonggong has contributed to the globalization of K-pop by connecting fans across borders and facilitating the spread of K-pop culture worldwide. International fans play a crucial role in chonggong efforts, contributing to streaming, voting, and hashtag campaigns.
-
-*   **Fan Empowerment:** Chonggong has empowered fans by giving them a direct role in shaping the careers of their favorite artists. Fans feel a sense of ownership and responsibility for their idols' success, and they are willing to invest significant time and effort to support them.
-
-*   **Potential for Negativity:** The intense pressure associated with chonggong can sometimes lead to negative consequences. Competition between fandoms can become toxic, resulting in fan wars and online harassment. Some fans may feel pressured to participate in chonggong even if they lack the time or resources, leading to feelings of stress and burnout.
-
-*   **Changing Nature of Fandom:** Chonggong has fundamentally changed the nature of K-pop fandom. It has moved beyond simple appreciation to active participation and strategic action. Fans are no longer passive consumers; they are active contributors and stakeholders in the K-pop industry.
-
-In conclusion, chonggong is a complex and multifaceted phenomenon that reflects the unique dynamics of K-pop fandom. It is a powerful force that has shaped the industry, influenced the relationship between artists and fans, and contributed to the globalization of K-pop culture. Understanding chonggong is essential for anyone seeking to comprehend the inner workings of this vibrant and dynamic industry. It is a testament to the passion, dedication, and collective power of K-pop fans worldwide. It also shows how K-pop has become an industry where fandom is the main driving force.
+Chonggong is a complex and multifaceted phenomenon that is deeply embedded within K-Pop fandom culture. While it is often controversial, it remains a powerful force in shaping the industry and influencing the success of K-Pop artists. Understanding chonggong is essential for anyone seeking to gain a comprehensive understanding of the K-Pop world. Its evolution mirrors the evolution of the K-Pop industry itself, driven by technological advancements and the passionate dedication of fans worldwide. Moving forward, the K-Pop community must continue to engage in open and honest dialogue about the ethical implications of chonggong, striving to create a more sustainable and equitable ecosystem for both artists and fans.
