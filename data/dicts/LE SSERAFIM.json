@@ -1,0 +1,2282 @@
+{
+  "All": {
+    "LOVE_GENERAL": [
+      {
+        "text": "울 핌둥이들 넘 좋아",
+        "meaning_ja": "私たちのピムドゥンイ（LE SSERAFIM）大好き",
+        "meaning_en": "I like our Fimmies (LE SSERAFIM) so much"
+      },
+      {
+        "text": "르세라핌 사랑해",
+        "meaning_ja": "LE SSERAFIM、愛してるよ",
+        "meaning_en": "I love you LE SSERAFIM"
+      },
+      {
+        "text": "내 심장 핌둥이꺼",
+        "meaning_ja": "私の心臓はピムドゥンイのもの",
+        "meaning_en": "My heart belongs to Fimmies"
+      },
+      {
+        "text": "핌며들었다",
+        "meaning_ja": "ピム（LE SSERAFIM）に染まった",
+        "meaning_en": "I've fallen for Fimmies (absorbed into Fim)"
+      },
+      {
+        "text": "세라핌만 보면 심쿵",
+        "meaning_ja": "セナフィムを見ると胸キュン",
+        "meaning_en": "My heart flutters whenever I see SSERAFIM"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "죽어도 세라핌",
+        "meaning_ja": "死んでもセナフィム（一生ファン）",
+        "meaning_en": "SSERAFIM until I die"
+      },
+      {
+        "text": "내 우주는 온통 르세라핌",
+        "meaning_ja": "私の宇宙はすべてLE SSERAFIM",
+        "meaning_en": "My whole universe is LE SSERAFIM"
+      },
+      {
+        "text": "미치게 사랑해",
+        "meaning_ja": "狂おしいほど愛してる",
+        "meaning_en": "I love you like crazy"
+      },
+      {
+        "text": "평생 핌둥이만 사랑할게",
+        "meaning_ja": "一生ピムドゥンイだけを愛すよ",
+        "meaning_en": "I will only love Fimmies for the rest of my life"
+      },
+      {
+        "text": "존재 자체가 사랑이야",
+        "meaning_ja": "存在自体が愛だよ",
+        "meaning_en": "Your very existence is love"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "나랑 결혼해줄래?",
+        "meaning_ja": "私と結婚してくれる？",
+        "meaning_en": "Will you marry me?"
+      },
+      {
+        "text": "핌둥이 내 신부해",
+        "meaning_ja": "ピムドゥンイ、私の花嫁になって",
+        "meaning_en": "Fimmies, be my bride"
+      },
+      {
+        "text": "예식장 예약하고 올게",
+        "meaning_ja": "結婚式場を予約してくるね",
+        "meaning_en": "I'll go book the wedding hall"
+      },
+      {
+        "text": "평생 반려 핌둥이",
+        "meaning_ja": "一生のパートナー、ピムドゥンイ",
+        "meaning_en": "My life partner Fimmies"
+      },
+      {
+        "text": "혼인신고서 들고 대기 중",
+        "meaning_ja": "婚姻届を持って待機中",
+        "meaning_en": "Waiting with the marriage certificate"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "보고 싶어 죽겠다",
+        "meaning_ja": "会いたくてたまらない",
+        "meaning_en": "I'm dying to see you"
+      },
+      {
+        "text": "매일매일 보고 싶어",
+        "meaning_ja": "毎日毎日会いたい",
+        "meaning_en": "I miss you every single day"
+      },
+      {
+        "text": "꿈속에서도 보고 싶어",
+        "meaning_ja": "夢の中でも会いたい",
+        "meaning_en": "I want to see you even in my dreams"
+      },
+      {
+        "text": "어제 봤는데 또 보고 싶어",
+        "meaning_ja": "昨日会ったのにまた会いたい",
+        "meaning_en": "I saw you yesterday but I miss you already"
+      },
+      {
+        "text": "핌둥이 앓이 중",
+        "meaning_ja": "ピムドゥンイ・ロス中",
+        "meaning_en": "Suffering from SSERAFIM-sickness"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "영원히 핌둥이 편",
+        "meaning_ja": "永遠にピムドゥンイの味方",
+        "meaning_en": "Always on Fimmies' side"
+      },
+      {
+        "text": "끝까지 함께하자",
+        "meaning_ja": "最後まで一緒にいよう",
+        "meaning_en": "Let's stay together until the end"
+      },
+      {
+        "text": "핌둥이 꽃길만 걷자",
+        "meaning_ja": "ピムドゥンイ、花道だけを歩こう",
+        "meaning_en": "Let's walk only on the flower path, Fimmies"
+      },
+      {
+        "text": "평생 피어나할게",
+        "meaning_ja": "一生FEARNOT（ファン）でいるね",
+        "meaning_en": "I will be a FEARNOT forever"
+      },
+      {
+        "text": "우리 우정 영원히",
+        "meaning_ja": "私たちの友情よ、永遠に",
+        "meaning_en": "Our friendship forever"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "태어나줘서 고마워",
+        "meaning_ja": "生まれてきてくれてありがとう",
+        "meaning_en": "Thank you for being born"
+      },
+      {
+        "text": "핌둥이 생일 축하해",
+        "meaning_ja": "ピムドゥンイ、誕生日おめでとう",
+        "meaning_en": "Happy Birthday Fimmies"
+      },
+      {
+        "text": "세상에서 가장 행복한 날",
+        "meaning_ja": "世界で一番幸せな日",
+        "meaning_en": "The happiest day in the world"
+      },
+      {
+        "text": "우주에서 제일 축하해",
+        "meaning_ja": "宇宙で一番おめでとう",
+        "meaning_en": "Biggest congrats in the universe"
+      },
+      {
+        "text": "오늘 하루 주인공은 너",
+        "meaning_ja": "今日の主人公は君だよ",
+        "meaning_en": "The protagonist of today is you"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "핌둥이 파이팅!",
+        "meaning_ja": "ピムドゥンイ、ファイト！",
+        "meaning_en": "Fimmies, fighting!"
+      },
+      {
+        "text": "언제나 응원해",
+        "meaning_ja": "いつも応援してるよ",
+        "meaning_en": "Always cheering for you"
+      },
+      {
+        "text": "넌 할 수 있어",
+        "meaning_ja": "君ならできるよ",
+        "meaning_en": "You can do it"
+      },
+      {
+        "text": "힘들 땐 뒤를 봐",
+        "meaning_ja": "辛い時は後ろを見て（私たちがいるよ）",
+        "meaning_en": "Look back when it's hard (we're there)"
+      },
+      {
+        "text": "기죽지 마, 핌둥아",
+        "meaning_ja": "落ち込まないで、ピムドゥンイ",
+        "meaning_en": "Don't lose heart, Fimmies"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "갓세라핌",
+        "meaning_ja": "神セナフィム",
+        "meaning_en": "God-SSERAFIM"
+      },
+      {
+        "text": "그저 빛",
+        "meaning_ja": "ただただ光（眩しい存在）",
+        "meaning_en": "Simply light"
+      },
+      {
+        "text": "무대 장인 핌둥이",
+        "meaning_ja": "ステージ職人のピムドゥンイ",
+        "meaning_en": "Stage masters Fimmies"
+      },
+      {
+        "text": "핌멘",
+        "meaning_ja": "ピム・メン（アーメン）",
+        "meaning_en": "Fim-men (Amen)"
+      },
+      {
+        "text": "이 시대의 진정한 퀸",
+        "meaning_ja": "この時代の真のクイーン",
+        "meaning_en": "The true queens of this era"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "비주얼 미쳤다",
+        "meaning_ja": "ビジュアルがヤバすぎる",
+        "meaning_en": "Visuals are crazy"
+      },
+      {
+        "text": "눈부셔서 못 보겠어",
+        "meaning_ja": "眩しすぎて見られない",
+        "meaning_en": "Too bright to even look at"
+      },
+      {
+        "text": "요정 강림",
+        "meaning_ja": "妖精降臨",
+        "meaning_en": "Fairies have descended"
+      },
+      {
+        "text": "보물 같은 핌둥이",
+        "meaning_ja": "宝物のようなピムドゥンイ",
+        "meaning_en": "Precious like treasure, Fimmies"
+      },
+      {
+        "text": "살아있는 명화",
+        "meaning_ja": "生きている名画",
+        "meaning_en": "Living masterpiece"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴 천재 핌둥이",
+        "meaning_ja": "顔天才ピムドゥンイ",
+        "meaning_en": "Face geniuses Fimmies"
+      },
+      {
+        "text": "콧날에 베이겠어",
+        "meaning_ja": "鼻筋で斬られそう（鋭くて綺麗）",
+        "meaning_en": "I might get cut by that sharp nose bridge"
+      },
+      {
+        "text": "이목구비 열일 중",
+        "meaning_ja": "目鼻立ちが仕事しすぎ（整いすぎ）",
+        "meaning_en": "Facial features are working overtime"
+      },
+      {
+        "text": "매일 미모 리즈 갱신",
+        "meaning_ja": "毎日美貌の全盛期を更新中",
+        "meaning_en": "Updating peak beauty daily"
+      },
+      {
+        "text": "안구정화 타임",
+        "meaning_ja": "眼球浄化タイム",
+        "meaning_en": "Eye purification time"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "손하트 날려줘",
+        "meaning_ja": "指ハート飛ばして",
+        "meaning_en": "Give me a finger heart"
+      },
+      {
+        "text": "내 심장에 하트 뿅",
+        "meaning_ja": "私の心臓にハートをピョン",
+        "meaning_en": "Pop a heart into my heart"
+      },
+      {
+        "text": "하트 3종 세트 부탁해",
+        "meaning_ja": "ハート3種セットお願い",
+        "meaning_en": "Heart 3-set request"
+      },
+      {
+        "text": "사랑의 하트 발사",
+        "meaning_ja": "愛のハート発射",
+        "meaning_en": "Fire a heart of love"
+      },
+      {
+        "text": "핌둥이 하트 내꺼",
+        "meaning_ja": "ピムドゥンイのハートは私のもの",
+        "meaning_en": "Fimmies' heart is mine"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "맛있는 거 많이 먹어",
+        "meaning_ja": "美味しいものたくさん食べてね",
+        "meaning_en": "Eat lots of delicious food"
+      },
+      {
+        "text": "밥 거르지 마",
+        "meaning_ja": "ご飯抜かないでね",
+        "meaning_en": "Don't skip your meals"
+      },
+      {
+        "text": "고기 먹고 힘내",
+        "meaning_ja": "お肉食べて元気出して",
+        "meaning_en": "Eat meat and gain strength"
+      },
+      {
+        "text": "핌둥이 먹방 보고 싶어",
+        "meaning_ja": "ピムドゥンイのモッパン（食事配信）見たい",
+        "meaning_en": "I want to see Fimmies' mukbang"
+      },
+      {
+        "text": "맛집 탐방 가자",
+        "meaning_ja": "美味しいお店巡りしよう",
+        "meaning_en": "Let's go on a food tour"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "아프지 마, 내 사랑",
+        "meaning_ja": "体調崩さないで、愛する人",
+        "meaning_en": "Don't get sick, my love"
+      },
+      {
+        "text": "건강이 최고야",
+        "meaning_ja": "健康が一番だよ",
+        "meaning_en": "Health is the best"
+      },
+      {
+        "text": "옷 따뜻하게 입어",
+        "meaning_ja": "服を暖かく着てね",
+        "meaning_en": "Dress warmly"
+      },
+      {
+        "text": "푹 쉬어, 핌둥아",
+        "meaning_ja": "ゆっくり休んでね、ピムドゥンイ",
+        "meaning_en": "Rest well, Fimmies"
+      },
+      {
+        "text": "감기 조심해",
+        "meaning_ja": "風邪に気をつけて",
+        "meaning_en": "Be careful not to catch a cold"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "오늘도 고생했어",
+        "meaning_ja": "今日もお疲れ様",
+        "meaning_en": "Good job today too"
+      },
+      {
+        "text": "핌둥이 수고했어",
+        "meaning_ja": "ピムドゥンイ、お疲れ様",
+        "meaning_en": "Well done Fimmies"
+      },
+      {
+        "text": "완벽한 무대였어",
+        "meaning_ja": "完璧なステージだったよ",
+        "meaning_en": "It was a perfect stage"
+      },
+      {
+        "text": "푹 자고 내일 봐",
+        "meaning_ja": "ぐっすり寝て明日会おうね",
+        "meaning_en": "Sleep well and see you tomorrow"
+      },
+      {
+        "text": "고마워, 사랑해",
+        "meaning_ja": "ありがとう、愛してる",
+        "meaning_en": "Thank you, I love you"
+      }
+    ]
+  },
+  "Sakura": {
+    "LOVE_GENERAL": [
+      {
+        "text": "사쿠라가 세상에서 제일 좋아",
+        "meaning_ja": "さくらが世界で一番大好き",
+        "meaning_en": "I like Sakura the best in the world"
+      },
+      {
+        "text": "꾸라한테 완전 입덕했어",
+        "meaning_ja": "クラに完全に沼った（ファンになった）",
+        "meaning_en": "I've totally fallen for Kura"
+      },
+      {
+        "text": "내 마음속 1위는 언제나 사쿠라",
+        "meaning_ja": "私の中の1位はいつもさくら",
+        "meaning_en": "Sakura is always number one in my heart"
+      },
+      {
+        "text": "사쿠라, 너만 보인단 말이야",
+        "meaning_ja": "さくら、君しか見えないんだ",
+        "meaning_en": "Sakura, I can only see you"
+      },
+      {
+        "text": "꾸라야 사랑해!",
+        "meaning_ja": "クラ、大好きだよ！",
+        "meaning_en": "Kura, I love you!"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "하늘만큼 땅만큼 사랑해",
+        "meaning_ja": "空くらい地くらい（計り知れないほど）愛してる",
+        "meaning_en": "I love you as much as the sky and the earth"
+      },
+      {
+        "text": "내 전부는 사쿠라야",
+        "meaning_ja": "私のすべてはさくらだよ",
+        "meaning_en": "Sakura is my everything"
+      },
+      {
+        "text": "태어나줘서 정말 고마워 사랑해",
+        "meaning_ja": "生まれてきてくれて本当にありがとう、愛してる",
+        "meaning_en": "Thank you so much for being born, I love you"
+      },
+      {
+        "text": "말로는 다 표현 못 할 만큼 사랑해",
+        "meaning_ja": "言葉では表現しきれないほど愛してる",
+        "meaning_en": "I love you more than words can express"
+      },
+      {
+        "text": "사쿠라의 존재 자체가 사랑이야",
+        "meaning_ja": "さくらの存在自体が愛だよ",
+        "meaning_en": "Sakura's very existence is love"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "사쿠라, 나랑 결혼해줄래?",
+        "meaning_ja": "さくら、私と結婚してくれる？",
+        "meaning_en": "Sakura, will you marry me?"
+      },
+      {
+        "text": "꾸라야, 나랑 살자!",
+        "meaning_ja": "クラ、一緒に暮らそう（結婚しよう）！",
+        "meaning_en": "Kura, let's live together!"
+      },
+      {
+        "text": "사쿠라랑 결혼하는 게 내 소원이야",
+        "meaning_ja": "さくらと結婚するのが私の願いだよ",
+        "meaning_en": "Marrying Sakura is my wish"
+      },
+      {
+        "text": "꾸라야, 내 아내가 되어줘",
+        "meaning_ja": "クラ、僕の奥さんになって",
+        "meaning_en": "Kura, please be my wife"
+      },
+      {
+        "text": "우리 결혼식은 언제 할까?",
+        "meaning_ja": "私たちの結婚式はいつにする？",
+        "meaning_en": "When should we have our wedding?"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "사쿠라 안 본 지 너무 오래됐어 보고 싶어",
+        "meaning_ja": "さくらに会えなくなって長すぎる、会いたい",
+        "meaning_en": "It's been too long since I saw Sakura, I miss you"
+      },
+      {
+        "text": "매일매일 꿈에서라도 보고 싶어",
+        "meaning_ja": "毎日毎日、夢の中ででも会いたい",
+        "meaning_en": "I want to see you every day, even in my dreams"
+      },
+      {
+        "text": "사쿠라 보고 싶어서 현기증 나",
+        "meaning_ja": "さくらに会いたくて目眩がする",
+        "meaning_en": "I'm dizzy because I miss Sakura so much"
+      },
+      {
+        "text": "꾸라야 언제 다시 만날 수 있어?",
+        "meaning_ja": "クラ、いつまた会える？",
+        "meaning_en": "Kura, when can we meet again?"
+      },
+      {
+        "text": "눈 감으면 사쿠라 얼굴만 생각나",
+        "meaning_ja": "目を閉じるとさくらの顔しか思い浮かばない",
+        "meaning_en": "When I close my eyes, I only think of Sakura's face"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "우리 영원히 함께하자",
+        "meaning_ja": "私たち永遠に一緒にいよう",
+        "meaning_en": "Let's be together forever"
+      },
+      {
+        "text": "평생 사쿠라 편할게",
+        "meaning_ja": "一生さくらの味方でいるよ",
+        "meaning_en": "I'll be on Sakura's side for life"
+      },
+      {
+        "text": "검은 머리 파뿌리 될 때까지 응원할게",
+        "meaning_ja": "白髪になるまで（一生）応援するよ",
+        "meaning_en": "I'll cheer for you until my hair turns white"
+      },
+      {
+        "text": "탈덕은 없어, 평생 꾸라만 볼게",
+        "meaning_ja": "ファン卒はないよ、一生クラだけを見るよ",
+        "meaning_en": "No leaving the fandom, I'll only look at Kura for life"
+      },
+      {
+        "text": "사쿠라 가는 길 어디든 함께할게",
+        "meaning_ja": "さくらが行く道どこまでも一緒に行くよ",
+        "meaning_en": "I'll be with you wherever you go, Sakura"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "사쿠라의 생일을 진심으로 축하해",
+        "meaning_ja": "さくらの誕生日を心からおめでとう",
+        "meaning_en": "Happy birthday to Sakura from the bottom of my heart"
+      },
+      {
+        "text": "꾸라가 태어난 오늘은 축제야",
+        "meaning_ja": "クラが生まれた今日はフェスティバルだよ",
+        "meaning_en": "Today is a festival because Kura was born"
+      },
+      {
+        "text": "세상에서 제일 행복한 생일 보내길",
+        "meaning_ja": "世界で一番幸せな誕生日を過ごしてね",
+        "meaning_en": "I hope you have the happiest birthday in the world"
+      },
+      {
+        "text": "우리 공주님 생일 축하해!",
+        "meaning_ja": "私たちの姫、誕生日おめでとう！",
+        "meaning_en": "Happy birthday, our princess!"
+      },
+      {
+        "text": "오늘 하루는 사쿠라가 주인공이야",
+        "meaning_ja": "今日一日はさくらが主人公だよ",
+        "meaning_en": "Sakura is the protagonist today"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "사쿠라, 넌 할 수 있어!",
+        "meaning_ja": "さくら、君ならできるよ！",
+        "meaning_en": "Sakura, you can do it!"
+      },
+      {
+        "text": "언제나 네 뒤에 우리가 있어",
+        "meaning_ja": "いつも君の後ろに私たちがいるよ",
+        "meaning_en": "We are always behind you"
+      },
+      {
+        "text": "꾸라야 기죽지 마, 네가 최고야",
+        "meaning_ja": "クラ、落ち込まないで、君が最高だよ",
+        "meaning_en": "Don't be discouraged Kura, you are the best"
+      },
+      {
+        "text": "오늘도 화이팅, 사쿠라 파이팅!",
+        "meaning_ja": "今日もファイティン、さくらファイティン！",
+        "meaning_en": "Fighting today too, Sakura fighting!"
+      },
+      {
+        "text": "힘들 땐 잠시 쉬어가도 괜찮아",
+        "meaning_ja": "辛い時は少し休んでも大丈夫だよ",
+        "meaning_en": "It's okay to take a break when it's hard"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "갓쿠라 찬양해",
+        "meaning_ja": "神（ゴッド）クラ、称えよ",
+        "meaning_en": "Praise God-Kura"
+      },
+      {
+        "text": "사쿠라는 신이 내린 선물이야",
+        "meaning_ja": "さくらは神が授けた贈り物だよ",
+        "meaning_en": "Sakura is a gift from God"
+      },
+      {
+        "text": "이것이 바로 신의 비주얼인가",
+        "meaning_ja": "これがまさに神のビジュアルなのか",
+        "meaning_en": "Is this the visual of a God?"
+      },
+      {
+        "text": "사쿠라교 믿고 천국 가겠습니다",
+        "meaning_ja": "さくら教を信じて天国に行きます",
+        "meaning_en": "I'll believe in the religion of Sakura and go to heaven"
+      },
+      {
+        "text": "사쿠라님, 존재해주셔서 감사합니다",
+        "meaning_ja": "さくら様、存在してくださりありがとうございます",
+        "meaning_en": "Sakura-nim, thank you for existing"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "사쿠라 비주얼 미쳤다 진짜",
+        "meaning_ja": "さくらのビジュアル、マジでヤバい",
+        "meaning_en": "Sakura's visual is seriously crazy"
+      },
+      {
+        "text": "이 세상 미모가 아니야",
+        "meaning_ja": "この世の美しさじゃない",
+        "meaning_en": "It's not beauty from this world"
+      },
+      {
+        "text": "실물 보면 기절할지도 몰라",
+        "meaning_ja": "実物を見たら気絶するかもしれない",
+        "meaning_en": "I might faint if I see her in person"
+      },
+      {
+        "text": "매일매일 리즈 갱신 중",
+        "meaning_ja": "毎日毎日、全盛期（リーズ）を更新中",
+        "meaning_en": "Updating your peak visual every single day"
+      },
+      {
+        "text": "존재 자체가 고귀해",
+        "meaning_ja": "存在自体が尊い",
+        "meaning_en": "Your existence itself is precious"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "사쿠라는 얼굴 천재야",
+        "meaning_ja": "さくらは顔天才だよ",
+        "meaning_en": "Sakura is a face genius"
+      },
+      {
+        "text": "얼굴이 서사고 복지다",
+        "meaning_ja": "顔が物語（叙事）であり福祉だ",
+        "meaning_en": "Your face is a narrative and a welfare"
+      },
+      {
+        "text": "이목구비 자기주장 대박이다",
+        "meaning_ja": "顔立ちの自己主張がすごい（はっきりしている）",
+        "meaning_en": "Your facial features are making a huge statement"
+      },
+      {
+        "text": "콧대에 베일 것 같아",
+        "meaning_ja": "鼻筋で斬られそう（それほど鋭く高い）",
+        "meaning_en": "I might get cut by your nose bridge"
+      },
+      {
+        "text": "얼굴만 봐도 배불러",
+        "meaning_ja": "顔を見るだけでお腹いっぱい（満足）",
+        "meaning_en": "I'm full just by looking at your face"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "사쿠라, 손가락 하트 발사!",
+        "meaning_ja": "さくら、指ハート発射！",
+        "meaning_en": "Sakura, fire a finger heart!"
+      },
+      {
+        "text": "나를 향해 하트 날려줘",
+        "meaning_ja": "私に向かってハートを飛ばして",
+        "meaning_en": "Blow a heart towards me"
+      },
+      {
+        "text": "꾸라표 하트 보고 싶어",
+        "meaning_ja": "クラ印のハートが見たい",
+        "meaning_en": "I want to see the Kura-style heart"
+      },
+      {
+        "text": "여기 보고 하트 뿅 해주면 안 돼?",
+        "meaning_ja": "ここを見てハートぴょん（ポーズ）してくれない？",
+        "meaning_en": "Can you look here and do a heart 'pyong'?"
+      },
+      {
+        "text": "하트 한 번만 해주면 소원이 없겠어",
+        "meaning_ja": "ハートを一回だけしてくれたらもう思い残すことはない",
+        "meaning_en": "If you do a heart just once, I'd have no more wishes"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "맛있는 거 많이 먹고 힘내",
+        "meaning_ja": "美味しいものたくさん食べて元気出して",
+        "meaning_en": "Eat lots of delicious food and cheer up"
+      },
+      {
+        "text": "꾸라야, 밥 거르지 마",
+        "meaning_ja": "クラ、ご飯抜かないでね",
+        "meaning_en": "Kura, don't skip meals"
+      },
+      {
+        "text": "잘 먹는 모습이 제일 보기 좋아",
+        "meaning_ja": "よく食べる姿が一番見ていて気分がいいよ",
+        "meaning_en": "You look best when you're eating well"
+      },
+      {
+        "text": "다이어트 하지 말고 맛있는 거 먹어",
+        "meaning_ja": "ダイエットしないで美味しいもの食べて",
+        "meaning_en": "Don't diet, just eat delicious things"
+      },
+      {
+        "text": "오늘 저녁은 고기 먹자!",
+        "meaning_ja": "今日の夕飯はお肉食べよう！",
+        "meaning_en": "Let's eat meat for dinner today!"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "아프지 말고 항상 건강해",
+        "meaning_ja": "痛い思い（病気）しないでいつも健康でいて",
+        "meaning_en": "Don't get sick and always stay healthy"
+      },
+      {
+        "text": "감기 조심하고 옷 따뜻하게 입어",
+        "meaning_ja": "風邪に気をつけて服を暖かく着てね",
+        "meaning_en": "Watch out for colds and dress warmly"
+      },
+      {
+        "text": "충분히 쉬는 것도 중요해",
+        "meaning_ja": "十分に休むことも大事だよ",
+        "meaning_en": "Resting enough is also important"
+      },
+      {
+        "text": "건강이 최우선이야, 알지?",
+        "meaning_ja": "健康が最優先だよ、わかってるでしょ？",
+        "meaning_en": "Health is the top priority, you know?"
+      },
+      {
+        "text": "무리하지 말고 몸조리 잘해",
+        "meaning_ja": "無理しないで体大事にしてね",
+        "meaning_en": "Don't overdo it and take good care of yourself"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "오늘 하루도 정말 고생했어",
+        "meaning_ja": "今日一日も本当にお疲れ様",
+        "meaning_en": "You really worked hard today too"
+      },
+      {
+        "text": "수고했어, 우리 꾸라 최고!",
+        "meaning_ja": "お疲れ様、私たちのクラ最高！",
+        "meaning_en": "Good job, our Kura is the best!"
+      },
+      {
+        "text": "무대 완벽했어, 고생 많았어",
+        "meaning_ja": "ステージ完璧だったよ、お疲れ様",
+        "meaning_en": "The stage was perfect, you worked so hard"
+      },
+      {
+        "text": "푹 쉬고 내일 또 만나자",
+        "meaning_ja": "ゆっくり休んで、明日また会おうね",
+        "meaning_en": "Rest well and let's meet again tomorrow"
+      },
+      {
+        "text": "항상 열심히 해줘서 고마워",
+        "meaning_ja": "いつも一生懸命やってくれてありがとう",
+        "meaning_en": "Thank you for always working hard"
+      }
+    ]
+  },
+  "Kim Chae-won": {
+    "LOVE_GENERAL": [
+      {
+        "text": "채원아 진짜 좋아해",
+        "meaning_ja": "チェウォン、本当に大好き",
+        "meaning_en": "Chae-won, I really like you"
+      },
+      {
+        "text": "쌈무야 너무 좋아",
+        "meaning_ja": "サムム、大好きすぎる",
+        "meaning_en": "Ssammu, I like you so much"
+      },
+      {
+        "text": "완전 내 스타일이야",
+        "meaning_ja": "完全に私のタイプだよ",
+        "meaning_en": "You're totally my style"
+      },
+      {
+        "text": "채원아 넌 내 전부야",
+        "meaning_ja": "チェウォン、君は私のすべて",
+        "meaning_en": "Chae-won, you're my everything"
+      },
+      {
+        "text": "오늘도 채원해",
+        "meaning_ja": "今日もチェウォン（を愛）してる",
+        "meaning_en": "I'm Chae-won-ing today too (loving you)"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "세상에서 제일 사랑해",
+        "meaning_ja": "世界で一番愛してる",
+        "meaning_en": "I love you more than anyone in the world"
+      },
+      {
+        "text": "죽을 만큼 사랑해",
+        "meaning_ja": "死ぬほど愛してる",
+        "meaning_en": "I love you to death"
+      },
+      {
+        "text": "채원이밖에 안 보여",
+        "meaning_ja": "チェウォンしか見えない",
+        "meaning_en": "I can only see Chae-won"
+      },
+      {
+        "text": "내 심장 채원이꺼",
+        "meaning_ja": "私の心臓はチェウォンのもの",
+        "meaning_en": "My heart belongs to Chae-won"
+      },
+      {
+        "text": "영원히 사랑해",
+        "meaning_ja": "永遠に愛してる",
+        "meaning_en": "I love you forever"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "나랑 결혼하자!",
+        "meaning_ja": "私と結婚しよう！",
+        "meaning_en": "Let's get married!"
+      },
+      {
+        "text": "혼인신고서 가져왔어",
+        "meaning_ja": "婚姻届持ってきたよ",
+        "meaning_en": "I brought the marriage registration form"
+      },
+      {
+        "text": "채원이랑 살고 싶어",
+        "meaning_ja": "チェウォンと一緒に住みたい",
+        "meaning_en": "I want to live with Chae-won"
+      },
+      {
+        "text": "내 신부가 되어줘",
+        "meaning_ja": "私の花嫁になって",
+        "meaning_en": "Please be my bride"
+      },
+      {
+        "text": "쌈무야 나랑 결혼해줄래?",
+        "meaning_ja": "サムム、私と結婚してくれる？",
+        "meaning_en": "Ssammu, will you marry me?"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "보고 싶어 미치겠어",
+        "meaning_ja": "会いたくて狂いそう",
+        "meaning_en": "I'm going crazy wanting to see you"
+      },
+      {
+        "text": "꿈에서도 보고 싶다",
+        "meaning_ja": "夢の中でも会いたい",
+        "meaning_en": "I want to see you even in my dreams"
+      },
+      {
+        "text": "맨날 맨날 보고 싶어",
+        "meaning_ja": "毎日毎日会いたい",
+        "meaning_en": "I want to see you every single day"
+      },
+      {
+        "text": "채원아 언제 봐?",
+        "meaning_ja": "チェウォン、いつ会える？",
+        "meaning_en": "Chae-won, when can we meet?"
+      },
+      {
+        "text": "보고 싶어서 병날 것 같아",
+        "meaning_ja": "会いたすぎて病気になりそう",
+        "meaning_en": "I think I'll get sick from missing you"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "평생 함께하자",
+        "meaning_ja": "一生一緒にいよう",
+        "meaning_en": "Let's be together for life"
+      },
+      {
+        "text": "영원히 피어나할게",
+        "meaning_ja": "永遠にFEARNOT（ピ어나）でいるね",
+        "meaning_en": "I'll be a FEARNOT forever"
+      },
+      {
+        "text": "우리 끝까지 가자",
+        "meaning_ja": "私たち最後まで一緒に行こう",
+        "meaning_en": "Let's go until the end together"
+      },
+      {
+        "text": "언제나 네 편이야",
+        "meaning_ja": "いつも君の味方だよ",
+        "meaning_en": "I'm always on your side"
+      },
+      {
+        "text": "영원히 곁에 있을게",
+        "meaning_ja": "ずっとそばにいるよ",
+        "meaning_en": "I'll be by your side forever"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "태어나줘서 고마워",
+        "meaning_ja": "生まれてきてくれてありがとう",
+        "meaning_en": "Thank you for being born"
+      },
+      {
+        "text": "채원아 생일 축하해!",
+        "meaning_ja": "チェウォン、誕生日おめでとう！",
+        "meaning_en": "Happy Birthday Chae-won!"
+      },
+      {
+        "text": "오늘 세상에서 제일 행복해",
+        "meaning_ja": "今日が世界で一番幸せだよ",
+        "meaning_en": "Be the happiest in the world today"
+      },
+      {
+        "text": "우리 쌈무 탄생일 축하해",
+        "meaning_ja": "私たちのサムムの誕生日おめでとう",
+        "meaning_en": "Happy birthday to our Ssammu"
+      },
+      {
+        "text": "소중한 채원이의 날",
+        "meaning_ja": "大切なチェウォンの日",
+        "meaning_en": "Precious Chae-won's day"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "채원아 힘내!",
+        "meaning_ja": "チェウォン、頑張って！",
+        "meaning_en": "Cheer up, Chae-won!"
+      },
+      {
+        "text": "언제나 응원해",
+        "meaning_ja": "いつも応援してるよ",
+        "meaning_en": "I'm always rooting for you"
+      },
+      {
+        "text": "기죽지 마, 네가 최고야",
+        "meaning_ja": "落ち込まないで、君が最高だよ",
+        "meaning_en": "Don't be discouraged, you're the best"
+      },
+      {
+        "text": "쌈무 화이팅!",
+        "meaning_ja": "サムム、ファイティン！",
+        "meaning_en": "Ssammu, fighting!"
+      },
+      {
+        "text": "우리가 항상 뒤에 있어",
+        "meaning_ja": "私たちがいつも後ろにいるよ",
+        "meaning_en": "We are always behind you"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "갓채원 찬양해",
+        "meaning_ja": "ゴッド・チェウォンを称えよ",
+        "meaning_en": "Praise God Chae-won"
+      },
+      {
+        "text": "채원님은 신이야",
+        "meaning_ja": "チェウォン様は神だ",
+        "meaning_en": "Chae-won is a God"
+      },
+      {
+        "text": "신계 비주얼",
+        "meaning_ja": "神の領域のビジュアル",
+        "meaning_en": "Visual from the realm of gods"
+      },
+      {
+        "text": "쌈무는 신이다",
+        "meaning_ja": "サムムは神である",
+        "meaning_en": "Ssammu is God"
+      },
+      {
+        "text": "인간계 미모 아님",
+        "meaning_ja": "人間界の美しさじゃない",
+        "meaning_en": "Not a beauty of the human realm"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "비주얼 폼 미쳤다",
+        "meaning_ja": "ビジュアルの勢いヤバい",
+        "meaning_en": "Visual form is crazy good"
+      },
+      {
+        "text": "존엄하다 갓채원",
+        "meaning_ja": "尊い、ゴッド・チェウォン",
+        "meaning_en": "So precious/sovereign God Chae-won"
+      },
+      {
+        "text": "천상계 미모",
+        "meaning_ja": "天上界の美貌",
+        "meaning_en": "Heavenly beauty"
+      },
+      {
+        "text": "쌈무 너무 눈부셔",
+        "meaning_ja": "サムム、眩しすぎる",
+        "meaning_en": "Ssammu is so dazzling"
+      },
+      {
+        "text": "세젤예 채원",
+        "meaning_ja": "世界で一番綺麗なチェウォン",
+        "meaning_en": "Prettiest Chae-won in the world"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴 천재 채원",
+        "meaning_ja": "顔天才チェウォン",
+        "meaning_en": "Face genius Chae-won"
+      },
+      {
+        "text": "얼굴 박물관 수준",
+        "meaning_ja": "顔が美術館レベル",
+        "meaning_en": "Her face is a museum level"
+      },
+      {
+        "text": "미모 실화냐?",
+        "meaning_ja": "この美貌、実話（現実）？",
+        "meaning_en": "Is this beauty for real?"
+      },
+      {
+        "text": "얼굴 열일하네",
+        "meaning_ja": "顔が（美しすぎて）いい仕事してる",
+        "meaning_en": "Her face is working hard (looking great)"
+      },
+      {
+        "text": "비주얼 깡패",
+        "meaning_ja": "ビジュアル最高（圧倒的）",
+        "meaning_en": "Visual gangster (overwhelmingly pretty)"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "손하트 부탁해",
+        "meaning_ja": "指ハートお願い",
+        "meaning_en": "Finger heart please"
+      },
+      {
+        "text": "볼하트 해줘요",
+        "meaning_ja": "頬ハートして",
+        "meaning_en": "Please do a cheek heart"
+      },
+      {
+        "text": "하트 뿅뿅 날려줘",
+        "meaning_ja": "ハートをピョンピョン飛ばして",
+        "meaning_en": "Send some hearts my way"
+      },
+      {
+        "text": "쌈무표 깨물하트!",
+        "meaning_ja": "サムム流の噛みハート！",
+        "meaning_en": "Ssammu-style bite heart!"
+      },
+      {
+        "text": "내 심장에 하트 쏴줘",
+        "meaning_ja": "私の心臓にハートを撃って",
+        "meaning_en": "Shoot a heart to my heart"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "맛있는 거 많이 먹어",
+        "meaning_ja": "美味しいものたくさん食べて",
+        "meaning_en": "Eat lots of delicious food"
+      },
+      {
+        "text": "밥 꼭 챙겨 먹어",
+        "meaning_ja": "ご飯ちゃんと食べてね",
+        "meaning_en": "Make sure to eat your meals"
+      },
+      {
+        "text": "다이어트 하지 마!",
+        "meaning_ja": "ダイエットしないで！",
+        "meaning_en": "Don't go on a diet!"
+      },
+      {
+        "text": "고기 많이 먹고 힘내",
+        "meaning_ja": "お肉たくさん食べて元気出して",
+        "meaning_en": "Eat lots of meat and find strength"
+      },
+      {
+        "text": "쌈무 맛난 거 길만 걷자",
+        "meaning_ja": "サムム、美味しいものだけ食べる道を行こう",
+        "meaning_en": "Ssammu, let's only walk the path of eating tasty things"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "아프지 마 채원아",
+        "meaning_ja": "元気でいてね（痛まないで）チェウォン",
+        "meaning_en": "Don't get sick/hurt, Chae-won"
+      },
+      {
+        "text": "감기 조심해",
+        "meaning_ja": "風邪に気をつけて",
+        "meaning_en": "Be careful not to catch a cold"
+      },
+      {
+        "text": "건강이 제일이야",
+        "meaning_ja": "健康が一番だよ",
+        "meaning_en": "Health is the most important thing"
+      },
+      {
+        "text": "무리하지 마요",
+        "meaning_ja": "無理しないでね",
+        "meaning_en": "Don't overwork yourself"
+      },
+      {
+        "text": "푹 자고 건강하자",
+        "meaning_ja": "ゆっくり寝て健康でいよう",
+        "meaning_en": "Sleep well and stay healthy"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "오늘도 고생했어",
+        "meaning_ja": "今日もお疲れ様",
+        "meaning_en": "Good job today"
+      },
+      {
+        "text": "수고했어 쌈무야",
+        "meaning_ja": "お疲れ様、サムム",
+        "meaning_en": "You did great, Ssammu"
+      },
+      {
+        "text": "오늘 무대 최고였어",
+        "meaning_ja": "今日のステージ最高だったよ",
+        "meaning_en": "The stage today was the best"
+      },
+      {
+        "text": "항상 고마워",
+        "meaning_ja": "いつもありがとう",
+        "meaning_en": "Always thankful for you"
+      },
+      {
+        "text": "조심히 들어가!",
+        "meaning_ja": "気をつけて帰ってね！",
+        "meaning_en": "Go home safely!"
+      }
+    ]
+  },
+  "Huh Yun-jin": {
+    "LOVE_GENERAL": [
+      {
+        "text": "윤진아 좋아해",
+        "meaning_ja": "ユンジン、大好き",
+        "meaning_en": "I like you, Yunjin"
+      },
+      {
+        "text": "내 맘 알지? 럽유",
+        "meaning_ja": "私の気持ちわかるでしょ？ラブユー",
+        "meaning_en": "You know my heart, right? Love you"
+      },
+      {
+        "text": "완전 애정해",
+        "meaning_ja": "めっちゃ愛情持ってるよ",
+        "meaning_en": "I totally adore you"
+      },
+      {
+        "text": "윤진이만 보여",
+        "meaning_ja": "ユンジンしか見えない",
+        "meaning_en": "I only see Yunjin"
+      },
+      {
+        "text": "진심으로 좋아해",
+        "meaning_ja": "心から大好き",
+        "meaning_en": "I like you sincerely"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "우주만큼 사랑해",
+        "meaning_ja": "宇宙と同じくらい愛してる",
+        "meaning_en": "I love you as much as the universe"
+      },
+      {
+        "text": "윤진아 사랑해 죽겠어",
+        "meaning_ja": "ユンジン、愛しすぎて死にそう",
+        "meaning_en": "Yunjin, I love you so much it hurts"
+      },
+      {
+        "text": "내 심장의 주인은 윤진",
+        "meaning_ja": "私の心臓の持ち主はユンジン",
+        "meaning_en": "The owner of my heart is Yunjin"
+      },
+      {
+        "text": "평생 윤진만 사랑할게",
+        "meaning_ja": "一生ユンジンだけを愛するよ",
+        "meaning_en": "I will love only Yunjin forever"
+      },
+      {
+        "text": "사랑해란 말로 부족해",
+        "meaning_ja": "愛してるという言葉じゃ足りない",
+        "meaning_en": "The word 'love' isn't enough"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "나랑 결혼해줄래?",
+        "meaning_ja": "私と結婚してくれる？",
+        "meaning_en": "Will you marry me?"
+      },
+      {
+        "text": "윤진아 나랑 살자",
+        "meaning_ja": "ユンジン、一緒に暮らそう",
+        "meaning_en": "Yunjin, let's live together"
+      },
+      {
+        "text": "제발 나랑 결혼해",
+        "meaning_ja": "お願い、私と結婚して",
+        "meaning_en": "Please marry me"
+      },
+      {
+        "text": "신혼여행 어디로 갈까?",
+        "meaning_ja": "新婚旅行どこに行く？",
+        "meaning_en": "Where should we go for our honeymoon?"
+      },
+      {
+        "text": "윤진 부인 대기 1번",
+        "meaning_ja": "ユンジンの嫁待機1番",
+        "meaning_en": "Number one in line to be Yunjin's wife"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "보고 싶어서 병났어",
+        "meaning_ja": "会いたくて病気になった",
+        "meaning_en": "I'm sick because I miss you so much"
+      },
+      {
+        "text": "매일매일 보고 싶어",
+        "meaning_ja": "毎日毎日会いたい",
+        "meaning_en": "I want to see you every single day"
+      },
+      {
+        "text": "윤진아 언제 또 봐?",
+        "meaning_ja": "ユンジン、次はいつ会える？",
+        "meaning_en": "Yunjin, when can I see you again?"
+      },
+      {
+        "text": "꿈속에서도 보고 싶어",
+        "meaning_ja": "夢の中でも会いたい",
+        "meaning_en": "I want to see you even in my dreams"
+      },
+      {
+        "text": "보고 싶어 현기증 나",
+        "meaning_ja": "会いたくて目眩がする",
+        "meaning_en": "I miss you so much I'm getting dizzy"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "우리 평생 함께하자",
+        "meaning_ja": "私たち一生一緒にいよう",
+        "meaning_en": "Let's stay together for life"
+      },
+      {
+        "text": "영원히 네 편이야",
+        "meaning_ja": "永遠にあなたの味方だよ",
+        "meaning_en": "I'm on your side forever"
+      },
+      {
+        "text": "죽을 때까지 윤진만",
+        "meaning_ja": "死ぬまでユンジンだけ",
+        "meaning_en": "Only Yunjin until I die"
+      },
+      {
+        "text": "끝까지 같이 가자",
+        "meaning_ja": "最後まで一緒に行こう",
+        "meaning_en": "Let's go together until the end"
+      },
+      {
+        "text": "우리 사랑 영원히",
+        "meaning_ja": "私たちの愛、永遠に",
+        "meaning_en": "Our love forever"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "윤진아 생일 축하해",
+        "meaning_ja": "ユンジン、誕生日おめでとう",
+        "meaning_en": "Happy Birthday Yunjin"
+      },
+      {
+        "text": "태어나줘서 고마워",
+        "meaning_ja": "生まれてきてくれてありがとう",
+        "meaning_en": "Thank you for being born"
+      },
+      {
+        "text": "세상에서 제일 행복해라",
+        "meaning_ja": "世界で一番幸せになってね",
+        "meaning_en": "Be the happiest person in the world"
+      },
+      {
+        "text": "갓윤진 탄생일 축하",
+        "meaning_ja": "神ユンジンの誕生記念日おめでとう",
+        "meaning_en": "Congrats on God-Yunjin's birth day"
+      },
+      {
+        "text": "오늘은 윤진이의 날",
+        "meaning_ja": "今日はユンジンの日",
+        "meaning_en": "Today is Yunjin's day"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "윤진아 항상 응원해",
+        "meaning_ja": "ユンジン、いつも応援してるよ",
+        "meaning_en": "Yunjin, I'm always rooting for you"
+      },
+      {
+        "text": "기죽지 마 넌 최고야",
+        "meaning_ja": "落ち込まないで、あなたは最高だよ",
+        "meaning_en": "Don't be discouraged, you're the best"
+      },
+      {
+        "text": "우리가 뒤에 있을게",
+        "meaning_ja": "私たちが後ろにいるよ",
+        "meaning_en": "We'll be right behind you"
+      },
+      {
+        "text": "할 수 있어 화이팅",
+        "meaning_ja": "できるよ、ファイティン",
+        "meaning_en": "You can do it, fighting"
+      },
+      {
+        "text": "언제나 네 편인 거 알지?",
+        "meaning_ja": "いつでもあなたの味方なの、知ってるでしょ？",
+        "meaning_en": "You know I'm always on your side, right?"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "윤진이는 신이야",
+        "meaning_ja": "ユンジンは神だ",
+        "meaning_en": "Yunjin is a God"
+      },
+      {
+        "text": "갓윤진 찬양해",
+        "meaning_ja": "神ユンジンを称えよ",
+        "meaning_en": "Praise God-Yunjin"
+      },
+      {
+        "text": "살아있는 여신",
+        "meaning_ja": "生きている女神",
+        "meaning_en": "A living goddess"
+      },
+      {
+        "text": "천상계 비주얼",
+        "meaning_ja": "天上界のビジュアル",
+        "meaning_en": "Celestial visuals"
+      },
+      {
+        "text": "신이 빚은 윤진",
+        "meaning_ja": "神が作りたもうたユンジン",
+        "meaning_en": "Yunjin, crafted by God"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "존재 자체가 귀해",
+        "meaning_ja": "存在自体が貴い",
+        "meaning_en": "Your existence itself is precious"
+      },
+      {
+        "text": "너무 소중해서 눈물나",
+        "meaning_ja": "尊すぎて涙が出る",
+        "meaning_en": "So precious it makes me cry"
+      },
+      {
+        "text": "우리 갓기 기린",
+        "meaning_ja": "私たちの神の赤ちゃんのキリン",
+        "meaning_en": "Our baby giraffe (nickname)"
+      },
+      {
+        "text": "빛이 나는 윤진",
+        "meaning_ja": "輝いているユンジン",
+        "meaning_en": "Shining Yunjin"
+      },
+      {
+        "text": "국보급 보물",
+        "meaning_ja": "国宝級の宝物",
+        "meaning_en": "National treasure level beauty"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴 천재 허윤진",
+        "meaning_ja": "顔天才、ホ・ユンジン",
+        "meaning_en": "Face genius Huh Yun-jin"
+      },
+      {
+        "text": "미모 실화냐?",
+        "meaning_ja": "美貌、実話なの？（信じられない美しさ）",
+        "meaning_en": "Is this beauty for real?"
+      },
+      {
+        "text": "비주얼 미쳤다",
+        "meaning_ja": "ビジュアルがヤバい",
+        "meaning_en": "Visuals are crazy"
+      },
+      {
+        "text": "얼굴이 서사다",
+        "meaning_ja": "顔が物語だ（顔だけでストーリーが完結する）",
+        "meaning_en": "Her face is a narrative"
+      },
+      {
+        "text": "갓벽한 얼굴",
+        "meaning_ja": "神がかって完璧な顔",
+        "meaning_en": "God-perfect face"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "손가락 하트 뿅",
+        "meaning_ja": "指ハート、ピョン！",
+        "meaning_en": "Finger heart, bbyong!"
+      },
+      {
+        "text": "볼하트 한번만!",
+        "meaning_ja": "頬ハート一回だけ！",
+        "meaning_en": "Cheek heart just once!"
+      },
+      {
+        "text": "하트 날려주세요",
+        "meaning_ja": "ハート飛ばしてください",
+        "meaning_en": "Please send a heart"
+      },
+      {
+        "text": "윤진표 하트 원해",
+        "meaning_ja": "ユンジン流のハートが欲しい",
+        "meaning_en": "I want a Yunjin-style heart"
+      },
+      {
+        "text": "내 맘에 하트 슛",
+        "meaning_ja": "私の心にハートをシュート",
+        "meaning_en": "Shoot a heart into my heart"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "맛있는 거 먹고 힘내",
+        "meaning_ja": "美味しいもの食べて元気出して",
+        "meaning_en": "Eat something delicious and gain strength"
+      },
+      {
+        "text": "밥 거르지 마",
+        "meaning_ja": "ご飯抜かないでね",
+        "meaning_en": "Don't skip meals"
+      },
+      {
+        "text": "윤진아 고기 먹자",
+        "meaning_ja": "ユンジン、お肉食べよう",
+        "meaning_en": "Yunjin, let's eat meat"
+      },
+      {
+        "text": "맛난 거 많이 먹어",
+        "meaning_ja": "美味しいものたくさん食べてね",
+        "meaning_en": "Eat lots of tasty food"
+      },
+      {
+        "text": "잘 챙겨 먹어야 해",
+        "meaning_ja": "ちゃんと食べなきゃダメだよ",
+        "meaning_en": "You have to eat well"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "아프지 말고 건강해",
+        "meaning_ja": "痛い思いしないで健康でいてね",
+        "meaning_en": "Don't get sick and stay healthy"
+      },
+      {
+        "text": "감기 조심해 윤진아",
+        "meaning_ja": "風邪に気をつけて、ユンジン",
+        "meaning_en": "Be careful not to catch a cold, Yunjin"
+      },
+      {
+        "text": "다치지 마 속상해",
+        "meaning_ja": "怪我しないで、悲しくなるから",
+        "meaning_en": "Don't get hurt, it breaks my heart"
+      },
+      {
+        "text": "건강이 1순위야",
+        "meaning_ja": "健康が一番だよ",
+        "meaning_en": "Health is the number one priority"
+      },
+      {
+        "text": "컨디션 관리 잘해",
+        "meaning_ja": "体調管理しっかりね",
+        "meaning_en": "Take good care of your condition"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "오늘 무대 최고였어",
+        "meaning_ja": "今日のステージ最高だったよ",
+        "meaning_en": "Today's stage was the best"
+      },
+      {
+        "text": "정말 수고 많았어",
+        "meaning_ja": "本当にお疲れ様でした",
+        "meaning_en": "You did a great job"
+      },
+      {
+        "text": "푹 쉬어 고생했어",
+        "meaning_ja": "ゆっくり休んで、お疲れ様",
+        "meaning_en": "Rest well, you worked hard"
+      },
+      {
+        "text": "역시 갓윤진이야",
+        "meaning_ja": "やっぱり神ユンジンだね",
+        "meaning_en": "As expected of God-Yunjin"
+      },
+      {
+        "text": "오늘도 찢었다!",
+        "meaning_ja": "今日も（ステージを）破ったね！最高！",
+        "meaning_en": "You killed it again today!"
+      }
+    ]
+  },
+  "Kazuha": {
+    "LOVE_GENERAL": [
+      {
+        "text": "즈하해",
+        "meaning_ja": "ズハ（カズハ）してるよ",
+        "meaning_en": "I 'Zuha' you (Love you)"
+      },
+      {
+        "text": "즈하가 제일 좋아",
+        "meaning_ja": "ズハが一番好き",
+        "meaning_en": "I like Zuha the most"
+      },
+      {
+        "text": "내 마음속엔 언제나 즈하",
+        "meaning_ja": "私の心の中にはいつもズハ",
+        "meaning_en": "Zuha is always in my heart"
+      },
+      {
+        "text": "즈하한테 푹 빠졌어",
+        "meaning_ja": "ズハにすっかりハマっちゃった",
+        "meaning_en": "I'm totally into Zuha"
+      },
+      {
+        "text": "즈하 사랑해",
+        "meaning_ja": "ズハ大好き",
+        "meaning_en": "I love you Zuha"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "우주만큼 사랑해 즈하야",
+        "meaning_ja": "宇宙と同じくらい愛してる、ズハ",
+        "meaning_en": "I love you as much as the universe, Zuha"
+      },
+      {
+        "text": "즈하 없인 못 살아",
+        "meaning_ja": "ズハなしでは生きられない",
+        "meaning_en": "I can't live without Zuha"
+      },
+      {
+        "text": "평생 즈하만 사랑할게",
+        "meaning_ja": "一生ズハだけを愛するよ",
+        "meaning_en": "I will love only Zuha for the rest of my life"
+      },
+      {
+        "text": "즈하가 내 전부야",
+        "meaning_ja": "ズハが私のすべて",
+        "meaning_en": "Zuha is my everything"
+      },
+      {
+        "text": "태어나줘서 고마워 즈하야",
+        "meaning_ja": "生まれてきてくれてありがとう、ズハ",
+        "meaning_en": "Thank you for being born, Zuha"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "즈하야 나랑 결혼하자",
+        "meaning_ja": "ズハ、私と結婚しよう",
+        "meaning_en": "Zuha, let's get married"
+      },
+      {
+        "text": "즈하랑 살면 소원이 없겠어",
+        "meaning_ja": "ズハと一緒に住めたら願いはないよ",
+        "meaning_en": "I'd have no more wishes if I could live with Zuha"
+      },
+      {
+        "text": "혼인신고서 들고 대기 중",
+        "meaning_ja": "婚姻届を持って待機中",
+        "meaning_en": "Waiting with the marriage certificate"
+      },
+      {
+        "text": "즈하 부인 대기 1번",
+        "meaning_ja": "ズハの奥さん待機1番",
+        "meaning_en": "Candidate #1 to be Zuha's wife"
+      },
+      {
+        "text": "나랑 평생 같이 살자",
+        "meaning_ja": "私と一生一緒に住もう",
+        "meaning_en": "Let's live together forever"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "즈하 보고 싶어 죽겠어",
+        "meaning_ja": "ズハに会いたくて死にそう",
+        "meaning_en": "I'm dying to see Zuha"
+      },
+      {
+        "text": "매일 즈하 생각뿐이야",
+        "meaning_ja": "毎日ズハのことばかり考えてる",
+        "meaning_en": "Thinking only of Zuha every day"
+      },
+      {
+        "text": "즈하야 빨리 보고 싶어",
+        "meaning_ja": "ズハ、早く会いたい",
+        "meaning_en": "Zuha, I want to see you soon"
+      },
+      {
+        "text": "보고 있어도 보고 싶은 즈하",
+        "meaning_ja": "見ていても会いたいズハ",
+        "meaning_en": "I miss Zuha even while looking at her"
+      },
+      {
+        "text": "즈하 앓이 중",
+        "meaning_ja": "ズハロス中（ズハ煩い）",
+        "meaning_en": "Missing Zuha so much I'm sick"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "평생 피어나 할게",
+        "meaning_ja": "一生FEARNOT（ファン）でいるよ",
+        "meaning_en": "I'll be a FEARNOT for life"
+      },
+      {
+        "text": "우리 영원히 함께하자",
+        "meaning_ja": "私たち永遠に一緒にいよう",
+        "meaning_en": "Let's stay together forever"
+      },
+      {
+        "text": "즈하 곁엔 항상 우리가 있어",
+        "meaning_ja": "ズハのそばにはいつも私たちがいるよ",
+        "meaning_en": "We are always by Zuha's side"
+      },
+      {
+        "text": "끝까지 즈하만 믿고 갈게",
+        "meaning_ja": "最後までズハだけを信じてついていくよ",
+        "meaning_en": "I'll trust and follow only Zuha until the end"
+      },
+      {
+        "text": "변치 않는 즈하 편",
+        "meaning_ja": "変わらないズハの味方",
+        "meaning_en": "Always on Zuha's side, unchanging"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "갓즈하 탄신일 축하해",
+        "meaning_ja": "ゴッド・ズハの誕生記念日おめでとう",
+        "meaning_en": "Happy Birthday to God-Zuha"
+      },
+      {
+        "text": "세젤예 즈하 생일 축하",
+        "meaning_ja": "世界で一番綺麗なズハ、誕生日おめでとう",
+        "meaning_en": "Happy birthday to the world's prettiest Zuha"
+      },
+      {
+        "text": "즈하의 소중한 생일 축하해",
+        "meaning_ja": "ズハの大切な誕生日おめでとう",
+        "meaning_en": "Congratulations on your precious birthday, Zuha"
+      },
+      {
+        "text": "오늘의 주인공은 즈하",
+        "meaning_ja": "今日の主役はズハ",
+        "meaning_en": "Today's protagonist is Zuha"
+      },
+      {
+        "text": "즈하야 태어나줘서 고마워",
+        "meaning_ja": "ズハ、生まれてきてくれてありがとう",
+        "meaning_en": "Zuha, thank you for being born"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "즈하야 기운 내",
+        "meaning_ja": "ズハ、元気出して",
+        "meaning_en": "Cheer up, Zuha"
+      },
+      {
+        "text": "언제나 즈하 뒤에 있을게",
+        "meaning_ja": "いつもズハの後ろにいるよ",
+        "meaning_en": "I'll always be behind you, Zuha"
+      },
+      {
+        "text": "즈하가 최고니까 걱정 마",
+        "meaning_ja": "ズハが最高だから心配しないで",
+        "meaning_en": "Zuha is the best, so don't worry"
+      },
+      {
+        "text": "즈하 하고 싶은 거 다 해",
+        "meaning_ja": "ズハ、やりたいこと全部やって",
+        "meaning_en": "Zuha, do everything you want to do"
+      },
+      {
+        "text": "오늘도 즈하 파이팅",
+        "meaning_ja": "今日もズハ、ファイティン",
+        "meaning_en": "Zuha, fighting today too"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "갓즈하 그저 갓",
+        "meaning_ja": "ゴッド・ズハ、ただ神",
+        "meaning_en": "God-Zuha, simply God"
+      },
+      {
+        "text": "즈하가 나라다",
+        "meaning_ja": "ズハが国だ",
+        "meaning_en": "Zuha is a nation"
+      },
+      {
+        "text": "천상계 비주얼 즈하",
+        "meaning_ja": "天上界のビジュアル、ズハ",
+        "meaning_en": "Celestial visuals, Zuha"
+      },
+      {
+        "text": "즈하 신전 세워야 함",
+        "meaning_ja": "ズハの神殿を建てるべき",
+        "meaning_en": "We should build a temple for Zuha"
+      },
+      {
+        "text": "즈하님 충성충성",
+        "meaning_ja": "ズハ様、忠誠忠誠",
+        "meaning_en": "Zuha-nim, loyalty loyalty"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "즈하 미모 실화냐",
+        "meaning_ja": "ズハの美貌、現実なの？",
+        "meaning_en": "Is Zuha's beauty even real?"
+      },
+      {
+        "text": "인간 백조 카즈하",
+        "meaning_ja": "人間白鳥、カズハ",
+        "meaning_en": "Human swan, Kazuha"
+      },
+      {
+        "text": "분위기 여신 즈하",
+        "meaning_ja": "雰囲気の女神、ズハ",
+        "meaning_en": "Atmosphere goddess, Zuha"
+      },
+      {
+        "text": "즈하 얼굴이 서사다",
+        "meaning_ja": "ズハの顔が物語（叙事詩）だ",
+        "meaning_en": "Zuha's face is a narrative"
+      },
+      {
+        "text": "존재 자체가 예술",
+        "meaning_ja": "存在自体が芸術",
+        "meaning_en": "Your existence itself is art"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴 천재 즈하",
+        "meaning_ja": "顔天才、ズハ",
+        "meaning_en": "Face genius, Zuha"
+      },
+      {
+        "text": "즈하 콧대에서 미끄럼틀",
+        "meaning_ja": "ズハの鼻筋で滑り台したい",
+        "meaning_en": "I want to go down the slide on Zuha's nose bridge"
+      },
+      {
+        "text": "즈하 비주얼 폼 미쳤다",
+        "meaning_ja": "ズハのビジュアルのフォームがヤバい",
+        "meaning_en": "Zuha's visual form is insane"
+      },
+      {
+        "text": "옆태 여신 즈하",
+        "meaning_ja": "横顔の女神、ズハ",
+        "meaning_en": "Side profile goddess, Zuha"
+      },
+      {
+        "text": "얼굴이 복지다 즈하야",
+        "meaning_ja": "顔が福祉（目の保養）だよ、ズハ",
+        "meaning_en": "Your face is public welfare, Zuha"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "즈하야 손하트 쏴줘",
+        "meaning_ja": "ズハ、指ハート撃って",
+        "meaning_en": "Zuha, shoot a finger heart"
+      },
+      {
+        "text": "볼하트 한 번만",
+        "meaning_ja": "頬ハート一回だけ",
+        "meaning_en": "Cheek heart just once"
+      },
+      {
+        "text": "즈하 하트 내 마음속에 저장",
+        "meaning_ja": "ズハのハート、私の心の中に保存",
+        "meaning_en": "Saving Zuha's heart in my mind"
+      },
+      {
+        "text": "하트 날려줘 즈하야",
+        "meaning_ja": "ハート飛ばして、ズハ",
+        "meaning_en": "Blow me a heart, Zuha"
+      },
+      {
+        "text": "즈하표 하트가 제일 예뻐",
+        "meaning_ja": "ズハ印のハートが一番綺麗",
+        "meaning_en": "Zuha-style heart is the prettiest"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "즈하야 맛난 거 많이 먹어",
+        "meaning_ja": "ズハ、美味しいものたくさん食べて",
+        "meaning_en": "Zuha, eat lots of yummy food"
+      },
+      {
+        "text": "밥 굶지 말고 챙겨 먹어",
+        "meaning_ja": "ご飯抜かないでちゃんと食べて",
+        "meaning_en": "Don't skip meals and make sure to eat"
+      },
+      {
+        "text": "즈하가 잘 먹으면 나도 배불러",
+        "meaning_ja": "ズハがよく食べれば私もお腹いっぱい",
+        "meaning_en": "If Zuha eats well, I feel full too"
+      },
+      {
+        "text": "맛점해 즈하야",
+        "meaning_ja": "美味しいランチ食べてね、ズハ",
+        "meaning_en": "Have a delicious lunch, Zuha"
+      },
+      {
+        "text": "우리 즈하 맛있는 것만 먹자",
+        "meaning_ja": "私たちのズハ、美味しいものだけ食べよう",
+        "meaning_en": "Let our Zuha eat only delicious things"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "즈하야 아프지 마",
+        "meaning_ja": "ズハ、体調崩さないで",
+        "meaning_en": "Zuha, don't get sick"
+      },
+      {
+        "text": "감기 조심해 우리 즈하",
+        "meaning_ja": "風邪に気をつけて、私たちのズハ",
+        "meaning_en": "Be careful of colds, our Zuha"
+      },
+      {
+        "text": "건강이 최고야 즈하야",
+        "meaning_ja": "健康が一番だよ、ズハ",
+        "meaning_en": "Health is the priority, Zuha"
+      },
+      {
+        "text": "무리하지 말고 푹 쉬어",
+        "meaning_ja": "無理しないでゆっくり休んで",
+        "meaning_en": "Don't overdo it and get some rest"
+      },
+      {
+        "text": "즈하가 건강해야 피어나도 행복해",
+        "meaning_ja": "ズハが健康であってこそFEARNOTも幸せ",
+        "meaning_en": "FEARNOT is happy only if Zuha is healthy"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "즈하야 수고했어 오늘도",
+        "meaning_ja": "ズハ、お疲れ様今日も",
+        "meaning_en": "Good job today as well, Zuha"
+      },
+      {
+        "text": "고생 많았어 즈하야",
+        "meaning_ja": "苦労したね（お疲れ様）、ズハ",
+        "meaning_en": "You worked so hard, Zuha"
+      },
+      {
+        "text": "오늘 무대도 최고였어",
+        "meaning_ja": "今日のステージも最高だったよ",
+        "meaning_en": "Today's stage was the best too"
+      },
+      {
+        "text": "즈하 덕분에 행복한 하루였어",
+        "meaning_ja": "ズハのおかげで幸せな一日だった",
+        "meaning_en": "It was a happy day thanks to Zuha"
+      },
+      {
+        "text": "푹 자 즈하야 고생했어",
+        "meaning_ja": "ゆっくり寝てね、ズハ、お疲れ様",
+        "meaning_en": "Sleep well, Zuha, you did great"
+      }
+    ]
+  },
+  "Hong Eun-chae": {
+    "LOVE_GENERAL": [
+      {
+        "text": "은채야 너무 좋아해",
+        "meaning_ja": "ウンチェ、大好きだよ",
+        "meaning_en": "Eunchae, I like you so much"
+      },
+      {
+        "text": "만채만 보면 행복해",
+        "meaning_ja": "マンチェ（ウンチェの愛称）を見ると幸せ",
+        "meaning_en": "I'm happy whenever I see Manchae"
+      },
+      {
+        "text": "내 마음속 1등은 은채",
+        "meaning_ja": "私の中の1位はウンチェ",
+        "meaning_en": "Eunchae is number one in my heart"
+      },
+      {
+        "text": "은채의 모든 게 좋아",
+        "meaning_ja": "ウンチェのすべてが好き",
+        "meaning_en": "I like everything about Eunchae"
+      },
+      {
+        "text": "오늘도 은채에게 입덕 중",
+        "meaning_ja": "今日もウンチェにオタク入り（入る）中",
+        "meaning_en": "Falling for Eunchae more and more today"
+      }
+    ],
+    "LOVE_DEEP": [
+      {
+        "text": "하늘만큼 땅만큼 사랑해",
+        "meaning_ja": "空くらい、地くらい愛してる",
+        "meaning_en": "I love you as much as the sky and the earth"
+      },
+      {
+        "text": "은채 없인 못 살아",
+        "meaning_ja": "ウンチェなしでは生きられない",
+        "meaning_en": "I can't live without Eunchae"
+      },
+      {
+        "text": "죽을 때까지 은채만 사랑해",
+        "meaning_ja": "死ぬまでウンチェだけを愛してる",
+        "meaning_en": "I will love only Eunchae until I die"
+      },
+      {
+        "text": "내 심장은 은채를 위해 뛰어",
+        "meaning_ja": "私の心臓はウンチェのために動いてる",
+        "meaning_en": "My heart beats for Eunchae"
+      },
+      {
+        "text": "온 세상이 다 은채로 보여",
+        "meaning_ja": "世界中がウンチェに見える",
+        "meaning_en": "The whole world looks like Eunchae"
+      }
+    ],
+    "REQ_MARRY": [
+      {
+        "text": "은채야 나랑 결혼하자",
+        "meaning_ja": "ウンチェ、私と結婚しよう",
+        "meaning_en": "Eunchae, let's get married"
+      },
+      {
+        "text": "평생 내 반쪽이 되어줘",
+        "meaning_ja": "一生、私のパートナーになって",
+        "meaning_en": "Please be my better half forever"
+      },
+      {
+        "text": "혼인신고서 챙겨왔어",
+        "meaning_ja": "婚姻届持ってきたよ",
+        "meaning_en": "I brought the marriage registration form"
+      },
+      {
+        "text": "은채랑 결혼하면 소원이 없겠어",
+        "meaning_ja": "ウンチェと結婚できたら他に願いはないよ",
+        "meaning_en": "I'd have no more wishes if I could marry Eunchae"
+      },
+      {
+        "text": "나의 영원한 신부가 되어줘",
+        "meaning_ja": "私の永遠の花嫁になって",
+        "meaning_en": "Please be my eternal bride"
+      }
+    ],
+    "MISS_YOU": [
+      {
+        "text": "은채 보고 싶어 현기증 나",
+        "meaning_ja": "ウンチェに会いたくてめまいがする",
+        "meaning_en": "I miss Eunchae so much I'm getting dizzy"
+      },
+      {
+        "text": "보고 있어도 보고 싶은 은채",
+        "meaning_ja": "会っていても会いたいウンチェ",
+        "meaning_en": "Missing Eunchae even while looking at her"
+      },
+      {
+        "text": "언제 또 만날 수 있을까?",
+        "meaning_ja": "次はいつ会えるかな？",
+        "meaning_en": "When can we meet again?"
+      },
+      {
+        "text": "매일 꿈속에서 은채 기다려",
+        "meaning_ja": "毎日夢の中でウンチェを待ってるよ",
+        "meaning_en": "I wait for Eunchae in my dreams every day"
+      },
+      {
+        "text": "은채야 빨리 보고 싶어 죽겠어",
+        "meaning_ja": "ウンチェに早く会いたくてたまらない",
+        "meaning_en": "I'm dying to see Eunchae soon"
+      }
+    ],
+    "PROMISE_FOREVER": [
+      {
+        "text": "우리 영원히 함께하자",
+        "meaning_ja": "私たち、永遠に一緒にいよう",
+        "meaning_en": "Let's be together forever"
+      },
+      {
+        "text": "검은 머리 파뿌리 될 때까지 팬 할게",
+        "meaning_ja": "白髪になるまで（ずっと）ファンでいるよ",
+        "meaning_en": "I'll be your fan until my hair turns white"
+      },
+      {
+        "text": "무슨 일이 있어도 은채 편이야",
+        "meaning_ja": "何があってもウンチェの味方だよ",
+        "meaning_en": "I'm on Eunchae's side no matter what"
+      },
+      {
+        "text": "변치 않는 사랑 약속할게",
+        "meaning_ja": "変わらない愛を約束するよ",
+        "meaning_en": "I promise you unchanging love"
+      },
+      {
+        "text": "은채 뒤에는 항상 우리가 있어",
+        "meaning_ja": "ウンチェの後ろにはいつも私たちがいるよ",
+        "meaning_en": "We are always behind Eunchae"
+      }
+    ],
+    "CONGRAT_BDAY": [
+      {
+        "text": "은채야 생일 축하해!",
+        "meaning_ja": "ウンチェ、お誕生日おめでとう！",
+        "meaning_en": "Happy Birthday Eunchae!"
+      },
+      {
+        "text": "태어나줘서 정말 고마워",
+        "meaning_ja": "生まれてきてくれて本当にありがとう",
+        "meaning_en": "Thank you so much for being born"
+      },
+      {
+        "text": "세상에서 제일 행복한 하루 보내",
+        "meaning_ja": "世界で一番幸せな一日を過ごしてね",
+        "meaning_en": "Have the happiest day in the world"
+      },
+      {
+        "text": "오늘의 주인공은 바로 홍은채!",
+        "meaning_ja": "今日の主人公はまさにホン・ウンチェ！",
+        "meaning_en": "Today's protagonist is Hong Eunchae!"
+      },
+      {
+        "text": "만채 탄신일 경축!",
+        "meaning_ja": "マンチェ誕生の日、お祝い！",
+        "meaning_en": "Celebrating the day Manchae was born!"
+      }
+    ],
+    "CHEER_UP": [
+      {
+        "text": "은채야 기운 내, 우리가 있잖아",
+        "meaning_ja": "ウンチェ元気出して、私たちがいるじゃん",
+        "meaning_en": "Cheer up Eunchae, you have us"
+      },
+      {
+        "text": "언제나 너를 응원하고 있어",
+        "meaning_ja": "いつもあなたを応援しているよ",
+        "meaning_en": "I'm always rooting for you"
+      },
+      {
+        "text": "은채는 할 수 있어! 화이팅!",
+        "meaning_ja": "ウンチェならできる！ファイティン！",
+        "meaning_en": "Eunchae can do it! Fighting!"
+      },
+      {
+        "text": "기죽지 마, 네가 최고니까",
+        "meaning_ja": "落ち込まないで、あなたが最高だから",
+        "meaning_en": "Don't be discouraged, because you're the best"
+      },
+      {
+        "text": "은채의 모든 도전을 응원해",
+        "meaning_ja": "ウンチェのすべての挑戦を応援するよ",
+        "meaning_en": "I support all of Eunchae's challenges"
+      }
+    ],
+    "PRAISE_GOD": [
+      {
+        "text": "은채는 신이야",
+        "meaning_ja": "ウンチェは神だ",
+        "meaning_en": "Eunchae is a God"
+      },
+      {
+        "text": "만채느님 강림하셨다",
+        "meaning_ja": "マンチェ様が降臨された",
+        "meaning_en": "Goddess Manchae has descended"
+      },
+      {
+        "text": "이것이 진정한 신의 미모인가",
+        "meaning_ja": "これが真の神の美貌なのか",
+        "meaning_en": "Is this truly the beauty of a god?"
+      },
+      {
+        "text": "은채를 숭배합니다",
+        "meaning_ja": "ウンチェを崇拝します",
+        "meaning_en": "I worship Eunchae"
+      },
+      {
+        "text": "신이 정성껏 빚은 홍은채",
+        "meaning_ja": "神が丹精込めて作り上げたホン・ウンチェ",
+        "meaning_en": "Hong Eunchae, carefully crafted by God"
+      }
+    ],
+    "PRAISE_VISUAL": [
+      {
+        "text": "은채 미모 실화냐?",
+        "meaning_ja": "ウンチェのビジュアル、現実なの？",
+        "meaning_en": "Is Eunchae's visual for real?"
+      },
+      {
+        "text": "세상에 이런 미모가 존재하다니",
+        "meaning_ja": "世界にこんな美貌が存在するなんて",
+        "meaning_en": "To think such beauty exists in this world"
+      },
+      {
+        "text": "눈부셔서 못 쳐다보겠어",
+        "meaning_ja": "眩しすぎて直視できないよ",
+        "meaning_en": "It's so dazzling I can't even look"
+      },
+      {
+        "text": "천사가 내려온 게 분명해",
+        "meaning_ja": "天使が降りてきたに違いない",
+        "meaning_en": "An angel must have come down"
+      },
+      {
+        "text": "은채 비주얼로 우주 정복 가능",
+        "meaning_ja": "ウンチェのビジュアルで宇宙征服が可能",
+        "meaning_en": "Eunchae's visuals could conquer the universe"
+      }
+    ],
+    "PRAISE_FACE": [
+      {
+        "text": "얼굴 천재 홍은채",
+        "meaning_ja": "顔天才、ホン・ウンチェ",
+        "meaning_en": "Face genius Hong Eunchae"
+      },
+      {
+        "text": "얼굴이 너무 유잼이야",
+        "meaning_ja": "顔が（面白いくらい）最高だよ",
+        "meaning_en": "Your face is so entertaining (perfect)"
+      },
+      {
+        "text": "이목구비 자기주장 대박",
+        "meaning_ja": "パーツの主張がすごい（はっきりしている）",
+        "meaning_en": "Your features are so well-defined"
+      },
+      {
+        "text": "옆태도 완벽한 은채",
+        "meaning_ja": "横顔も完璧なウンチェ",
+        "meaning_en": "Even Eunchae's side profile is perfect"
+      },
+      {
+        "text": "얼굴 맛집 홍은채",
+        "meaning_ja": "ビジュアル（顔）の名店、ホン・ウンチェ",
+        "meaning_en": "Hong Eunchae is a visual masterpiece"
+      }
+    ],
+    "REQ_HEART": [
+      {
+        "text": "은채야 손하트 한 번만!",
+        "meaning_ja": "ウンチェ、指ハート一回だけ！",
+        "meaning_en": "Eunchae, finger heart just once!"
+      },
+      {
+        "text": "내 심장에 하트 쏴줘",
+        "meaning_ja": "私の心にハートを撃ち抜いて",
+        "meaning_en": "Shoot a heart into my heart"
+      },
+      {
+        "text": "볼하트 해주면 소원이 없겠어",
+        "meaning_ja": "頬ハートしてくれたら思い残すことはない",
+        "meaning_en": "I'd have no more wishes if you do a cheek heart"
+      },
+      {
+        "text": "은채만의 귀여운 하트 보여줘",
+        "meaning_ja": "ウンチェだけの可愛いハートを見せて",
+        "meaning_en": "Show me Eunchae's own cute heart"
+      },
+      {
+        "text": "사랑의 하트 발사!",
+        "meaning_ja": "愛のハート発射！",
+        "meaning_en": "Fire a heart of love!"
+      }
+    ],
+    "HEALTH_EAT": [
+      {
+        "text": "은채야 맛있는 거 많이 먹어",
+        "meaning_ja": "ウンチェ、美味しいものたくさん食べてね",
+        "meaning_en": "Eunchae, eat lots of delicious food"
+      },
+      {
+        "text": "굶지 말고 밥 꼭 챙겨 먹어",
+        "meaning_ja": "抜かさないで、ちゃんとご飯食べてね",
+        "meaning_en": "Don't skip meals, make sure to eat"
+      },
+      {
+        "text": "맛있는 거 먹고 행복만 해",
+        "meaning_ja": "美味しいもの食べて幸せでいてね",
+        "meaning_en": "Eat something yummy and just be happy"
+      },
+      {
+        "text": "은채가 잘 먹는 게 내 행복이야",
+        "meaning_ja": "ウンチェがよく食べるのが私の幸せだよ",
+        "meaning_en": "It's my happiness to see Eunchae eat well"
+      },
+      {
+        "text": "오늘은 고기 파티 어때?",
+        "meaning_ja": "今日は焼肉パーティーはどう？",
+        "meaning_en": "How about a meat party today?"
+      }
+    ],
+    "HEALTH_CARE": [
+      {
+        "text": "아프지 마, 내가 대신 아플게",
+        "meaning_ja": "痛がらないで（病気しないで）、私が代わりになるから",
+        "meaning_en": "Don't get sick, I'll be sick instead of you"
+      },
+      {
+        "text": "건강이 최고야, 무리하지 마",
+        "meaning_ja": "健康が一番だよ、無理しないでね",
+        "meaning_en": "Health is the best, don't overwork yourself"
+      },
+      {
+        "text": "감기 조심하고 따뜻하게 입어",
+        "meaning_ja": "風邪に気をつけて暖かくしてね",
+        "meaning_en": "Watch out for colds and dress warmly"
+      },
+      {
+        "text": "은채 건강은 우리가 지킨다",
+        "meaning_ja": "ウンチェの健康は私たちが守るよ",
+        "meaning_en": "We will protect Eunchae's health"
+      },
+      {
+        "text": "충분히 자고 푹 쉬어",
+        "meaning_ja": "十分寝て、ゆっくり休んでね",
+        "meaning_en": "Get enough sleep and rest well"
+      }
+    ],
+    "GREET_JOB": [
+      {
+        "text": "오늘도 너무 수고했어 은채야",
+        "meaning_ja": "今日も本当にお疲れ様、ウンチェ",
+        "meaning_en": "You did a great job today too, Eunchae"
+      },
+      {
+        "text": "고생 많았어, 우리 강아지",
+        "meaning_ja": "お疲れ様、私たちのワンちゃん（愛称）",
+        "meaning_en": "Good job, our puppy"
+      },
+      {
+        "text": "언제나 최선을 다하는 모습 멋져",
+        "meaning_ja": "いつも最善を尽くす姿、かっこいいよ",
+        "meaning_en": "It's cool to see you always doing your best"
+      },
+      {
+        "text": "푹 쉬고 내일 또 웃으면서 보자",
+        "meaning_ja": "ゆっくり休んで、明日また笑顔で会おうね",
+        "meaning_en": "Rest well and let's meet again tomorrow with a smile"
+      },
+      {
+        "text": "오늘 무대도 완벽했어, 고마워",
+        "meaning_ja": "今日のステージも完璧だったよ、ありがとう",
+        "meaning_en": "Today's stage was perfect too, thank you"
+      }
+    ]
+  }
+}
