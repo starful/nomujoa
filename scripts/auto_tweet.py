@@ -35,7 +35,7 @@ def get_twitter_conn_v2():
     )
 
 def get_random_slang_data():
-    """JSON 파일에서 랜덤 데이터 추출 (기존 로직 동일)"""
+    """JSON 파일에서 랜덤 데이터 추출"""
     if not os.path.exists(DICTS_DIR): return None
     files = [f for f in os.listdir(DICTS_DIR) if f.endswith('.json')]
     if not files: return None
@@ -62,10 +62,12 @@ def get_random_slang_data():
     
     if isinstance(final_item, str):
         slang_text = final_item
+        # 일본어 의미가 없으면 인텐트 키를 사용
         meaning = random_intent
     else:
         slang_text = final_item.get('text', '')
-        meaning = final_item.get('meaning_en', final_item.get('meaning', random_intent))
+        # meaning_ja(일본어 뜻) 우선 사용, 없으면 영어 뜻, 없으면 키값
+        meaning = final_item.get('meaning_ja', final_item.get('meaning_en', random_intent))
 
     return {
         "group": group_name,
@@ -75,34 +77,35 @@ def get_random_slang_data():
     }
 
 def generate_premium_tweet(item):
-    """Gemini를 사용하여 X 프리미엄용 고품질 트윗 생성"""
+    """Gemini를 사용하여 일본어 트윗 생성"""
     if not GEMINI_API_KEY:
         logger.error("Gemini API Key missing")
         return None
 
     model = genai.GenerativeModel('gemini-2.0-flash')
 
+    # [수정됨] 일본어 타겟 프롬프트
     prompt = f"""
-    You are a professional K-POP culture explainer on X (Twitter).
-    Write an engaging, detailed post about this K-POP slang term.
-    Target Audience: International K-POP fans (English speakers).
+    You are a popular K-POP influencer on Japanese Twitter (X).
+    Write an engaging, detailed post introducing a Korean fandom slang term to Japanese fans.
     
     [Input Data]
     - Group: {item['group']}
     - Member: {item['member']}
-    - Slang/Phrase: "{item['slang']}"
-    - Basic Meaning: "{item['meaning']}"
+    - Slang (Korean): "{item['slang']}"
+    - Meaning: "{item['meaning']}"
 
-    [Requirements for the Post]
-    1. **Hook**: Start with a catchy headline using emojis.
-    2. **Deep Dive**: Explain the nuance. Why do fans use this? Is it cute, funny, or emotional?
-    3. **Pronunciation**: Add a "How to say it" section (Romanization).
-    4. **Usage Example**: Create a short, fun dialogue (Fan vs. Idol or Fan vs. Fan) showing how to use it.
-    5. **Call to Action**: Encourage them to make a slogan at 'nomujoa.com'.
-    6. **Format**: Use bullet points and spacing. It can be long (up to 500-1000 characters).
-    7. **Tags**: Relevant hashtags.
+    [Requirements]
+    1. **Language**: Write ONLY in **Japanese**. (Use natural tone like '〜だよ', '〜しか勝たん', '尊い').
+    2. **Structure**:
+       - **Headline**: Catchy title with emojis (e.g., 📢 今日の韓国語!).
+       - **Explanation**: Explain the meaning and nuance deeply. Why is this phrase used? Is it funny? Emotional?
+       - **Pronunciation**: Add Katakana reading (e.g., 読み方：サランヘ).
+       - **Usage**: A short conversation example (Fan A vs Fan B).
+       - **CTA**: Encourage them to make a slogan board at 'nomujoa.com' for concerts (イルコン/本国コン).
+    3. **Tags**: #KPOP #{item['group']} #韓国語勉強 #推し活 #Nomujoa
     
-    DO NOT start with "Here is a tweet". Just output the tweet content directly.
+    Output the tweet text directly.
     """
 
     try:
@@ -128,14 +131,15 @@ def main():
     # 2. AI로 트윗 내용 작성
     rich_text = generate_premium_tweet(item)
     
-    # AI 실패 시 기본 텍스트로 폴백
+    # [수정됨] AI 실패 시 기본 문구도 일본어로 변경
     if not rich_text:
         rich_text = (
-            f"📢 K-POP Slang of the Day: {item['group']}\n\n"
+            f"📢 今日のK-POP韓国語: {item['group']}\n\n"
             f"✨ {item['slang']}\n"
-            f"Meaning: {item['meaning']}\n\n"
-            f"Create your slogan here! 👉 nomujoa.com\n"
-            f"#{item['group']} #KPOP"
+            f"意味: {item['meaning']}\n\n"
+            f"👇 自分だけのスローガンを作ろう！\n"
+            f"🔗 nomujoa.com\n\n"
+            f"#{item['group']} #KPOP #韓国語 #推し活"
         )
 
     # 3. 트윗 전송
