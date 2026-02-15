@@ -6,3 +6,4 @@ requests
 flask-compress
 python-frontmatter
 markdown
+tweepy
